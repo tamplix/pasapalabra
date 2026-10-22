@@ -29,6 +29,22 @@ Juego del rosco de Pasapalabra para navegador, pensado para jugar en familia en 
 
 En la pausa de preparación, Intro o Espacio empiezan el turno.
 
+## Acceso
+
+La app pide usuario y contraseña al abrirla. Se definen una vez con:
+
+```bash
+npm run set-login
+```
+
+El comando pide usuario y contraseña (sin mostrarla) y escribe en `.env.local`, que git ignora, solo una sal y una huella derivada (PBKDF2-SHA256). No guarda ni el usuario ni la contraseña. Sin ese archivo la app muestra cómo configurarlo y no deja entrar.
+
+El usuario no distingue mayúsculas; la contraseña sí. La sesión dura mientras la pestaña esté abierta, o se recuerda en el equipo si se marca «Recordarme».
+
+> Es una puerta de acceso sencilla, no seguridad real: la app se ejecuta entera en el navegador, y quien tenga el código puede saltársela o intentar adivinar la contraseña a partir de la huella. Usa una contraseña larga.
+
+Para publicar la web, las variables `VITE_LOGIN_SALT`, `VITE_LOGIN_ITERATIONS` y `VITE_LOGIN_HASH` de `.env.local` deben estar disponibles al ejecutar `npm run build` (por ejemplo, como secretos del servicio de despliegue).
+
 ## Desarrollo
 
 Requiere Node.js.

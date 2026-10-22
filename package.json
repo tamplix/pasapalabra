@@ -9,7 +9,8 @@
     "preview": "vite preview",
     "test": "vitest run",
     "validate-bank": "tsx scripts/validate-bank.ts",
-    "migrate-bank": "tsx scripts/migrate-from-md.ts"
+    "migrate-bank": "tsx scripts/migrate-from-md.ts",
+    "set-login": "tsx scripts/set-login.ts"
   },
   "dependencies": {
     "@fontsource-variable/bricolage-grotesque": "^5.3.0",

@@ -1,0 +1,1910 @@
+[
+  {
+    "id": "283",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Acústica",
+    "definition": "Rama de la física que estudia la producción, transmisión y efectos del sonido.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "284",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Adrenalina",
+    "definition": "Hormona segregada en situaciones de alerta o emoción intensa que acelera el pulso.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "285",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Algoritmo",
+    "definition": "Conjunto de reglas de las aplicaciones que decide qué vídeos o publicaciones te recomienda ver.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "286",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Anime",
+    "definition": "Estilo de animación japonesa muy popular con series como Naruto, One Piece o Attack on Titan.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "287",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Aprobado",
+    "definition": "Calificación académica mínima de cinco puntos necesaria para superar un examen.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "288",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Asteroide",
+    "definition": "Cuerpo rocoso de menor tamaño que un planeta que orbita alrededor del Sol.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "289",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Atmósfera",
+    "definition": "Capa de gases que rodea la Tierra y la protege de la radiación solar.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "290",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Autonomía",
+    "definition": "Capacidad de tomar decisiones y actuar por cuenta propia sin depender de otros.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "291",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Autotune",
+    "definition": "Efecto de audio electrónico muy usado en el trap para modular y afinar la voz.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "292",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Avatar",
+    "definition": "Representación gráfica o personaje que elige un usuario para identificarse en un juego o foro.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "293",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Bachillerato",
+    "definition": "Etapa de estudios postobligatorios en España que prepara para la universidad.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "294",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Bacteria",
+    "definition": "Microorganismo unicelular sin núcleo diferenciado que puede ser beneficioso o patógeno.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "295",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Beef",
+    "definition": "Pelea, discusión o tiradera pública entre dos personas o cantantes en redes sociales.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "296",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "BeReal",
+    "definition": "Red social que te avisa a una hora aleatoria para que subas una foto sin filtros en dos minutos.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "297",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Biodiversidad",
+    "definition": "Variedad de especies animales y vegetales que habitan en un ecosistema.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "298",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Biología",
+    "definition": "Ciencia que estudia la estructura, funcionamiento y evolución de los seres vivos.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "299",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Bizarrap",
+    "definition": "Productor discográfico argentino famoso por sus legendarias sesiones de música con artistas.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "300",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Broma",
+    "definition": "Acción o comentario gracioso para reírse entre amigos sin mala intención.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "301",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Brújula",
+    "definition": "Instrumento con aguja imantada que señala siempre hacia el norte magnético.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "302",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Bóveda",
+    "definition": "Estructura arquitectónica curvada que cubre el espacio entre muros o columnas.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "303",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Chat",
+    "definition": "Conversación por mensajes de texto en tiempo real dentro de una aplicación como WhatsApp.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "304",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Cinética",
+    "definition": "Energía que posee un cuerpo debido a su velocidad y movimiento.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "305",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Constelación",
+    "definition": "Agrupación convencional de estrellas que dibuja una figura imaginaria en el cielo.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "306",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Copia",
+    "definition": "Trampa prohibida en los exámenes consistente en mirar las respuestas de un compañero.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "307",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Cosplay",
+    "definition": "Afición de disfrazarse meticulosamente de un personaje de anime, cómic o videojuego.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "308",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Cringe",
+    "definition": "Sensación de vergüenza ajena provocada por algún comentario, vídeo o actitud.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "309",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Criterio",
+    "definition": "Pauta o principio que se utiliza para juzgar, discernir o valorar una cuestión.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "310",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Crush",
+    "definition": "Término en inglés para referirse a la persona que te gusta o de la que estás secretamente enamorado.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "311",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Crónica",
+    "definition": "Género periodístico o literario que narra hechos reales siguiendo un orden cronológico.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "312",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Célula",
+    "definition": "Unidad morfológica y funcional básica más pequeña de todos los seres vivos.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "313",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Debate",
+    "definition": "Discusión formal y argumentada entre varias personas con opiniones contrapuestas.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "314",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Democracia",
+    "definition": "Sistema político en el que el poder reside en el pueblo mediante elecciones libres.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "315",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Densidad",
+    "definition": "Relación matemática entre la masa de un cuerpo y el volumen que ocupa.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "316",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Dinámica",
+    "definition": "Parte de la mecánica clásica que estudia el movimiento de los cuerpos en relación con las fuerzas.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "317",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Directo",
+    "definition": "Emisión en tiempo real en Twitch o YouTube interactuando con el chat.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "318",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Discord",
+    "definition": "Aplicación de mensajería y canales de voz muy utilizada por gamers y comunidades online.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "319",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Diámetro",
+    "definition": "Línea recta que une dos puntos de una circunferencia pasando por su centro.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "320",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Drill",
+    "definition": "Subgénero oscuro y enérgico del trap originario de Chicago y Londres muy de moda.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "321",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Drop",
+    "definition": "Lanzamiento sorpresa y limitado de ropa, zapatillas o música en el mercado.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "322",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Ecosistema",
+    "definition": "Comunidad biológica de seres vivos que interactúan con su medio físico.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "323",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Ecuación",
+    "definition": "Igualdad algebraica que contiene una o varias incógnitas que se deben despejar.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "324",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Emoji",
+    "definition": "Símbolo o carita gráfica que acompaña a los mensajes de texto para expresar emociones.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "325",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Enchufe",
+    "definition": "Conexión a la pared imprescindible en clase para cargar el móvil o el portátil.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "326",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Entropía",
+    "definition": "Magnitud termodinámica que mide el grado de desorden o irreversibilidad de un sistema.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "327",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Epic",
+    "definition": "Empresa desarrolladora de videojuegos creadora de Fortnite y Unreal Engine.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "328",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Esports",
+    "definition": "Competiciones profesionales de videojuegos organizadas con equipos y torneos oficiales.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "329",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Estudio",
+    "definition": "Lugar donde se encierra un productor musical para grabar voces y mezclar pistas.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "330",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Evolución",
+    "definition": "Proceso continuo de cambio genético y adaptación biológica de las especies a lo largo del tiempo.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "331",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Fake",
+    "definition": "Término en inglés para referirse a algo falso, manipulado o que es un engaño.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "332",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Feed",
+    "definition": "Muro principal de una red social donde van apareciendo las publicaciones de las cuentas seguidas.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "333",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Filosofía",
+    "definition": "Disciplina que reflexiona sobre la naturaleza de la realidad, el conocimiento y la moral.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "334",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Filtro",
+    "definition": "Efecto digital que modifica los colores, iluminación o rostro en fotos de Instagram o TikTok.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "335",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Finsta",
+    "definition": "Cuenta secundaria y privada de Instagram reservada únicamente para amigos muy cercanos.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "336",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Follower",
+    "definition": "Seguidor que se suscribe a tus publicaciones en cualquier red social.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "337",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Fotosíntesis",
+    "definition": "Proceso químico mediante el cual las plantas convierten la luz solar y el agua en glucosa y oxígeno.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "338",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Frecuencia",
+    "definition": "Número de repeticiones de una onda o fenómeno periódico por unidad de tiempo.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "339",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Fricción",
+    "definition": "Fuerza de rozamiento que se opone al deslizamiento de una superficie sobre otra.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "340",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Fusión",
+    "definition": "Cambio de estado de una sustancia de sólido a líquido por acción del calor.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "341",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Gamer",
+    "definition": "Persona aficionada a jugar con frecuencia a videojuegos en consola o PC.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "342",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Genética",
+    "definition": "Parte de la biología que estudia cómo se transmiten los caracteres hereditarios de padres a hijos.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "343",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Geometría",
+    "definition": "Rama de las matemáticas que estudia las propiedades de figuras en el plano o en el espacio.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "344",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Ghosting",
+    "definition": "Acto de desaparecer y cortar toda comunicación con alguien de repente sin dar explicaciones.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "345",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Glaciar",
+    "definition": "Masa gruesa de hielo en la superficie terrestre que se desplaza lentamente cuesta abajo.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "346",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Glowup",
+    "definition": "Transformación física o de estilo positiva y notable que experimenta una persona.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "347",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Goku",
+    "definition": "Poderoso guerrero saiyajin protagonista de la mítica serie de anime Dragon Ball.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "348",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Gorra",
+    "definition": "Accesorio plano o curvo indispensable de la estética urbana juvenil.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "349",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Gravedad",
+    "definition": "Fuerza natural de atracción que la masa de la Tierra ejerce sobre todos los cuerpos.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "350",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Hashtag",
+    "definition": "Etiqueta que comienza con almohadilla para clasificar temas en redes sociales.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "351",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Hater",
+    "definition": "Persona que se dedica constantemente a criticar, insultar o tirar odio en redes sociales.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "352",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Headset",
+    "definition": "Auriculares con micrófono incorporado esenciales para comunicarse en partidas online.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "353",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Hemisferio",
+    "definition": "Cada una de las dos mitades, norte o sur, en que el ecuador divide el globo terráqueo.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "354",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Hipótesis",
+    "definition": "Suposición con base científica que se formula provisionalmente para ser comprobada con experimentos.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "355",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Hormona",
+    "definition": "Sustancia química secretada por glándulas que viaja por la sangre regulando funciones del cuerpo.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "356",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Hype",
+    "definition": "Gran expectativa, entusiasmo o impaciencia generada ante el estreno de una serie o videojuego.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "357",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Hypebeast",
+    "definition": "Persona obsesionada con vestir ropa exclusiva y zapatillas de marcas caras de moda.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "358",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Ibai",
+    "definition": "Conocidísimo streamer y comunicador vasco organizador de La Velada del Año.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "359",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Ilustración",
+    "definition": "Movimiento intelectual y cultural europeo del siglo XVIII centrado en la razón y la ciencia.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "360",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Inercia",
+    "definition": "Propiedad de los cuerpos de resistirse a cambiar su estado de reposo o movimiento sin una fuerza exterior.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "361",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Influencer",
+    "definition": "Persona con gran cantidad de seguidores en redes que influye en modas y opiniones.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "362",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Inmunidad",
+    "definition": "Capacidad del organismo para resistir o combatir una infección o enfermedad mediante defensas.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "363",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Instagram",
+    "definition": "Red social visual basada en historias de 24 horas, reels y fotos en el feed.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "364",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Instituto",
+    "definition": "Centro educativo de secundaria y bachillerato donde pasas las mañanas de lunes a viernes.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "365",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Inteligencia",
+    "definition": "Capacidad de razonar, aprender de la experiencia y resolver problemas complejos.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "366",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Intro",
+    "definition": "Fragmento musical o escena inicial que da comienzo a un vídeo o canción.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "367",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Japón",
+    "definition": "País asiático cuna del manga, el cosplay, los videojuegos de Nintendo y el ramen.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "368",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Jornada",
+    "definition": "Tiempo diario dedicado al trabajo o a una actividad deportiva o académica.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "369",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Jovial",
+    "definition": "Actitud desenfadada, alegre y llena de energía propia de la juventud.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "370",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Joya",
+    "definition": "En argot coloquial, algo extraordinario, único o muy valioso.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "371",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Juerga",
+    "definition": "Salida nocturna o fiesta de fin de semana con amigos para pasarlo bien.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "372",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Jujutsu",
+    "definition": "Serie de manga y anime japonesa sobre hechiceros y maldiciones: Jujutsu Kaisen.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "373",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Jurisdicción",
+    "definition": "Autoridad o potestad legal para juzgar y aplicar las leyes en un territorio determinado.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "374",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Lag",
+    "definition": "Retardo molesto en la conexión a internet que congela la partida en juegos online.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "375",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Latitud",
+    "definition": "Distancia angular medida en grados desde cualquier punto de la Tierra hasta la línea del ecuador.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "376",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Like",
+    "definition": "Pulsación en forma de corazón o pulgar arriba que indica que te gusta una publicación.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "377",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Literatura",
+    "definition": "Arte de la expresión escrita o hablada a través de novelas, poesía y teatro.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "378",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Lofi",
+    "definition": "Estilo de música relajante con ritmos suaves de hip hop ideal para estudiar o concentrarse.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "379",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Longitud",
+    "definition": "Dimensión de una línea o distancia física entre dos puntos del espacio.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "380",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Lore",
+    "definition": "Historia de fondo, trasfondo y mitología que rodea al universo de un videojuego o serie.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "381",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Lógica",
+    "definition": "Método o razonamiento en el que las conclusiones se derivan válidamente de premisas.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "382",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Manga",
+    "definition": "Cómic de origen japonés que se lee tradicionalmente de derecha a izquierda.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "383",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Marvel",
+    "definition": "Compañía de cómics y películas creadora de Los Vengadores, Iron Man y Spiderman.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "384",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Meme",
+    "definition": "Imagen, texto o fragmento de vídeo con tono cómico que se viraliza rápidamente por internet.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "385",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Metabolismo",
+    "definition": "Conjunto de reacciones químicas celulares que transforman los nutrientes en energía.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "386",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Molécula",
+    "definition": "Grupo estable de átomos unidos químicamente que constituye la menor porción de una sustancia pura.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "387",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Monarquía",
+    "definition": "Forma de gobierno en la que la jefatura del Estado recae de forma vitalicia y hereditaria en un rey.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "388",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Móvil",
+    "definition": "Dispositivo tecnológico sin el cual casi ningún adolescente sale de casa.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "389",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Nebulosa",
+    "definition": "Enorme nube interestelar compuesta de gas y polvo cósmico donde nacen las estrellas.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "390",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Nerd",
+    "definition": "Persona muy estudiosa o apasionada por la informática y la tecnología.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "391",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Netflix",
+    "definition": "Plataforma de streaming en la que ves maratones de series juveniles.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "392",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Neurona",
+    "definition": "Célula especializada del sistema nervioso capaz de transmitir impulsos eléctricos.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "393",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Notificación",
+    "definition": "Aviso en la pantalla de bloqueo del teléfono indicando un nuevo mensaje o llamada.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "394",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "NPC",
+    "definition": "Personaje no jugable en videojuegos, usado en argot para burlarse de alguien sin personalidad propia.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "395",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Nube",
+    "definition": "Servicio digital de almacenamiento en internet donde se guardan fotos y documentos.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "396",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Nutrición",
+    "definition": "Proceso biológico mediante el cual los seres vivos asimilan los alimentos necesarios para subsistir.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "397",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Núcleo",
+    "definition": "Parte central más densa e interna de una célula, de un átomo o de un planeta.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "398",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Añadir",
+    "definition": "Acción de agregar un nuevo contacto a tu lista de amigos o una canción a tu playlist.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "399",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Compañero",
+    "definition": "Persona con la que compartes pupitre y horas de clase en el instituto.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "400",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Dañino",
+    "definition": "Que provoca perjuicio, dolor o consecuencias nocivas para la salud o el entorno.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "401",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Diseñar",
+    "definition": "Idear y trazar el plano, esquema o aspecto visual de un objeto o prenda antes de producirlo.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "402",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Engañar",
+    "definition": "Hacer creer algo que no es verdad, muy común en juegos sociales como Among Us.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "403",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Enseñar",
+    "definition": "Transmitir conocimientos, habilidades o valores a los alumnos en clase.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "404",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Reseña",
+    "definition": "Texto breve en el que se resume y se da una valoración crítica de un libro, película o videojuego.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "405",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Señal",
+    "definition": "Cobertura de red inalámbrica que buscas desesperadamente cuando no cargan los vídeos.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "406",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Soñar",
+    "definition": "Imaginar despierto o dormido las metas y proyectos que quieres conseguir de mayor.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "407",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Odisea",
+    "definition": "Viaje largo lleno de peripecias y dificultades, como el relatado por Homero sobre Ulises.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "408",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Offline",
+    "definition": "Estado de desconexión sin acceso temporal a la red de internet.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "409",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Online",
+    "definition": "Estar conectado a la red y disponible en internet.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "410",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Otaku",
+    "definition": "Término con el que se conoce a las personas apasionadas por el manga y la cultura japonesa.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "411",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Outfit",
+    "definition": "Conjunto de prendas y accesorios combinados que lleva puesta una persona.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "412",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Overwatch",
+    "definition": "Videojuego de disparos por equipos en primera persona desarrollado por Blizzard.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "413",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Óptica",
+    "definition": "Rama de la física que estudia el comportamiento de la luz y sus fenómenos de refracción y reflexión.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "414",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Órbita",
+    "definition": "Trayectoria curva que describe un cuerpo celeste alrededor de otro bajo la influencia de la gravedad.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "415",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Ósmosis",
+    "definition": "Paso de un disolvente a través de una membrana semipermeable hacia una solución más concentrada.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "416",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Parábola",
+    "definition": "Curva cónica abierta simétrica que describe la trayectoria de un proyectil en el vacío.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "417",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Platino",
+    "definition": "El trofeo de máximo nivel que se desbloquea en PlayStation al completar todos los logros.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "418",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Play",
+    "definition": "Abreviatura coloquial con la que se nombra a la consola PlayStation de Sony.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "419",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Playlist",
+    "definition": "Lista personalizada de canciones creada en plataformas como Spotify o Apple Music.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "420",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Podcast",
+    "definition": "Programa de audio grabado que se escucha en streaming sobre cualquier temática.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "421",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Polímero",
+    "definition": "Compuesto químico formado por la unión repetida de moléculas más simples llamadas monómeros.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "422",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Post",
+    "definition": "Publicación individual de foto o texto subida a una red social.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "423",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Prosa",
+    "definition": "Forma habitual de escribir que no está sujeta a la medida de los versos ni a la rima.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "424",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Protón",
+    "definition": "Partícula subatómica con carga eléctrica positiva presente en el núcleo del átomo.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "425",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Quedada",
+    "definition": "Encuentro o reunión informal planificada con el grupo de amigos para pasar la tarde.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "426",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Queja",
+    "definition": "Protesta colectiva de la clase cuando el profesor fija dos exámenes el mismo día.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "427",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Quemar",
+    "definition": "En argot, gastar o escuchar tantas veces una canción que acabas aborreciéndola.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "428",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Querella",
+    "definition": "Demanda o acusación penal presentada por escrito ante un juez por un delito cometido.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "429",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Quásar",
+    "definition": "Objeto astronómico lejano extremadamente luminoso alimentado por un agujero negro supermasivo.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "430",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Química",
+    "definition": "Asignatura de ciencias del instituto que estudia la tabla periódica y las reacciones.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "431",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Quórum",
+    "definition": "Número mínimo de miembros presentes necesario para que una asamblea tome decisiones válidas.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "432",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Random",
+    "definition": "Palabra inglesa usada para describir algo o a alguien imprevisto, absurdo o fuera de lugar.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "433",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Rauw",
+    "definition": "Nombre de pila artístico del cantante puertorriqueño Rauw Alejandro.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "434",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Reel",
+    "definition": "Formato de vídeo corto en Instagram diseñado para competir con TikTok.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "435",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Refracción",
+    "definition": "Cambio de dirección que experimenta un rayo de luz al pasar oblicuamente de un medio a otro.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "436",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Relatividad",
+    "definition": "Teoría física formulada por Albert Einstein sobre el espacio, el tiempo y la gravedad.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "437",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Resonancia",
+    "definition": "Aumento de la amplitud de vibración cuando la frecuencia coincide con la frecuencia propia del sistema.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "438",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Rizz",
+    "definition": "Término de la jerga juvenil que define el encanto o carisma para ligar con alguien.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "439",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Rosalía",
+    "definition": "Cantante catalana creadora del álbum Motomami y referente de la música pop urbana.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "440",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Satélite",
+    "definition": "Cuerpo celeste natural o dispositivo artificial que orbita alrededor de un planeta.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "441",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Shippear",
+    "definition": "Desear o emparejar sentimentalmente a dos personajes ficticios o amigos reales.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "442",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Simbiosis",
+    "definition": "Asociación estrecha y continuada entre dos especies biológicas con beneficio mutuo.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "443",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Sintaxis",
+    "definition": "Parte de la gramática que enseña a coordinar y unir las palabras para formar oraciones.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "444",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Sostenible",
+    "definition": "Desarrollo que satisface las necesidades presentes sin comprometer los recursos de generaciones futuras.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "445",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Spoiler",
+    "definition": "Revelación no deseada del final o de una parte clave de una serie o película.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "446",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Spotify",
+    "definition": "Plataforma líder para escuchar música y podcasts en cualquier dispositivo.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "447",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Stalkear",
+    "definition": "Espiar u ojear discretamente el perfil y las publicaciones de alguien en redes sociales.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "448",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Story",
+    "definition": "Foto o vídeo efímero en redes sociales que desaparece a las 24 horas.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "449",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Tectónica",
+    "definition": "Parte de la geología que estudia las fallas, pliegues y placas de la corteza terrestre.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "450",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Teorema",
+    "definition": "Proposición matemática demostrable de forma lógica a partir de axiomas previos.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "451",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Termodinámica",
+    "definition": "Rama de la física que estudia la relación entre el calor, el trabajo mecánico y la energía.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "452",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "TikTok",
+    "definition": "Plataforma de vídeos cortos en formato vertical con bailes, trends y audios virales.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "453",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Tragedia",
+    "definition": "Obra dramática de tono solemne cuyo desenlace suele ser desdichado para sus personajes.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "454",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Trap",
+    "definition": "Estilo musical urbano caracterizado por cajas rítmicas 808 y letras directas.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "455",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Trend",
+    "definition": "Tendencia o reto viral que muchos usuarios replican en TikTok.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "456",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Troll",
+    "definition": "Usuario que publica comentarios molestos u ofensivos con el único fin de provocar.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "457",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Twitch",
+    "definition": "Plataforma líder de transmisiones en directo de videojuegos y charlas como las de Ibai.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "458",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Ultrasonido",
+    "definition": "Vibración acústica de frecuencia superior al límite audible por el oído humano.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "459",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Unbox",
+    "definition": "Término anglosajón para desempaquetar y mostrar por primera vez un producto en vídeo.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "460",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Underground",
+    "definition": "Cultura alternativa que se mantiene fuera de los circuitos comerciales masivos.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "461",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Update",
+    "definition": "Actualización de software que corrige fallos o añade nuevas funciones a un juego.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "462",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Urban",
+    "definition": "Género musical y estilo callejero que engloba el trap, hip hop, reggaeton y drill.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "463",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "USB",
+    "definition": "Puerto estándar utilizado para conectar periféricos y cargar baterías de dispositivos.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "464",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Vacuna",
+    "definition": "Preparado biológico que estimula el sistema inmunitario contra una enfermedad infecciosa específica.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "465",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Valorant",
+    "definition": "Popular shooter táctico en primera persona de Riot Games con agentes y habilidades únicas.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "466",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Vanguardia",
+    "definition": "Movimiento artístico e innovador que rompe con los cánones y estilos tradicionales.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "467",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Vaper",
+    "definition": "Dispositivo electrónico de inhalación de vapor que sustituye al tabaco tradicional.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "468",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Vector",
+    "definition": "Segmento de recta orientado en el espacio caracterizado por su módulo, dirección y sentido.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "469",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Velocidad",
+    "definition": "Magnitud física vectorial que expresa la distancia recorrida por un objeto en la unidad de tiempo.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "470",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Vibe",
+    "definition": "Vibra, atmósfera o energía especial que transmite una persona o un lugar.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "471",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Viral",
+    "definition": "Contenido digital que se difunde a velocidad masiva acumulando millones de reproducciones.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "472",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Vlog",
+    "definition": "Vídeo en el que un creador documenta su vida cotidiana o un viaje para compartirlo.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "473",
+    "letter": "X",
+    "position": "contains",
+    "word": "Clímax",
+    "definition": "Punto culminante de mayor tensión o intensidad emocional en una narración dramática.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "474",
+    "letter": "X",
+    "position": "contains",
+    "word": "Contexto",
+    "definition": "Conjunto de circunstancias espaciales, temporales o culturales que rodean a un acontecimiento o texto.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "475",
+    "letter": "X",
+    "position": "contains",
+    "word": "Flexear",
+    "definition": "Alardear o presumir de ropa cara, dinero o habilidades ante los demás.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "476",
+    "letter": "X",
+    "position": "contains",
+    "word": "Nexo",
+    "definition": "Palabra o elemento gramatical que une dos oraciones o términos de una proposición.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "477",
+    "letter": "X",
+    "position": "contains",
+    "word": "Pixel",
+    "definition": "Unidad mínima que compone una imagen digital en pantalla.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "478",
+    "letter": "X",
+    "position": "contains",
+    "word": "Tóxico",
+    "definition": "Comportamiento perjudicial, agresivo o destructivo de un jugador en partidas multijugador.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "479",
+    "letter": "X",
+    "position": "contains",
+    "word": "Éxito",
+    "definition": "Logro de un objetivo importante, como aprobar una asignatura difícil o ganar un torneo.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "480",
+    "letter": "X",
+    "position": "contains",
+    "word": "Óxido",
+    "definition": "Compuesto químico resultante de la unión de un elemento con el oxígeno.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "481",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "Yate",
+    "definition": "Barco de gran lujo que sale habitualmente en los videoclips de cantantes de trap.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "482",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "Yen",
+    "definition": "Moneda oficial de Japón con la que se compran figuras de anime.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "483",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "Yoga",
+    "definition": "Práctica de estiramiento y relajación física recomendada para combatir el estrés escolar.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "484",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "Youtuber",
+    "definition": "Creador de contenido audiovisual que sube vídeos a la plataforma de Google.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "485",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "Yung",
+    "definition": "Prefijo en inglés utilizado en sus nombres artísticos por numerosos cantantes de trap.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "486",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "Yunque",
+    "definition": "Bloque macizo de hierro sobre el que se forjan y moldean los metales al rojo vivo a martillazos.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "487",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zafarse",
+    "definition": "Librarse hábilmente de una situación complicada o de un castigo en el instituto.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "488",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zapatillas",
+    "definition": "Calzado deportivo urbano imprescindible como las Nike Dunk o Jordan.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "489",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zigzag",
+    "definition": "Línea quebrada formada por ángulos alternos entrantes y salientes sucesivos.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "490",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zodiaco",
+    "definition": "Banda celeste dividida tradicionalmente en doce constelaciones astronómicas.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "491",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zombi",
+    "definition": "Monstruo protagonista de famosas series y juegos de supervivencia como The Last of Us.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "492",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zona",
+    "definition": "Espacio seguro o barrio habitual donde te mueves con tu grupo de amigos.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "493",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zoología",
+    "definition": "Rama de la ciencia biológica dedicada al estudio morfológico y funcional de los animales.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "494",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zumo",
+    "definition": "Bebida refrescante habitual a la hora de merendar con amigos.",
+    "profile": "teens",
+    "isPop": false
+  }
+]

@@ -1,0 +1,64 @@
+# Pasapalabra
+
+Juego del rosco de Pasapalabra para navegador, pensado para jugar en familia en un mismo dispositivo. Sin backend: todo se ejecuta en el navegador y los datos se guardan en él.
+
+## Características
+
+- Rosco de 25 letras con palabras de tres perfiles (niños, adolescentes y adultos) más un fondo común. Cada jugador usa su propio perfil, así que pueden jugar a la vez un niño y un adulto.
+- Cada rosco lleva siempre un 25 % de argot y cultura pop (6 de 25).
+- De 1 a 4 jugadores por turnos, cada uno con su reloj. Acertar mantiene el turno; fallar o pasar lo cede.
+- Pausa de preparación al empezar cada turno: el reloj no corre y no se ve la definición hasta pulsar Empezar.
+- Foto del jugador dentro del aro durante su turno, o la cámara en directo (opcional).
+- Jugadores, partidas y estadísticas guardados en el navegador (IndexedDB): partidas, victorias, precisión y acierto por letra.
+- Deshacer el último veredicto.
+
+## Modos de respuesta
+
+- **Manual** (por defecto): se responde en voz alta y alguien valida.
+- **Escribiendo**: el jugador teclea la palabra y el juego la comprueba, ignorando tildes y mayúsculas y tolerando erratas en palabras largas.
+
+### Atajos de teclado (modo manual)
+
+| Tecla | Acción |
+|---|---|
+| Mayús izquierda | Incorrecto |
+| Mayús derecha | Correcto |
+| Espacio | Pasapalabra |
+| Intro (mantenida) | Ver la solución |
+| Retroceso | Deshacer |
+
+En la pausa de preparación, Intro o Espacio empiezan el turno.
+
+## Desarrollo
+
+Requiere Node.js.
+
+```bash
+npm install
+npm run dev            # servidor de desarrollo en http://localhost:5173
+npm test               # tests (Vitest)
+npm run build          # genera dist/
+npm run validate-bank  # valida el banco de palabras
+```
+
+## Ejecutarlo en otro equipo
+
+`npm run build` genera `dist/`, una web estática. No funciona abriendo `index.html` con doble clic: hay que servirla por HTTP (por ejemplo `npx serve dist`) o alojarla en un servicio de hosting estático. La cámara solo funciona con HTTPS o en `localhost`.
+
+## Estructura
+
+```
+src/core/      motor del juego en TypeScript puro: generador de roscos, reductor de turnos, comprobación de respuestas
+src/data/      banco de palabras (JSON por perfil) y validación
+src/storage/   persistencia (IndexedDB), estadísticas
+src/app/       estado de la aplicación y ajustes
+src/views/     pantallas
+src/components/ aro, avatar y medios del jugador
+scripts/       migración y validación del banco de palabras
+```
+
+El motor es un reductor puro (`reduce(estado, acción)`) con acciones serializables y reloj basado en marcas de tiempo, de modo que se pueda reutilizar en un modo online.
+
+## Banco de palabras
+
+`src/data/words/{all,kids,teens,adults}.json`. Cada entrada tiene letra, posición (`starts_with` o `contains`), palabra, definición, perfil y si es argot/cultura pop. `npm run validate-bank` comprueba el esquema, las posiciones de letra, los duplicados y la cobertura de las 25 letras por perfil.

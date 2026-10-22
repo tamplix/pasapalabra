@@ -1,0 +1,2360 @@
+[
+  {
+    "id": "495",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Acantilado",
+    "definition": "Escarpe rocoso casi vertical cortado abruptamente en la costa sobre el mar.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "496",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Aero-red",
+    "definition": "Mítico medicamento en gotas o pastillas masticables para los gases muy anunciado en la tele.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "497",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Alien",
+    "definition": "Criatura extraterrestre xenomorfa que aterrorizó a la teniente Ripley en la Nostromo.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "498",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Alquimia",
+    "definition": "Doctrina proto-científica y mística medieval que buscaba la piedra filosofal para transmutar metales en oro.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "499",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Amstrad",
+    "definition": "Marca británica de ordenadores personales muy popular en los hogares españoles con su gama CPC.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "500",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Anacronismo",
+    "definition": "Error de situar un hecho, persona o costumbre en una época temporal que no le corresponde.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "501",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Antítesis",
+    "definition": "Oposición o contraposición retórica de dos juicios o conceptos completamente contrarios.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "502",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Atari",
+    "definition": "Pionera compañía de videojuegos creadora de la clásica consola 2600 y del Pong.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "503",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Austeridad",
+    "definition": "Cualidad de sobrio, moderado y estricto, sin excesos ni ostentación superflua.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "504",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Baluarte",
+    "definition": "Construcción defensiva pentagonal que sobresale en las esquinas de una muralla fortificada.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "505",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Barrio Sésamo",
+    "definition": "Mítico programa educativo infantil de televisión que enseñaba conceptos como cerca y lejos.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "506",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Barroco",
+    "definition": "Periodo cultural y estilo artístico del siglo XVII caracterizado por la complejidad ornamental y el claroscuro.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "507",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Barón Rojo",
+    "definition": "La banda más legendaria del heavy metal español de los años ochenta.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "508",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Beligerante",
+    "definition": "Nación o parte que está en guerra o persona dispuesta a la confrontación combativa.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "509",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Bibliófilo",
+    "definition": "Persona apasionada por coleccionar, estudiar y apreciar las ediciones raras y valiosas de libros.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "510",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Biri Biri",
+    "definition": "Mítico futbolista gambiano del Sevilla en los años 70 que dio nombre a una peña de aficionados.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "511",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Bitácora",
+    "definition": "Armario o cuaderno donde el capitán de un barco anota el rumbo y las incidencias de la travesía náutica.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "512",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Boli",
+    "definition": "Utensilio BIC de plástico transparente que todo el mundo usaba para rebobinar las cintas de casete.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "513",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Bolo",
+    "definition": "Cada una de las piezas de madera que debías derribar con una bola en la bolera.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "514",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Buga",
+    "definition": "En el argot urbano callejero de la época, coche o automóvil.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "515",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Bultaco",
+    "definition": "Famosa marca española de motocicletas de campo y carretera con el logo del pulgar hacia arriba.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "516",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "BUP",
+    "definition": "Siglas del Bachillerato Unificado Polivalente que se estudiaba tras completar la EGB.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "517",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Cabina",
+    "definition": "Caseta pública de cristal en la calle con teléfono que funcionaba introduciendo monedas.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "518",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Casete",
+    "definition": "Cinta magnética de plástico que rebobinabas a mano y donde grababas canciones de la radio.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "519",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Casio",
+    "definition": "Marca japonesa de relojes digitales negros con cronómetro y calculadora que llevaba todo el colegio.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "520",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Catarsis",
+    "definition": "Efecto purificador y liberador que experimenta el espectador ante una conmovedora obra dramática.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "521",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Chachi",
+    "definition": "En la jerga juvenil ochentera, adjetivo que significaba estupendo o que estaba muy bien.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "522",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Chupa Chups",
+    "definition": "Famoso caramelo con palo inventado en España cuyo logotipo fue diseñado por Salvador Dalí.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "523",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Cinema",
+    "definition": "Lugar con butacas de terciopelo donde se proyectaban las grandes películas en 35 milímetros.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "524",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Clemencia",
+    "definition": "Virtud y disposición compasiva de moderar el rigor de una pena o condena.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "525",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Cobi",
+    "definition": "Mascota oficial diseñada por Javier Mariscal con aspecto de perro cubista para Barcelona 92.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "526",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Cosmovisión",
+    "definition": "Manera integral de interpretar y entender el mundo y la existencia propia de una cultura o época.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "527",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Criptografía",
+    "definition": "Arte y técnica de escribir mensajes en clave o de forma cifrada para preservar su confidencialidad.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "528",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Cráter",
+    "definition": "Depresión circular excavada por el impacto de un meteorito o la boca de un volcán.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "529",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Curro",
+    "definition": "Pájaro blanco con cresta multicolor y pico en forma de arcoíris mascota de la Expo 92 de Sevilla.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "530",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Dabuten",
+    "definition": "Expresión ochentera de argot que significaba genial, perfecto o de primera categoría.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "531",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Delorean",
+    "definition": "Automóvil deportivo de acero inoxidable modificado por Doc Brown como máquina del tiempo.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "532",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Deontología",
+    "definition": "Tratado de los deberes y principios éticos que rigen el ejercicio de una profesión determinada.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "533",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Diatriba",
+    "definition": "Discurso o escrito violento e injurioso dirigido contra una persona, institución o doctrina.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "534",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Dicotomía",
+    "definition": "División de un concepto o materia en dos partes estrictamente contrapuestas y excluyentes.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "535",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Diligencia",
+    "definition": "Cuidado, prontitud y eficacia en la ejecución de una tarea o trámite formal.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "536",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Disidencia",
+    "definition": "Acción y efecto de discrepar o separarse formalmente de la doctrina u opinión dominante.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "537",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Disquete",
+    "definition": "Soporte magnético cuadrado de 3 y media pulgadas con el que se guardaban documentos en el ordenador.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "538",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Don Pimpón",
+    "definition": "Personaje viajero y bonachón de pelaje marrón que convivía con Espinete en Barrio Sésamo.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "539",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Ecuanimidad",
+    "definition": "Constancia y serenidad de ánimo inalterable ante la adversidad o el triunfo.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "540",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "EGB",
+    "definition": "Siglas de la Educación General Básica que cursaron todos los nacidos en los años setenta y ochenta.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "541",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Elocuencia",
+    "definition": "Facultad de hablar o escribir de modo eficaz para conmover, deleitar o persuadir a los oyentes.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "542",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Epifanía",
+    "definition": "Manifestación, revelación súbita o iluminación intuitiva sobre la verdad de las cosas.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "543",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Espinete",
+    "definition": "Erizo gigante de color rosa protagonista de Barrio Sésamo junto a Don Pimpón.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "544",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Esteso",
+    "definition": "Humorista y actor que triunfó en el cine español de los ochenta haciendo pareja con Andrés Pajares.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "545",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Estrecho",
+    "definition": "Lugar geográfico entre España y Marruecos que cruzaba el famoso paso de barcos en verano.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "546",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Eufemismo",
+    "definition": "Manifestación suave o decorosa de ideas cuya recta y franca expresión resultaría dura o malsonante.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "547",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Eurovisión",
+    "definition": "Festival europeo de la canción que congregaba a millones de familias frente al televisor cada año.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "548",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Exégesis",
+    "definition": "Interpretación crítica, rigurosa y explicativa de un texto sagrado, jurídico o literario.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "549",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Falacia",
+    "definition": "Argumento falso que parece verdadero con el que se pretende inducir a error o engaño.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "550",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Felipe",
+    "definition": "Político sevillano que presidió el Gobierno de España desde 1982 hasta 1996: ... González.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "551",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Feria",
+    "definition": "Fiesta popular con atracciones mecánicas, puestos de algodón de azúcar y tómbolas.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "552",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Fetén",
+    "definition": "Palabra castiza de argot popular que significa excelente, auténtico o muy bueno.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "553",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Feudalismo",
+    "definition": "Sistema socioeconómico medieval basado en el vasallaje y la posesión de tierras señoriales.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "554",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Filantropía",
+    "definition": "Amor desinteresado hacia el género humano traducido en obras de ayuda social y donaciones.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "555",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Filofax",
+    "definition": "Mítica agenda personal de anillas de cuero que se puso de moda entre ejecutivos y profesionales.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "556",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Flashdance",
+    "definition": "Película musical de 1983 sobre una soldadora que sueña con ser bailarina profesional.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "557",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Footloose",
+    "definition": "Película musical de 1984 sobre un pueblo donde estaba prohibido bailar protagonizada por Kevin Bacon.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "558",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Furtivo",
+    "definition": "Dicho de algo que se hace a escondidas, de manera oculta y eludiendo la vigilancia legal.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "559",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Fútbol de Primera",
+    "definition": "Programa o resumen deportivo dominical con los goles de la jornada de Liga.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "560",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Game Boy",
+    "definition": "Revolucionaria consola portátil de Nintendo de color gris con cartucho de Tetris lanzada en España en 1990.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "561",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Garito",
+    "definition": "Local de copas, bar musical o discoteca de ambiente juvenil al que se salía de marcha.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "562",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Genealogía",
+    "definition": "Serie de progenitores y ascendientes de una persona o linaje familiar documentado.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "563",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Geopolítica",
+    "definition": "Estudio de los efectos de la geografía física y humana sobre las relaciones y el poder entre Estados.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "564",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Geyperman",
+    "definition": "Muñeco articulado de acción para niños con uniformes militares, de rescate y aventurero.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "565",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Ghostbusters",
+    "definition": "Título original en inglés de la taquillera comedia de 1984 sobre cazadores de espíritus en Nueva York.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "566",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Gol",
+    "definition": "El histórico tanto de Señor en el minuto 84 que selló el legendario 12 a 1 de España a Malta en 1983.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "567",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Goma",
+    "definition": "Objeto escolar de borrar de la marca Milan que borraba lápiz y tinta.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "568",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Goonies",
+    "definition": "Película de aventuras juvenil de 1985 donde un grupo de chicos busca el tesoro de Willy el Tuerto.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "569",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Gregario",
+    "definition": "Dicho de una persona que sigue ciegamente las ideas de los demás o vive en manada.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "570",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Gremlins",
+    "definition": "Pequeñas y simpáticas criaturas a las que jamás debías mojar ni dar de comer después de medianoche.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "571",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Grotesco",
+    "definition": "Dicho de algo ridículo, estrafalario o desmesurado que suscita risa mezclada con extrañeza.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "572",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Guay",
+    "definition": "Palabra imprescindible del lenguaje coloquial de la juventud para decir que algo mola mucho.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "573",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Hedonismo",
+    "definition": "Doctrina moral que identifica el bien supremo y la meta de la vida con la consecución del placer.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "574",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Hegemonía",
+    "definition": "Supremacía o dominio absoluto que un Estado o clase ejerce sobre otros en un ámbito determinado.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "575",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Hermenéutica",
+    "definition": "Técnica y filosofía de la interpretación de textos y símbolos para desentrañar su sentido genuino.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "576",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Heterodoxo",
+    "definition": "Que discrepa de las doctrinas, cánones o principios admitidos tradicionalmente por la mayoría.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "577",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Hombreras",
+    "definition": "Relleno textil puesto en los hombros de chaquetas y vestidos que fue la gran moda de los 80.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "578",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Hooligan",
+    "definition": "Término en inglés para referirse a los hinchas violentos en los estadios de fútbol.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "579",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Hércules",
+    "definition": "Histórico club de fútbol de la ciudad de Alicante que compitió en Primera División.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "580",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Héroe",
+    "definition": "Persona que realiza una acción extraordinaria o protagonista admirado en cómics y películas.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "581",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Ibáñez",
+    "definition": "Genial dibujante de cómics creador de Mortadelo y Filemón, Rompetechos y 13 Rue del Percebe.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "582",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Ibérico",
+    "definition": "Jamón de bellota tradicional que no faltaba en las celebraciones familiares señaladas.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "583",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Iconoclasta",
+    "definition": "Que rechaza y destruye imágenes sagradas o que desafía abiertamente las tradiciones consagradas.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "584",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Idiosincrasia",
+    "definition": "Rasgos y carácter peculiares y distintivos de un individuo o de una comunidad colectiva.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "585",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Iglesias",
+    "definition": "El cantante español más internacional de la música romántica: Julio ...",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "586",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Indiana",
+    "definition": "Famoso arqueólogo aventurero del sombrero fedora y el látigo encarnado por Harrison Ford.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "587",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Inefable",
+    "definition": "Que no se puede explicar ni describir con palabras ordinarias debido a su grandeza o hermosura.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "588",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Informativo",
+    "definition": "Programa diario de noticias de las tres de la tarde que se veía mientras se comía en familia.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "589",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Inocuo",
+    "definition": "Que es completamente inofensivo y no hace daño a la salud física ni moral.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "590",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Insignia",
+    "definition": "Emblema o chapa metálica de grupos de rock que se pinchaba en las cazadoras vaqueras.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "591",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Interviú",
+    "definition": "Mítica revista semanal española famosa por sus reportajes de investigación y sus portadas destapadas.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "592",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Jarama",
+    "definition": "Histórico circuito madrileño de carreras de motociclismo y Fórmula 1.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "593",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Javi",
+    "definition": "El líder de la pandilla juvenil de Verano Azul, interpretado por Juanjo Artero.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "594",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Jerez",
+    "definition": "Vino generoso andaluz de fama internacional servido habitualmente como aperitivo.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "595",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Jerigonza",
+    "definition": "Lenguaje de mal gusto, confuso y difícil de comprender para quien no pertenece a un círculo cerrado.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "596",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Jolín",
+    "definition": "Expresión coloquial inocente de disgusto o queja muy usada en las series de la época.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "597",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Juego",
+    "definition": "Los míticos salones recreativos donde gastabas monedas de cinco duros para echar una partida.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "598",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Juegos Reunidos",
+    "definition": "Mítica caja de juegos de mesa de la marca Geyper que incluía ruleta, damas y oca.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "599",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Juicioso",
+    "definition": "Que procede con madurez, prudencia, sensatez y buen discernimiento.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "600",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Jukebox",
+    "definition": "Gramola o máquina de discos presente en bares que funcionaba con monedas.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "601",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Jurisprudencia",
+    "definition": "Conjunto de sentencias y doctrina reiterada emanada de los más altos tribunales de justicia.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "602",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Júpiter",
+    "definition": "El planeta más grande del sistema solar estudiado en la asignatura de Ciencias Naturales.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "603",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Laca",
+    "definition": "Producto fijador en spray indispensable para moldear los cardados y peinados de la década.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "604",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Lacónico",
+    "definition": "Dicho de un estilo expresivo breve, conciso, preciso y que usa muy pocas palabras.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "605",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Lennon",
+    "definition": "Músico británico exintegrante de The Beatles asesinado trágicamente en Nueva York en 1980.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "606",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Leño",
+    "definition": "Banda pionera del rock urbano madrileño liderada por Rosendo Mercado.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "607",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Liturgia",
+    "definition": "Conjunto de ritos, oraciones y ceremonias oficiales prescritos para el culto sagrado.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "608",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Locomía",
+    "definition": "Grupo musical ibicenco de electropop célebre por sus espectaculares bailes con abanicos gigantes.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "609",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Longevidad",
+    "definition": "Cualidad de quien alcanza una edad muy avanzada o duración muy prolongada en el tiempo.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "610",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Loquillo",
+    "definition": "Cantante de rock barcelonés de tupé y cazadora de cuero líder de Los Trogloditas.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "611",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Loro",
+    "definition": "En la jerga juvenil de los ochenta, radiocasete estéreo portátil de gran tamaño con altavoces potentes.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "612",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Lucidez",
+    "definition": "Claridad mental certera y penetrante para juzgar las situaciones de la vida.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "613",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Lápiz",
+    "definition": "El clásico lápiz de madera Staedtler de rayas amarillas y negras usado en el colegio.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "614",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "M.A.",
+    "definition": "El fornido sargento del Equipo A lleno de collares de oro que tenía pánico a volar en avión.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "615",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "MacGyver",
+    "definition": "Agente secreto televisivo capaz de fabricar bombas y artilugios usando una navaja suiza y un clip.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "616",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Meandro",
+    "definition": "Curva pronunciada y serpenteante que describe el curso de un río en su llanura aluvial.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "617",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Mecano",
+    "definition": "Trío musical madrileño formado por Ana Torroja y los hermanos Cano que marcó una época.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "618",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Mecenazgo",
+    "definition": "Protección económica y patrocinio prestado a artistas, científicos y creadores culturales.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "619",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Misantropía",
+    "definition": "Aversión, desconfianza o rechazo generalizado hacia el trato social y el género humano.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "620",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Moratoria",
+    "definition": "Plazo o prórroga legal otorgada para el cumplimiento de una obligación o el pago de una deuda.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "621",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Mortadelo",
+    "definition": "Agente secreto maestro del disfraz que trabajaba para la T.I.A. a las órdenes del Súper.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "622",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Movida",
+    "definition": "Movimiento contracultural y artístico que floreció en Madrid a principios de los ochenta.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "623",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Naranjito",
+    "definition": "Famosa naranja vestida de futbolista que fue la mascota oficial del Mundial de España 82.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "624",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Navidad",
+    "definition": "Época del año en la que se emitía el entrañable anuncio del turrón El Almendro que volvía a casa.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "625",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Nefando",
+    "definition": "Dicho de algo que causa horror, abominación o repugnancia moral extrema.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "626",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Nihilismo",
+    "definition": "Corriente filosófica que niega la existencia objetiva de valores morales, verdades o sentido vital.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "627",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Nocilla",
+    "definition": "La merienda por excelencia de varias generaciones en pan de molde o baguette.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "628",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Nokia",
+    "definition": "Compañía finlandesa que fabricó el mítico móvil indestructible 3310 con el juego de la serpiente.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "629",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Nomenclatura",
+    "definition": "Conjunto sistemático de términos y reglas utilizados en una disciplina científica o técnica.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "630",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Nómada",
+    "definition": "Dicho de un pueblo o individuo que va de un lugar a otro sin establecerse en una residencia fija.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "631",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Acompañar",
+    "definition": "Ir junto a los amigos a las fiestas mayores del pueblo cada mes de agosto.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "632",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Antaño",
+    "definition": "En un tiempo antiguo o pasado lejano que ya quedó atrás.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "633",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Añadir",
+    "definition": "Acción de sumar ingredientes a un guiso casero tradicional.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "634",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Añoranza",
+    "definition": "Sentimiento de nostalgia al recordar los veranos de la infancia en el pueblo.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "635",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Cabaña",
+    "definition": "Refugio rústico de montaña donde se descansaba los fines de semana de senderismo.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "636",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Cabañal",
+    "definition": "Antiguo barrio marinero de Valencia ligado a la vida y música de la costa mediterránea.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "637",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Compañía",
+    "definition": "Grupo de amigos de toda la vida con los que se salía los fines de semana.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "638",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Ensañar",
+    "definition": "Mostrarse cruel, implacable y con saña contra una víctima desvalida.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "639",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "España",
+    "definition": "País organizador del Mundial de fútbol de 1982 que tuvo a Naranjito como mascota.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "640",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Hazaña",
+    "definition": "Acción heroica, ilustre y de gran mérito que suscita la admiración general.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "641",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Maraña",
+    "definition": "Enredo de hilos o vegetación espesa y tupida difícil de atravesar.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "642",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Otoño",
+    "definition": "Estación del año en la que se iniciaba el nuevo curso escolar tras las vacaciones.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "643",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Patraña",
+    "definition": "Noticia o relato engañoso, fingido y sin fundamento inventado para embaucar a la gente.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "644",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Pañuelo",
+    "definition": "Trozo de tela que se ataba a la cabeza al estilo pirata o rockero en los conciertos.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "645",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Ochentero",
+    "definition": "Dicho de una persona, estilo musical o moda característico de la década de 1980.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "646",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Olimpia",
+    "definition": "Mítico teatro parisino donde actuaron los más grandes cantautores y cantantes españoles.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "647",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Olimpiada",
+    "definition": "Acontecimiento deportivo mundial celebrado con enorme éxito en Barcelona en el verano del 92.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "648",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Olimpiadas",
+    "definition": "Grandes juegos deportivos celebrados en Barcelona en 1992 que cambiaron la imagen del país.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "649",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Olímpico",
+    "definition": "Estadio barcelonés de Montjuïc donde arquero Antonio Rebollo encendió el pebetero con una flecha.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "650",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Onírico",
+    "definition": "Perteneciente o relativo al mundo de los sueños, sus visiones e imágenes fantásticas.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "651",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Operación",
+    "definition": "Famoso juego de mesa donde debías extraer órganos a un paciente con pinzas sin hacer sonar la chicharra.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "652",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Operación Triunfo",
+    "definition": "Fenómeno televisivo musical que en el año 2001 paralizó España con Bisbal, Chenoa y Rosa.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "653",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Orquesta Mondragón",
+    "definition": "Singular y divertido grupo de rock y teatro liderado por el polifacético Javier Gurruchaga.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "654",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Ortodoxia",
+    "definition": "Conformidad estricta con los principios y doctrinas tradicionales aceptadas por una institución.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "655",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Oscurantismo",
+    "definition": "Oposición sistemática a la difusión de la instrucción, el conocimiento y las luces de la razón.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "656",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Oso",
+    "definition": "El animal que aparece junto al madroño en el escudo de la ciudad de Madrid.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "657",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Ostracismo",
+    "definition": "Destierro político al que se condenaba a los ciudadanos en la antigua Grecia o aislamiento social forzoso.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "658",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Oti",
+    "definition": "Famoso festival de la canción iberoamericana que se seguía con entusiasmo por televisión.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "659",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Pajares",
+    "definition": "Cómico y actor madrileño que formó una taquillera pareja de cine en los ochenta junto a Fernando Esteso.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "660",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Panegírico",
+    "definition": "Discurso o elogio encendido en alabanza de las virtudes o méritos de una personalidad ilustre.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "661",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Pantoja",
+    "definition": "Popular tonadillera española que llenaba auditorios con sus canciones y coplas: Isabel ...",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "662",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Paradigma",
+    "definition": "Modelo, patrón o marco teórico compartido por una comunidad científica en una época.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "663",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Parchís",
+    "definition": "Famoso grupo musical infantil de cinco niños vestidos con los colores del tablero de juego.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "664",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Peseta",
+    "definition": "Moneda oficial de España antes de la implantación del euro en el año 2002.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "665",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Plebiscito",
+    "definition": "Consulta popular directa en la que el cuerpo electoral aprueba o rechaza una medida política soberana.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "666",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Pragmático",
+    "definition": "Que da prioridad al valor práctico, utilitario y resolutivo de las cosas sobre la pura teoría.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "667",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Priva",
+    "definition": "En el argot urbano ochentero, bebida con alcohol que se tomaba al salir de noche.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "668",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Pulp Fiction",
+    "definition": "Aclamada película de 1994 dirigida por Quentin Tarantino protagonizada por John Travolta y Samuel L. Jackson.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "669",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Queen",
+    "definition": "Banda de rock británica liderada por Freddie Mercury que arrasó en las radios de la época.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "670",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Quid",
+    "definition": "El punto principal, motivo primordial o meollo de un asunto complejo.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "671",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Quimera",
+    "definition": "Monstruo mitológico con cabeza de león y cola de dragón, o ilusión fantástica forjada en la mente.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "672",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Quimi Portet",
+    "definition": "Músico catalán que formó junto a Manolo García el inolvidable grupo El Último de la Fila.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "673",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Quiniela",
+    "definition": "Boleto semanal de apuestas de fútbol donde se marcaban casillas con 1, X o 2.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "674",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Quinto",
+    "definition": "Botellín pequeño de cerveza de 20 centilitros muy habitual en las barras de los bares.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "675",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Quisquilloso",
+    "definition": "Demasiado propenso a suscitar reparos, quejas u ofenderse por nimiedades insignificantes.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "676",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Química",
+    "definition": "Asignatura de ciencias con la que muchos alumnos lidiaban en segundo de BUP.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "677",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Radioenlace",
+    "definition": "Tecnología de telecomunicaciones que permitía emitir señales de televisión a distancia.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "678",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Rambo",
+    "definition": "Veterano de Vietnam interpretado por Sylvester Stallone con cinta roja en el pelo y cuchillo de supervivencia.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "679",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Rapsodia",
+    "definition": "Composición musical o poética libre formada por la unión de fragmentos y motivos diversos.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "680",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Recóndito",
+    "definition": "Muy escondido, reservado, profundo y apartado de la vista común.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "681",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Redención",
+    "definition": "Acción de salvar, rescatar o redimir a alguien de una condena, dolor o servidumbre.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "682",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Resiliencia",
+    "definition": "Capacidad humana para sobreponerse con fortaleza anímica a periodos de dolor emocional o adversidad.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "683",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Rock",
+    "definition": "Género musical de guitarras eléctricas que llenaba estadios con grupos como Barón Rojo o Leño.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "684",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Rosendo",
+    "definition": "El gran padre del rock urbano español de voz rasgada y melena canosa originario de Carabanchel.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "685",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Ruperta",
+    "definition": "La mascota con forma de hortaliza más querida de la televisión que no querías que te tocara al final.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "686",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Scalextric",
+    "definition": "Juego de pistas de carreras eléctricas con coches en miniatura que los Reyes Magos solían traer en Navidad.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "687",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Semiótica",
+    "definition": "Teoría general y disciplina científica que se ocupa del estudio de los signos en la comunicación humana.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "688",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Sincretismo",
+    "definition": "Sistema que procura armonizar corrientes de pensamiento o doctrinas religiosas diferentes.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "689",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Sofisma",
+    "definition": "Argumento capcioso y engañoso formulado con apariencia de lógica para inducir a error.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "690",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Soliloquio",
+    "definition": "Reflexión en voz alta y a solas de un personaje teatral sobre sus propios pensamientos.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "691",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Spectrum",
+    "definition": "Mítico microordenador doméstico Sinclair ZX con teclas de goma y carga de juegos por cinta.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "692",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Street Fighter",
+    "definition": "Mítico juego de lucha de recreativas donde Ryu y Ken lanzaban ondas de energía Hadouken.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "693",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Super",
+    "definition": "Mítica consola de videojuegos de 16 bits de Nintendo lanzada en España a principios de los noventa.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "694",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Tapas",
+    "definition": "Costumbre típicamente española de tomar pequeños aperitivos al pedir una ronda de cañas.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "695",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Taumaturgia",
+    "definition": "Facultad supuesta de realizar milagros o actos prodigiosos fuera de las leyes naturales.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "696",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Taxonomía",
+    "definition": "Ciencia de la clasificación metódica y ordenada de los seres vivos en géneros y especies.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "697",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "TDK",
+    "definition": "Famosa marca japonesa de cintas de casete vírgenes de 60 y 90 minutos para grabar música.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "698",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Teleología",
+    "definition": "Doctrina filosófica de las causas finales que sostiene que todo en el universo tiende hacia un fin.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "699",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Teletexto",
+    "definition": "Sistema pionero de consulta de noticias, resultados deportivos y programación en la televisión.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "700",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Terminator",
+    "definition": "Cyborg asesino del futuro enviado en el tiempo y encarnado por Arnold Schwarzenegger.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "701",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Tetris",
+    "definition": "Adictivo videojuego de puzles con piezas que caen creado por Alekséi Pázhitnov.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "702",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Tirantes",
+    "definition": "Cintas elásticas cruzadas sobre los hombros que sujetaban los pantalones masculinos de vestir.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "703",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Titanic",
+    "definition": "Película de James Cameron de 1997 que batió todos los récords de taquilla con Leonardo DiCaprio.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "704",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Top Gun",
+    "definition": "Película de aviación de 1986 protagonizada por Tom Cruise a bordo de un caza F-14.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "705",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Trascendencia",
+    "definition": "Cualidad de lo que sobrepasa el ámbito ordinario de la experiencia terrenal o tiene efectos duraderos.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "706",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Ubicuo",
+    "definition": "Que está presente en todas partes al mismo tiempo; omnipresente.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "707",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "UHF",
+    "definition": "Frecuencia televisiva con la que popularmente se conocía a la segunda cadena de Televisión Española.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "708",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Un, dos, tres",
+    "definition": "Concurso estrella de Televisión Española creado por Chicho Ibáñez Serrador.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "709",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Unicaja",
+    "definition": "Mítico equipo de baloncesto andaluz muy recordado por sus duelos coperos en los noventa.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "710",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Unión",
+    "definition": "Conexión o alianza entre personas, como la pandilla de amigos del instituto.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "711",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Urbanidad",
+    "definition": "Conjunto de normas de cortesía, comedimiento y buena educación en la convivencia ciudadana.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "712",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Urdaci",
+    "definition": "Periodista que presentaba el Telediario de TVE en la década de los noventa.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "713",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Urdangarin",
+    "definition": "Destacado jugador de balonmano del FC Barcelona y de la selección española en los años 90.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "714",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Usufructo",
+    "definition": "Derecho real a disfrutar de bienes ajenos con la obligación de conservar su forma y sustancia.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "715",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Utilitarismo",
+    "definition": "Teoría ética que sostiene que la mejor acción moral es aquella que maximiza la utilidad colectiva.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "716",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "V",
+    "definition": "Mítica serie de extraterrestres con uniforme rojo que venían a la Tierra ocultando su piel de reptil.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "717",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Verano",
+    "definition": "Meses estivales de libertad total antes de la vuelta a las clases en septiembre.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "718",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Verano Azul",
+    "definition": "La mítica serie que rodó Antonio Mercero y que se reponía año tras año en las sobremesas.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "719",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Verosímil",
+    "definition": "Que tiene apariencia de verdadero, que resulta creíble y congruentemente admisible.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "720",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Versatilidad",
+    "definition": "Capacidad de adaptarse con rapidez y destreza a múltiples funciones, artes o situaciones.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "721",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "VHS",
+    "definition": "Sistema doméstico de cintas de vídeo analógicas que reinó antes de la llegada del DVD.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "722",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Videoclub",
+    "definition": "Establecimiento al que ibas los viernes por la tarde a alquilar películas en formato VHS.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "723",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Videocámara",
+    "definition": "Aparato de vídeo portátil que los padres llevaban al hombro en comuniones y vacaciones.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "724",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Vinilo",
+    "definition": "Disco analógico de color negro que giraba a 33 o 45 revoluciones por minuto en el tocadiscos.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "725",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Voluble",
+    "definition": "De carácter inconstante, mutable y mudable que cambia con facilidad de opinión o afición.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "726",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Vorágine",
+    "definition": "Remolino impetuoso de aguas o torbellino apasionado y confuso de sucesos que arrastra consigo.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "727",
+    "letter": "X",
+    "position": "contains",
+    "word": "Asfixia",
+    "definition": "Sensación de ahogo provocada por el calor sofocante dentro del coche sin aire acondicionado.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "728",
+    "letter": "X",
+    "position": "contains",
+    "word": "Boxeo",
+    "definition": "Deporte de cuadrilátero seguido con fervor en combates de madrugada como los de Poli Díaz.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "729",
+    "letter": "X",
+    "position": "contains",
+    "word": "Fax",
+    "definition": "Aparato de oficina conectado a la línea telefónica que transmitía documentos en papel.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "730",
+    "letter": "X",
+    "position": "contains",
+    "word": "Maxisingle",
+    "definition": "Disco de vinilo de gran tamaño que incluía mezclas y versiones extendidas para discotecas.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "731",
+    "letter": "X",
+    "position": "contains",
+    "word": "Mixto",
+    "definition": "El clásico sándwich de jamón york y queso a la plancha de las cafeterías.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "732",
+    "letter": "X",
+    "position": "contains",
+    "word": "Paroxismo",
+    "definition": "Grado de exaltación máxima y casi espasmódica de una pasión o acceso agudo de una enfermedad.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "733",
+    "letter": "X",
+    "position": "contains",
+    "word": "Saxofón",
+    "definition": "Instrumento musical de viento-metal con solo inolvidable en canciones pop de los ochenta.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "734",
+    "letter": "X",
+    "position": "contains",
+    "word": "Taxi",
+    "definition": "Vehículo de servicio público urbano con el que se volvía a casa de madrugada.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "735",
+    "letter": "X",
+    "position": "contains",
+    "word": "Texto",
+    "definition": "Conjunto de frases escritas a mano con pluma estilográfica o bolígrafo.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "736",
+    "letter": "X",
+    "position": "contains",
+    "word": "Yuxtaposición",
+    "definition": "Acción de situar dos cosas una inmediatamente al lado de la otra sin elementos de enlace intermedio.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "737",
+    "letter": "X",
+    "position": "contains",
+    "word": "Éxodo",
+    "definition": "Emigración masiva de un pueblo o multitud de personas que abandonan su tierra natal.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "738",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "Yacente",
+    "definition": "Dicho de una estatua que representa a una persona difunta tendida en horizontal sobre su sepulcro.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "739",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "Yate",
+    "definition": "Embarcación recreativa amarrada en los puertos deportivos que se admiraba durante los paseos de verano.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "740",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "Yatekomo",
+    "definition": "Famosos fideos orientales instantáneos que llegaron a las tiendas para comidas rápidas.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "741",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "Yema",
+    "definition": "Dulce tradicional elaborado con yema de huevo y azúcar muy típico de Ávila.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "742",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "Yogur",
+    "definition": "Postre diario de la infancia con sabores clásicos como limón o fresa servido en tarro de plástico.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "743",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "Yoko",
+    "definition": "Artista japonesa casada con John Lennon: ... Ono.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "744",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "Yoplait",
+    "definition": "Marca francesa de yogures muy popular en los supermercados españoles en los años ochenta.",
+    "profile": "adults",
+    "isPop": true
+  },
+  {
+    "id": "745",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "Yuma",
+    "definition": "Popular marca española de zapatillas deportivas que rivalizaba con las grandes marcas extranjeras.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "746",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "Yuxtaponer",
+    "definition": "Colocar dos elementos contiguos de modo que queden unidos sin necesidad de conjunciones.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "747",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zalamero",
+    "definition": "Que prodiga demostraciones exageradas de cariño, halagos y zalamerías para ganarse a alguien.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "748",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zapatero",
+    "definition": "Oficio artesanal de quien repara suelas y tacones de botas y zapatos.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "749",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zapatilla",
+    "definition": "Calzado deportivo mítico de la época escolar como las Paredes, Victoria o Yumas.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "750",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zarabanda",
+    "definition": "Danza popular antigua y ruidosa de ritmo ternario muy ejecutada en los siglos XVI y XVII.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "751",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zarzuela",
+    "definition": "Género lírico teatral típicamente español con partes habladas y partes cantadas.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "752",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zipi",
+    "definition": "El hermano rubio de Zape que vestía siempre con jersey rojo.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "753",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zipi y Zape",
+    "definition": "Traviesos hermanos gemelos del cómic español, uno rubio y otro moreno, creados por Escobar.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "754",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zoológico",
+    "definition": "Parque de Madrid inaugurado en 1972 donde se hizo famoso el oso panda Chu-Lin.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "755",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zozobra",
+    "definition": "Inquietud, aflicción y desazón angustiosa del ánimo provocada por un riesgo inminente.",
+    "profile": "adults",
+    "isPop": false
+  },
+  {
+    "id": "756",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zumo",
+    "definition": "Bebida envasada en brik con pajita que llevabas en la cartera para la merienda.",
+    "profile": "adults",
+    "isPop": false
+  }
+]

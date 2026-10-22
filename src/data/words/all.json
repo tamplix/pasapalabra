@@ -1,0 +1,875 @@
+[
+  {
+    "id": "1",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Agua",
+    "definition": "Líquido transparente, inodoro e insípido fundamental para la supervivencia de todos los seres vivos.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "2",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Amigo",
+    "definition": "Persona con la que se mantiene una relación de afecto, confianza y simpatía mutua.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "3",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Avión",
+    "definition": "Aeronave más pesada que el aire provista de alas y motores capaz de transportar pasajeros.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "4",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Árbol",
+    "definition": "Planta perenne de tronco leñoso que se ramifica a cierta altura del suelo.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "5",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Barco",
+    "definition": "Construcción cóncava de madera, metal u otro material capaz de flotar y desplazarse por el agua.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "6",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Blanco",
+    "definition": "Color de la nieve, de la leche o de la cal, opuesto a la oscuridad total.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "7",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Boca",
+    "definition": "Cavidad en la cabeza por donde los animales y humanos ingieren alimentos y emiten sonidos.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "8",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Bosque",
+    "definition": "Gran extensión de terreno poblada de densa vegetación arbórea y arbustos.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "9",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Camino",
+    "definition": "Vía o franja de tierra por donde se transita habitualmente de un lugar a otro.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "10",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Casa",
+    "definition": "Edificio para habitar una o varias personas protegidas de la intemperie.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "11",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Cielo",
+    "definition": "Espacio visible sobre nosotros donde se observan las nubes, el sol y las estrellas.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "12",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Corazón",
+    "definition": "Órgano muscular hueco que bombea e impulsa la sangre a través del cuerpo.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "13",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Dedo",
+    "definition": "Cada una de las cinco prolongaciones articuladas en que terminan las manos y los pies.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "14",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Diente",
+    "definition": "Cuerpo duro engastado en las mandíbulas que sirve para cortar y triturar los alimentos.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "15",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Dormir",
+    "definition": "Estar en reposo físico con suspensión temporal de la conciencia activa y los sentidos.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "16",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Día",
+    "definition": "Tiempo que la Tierra tarda en dar una vuelta completa sobre su eje o lapso con luz solar.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "17",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Energía",
+    "definition": "Capacidad intrínseca que tiene la materia para producir trabajo, movimiento o calor.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "18",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Escuela",
+    "definition": "Institución o edificio destinado a la enseñanza y al aprendizaje de los alumnos.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "19",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Espejo",
+    "definition": "Superficie pulida que refleja fielmente la luz y las imágenes de los objetos.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "20",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Estrella",
+    "definition": "Cuerpo celeste con luz propia que brilla en el firmamento nocturno.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "21",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Familia",
+    "definition": "Grupo social primario constituido por personas emparentadas entre sí.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "22",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Flor",
+    "definition": "Estructura reproductiva y vistosa de muchas plantas que suele tener pétalos coloreados.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "23",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Fuego",
+    "definition": "Emisión de luz y calor producida por la combustión rápida de una sustancia inflamable.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "24",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Fuerza",
+    "definition": "Causa física capaz de modificar el estado de reposo, movimiento o forma de un cuerpo.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "25",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Gato",
+    "definition": "Mamífero carnívoro de la familia de los félidos domesticado desde la antigüedad.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "26",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Globo",
+    "definition": "Cuerpo esférico de material flexible que se llena de gas o aire.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "27",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Gota",
+    "definition": "Pequeña porción redondeada de líquido que se desprende o cae por su propio peso.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "28",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Guerra",
+    "definition": "Conflicto armado y lucha violenta prolongada entre dos o más naciones o facciones.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "29",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Hermano",
+    "definition": "Persona nacida de los mismos padres respecto de otra.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "30",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Hielo",
+    "definition": "Agua en estado sólido cristalino formada por enfriamiento por debajo de 0 grados.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "31",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Hierro",
+    "definition": "Elemento químico metálico maleable y tenaz de color gris plateado con magnetismo.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "32",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Hora",
+    "definition": "Unidad de tiempo equivalente a la vigésima cuarta parte del día solar medio.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "33",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Idioma",
+    "definition": "Lengua o sistema lingüístico propio de una comunidad o nación para comunicarse.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "34",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Imagen",
+    "definition": "Representación visual, pintura o figura de un objeto o persona.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "35",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Invierno",
+    "definition": "Estación del año térmicamente más fría comprendida entre el otoño y la primavera.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "36",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Isla",
+    "definition": "Porción de tierra de menor tamaño que un continente rodeada enteramente por agua.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "37",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Jardín",
+    "definition": "Terreno donde se cultivan plantas, flores y árboles con propósito ornamental y de recreo.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "38",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Joven",
+    "definition": "Persona que se encuentra en la etapa vital entre la niñez y la madurez.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "39",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Juego",
+    "definition": "Actividad recreativa reglada y voluntaria que proporciona entretenimiento y diversión.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "40",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Justicia",
+    "definition": "Principio moral y legal que inclina a obrar y juzgar respetando la verdad y el derecho de cada uno.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "41",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Libro",
+    "definition": "Conjunto de muchas hojas de papel encuadernadas que forman un volumen impreso o manuscrito.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "42",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Lluvia",
+    "definition": "Precipitación de gotas de agua que caen de las nubes condensadas.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "43",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Luna",
+    "definition": "Único satélite natural de la Tierra que refleja la luz emitida por el Sol.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "44",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Luz",
+    "definition": "Radiación electromagnética visible por el ojo humano que alumbra las cosas.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "45",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Madre",
+    "definition": "Mujer que ha engendrado o dado a luz a un hijo.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "46",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Mano",
+    "definition": "Extremidad distal del brazo provista de cinco dedos opuestos.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "47",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Mar",
+    "definition": "Masa colosal de agua salada que recubre casi tres cuartas partes del globo terrestre.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "48",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Música",
+    "definition": "Arte de organizar rítmica y armoniosamente una combinación ordenada de sonidos y silencios.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "49",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Noche",
+    "definition": "Intervalo entre la puesta y la salida del sol en el que el cielo permanece a oscuras.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "50",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Nombre",
+    "definition": "Palabra con la que se designa y distingue a un ser, lugar o concepto de los demás.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "51",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Norte",
+    "definition": "Punto cardinal situado en el hemisferio superior exactamente frente al sur.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "52",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Nube",
+    "definition": "Acumulación visible en el aire de diminutas gotas de agua o cristales de hielo suspendidos.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "53",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Año",
+    "definition": "Periodo de tiempo de doce meses que tarda la Tierra en completar su órbita solar.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "54",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Dueño",
+    "definition": "Persona que tiene el dominio, propiedad o posesión legítima de una cosa.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "55",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Montaña",
+    "definition": "Gran elevación natural y escarpada del terreno debida a empujes tectónicos.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "56",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Sueño",
+    "definition": "Acto fisiológico de dormir o conjunto de imágenes vividas mentalmente durante el descanso.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "57",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Ojo",
+    "definition": "Órgano sensorial par de la visión situado en las cuencas faciales.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "58",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Ola",
+    "definition": "Onda de gran tamaño que se forma en la superficie del agua por acción del viento o corrientes.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "59",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Oro",
+    "definition": "Metal precioso noble de color amarillo brillante y gran resistencia a la corrosión.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "60",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Oído",
+    "definition": "Sentido por el que se perciben los sonidos o estructura anatómica donde radica.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "61",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Pan",
+    "definition": "Alimento básico horneado elaborado con masa de harina de cereal, agua, sal y levadura.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "62",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Piedra",
+    "definition": "Sustancia mineral dura y compacta que forma parte de las rocas.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "63",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Pueblo",
+    "definition": "Población de menor tamaño que una ciudad o conjunto de ciudadanos de una nación.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "64",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Puerta",
+    "definition": "Abertura con un panel giratorio o corredizo que da acceso al interior de un espacio.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "65",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Querer",
+    "definition": "Tener afecto, simpatía o cariño hacia alguien o desear poseer algo.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "66",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Queso",
+    "definition": "Producto alimenticio sólido o semisólido obtenido por cuajado de la leche.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "67",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Quinto",
+    "definition": "Elemento ordinal que ocupa el puesto número cinco en una serie ordenada.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "68",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Química",
+    "definition": "Ciencia experimental que estudia la materia, su estructura, propiedades y transformaciones.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "69",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Reloj",
+    "definition": "Instrumento mecánico o digital utilizado para medir y marcar el paso de las horas.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "70",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Roca",
+    "definition": "Materia mineral dura y sólida que compone la corteza de la Tierra.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "71",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Rueda",
+    "definition": "Pieza mecánica circular que rota alrededor de un eje central facilitando el desplazamiento.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "72",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Río",
+    "definition": "Corriente natural y continua de agua que fluye hacia un mar, lago u otro cauce.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "73",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Sal",
+    "definition": "Sustancia blanca cristalina de cloruro de sodio utilizada como condimento y conservante.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "74",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Silencio",
+    "definition": "Ausencia total o notable de ruido o de cualquier sonido perceptible.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "75",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Sol",
+    "definition": "Estrella central luminosa y gravitatoria en torno a la cual orbitan los planetas del sistema solar.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "76",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Sombra",
+    "definition": "Oscuridad o silueta proyectada por un cuerpo opaco que intercepta los rayos de luz.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "77",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Tiempo",
+    "definition": "Dimensión física continua en la que se suceden los acontecimientos desde el pasado al futuro.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "78",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Tierra",
+    "definition": "Tercer planeta del sistema solar que habitamos o superficie de suelo cultivable.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "79",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Torre",
+    "definition": "Edificio alto y estrecho que se eleva de manera destacada sobre su entorno.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "80",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Trabajo",
+    "definition": "Actividad física o mental productiva realizada con esfuerzo para obtener un resultado.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "81",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Universo",
+    "definition": "Conjunto de toda la materia, energía, espacio y tiempo existentes.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "82",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Uno",
+    "definition": "Primer número entero positivo que sirve como base para el cómputo de la unidad.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "83",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Urgente",
+    "definition": "Dicho de una necesidad o problema que demanda atención o solución inmediata.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "84",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Uso",
+    "definition": "Acción y efecto de servirse o emplear algo de manera práctica y continua.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "85",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Viaje",
+    "definition": "Traslado o desplazamiento de una persona de un punto geográfico a otro.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "86",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Vida",
+    "definition": "Propiedad biológica que distingue a los organismos vivos de la materia inorgánica.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "87",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Viento",
+    "definition": "Corriente natural de aire que se produce en la atmósfera por diferencias de presión.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "88",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Voz",
+    "definition": "Sonido producido por la vibración del aire al salir de las cuerdas vocales.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "89",
+    "letter": "X",
+    "position": "contains",
+    "word": "Excursión",
+    "definition": "Viaje corto o salida recreativa a pie o en transporte para conocer un paraje.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "90",
+    "letter": "X",
+    "position": "contains",
+    "word": "Oxígeno",
+    "definition": "Elemento gaseoso fundamental en el aire que permite la respiración celular aeróbica.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "91",
+    "letter": "X",
+    "position": "contains",
+    "word": "Texto",
+    "definition": "Conjunto de enunciados coherentes fijados por escrito que forman un mensaje.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "92",
+    "letter": "X",
+    "position": "contains",
+    "word": "Éxito",
+    "definition": "Resultado feliz, satisfactorio y reconocido de una empresa, prueba o acción.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "93",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "Yacimiento",
+    "definition": "Sitio natural donde se localiza una acumulación valiosa de minerales o fósiles.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "94",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "Yema",
+    "definition": "Porción esférica y amarilla situada en el centro del huevo rica en lípidos.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "95",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zapato",
+    "definition": "Prenda de calzado con suela dura y tacón que resguarda el pie al caminar.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "96",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zona",
+    "definition": "Extensión delimitada de terreno o superficie que tiene características comunes.",
+    "profile": "all",
+    "isPop": false
+  },
+  {
+    "id": "97",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zoológico",
+    "definition": "Parque o instalación donde se conservan y exhiben animales de diversas especies.",
+    "profile": "all",
+    "isPop": false
+  }
+]

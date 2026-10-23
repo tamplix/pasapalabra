@@ -57,6 +57,19 @@ npm run build          # genera dist/
 npm run validate-bank  # valida el banco de palabras
 ```
 
+## Publicar en GitHub Pages
+
+Cada push a `main` ejecuta `.github/workflows/deploy.yml`, que pasa los tests, construye la web y la publica en `https://tamplix.github.io/pasapalabra/`.
+
+Configuración única, en GitHub (*Settings* del repositorio):
+
+1. *Pages → Build and deployment → Source*: **GitHub Actions**.
+2. *Secrets and variables → Actions → New repository secret*: crea `VITE_LOGIN_SALT`, `VITE_LOGIN_ITERATIONS` y `VITE_LOGIN_HASH`, copiando los valores de tu `.env.local`. Sin ellos, la web publicada muestra que el acceso no está configurado.
+
+La huella del login acaba dentro del código público de la web, aunque no esté en el repositorio. Por eso importa que la contraseña sea larga.
+
+El build usa `BASE_PATH=/pasapalabra/`; en local no hace falta, porque por defecto es `/`.
+
 ## Ejecutarlo en otro equipo
 
 `npm run build` genera `dist/`, una web estática. No funciona abriendo `index.html` con doble clic: hay que servirla por HTTP (por ejemplo `npx serve dist`) o alojarla en un servicio de hosting estático. La cámara solo funciona con HTTPS o en `localhost`.

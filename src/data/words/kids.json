@@ -1696,7 +1696,7 @@
     "letter": "B",
     "position": "starts_with",
     "word": "Bob Esponja",
-    "definition": "Esponja amarilla que vive en una piña bajo el mar y trabaja en el Crustáceo Crujiente.",
+    "definition": "Personaje amarillo y cuadrado que vive en una piña bajo el mar y trabaja friendo hamburguesas en el Crustáceo Crujiente.",
     "profile": "kids",
     "isPop": true
   },
@@ -1939,7 +1939,7 @@
     "letter": "T",
     "position": "starts_with",
     "word": "Tortugas Ninja",
-    "definition": "Cuatro tortugas mutantes que llevan antifaz de colores y comen pizza.",
+    "definition": "Cuatro hermanos mutantes con antifaz de colores, llamados como artistas del Renacimiento, que comen pizza y viven en las alcantarillas.",
     "profile": "kids",
     "isPop": true
   },
@@ -1996,5 +1996,4235 @@
     "definition": "Película de Disney con la coneja policía Judy Hopps y el zorro Nick Wilde.",
     "profile": "kids",
     "isPop": true
+  },
+  {
+    "id": "794",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Ardilla",
+    "definition": "Pequeño roedor de cola larga y peluda que trepa a los árboles y come piñones y bellotas.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "795",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Alienígena",
+    "definition": "Ser vivo originario de un planeta diferente a la Tierra en historias de ciencia ficción.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "796",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Batman",
+    "definition": "Superhéroe de Gotham que viste de negro con capa de murciélago y conduce el Batmóvil.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "797",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Bufanda",
+    "definition": "Prenda de lana larga que se enrolla al cuello en invierno para protegerse del frío.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "798",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Brócoli",
+    "definition": "Verdura verde con forma de pequeños arbolitos que se come cocida o al vapor.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "799",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Canguro",
+    "definition": "Mamífero de Australia que se desplaza dando grandes saltos y lleva a su cría en una bolsa.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "800",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Charco",
+    "definition": "Pequeña balsa de agua estancada en el suelo tras una lluvia intensa donde a los niños les gusta pisar.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "801",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Charizard",
+    "definition": "Famoso Pokémon con alas de dragón y cola de fuego que es la evolución de Charmeleon.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "802",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Disfraz",
+    "definition": "Vestimenta especial que se pone una persona para parecer un monstruo, héroe o princesa en Carnaval.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "803",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Dormitorio",
+    "definition": "Habitación de la casa destinada a descansar donde está la cama y el armario.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "804",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Erizo",
+    "definition": "Pequeño mamífero terrestre cubierto de púas afiladas que se enrolla en bola cuando se asusta.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "805",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Estuche",
+    "definition": "Funda con cremallera que se guarda en la mochila para llevar lápices, gomas y sacapuntas.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "806",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Eevee",
+    "definition": "Pokémon cuadrúpedo con pelaje marrón capaz de evolucionar en múltiples tipos diferentes.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "807",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Foca",
+    "definition": "Animal marino adaptado a nadar en aguas frías con aletas y abundante grasa bajo la piel.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "808",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Fresa",
+    "definition": "Fruta pequeña de color rojo intenso con pequeñas semillas en la piel y sabor dulce.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "809",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Faro",
+    "definition": "Torre alta situada en la costa que emite una luz giratoria para orientar a los barcos de noche.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "810",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Gorila",
+    "definition": "El primate más grande del mundo que habita en las selvas de África central.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "811",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Guitarra",
+    "definition": "Instrumento musical con caja de madera y seis cuerdas que se tocan con los dedos o púa.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "812",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Grúa",
+    "definition": "Máquina grande y pesada con un brazo metálico largo que eleva cargas en las obras.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "813",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Hipopótamo",
+    "definition": "Gran mamífero africano semiacuático que pasa el día sumergido en ríos y lagos.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "814",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Huevo",
+    "definition": "Cuerpo ovalado con cáscara dura que ponen las aves y del cual nacen sus polluelos.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "815",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Impresora",
+    "definition": "Máquina conectada al ordenador que plasma textos y dibujos sobre hojas de papel.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "816",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Iguana",
+    "definition": "Reptil herbívoro de color verde brillante con escamas y cresta dorsal que toma el sol.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "817",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Jaguar",
+    "definition": "Gran felino americano de pelaje amarillo con manchas negras y mordida muy potente.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "818",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Judo",
+    "definition": "Arte marcial tradicional japonés donde se derriba al oponente sobre un tatami sin golpes.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "819",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Jamón",
+    "definition": "Alimento curado muy popular obtenido de las patas traseras del cerdo.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "820",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Lince",
+    "definition": "Felino salvaje de orejas puntiagudas acabadas en pincel de pelos que vive en los montes ibéricos.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "821",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Linterna",
+    "definition": "Aparato portátil a pilas que proyecta un haz de luz en la oscuridad.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "822",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Mantequilla",
+    "definition": "Producto lácteo cremoso y amarillo que se unta en las tostadas de pan.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "823",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Mario Kart",
+    "definition": "Divertido videojuego de carreras de Nintendo con caparazones, plátanos y karts.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "824",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Museo",
+    "definition": "Edificio donde se guardan y exhiben cuadros, esculturas o esqueletos de dinosaurios.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "825",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Naranja",
+    "definition": "Fruta cítrica redonda de color anaranjado y jugo dulce con vitamina C.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "826",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Narval",
+    "definition": "Cetáceo del Ártico conocido como el unicornio del mar por su largo colmillo espiralado.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "827",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Pañuelo",
+    "definition": "Cuadrado de tela o papel que llevamos en el bolsillo para sonarnos la nariz o secarnos.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "828",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Ostra",
+    "definition": "Molusco marino con dos conchas duras que en ocasiones produce perlas brillantes en su interior.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "829",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Pingüino",
+    "definition": "Ave marina marina de plumaje blanco y negro que no puede volar pero nada con gran agilidad en aguas heladas.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "830",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Puzle",
+    "definition": "Juego de habilidad consistente en encajar piezas de cartón para reconstruir una imagen completa.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "831",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Plastilina",
+    "definition": "Masa blanda de diversos colores con la que los niños modelan figuras en el colegio.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "832",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Quesadilla",
+    "definition": "Tortilla de maíz o trigo doblada rellena de queso fundido típica de la comida mexicana.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "833",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Quitasol",
+    "definition": "Sombrilla grande que se clava en la arena de la playa para dar sombra.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "834",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Rinoceronte",
+    "definition": "Gran mamífero herbívoro de piel muy gruesa con uno o dos cuernos sobre la nariz.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "835",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Rayo",
+    "definition": "Descarga eléctrica natural y luminosa producida entre las nubes durante una tormenta.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "836",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Semáforo",
+    "definition": "Poste con luces verde, amarilla y roja que regula el tráfico de coches y peatones.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "837",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Telescopio",
+    "definition": "Tubo con lentes especiales que se usa para observar de cerca la Luna, los planetas y las estrellas.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "838",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Tortuga",
+    "definition": "Reptil de movimientos lentos protegido por un caparazón rígido que esconde su cabeza.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "839",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Violín",
+    "definition": "Instrumento de cuerda frotada con arco que se apoya en el hombro y bajo la barbilla.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "840",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Voleibol",
+    "definition": "Deporte jugado con una red alta en el que se pasa el balón con las manos sin que toque el suelo.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "841",
+    "letter": "X",
+    "position": "contains",
+    "word": "Xilófono",
+    "definition": "Instrumento musical con láminas de madera o metal ordenadas por tamaños que suenan al golpearlas.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "842",
+    "letter": "X",
+    "position": "contains",
+    "word": "Auxilio",
+    "definition": "Señal o grito de socorro pidiendo ayuda urgente ante una situación de peligro.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "843",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zorro",
+    "definition": "Animal carnívoro de pelaje rojizo y cola espesa conocido por su gran inteligencia.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "863",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Aldeano",
+    "definition": "Personaje pacífico de Minecraft con nariz grande que vive en poblados y hace intercambios comerciales.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "864",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Ash Ketchum",
+    "definition": "Entrenador de Pueblo Paleta protagonista del anime Pokémon cuyo sueño era ser maestro Pokémon.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "865",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Alex",
+    "definition": "Personaje femenino jugable por defecto en Minecraft que viste camisa verde y pelo naranja.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "866",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Alakazam",
+    "definition": "Pokémon de tipo psíquico que sostiene dos cucharas plateadas y posee una gran inteligencia.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "867",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Animal Crossing",
+    "definition": "Videojuego relajante de Nintendo donde te mudas a una isla desierta habitada por animales simpáticos.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "868",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Ariel",
+    "definition": "Sirena pelirroja de Disney que sueña con caminar sobre dos piernas y vivir fuera del mar.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "869",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Arbok",
+    "definition": "Pokémon venenoso con aspecto de gran cobra que intimida con los dibujos de su pecho.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "870",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Allay",
+    "definition": "Criatura azul y voladora de Minecraft que vuela alegremente buscando objetos para el jugador.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "872",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Axolotl",
+    "definition": "Criatura anfibia tierna de Minecraft que nada en cuevas frondosas y ayuda a combatir guardianes.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "873",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Águila",
+    "definition": "Ave rapaz de vuelo majestuoso, vista prodigiosa y garras afiladas que vive en montañas altas.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "874",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Avellana",
+    "definition": "Fruto seco comestible de cáscara leñosa y redonda con el que se elaboran cremas de chocolate.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "875",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Acantilado",
+    "definition": "Terreno rocoso cortado verticalmente y a gran altura sobre las olas de la orilla marina.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "876",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Autocar",
+    "definition": "Vehículo grande de transporte colectivo de pasajeros utilizado para excursiones de colegio.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "877",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Arcilla",
+    "definition": "Tierra blanda y moldeable que se endurece al cocerse en el horno para hacer platos y jarrones.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "878",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Arado",
+    "definition": "Herramienta agrícola que remueve y abre surcos en la tierra de cultivo antes de sembrar.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "879",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Ancla",
+    "definition": "Pieza pesada de hierro unida a una cadena que se echa al fondo del mar para sujetar el barco.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "880",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Albaricoque",
+    "definition": "Fruta dulce y carnosa parecida a un melocotón pequeño de piel anaranjada aterciopelada.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "881",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Avispa",
+    "definition": "Insecto volador provisto de rayas amarillas y negras con un aguijón punzante en la cola.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "882",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Almeja",
+    "definition": "Molusco bivalvo de conchas rayadas que vive enterrado bajo la arena húmeda de la playa.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "883",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Bowser",
+    "definition": "El archienemigo reptil con caparazón de pinchos de Mario que rapta a la princesa Peach.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "884",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Bulbasaur",
+    "definition": "Pokémon inicial de tipo planta con cuatro patas y una semilla bulbosa en el lomo.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "885",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Brawl Stars",
+    "definition": "Divertido videojuego móvil multijugador donde compites en combates rápidos con distintos brawlers.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "886",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Buzz Lightyear",
+    "definition": "Juguete de guardián espacial en Toy Story que vuela gritando «¡Hasta el infinito y más allá!».",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "887",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Blaze",
+    "definition": "Monstruo flotante de Minecraft que vive en fortalezas del Nether y dispara bolas de fuego ardientes.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "888",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Baymax",
+    "definition": "Robot blanco inflable y achuchable programado para cuidar de la salud en Big Hero 6.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "889",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Bakugan",
+    "definition": "Bolas de juguete de plástico que se abren mágicamente revelando guerreros monstruosos.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "890",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Blastoise",
+    "definition": "Gran tortuga de combate Pokémon con dos cañones de agua metálicos que sobresalen de su caparazón.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "891",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Beyblade",
+    "definition": "Peonzas modernas que se lanzan con tirador a un estadio para chocar entre sí hasta que una pare.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "892",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Balsa",
+    "definition": "Plataforma flotante construida con maderos o cañas unidas para navegar por ríos calmados.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "893",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Babosa",
+    "definition": "Molusco terrestre de cuerpo alargado y húmedo parecido al caracol pero sin concha visible.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "894",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Barandilla",
+    "definition": "Pasamanos sostenido por barrotes en los bordes de balcones y escaleras para no caerse.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "895",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Billetera",
+    "definition": "Cartera de bolsillo pequeña de tela o cuero donde los adultos guardan monedas y billetes.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "896",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Bellota",
+    "definition": "Fruto de piel lisa con casquete leñoso que dan encinas y robles y que comen los jabalíes.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "897",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Bigote",
+    "definition": "Hilera de pelos que crece sobre el labio superior de algunos hombres o alrededor del hocico felino.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "898",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Bombilla",
+    "definition": "Globo de cristal con un filamento que emite luz eléctrica cuando se pulsa el interruptor.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "899",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Bandera",
+    "definition": "Trozo de tela rectangular con franjas y escudos de colores que representa a un país o club.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "900",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Botijo",
+    "definition": "Recipiente tradicional de barro cocido con asa y pitorro que mantiene el agua fresca en verano.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "901",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Ballesta",
+    "definition": "Arma antigua compuesta por un arco de metal montado sobre una culata que dispara flechas cortas.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "902",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Cuphead",
+    "definition": "Videojuego retro de plataformas y jefes protagonizado por dos hermanos con tazas por cabeza.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "903",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Crash Bandicoot",
+    "definition": "Marsupial naranja de videojuegos de plataformas que gira sobre sí mismo y rompe cajas de madera.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "904",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Cenicienta",
+    "definition": "Princesa de cuento que acude al baile real y pierde un zapato de cristal a medianoche.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "905",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Capitán América",
+    "definition": "Superhéroe de Marvel que viste con barras y estrellas y pelea empuñando un escudo indestructible.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "906",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Cinderace",
+    "definition": "Pokémon conejo de tipo fuego que chuta piedras ardientes como si fueran balones de fútbol.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "907",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Clash Royale",
+    "definition": "Juego multijugador online de cartas coleccionables donde derribas las torres del rival en tres minutos.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "908",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Coco",
+    "definition": "Película de animación de Pixar ambientada en México y el tradicional Día de Muertos.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "909",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Capi",
+    "definition": "Apodo cariñoso del capitán o líder de pandilla en series juveniles de animación.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "910",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Carretilla",
+    "definition": "Pequeño vehículo manual de una sola rueda con dos varas para transportar tierra y escombros.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "911",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Coliflor",
+    "definition": "Hortaliza de huerta de hojas verdes con una gran masa central blanca y compacta que se cocina.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "912",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Calamar",
+    "definition": "Molusco marino provisto de diez tentáculos y una bolsa de tinta oscura que expulsa al huir.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "913",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Campana",
+    "definition": "Instrumento metálico cóncavo con badajo que produce sonido solemne en las torres de las iglesias.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "914",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Caracol",
+    "definition": "Molusco terrestre que lleva una concha en espiral a cuestas y saca sus pequeños cuernos al sol.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "915",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Cohete",
+    "definition": "Vehículo espacial propulsado por motores de gran potencia que despega rumbo a las estrellas.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "916",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Corona",
+    "definition": "Aro de oro enriquecido con pedrería brillante que llevan los reyes y reinas sobre la cabeza.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "917",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Circo",
+    "definition": "Espectáculo itinerante celebrado bajo una carpa redonda con payasos, acróbatas y malabaristas.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "918",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Cuerda",
+    "definition": "Conjunto de fibras retorcidas resistente que sirve para atar paquetes o saltar en el recreo.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "919",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Cangrejo",
+    "definition": "Crustáceo marino protegido por caparazón duro que camina de lado y tiene dos pinzas delanteras.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "920",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Donald",
+    "definition": "El pato cascarrabias y patoso de Disney que viste chaqueta azul de marinero y pajarita roja.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "921",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Donkey Kong",
+    "definition": "Gran gorila con corbata roja protagonista de videojuegos de Nintendo que adora comer plátanos.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "922",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Dumbo",
+    "definition": "Elefantito de circo de orejas descomunales que aprende a volar batiéndolas por los aires.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "923",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Digimon",
+    "definition": "Monstruos digitales que habitan en la red virtual y evolucionan para combatir villanos.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "924",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Dedenne",
+    "definition": "Pequeño Pokémon roedor de tipo eléctrico y hada con antenas en forma de bigotes redondos.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "925",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Dory",
+    "definition": "Pez cirujano azul muy despistado y alegre con pérdida de memoria a corto plazo en Buscando a Nemo.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "926",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Dragon Ball",
+    "definition": "Legendario anime de aventuras y artes marciales donde buscan siete esferas doradas con estrellas.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "927",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Diamante",
+    "definition": "El mineral más valioso de Minecraft con el que se forjan armaduras celestes muy resistentes.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "928",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Daisy",
+    "definition": "Pata elegante amiga de Minnie Mouse que lleva lazo rosa en la cabeza y zapatos de tacón.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "929",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Delantal",
+    "definition": "Prenda protectora de tela que se ata a la cintura o cuello para no mancharse al cocinar.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "930",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Dedal",
+    "definition": "Pequeña cápsula de metal o plástico con hoyuelos que protege el dedo al empujar la aguja al coser.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "931",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Dentista",
+    "definition": "Médico especialista dedicado a cuidar, empastar y limpiar la salud de nuestros dientes.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "932",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Desván",
+    "definition": "Parte más alta de la casa situada inmediatamente bajo el tejado donde se guardan trastos viejos.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "933",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Director",
+    "definition": "Persona encargada de coordinar y dirigir la organización y las normas de un colegio.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "934",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Duna",
+    "definition": "Colina cambiante de arena fina modelada y desplazada por el viento en el desierto o la playa.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "935",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Dardo",
+    "definition": "Pequeña flecha ligera terminada en punta fina que se lanza a mano contra una diana de corcho.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "936",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Dátil",
+    "definition": "Fruto alargado, dulce y arrugado de color marrón oscuro que nace en racimos de las palmeras.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "937",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Ender Dragon",
+    "definition": "Temible jefe final negro de ojos morados que vuela sobre torres de obsidiana en el último mundo de Minecraft.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "938",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Encanto",
+    "definition": "Película musical animada de Disney sobre la mágica familia Madrigal en las montañas de Colombia.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "939",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Elmo",
+    "definition": "Títere peludo y rojo de Barrio Sésamo de voz aguda al que le encanta reír y aprender jugando.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "940",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Élite 4",
+    "definition": "Grupo de los cuatro entrenadores Pokémon más poderosos que debes derrotar antes del Campeón.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "941",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Eggman",
+    "definition": "Científico orondo villano principal de Sonic the Hedgehog que construye robots para atrapar animales.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "942",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Emote",
+    "definition": "Baile o gesto animado divertido que realiza tu personaje en Fortnite o Roblox para festejar.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "943",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Embudo",
+    "definition": "Utensilio cónico terminado en tubo estrecho que sirve para trasvasar líquidos sin derramarlos.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "944",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Esqueleto",
+    "definition": "Conjunto armónico de todos los huesos que sostiene el cuerpo humano y de animales vertebrados.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "945",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Espantapájaros",
+    "definition": "Muñeco relleno de paja vestido con ropas viejas colocado en los sembrados para ahuyentar aves.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "946",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Estanque",
+    "definition": "Poza artificial o pequeña balsa de agua poco profunda donde nadan patos y peces de colores.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "947",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Escoba",
+    "definition": "Herramienta de limpieza formada por un manojo de fibras o cerdas atadas al extremo de un palo.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "948",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Escalera",
+    "definition": "Serie sucesiva de peldaños que comunica dos niveles distintos para subir y bajar a pie.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "949",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Escurridor",
+    "definition": "Recipiente perforado con múltiples agujeros que se utiliza en la cocina para colar la pasta.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "950",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Esmalte",
+    "definition": "Capa dura y brillante que recubre los dientes protegiéndolos del desgaste y de las caries.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "951",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Esponja",
+    "definition": "Masa flexible llena de poros absorbentes que se utiliza mojada para frotarse y enjabonarse en el baño.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "952",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Freddy",
+    "definition": "Oso animatrónico de pizzería, mascota inquietante de una saga de videojuegos de terror que transcurre durante cinco noches.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "953",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Froakie",
+    "definition": "Pokémon inicial de tipo agua con aspecto de pequeña rana de espuma azul de la región de Kalos.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "954",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Flygon",
+    "definition": "Dragón del desierto Pokémon con grandes ojos protectores verdes como gafas de aviador.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "955",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Furia Nocturna",
+    "definition": "La temida y veloz especie de dragón negro a la que pertenece Desdentao en Cómo entrenar a tu dragón.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "956",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Furby",
+    "definition": "Juguete robotizado peludo con grandes ojos que aprende a hablar y reacciona al tacto.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "957",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Fall Guys",
+    "definition": "Caótico videojuego multijugador de carreras de obstáculos con personajes en forma de alubias torpes.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "958",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Fiona",
+    "definition": "Valiente princesa ogra del pantano que se casa con Shrek rompiendo su hechizo original.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "959",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Flounder",
+    "definition": "Pequeño pez amarillo con rayas azules y muy miedoso que es el mejor amigo de la Sirenita.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "960",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Flareon",
+    "definition": "Evolución cuadrúpeda de tipo fuego de Eevee cubierta por un collarín de pelo muy suave y caliente.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "961",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Flan",
+    "definition": "Postre tradicional cocido al baño maría a base de huevos, leche y azúcar con caramelo líquido.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "962",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Farmacia",
+    "definition": "Establecimiento sanitario donde se dispensan medicamentos y productos de salud.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "963",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Flamenco",
+    "definition": "Ave zancuda alta de patas delgadas y plumaje rosado que suele descansar parada sobre una sola pata.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "964",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Fuelle",
+    "definition": "Aparato flexible que se comprime y ensancha para expulsar aire y avivar las brasas del fuego.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "965",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Fosil",
+    "definition": "Resto mineralizado petrificado de un organismo vegetal o animal que vivió en eras geológicas remotas.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "966",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Farola",
+    "definition": "Poste de hierro con una linterna o bombilla en lo alto que alumbra las aceras durante la noche.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "967",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Ferrocarril",
+    "definition": "Vía formada por dos carriles metálicos paralelos por donde ruedan los trenes y tranvías.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "968",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Fuente",
+    "definition": "Caño o surtidor por el que brota agua para beber o decorar plazas y jardines públicos.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "969",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Frutero",
+    "definition": "Recipiente de cristal, madera o metal que se coloca en la mesa para guardar piezas de fruta.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "970",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Fardo",
+    "definition": "Paquete grande y apretado de paja, heno o ropa envuelto para facilitar su traslado.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "971",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Gengar",
+    "definition": "Travieso y rechoncho Pokémon de tipo fantasma que acecha ocultándose en las sombras nocturnas.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "972",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Golem de Hierro",
+    "definition": "Gigante protector de Minecraft hecho con bloques metálicos y una calabaza tallada en la cabeza.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "973",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Garfield",
+    "definition": "Perezoso y glotón gato atigrado de cómic que odia los lunes y adora devorar lasaña.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "974",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Grogu",
+    "definition": "Pequeño y adorable personaje verdoso sensible a la Fuerza conocido popularmente como Baby Yoda.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "975",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Gumball",
+    "definition": "Gato azul de dibujos animados que vive con su familia y su hermano adoptivo, el pez Darwin.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "976",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Greninja",
+    "definition": "Ninja anfibio Pokémon que lanza estrellas de agua afiladas y viste su lengua como una bufanda.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "977",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Gamemode",
+    "definition": "Comando utilizado en Minecraft para alternar entre el modo supervivencia y el modo creativo.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "978",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Gyarados",
+    "definition": "Gigantesco y furioso dragón marino Pokémon que evoluciona del débil pez Magikarp.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "979",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Geodude",
+    "definition": "Pokémon roca con aspecto de canto rodado que se sostiene y golpea con dos brazos musculosos.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "980",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Groot",
+    "definition": "Criatura con aspecto de árbol viviente de Guardianes de la Galaxia que solo dice siempre la misma frase de tres palabras.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "981",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Galpón",
+    "definition": "Cobertizo amplio de tejado ligero usado en fincas campestres para guardar aperos o ganado.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "982",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Gusano",
+    "definition": "Animal invertebrado blando, alargado y sin patas que repta lentamente excavando tierra húmeda.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "983",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Garbanzo",
+    "definition": "Legumbre esférica y amarillenta muy cultivada en España que se consume cocida en el cocido.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "984",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Granada",
+    "definition": "Fruta otoñal de cáscara dura que encierra en su interior multitud de granos rojos jugosos.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "985",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Gavilán",
+    "definition": "Ave rapaz diurna veloz y ágil de pico curvo que caza pájaros pequeños y ratones de campo.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "986",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Grillo",
+    "definition": "Insecto saltador de color pardo o negro cuyos machos emiten un chirrido estridente frotando sus alas.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "987",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Gotero",
+    "definition": "Tubito de cristal o plástico con pera de goma que permite extraer y verter líquidos gota a gota.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "988",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Granero",
+    "definition": "Construcción o habitación amplia de una hacienda agrícola donde se almacenan granos de trigo o maíz.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "989",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Gominola",
+    "definition": "Golosina tierna y elástica elaborada con gelatina dulce con sabores a frutas variadas.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "990",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Hulk",
+    "definition": "Científico de Marvel que se transforma en un gigante verde hipermusculoso cuando monta en cólera.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "991",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Haunter",
+    "definition": "Pokémon espectral gaseoso de color púrpura que flota y tiene manos separadas de su cuerpo.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "992",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Hawkeye",
+    "definition": "Vengador experto de Marvel apodado Ojo de Halcón por su precisión infalible con el arco y la flecha.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "993",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Hércules",
+    "definition": "Semidiós griego forzudo protagonista de una película animada de Disney con su caballo Pegaso.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "994",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Hot Wheels",
+    "definition": "Famosa marca de coches de juguete en miniatura metálicos que corren por pistas naranjas con loopings.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "995",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "He-Man",
+    "definition": "Clásico héroe de dibujos musculoso que alzaba su espada al grito de «¡Por el poder de Grayskull!».",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "996",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Hitmonlee",
+    "definition": "Pokémon luchador bípedo especialista en asestar veloces y potentes patadas con sus piernas extensibles.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "997",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Hogwarts",
+    "definition": "Colegio mágico de magia y hechicería dividido en cuatro casas: Gryffindor, Slytherin, Ravenclaw y Hufflepuff.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "998",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Herobrine",
+    "definition": "Famoso personaje de leyenda urbana y mito espeluznante creado por los jugadores de Minecraft.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "999",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Herradura",
+    "definition": "Pieza de hierro curvada en forma de U que se clava en los cascos de los caballos para protegerlos.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1000",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Hacha",
+    "definition": "Herramienta de corte formada por una hoja afilada de hierro asegurada a un mango de madera.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1001",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Hormiga",
+    "definition": "Insecto himenóptero muy laborioso que vive en colonias subterráneas organizadas llamadas hormigueros.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1002",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Huracán",
+    "definition": "Viento extraordinariamente violento y destructivo que gira en grandes círculos acompañado de tormentas.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1003",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Hélice",
+    "definition": "Dispositivo con aspas giratorias que impulsa hacia adelante a barcos, helicópteros y aviones.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1004",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Hoguera",
+    "definition": "Fuego encendido al aire libre en el suelo con leña seca para calentarse o celebrar la noche de San Juan.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1005",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Hilo",
+    "definition": "Hebra muy delgada y larga de algodón, lino o seda que se pasa por el ojo de una aguja para coser.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1006",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Hojaldre",
+    "definition": "Masa crujiente de harina y mantequilla que forma hojas superpuestas muy finas al hornearse.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1007",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Hiena",
+    "definition": "Mamífero carnívoro manchado de África que emite un aullido característico parecido a una risa humana.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1008",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Incredibles",
+    "definition": "Familia animada de superhéroes de Pixar donde cada miembro posee un superpoder único.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1009",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Ivysaur",
+    "definition": "Segunda fase evolutiva de Bulbasaur en cuyo lomo brota un gran capullo rosado a punto de abrirse.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1010",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Infernape",
+    "definition": "Ágil Pokémon de tipo fuego y lucha basado en un mono con una corona de llamas en la cabeza.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1011",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Inventario",
+    "definition": "Menú en pantalla de los videojuegos donde se revisan y seleccionan los objetos y armas que llevas.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1012",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Ice Climber",
+    "definition": "Clásico juego arcade de Nintendo sobre dos esquimales con martillo que suben montañas heladas.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1013",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Inkay",
+    "definition": "Pequeño Pokémon calamar que flota en el aire y emite destellos con sus manchas luminosas.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1014",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Illager",
+    "definition": "Nombre que reciben los aldeanos malvados y hostiles que habitan en mansiones oscuras de Minecraft.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1015",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Inuyasha",
+    "definition": "Anime de aventuras sobre un joven mitad humano y mitad demonio canino con una espada colosal.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1016",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Iridio",
+    "definition": "Metal raro y futurista que aparece como material de crafteo valioso en simuladores espaciales.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1017",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Imperdible",
+    "definition": "Alfiler doblado sobre sí mismo con un capuchón que sujeta telas evitando pinchazos accidentales.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1018",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Imprenta",
+    "definition": "Taller o máquina que permite reproducir masivamente textos e ilustraciones en libros de papel.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1019",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Invernadero",
+    "definition": "Recinto cerrado con paredes transparentes de cristal o plástico para cultivar plantas al resguardo del frío.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1020",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Inspector",
+    "definition": "Agente policial que examina pistas con lupa y toma declaración para resolver un enigma o robo.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1021",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Incendio",
+    "definition": "Gran fuego descontrolado que arrasa bosques, pastizales o edificios destruyendo lo que halla a su paso.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1022",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Índice",
+    "definition": "Dedo de la mano situado junto al pulgar que utilizamos naturalmente para señalar las cosas.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1023",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Inyección",
+    "definition": "Introducción a presión de un líquido medicinal en el cuerpo mediante una jeringuilla con aguja.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1024",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Jigglypuff",
+    "definition": "Pokémon redondo, esponjoso y rosado que canta una dulce melodía que hace dormir a quien lo escucha.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1025",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Jessie",
+    "definition": "Miembro del cómico dúo de villanos del Team Rocket que siempre viaja con James y Meowth.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1026",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Jack Sparrow",
+    "definition": "Excéntrico pirata protagonista de Piratas del Caribe que comanda el barco la Perla Negra.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1027",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Jolteon",
+    "definition": "Evolución eléctrica cuadrúpeda de Eevee de pelaje amarillo erizado cargado de miles de voltios.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1028",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Judy Hopps",
+    "definition": "Valiente y decidida conejita policía protagonista de la película de animación Zootrópolis.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1029",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Jafar",
+    "definition": "Malvado visir real y hechicero de Agrabah que desea la lámpara mágica en la película Aladdin.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1030",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Joystick",
+    "definition": "Palanca de mando basculante utilizada en recreativas y consolas para mover a los personajes.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1031",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Jynx",
+    "definition": "Pokémon humanoide con vestido rojo que se balancea de lado a lado bailando rítmicamente.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1032",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Jiminy Cricket",
+    "definition": "El sabio Pepito Grillo que actúa como voz de la conciencia moral de Pinocho en el clásico de Disney.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1033",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Jinete",
+    "definition": "Persona hábil que monta a caballo llevando las riendas con soltura sobre la montura.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1034",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Jabalí",
+    "definition": "Mamífero salvaje pariente del cerdo cubierto de cerdas oscuras con colmillos salientes.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1035",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Jarabe",
+    "definition": "Líquido medicinal espeso y azucarado que los padres dan con cuchara para calmar la tos.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1036",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Joya",
+    "definition": "Adorno suntuoso como un collar o anillo elaborado con metales nobles y piedras preciosas.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1037",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Jalea",
+    "definition": "Conserva dulce y transparente elaborada con zumo filtrado de frutas cocido con azúcar.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1038",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Jaula",
+    "definition": "Estructura formada con barrotes metálicos estrechos donde se mantienen canarios o periquitos.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1039",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Link",
+    "definition": "Valiente guerrero con túnica y espada maestra protagonista de la saga The Legend of Zelda.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1040",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Lucario",
+    "definition": "Pokémon bípedo de tipo lucha y acero con antifaz negro capaz de percibir el aura de sus rivales.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1041",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Lightning McQueen",
+    "definition": "Bólido rojo de carreras número noventa y cinco que compite por la Copa Pistón en la saga Cars.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1042",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Litten",
+    "definition": "Pequeño Pokémon felino de pelaje negro y rojo que ataca escupiendo bolas de fuego.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1043",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Lapras",
+    "definition": "Majestuoso Pokémon marino de cuello largo con caparazón sobre el que los entrenadores navegan.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1044",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Luma",
+    "definition": "Pequeña y brillante criatura con forma de estrella que acompaña a la princesa Rosalina en Mario Galaxy.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1045",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Lilo",
+    "definition": "Niña hawaiana huérfana y de buen corazón que adopta a un revoltoso extraterrestre azul llamado Stitch.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1046",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Latios",
+    "definition": "Legendario Pokémon volador de aspecto aerodinámico semejante a un reactor de color azul.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1047",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Luigi's Mansion",
+    "definition": "Videojuego de Nintendo en el que el hermano de Mario caza fantasmas con una aspiradora en una casa embrujada.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1048",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Leopardo",
+    "definition": "Gran felino carnívoro de excelente vista que trepa árboles con sus presas y tiene manchas redondeadas.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1049",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Lagartija",
+    "definition": "Pequeño reptil muy ágil de cuerpo alargado y cola quebradiza que toma el sol en las paredes de piedra.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1050",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Ladrillo",
+    "definition": "Bloque rectangular de barro cocido empleado en la albañilería para levantar tabiques y muros.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1051",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Langosta",
+    "definition": "Gran crustáceo marino de carne muy valorada provisto de largas antenas y caparazón espinoso.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1052",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Limón",
+    "definition": "Fruta cítrica redonda de piel amarilla muy ácida que se usa para dar sabor a refrescos y ensaladas.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1053",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Lupa",
+    "definition": "Lente convexa montada en un aro con mango que amplía la imagen de los objetos pequeños.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1054",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Lazo",
+    "definition": "Adorno formado por una cinta de tela anudada con dos bucles que se coloca en regalos o coletas.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1055",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Llavero",
+    "definition": "Aro o pequeña cadena de metal donde se ensartan y guardan ordenadas las llaves de casa.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1056",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Lona",
+    "definition": "Tela de algodón o cáñamo muy gruesa y resistente al agua que sirve para toldos y tiendas de campaña.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1057",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Lomo",
+    "definition": "Parte superior de la espalda de los animales cuadrúpedos o pieza de carne tierna del cerdo.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1058",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Mewtwo",
+    "definition": "Pokémon legendario artificial creado por científicos en un laboratorio con descomunal poder psíquico.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1059",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Mickey Mouse",
+    "definition": "El ratón de pantalones rojos y guantes blancos que es el icono histórico de la compañía Disney.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1060",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Minions",
+    "definition": "Pequeños seres amarillos con gafas redondas y peto vaquero que sirven a Gru en Mi villano favorito.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1061",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Moana",
+    "definition": "Joven navegante polinesia elegida por el océano para devolver el corazón de Te Fiti en Vaiana.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1062",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Meowth",
+    "definition": "Pokémon felino que camina sobre dos patas con una moneda dorada en la frente y habla en el anime.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1063",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Metagross",
+    "definition": "Pokémon robótico de cuatro patas metálicas pesadas y gran masa de tipo acero y psíquico.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1064",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Mulan",
+    "definition": "Joven heroína china de Disney que se disfraza de soldado para reemplazar a su padre anciano en la guerra.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1065",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Master Ball",
+    "definition": "La bola definitiva de color morado que captura a cualquier criatura salvaje sin fallar jamás.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1066",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Martillo",
+    "definition": "Herramienta manual con cabeza de acero y mango que se utiliza para golpear y clavar clavos.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1067",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Molino",
+    "definition": "Máquina movida por el viento o el agua con grandes aspas que muele granos de trigo para sacar harina.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1068",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Maleta",
+    "definition": "Caja provista de asa y ruedas que se utiliza para empacar ropa cuando salimos de viaje.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1069",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Medusa",
+    "definition": "Animal marino transparente de cuerpo acampanado y tentáculos venenosos que flotan en el agua.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1070",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Mármol",
+    "definition": "Roca dura y compacta de brillo fino que los escultores tallan para esculpir estatuas.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1071",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Menta",
+    "definition": "Planta aromática silvestre de hojas verdes con un sabor refrescante usada en chicles e infusiones.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1072",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Melocotón",
+    "definition": "Fruta carnosa y jugosa de carne dulce amarilla y piel cubierta por una fina pelusa aterciopelada.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1073",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Muérdago",
+    "definition": "Planta parásita de bayas blancas que crece en las ramas de los robles tradicional de la Navidad.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1074",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Maceta",
+    "definition": "Recipiente de barro cocido o plástico con agujeros en la base donde se plantan flores y geranios.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1075",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Medalla",
+    "definition": "Pieza circular de metal grabada que se cuelga al cuello para premiar al vencedor en una carrera.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1076",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Nether",
+    "definition": "Dimensión subterránea e infernal de Minecraft repleta de ríos de lava roja y cuarzo.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1077",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Nemo",
+    "definition": "Pequeño pez payaso con una aleta más corta que se pierde y es rescatado en el arrecife.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1078",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Nidoran",
+    "definition": "Pequeño Pokémon cuadrúpedo con grandes orejas y púas venenosas de tono azul o rosa.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1079",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Ninjago",
+    "definition": "Línea de juguetes Lego y serie de acción sobre un grupo de ninjas que dominan los elementos.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1080",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Netherita",
+    "definition": "El material de artesanía más resistente y raro de Minecraft que no se quema en la lava.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1081",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Noivern",
+    "definition": "Pokémon alado de tipo dragón y volador con aspecto de murciélago que emite ondas sónicas destructivas.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1082",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Nala",
+    "definition": "Leona amiga de la infancia y futura compañera del rey Simba en El Rey León de Disney.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1083",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Nobita",
+    "definition": "Niño despistado que recibe la ayuda de Doraemon y sus inventos para aprobar los exámenes de clase.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1084",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Nerf",
+    "definition": "Marca de pistolas y lanzadores de juguete que disparan dardos seguros de espuma suave.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1085",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Nevera",
+    "definition": "Electrodoméstico con motor de frío que conserva alimentos frescos y bebidas a baja temperatura.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1086",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Nutria",
+    "definition": "Mamífero acuático simpático de pelaje denso y patas palmeadas que nada boca arriba en los ríos.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1087",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Navaja",
+    "definition": "Cuchillo de bolsillo cuya hoja de acero gira sobre un eje y se guarda plegada en el mango.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1088",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Náufrago",
+    "definition": "Persona que sobrevive al hundimiento de un barco y queda varada en una isla solitaria.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1089",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Nogal",
+    "definition": "Árbol corpulento de copa ancha y madera fina cuyo fruto comestible de cáscara dura es la nuez.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1090",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Neblina",
+    "definition": "Masa densa de vapor de agua en el suelo que reduce la visibilidad en las mañanas de invierno.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1091",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Néctar",
+    "definition": "Jugo dulce azucarado producido por las flores que beben las mariposas y recolectan las abejas.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1092",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Nudo",
+    "definition": "Lazo apretado que se hace cruzando los extremos de una cuerda o de los cordones de las zapatillas.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1093",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Nácar",
+    "definition": "Capa interior dura y brillante con reflejos irisados que tapiza las conchas de algunas ostras.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1094",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Champaña",
+    "definition": "En mundos de fantasía, poción burbujeante festiva que celebra la victoria en un torneo.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1095",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Señor del Fuego",
+    "definition": "Título del gobernante tirano de la nación enemiga en la serie animada Avatar: la leyenda de Aang.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1096",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Ñoqui",
+    "definition": "Tipo de pasta pequeña de patata que sirve el chef italiano en películas de cocina animada.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1097",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Cumpleaños",
+    "definition": "Fiesta anual donde el protagonista sopla las velas de una tarta y recibe regalos de amigos.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1098",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Cañón",
+    "definition": "Bloque funcional o arma fantástica en juegos de asedio que dispara proyectiles de dinamita.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1099",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Muñeca",
+    "definition": "Juguete articulado con forma humana al que se le cambia de vestido y peinado.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1100",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Señuelo",
+    "definition": "Objeto que sirve de engaño para despistar a los monstruos guardianes en los juegos de supervivencia.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1101",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Niño Elegido",
+    "definition": "Título especial que reciben los protagonistas infantiles transportados al Mundo Digital en Digimon.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1102",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Leña",
+    "definition": "Trozos de madera seca cortados del bosque que se queman en la chimenea para dar calor.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1103",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Daño",
+    "definition": "Dolor, herida o perjuicio que sufre una persona o animal tras una caída o accidente.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1104",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Caña",
+    "definition": "Tallo hueco y nudoso de plantas de ribera con el que se fabrican varas para pescar truchas.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1105",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Telaraña",
+    "definition": "Red fina y pegajosa tejida con hilos de seda que construyen las arañas para atrapar moscas.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1106",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Mañana",
+    "definition": "Primeras horas del día desde el amanecer hasta el mediodía en que vamos al colegio.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1107",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Otoño",
+    "definition": "Estación en la que caen las hojas secas de los árboles caducifolios y bajan las temperaturas.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1108",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Arañazo",
+    "definition": "Marca o herida superficial que dejan las uñas de un gato o las espinas de una zarza en la piel.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1109",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Onix",
+    "definition": "Gigantesca serpiente de roca Pokémon compuesta por grandes piedras unidas que excava túneles.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1110",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Optimus Prime",
+    "definition": "Noble líder de los Autobots que se transforma en camión en la saga de Transformers.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1111",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Oshawott",
+    "definition": "Pokémon nutria marina de tipo agua que lleva una concha dura en el vientre para defenderse.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1112",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Obsidiana",
+    "definition": "Bloque morado oscuro muy resistente de Minecraft que se forma al juntar agua con lava quieta.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1113",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Overworld",
+    "definition": "Nombre que recibe el mundo de la superficie normal en los mapas de Minecraft.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1114",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Oddish",
+    "definition": "Pequeño Pokémon planta con cuerpo azul redondo y hojas verdes en la cabeza que camina de noche.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1115",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Ocelote",
+    "definition": "Felino escurridizo de la jungla de Minecraft que los jugadores pueden domesticar dándole pescado.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1116",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Oogway",
+    "definition": "Sabia y anciana tortuga maestra de kung fu que elige al Guerrero del Dragón en Kung Fu Panda.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1117",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Ojo de Ender",
+    "definition": "Objeto místico arrojadizo de Minecraft que flota hacia el portal que conduce al dragón final.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1118",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Orquesta",
+    "definition": "Gran conjunto de músicos con violines, trompetas y timbales dirigidos por un director con batuta.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1119",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Olivo",
+    "definition": "Árbol rústico mediterráneo de tronco retorcido de cuyas aceitunas se extrae el aceite de oliva.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1120",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Olla",
+    "definition": "Recipiente hondo de metal con dos asas y tapadera que se coloca al fuego para hervir guisos.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1121",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Órgano",
+    "definition": "Instrumento musical de gran tamaño con tubos de viento y teclado propio de las catedrales.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1122",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Orilla",
+    "definition": "Línea límite de tierra que toca y bordea las aguas de un río, lago o mar.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1123",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Peach",
+    "definition": "Princesa del Reino Champiñón que viste vestido rosa y suele ser rescatada por Mario.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1124",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Pokedex",
+    "definition": "Dispositivo electrónico de bolsillo que registra los datos y hábitat de todas las especies Pokémon.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1125",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Piglin",
+    "definition": "Criatura con aspecto de cerdo guerrero que habita en el Nether y adora el oro en Minecraft.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1126",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Pato Donald",
+    "definition": "Ave de Disney vestida de marinero, famosa por enfadarse a todas horas y hablar con voz graznante.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1127",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Pocahontas",
+    "definition": "Joven nativa americana de Disney que ama la naturaleza y canta «Colores en el viento».",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1128",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Pinocho",
+    "definition": "Títere de madera al que le crece la nariz cada vez que dice una mentira.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1129",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Psyduck",
+    "definition": "Pokémon pato amarillo que padece continuos dolores de cabeza que desatan poderes psíquicos.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1130",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Peter Pan",
+    "definition": "Niño que no quería crecer y volaba en el País de Nunca Jamás junto a Campanilla.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1131",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Pidgey",
+    "definition": "Común Pokémon pajarillo de plumaje marrón que bate sus alas para levantar remolinos de arena.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1132",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Pizarra",
+    "definition": "Tablero negro o verde de clase sobre el que el maestro escribe con tiza blanca o rotulador.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1133",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Paraguas",
+    "definition": "Armazón plegable de varillas con tela impermeable que abrimos sobre la cabeza al llover.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1134",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Pantera",
+    "definition": "Gran felino carnívoro de pelaje negro brillante que caza al acecho en la selva.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1135",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Paleta",
+    "definition": "Tabla pequeña con un orificio para el pulgar donde el pintor coloca y mezcla sus pinturas.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1136",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Paloma",
+    "definition": "Ave urbana de plumaje gris y pecho tornasolado que suele arrullar en plazas y parques.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1137",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Pirámide",
+    "definition": "Monumental construcción de piedra con base cuadrada y cuatro caras triangulares en Egipto.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1138",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Pato",
+    "definition": "Ave acuática de pico aplanado y patas con dedos unidos por membranas para nadar.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1139",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Papagayo",
+    "definition": "Pájaro tropical de pico curvado y plumaje de vivos colores capaz de repetir palabras humanas.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1140",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Quilava",
+    "definition": "Evolución de Cyndaquil de tipo fuego que lanza llamaradas desde su cabeza y lomo en combate.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1141",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Quaxly",
+    "definition": "Pokémon inicial patito de tipo agua de la región de Paldea con un elegante flequillo azul.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1142",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Queen",
+    "definition": "Reina malvada de Blancanieves que pregunta a su espejo mágico quién es la más hermosa.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1143",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Qwilfish",
+    "definition": "Pokémon pez globo cubierto de espinas afiladas que se infla tragando litros de agua.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1144",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Quick Time Event",
+    "definition": "Mecánica interactiva de videojuegos donde hay que pulsar rápidamente el botón indicado.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1145",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Quagsire",
+    "definition": "Pokémon de agua y tierra de aspecto bonachón y sonrisa despreocupada que nada en fondos lodosos.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1146",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Quests",
+    "definition": "Misiones secundarias y recados que te asignan los personajes no jugadores en videojuegos.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1147",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Quicksilver",
+    "definition": "Superhéroe mutante de Marvel capaz de correr a velocidades superiores a la del sonido.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1148",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Quirrel",
+    "definition": "Tímido profesor de Hogwarts que ocultaba el rostro de Voldemort bajo su turbante morado.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1149",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Querubín",
+    "definition": "Ángel representado en la pintura infantil como un niño alado regordete de mofletes sonrosados.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1150",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Quilla",
+    "definition": "Pieza de madera o acero de proa a popa sobre la que se asienta toda la estructura del barco.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1151",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Quimono",
+    "definition": "Prenda de vestir tradicional japonesa de mangas anchas cruzada por delante y atada con faja.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1152",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Quesera",
+    "definition": "Campana o plato especial con tapadera de cristal utilizado para conservar y servir el queso.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1153",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Quijada",
+    "definition": "Cada una de las dos mandíbulas de los vertebrados donde se asientan las piezas dentales.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1154",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Quinteto",
+    "definition": "Grupo musical compuesto por cinco cantantes o cinco instrumentistas que tocan juntos.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1155",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Quebracho",
+    "definition": "Árbol americano de madera sumamente dura que apenas se pudre con la humedad.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1156",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Quemadura",
+    "definition": "Lesión dolorosa producida en la piel por el contacto con fuego, líquidos hirvientes o sol.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1157",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Rayquaza",
+    "definition": "Legendario dragón celestial verde que vuela en la capa de ozono y calma a Groudon y Kyogre.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1158",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Raichu",
+    "definition": "Evolución de Pikachu con orejas alargadas y cola en forma de relámpago con punta grande.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1159",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Redstone",
+    "definition": "Polvo mineral rojo de Minecraft utilizado para fabricar circuitos eléctricos y mecanismos.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1160",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "R2-D2",
+    "definition": "Pequeño y valiente droide astromecánico cilíndrico de Star Wars que se comunica con pitidos.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1161",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Raph",
+    "definition": "La tortuga ninja de antifaz rojo que pelea armado con dos afilados puñales sai.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1162",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Rapunzel",
+    "definition": "Princesa de larguísima cabellera dorada mágica encerrada en lo alto de una torre en Enredados.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1163",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Ron Weasley",
+    "definition": "El leal amigo pelirrojo de Harry Potter y miembro de la numerosa familia de La Madriguera.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1164",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Riolu",
+    "definition": "Pequeño Pokémon cánido bípedo que siente las emociones de los demás y evoluciona a Lucario.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1165",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Racimo",
+    "definition": "Conjunto apretado de uvas o grosellas sostenidas por un tallo leñoso común.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1166",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Remolque",
+    "definition": "Vehículo de carga sin motor propio ideado para ser arrastrado por un coche o tractor.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1167",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Rábano",
+    "definition": "Planta de huerta con raíz carnosa picante y piel roja o blanca que se toma en ensaladas.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1168",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Refugio",
+    "definition": "Lugar seguro o cabaña de montaña donde resguardarse de temporales y pasar la noche.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1169",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Remo",
+    "definition": "Pala de madera larga que se apoya en la borda del bote para empujar el agua y avanzar.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1170",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Rebaño",
+    "definition": "Grupo numeroso de ovejas o cabras que pastan juntas en el campo cuidadas por un pastor.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1171",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Rastro",
+    "definition": "Huella, olor o señal que deja un animal o persona al desplazarse por el suelo.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1172",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Raqueta",
+    "definition": "Bastidor ovalado con red de cuerdas tensadas y mango que se usa para jugar al tenis.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1173",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Rubí",
+    "definition": "Piedra preciosa de color rojo encendido casi tan dura y resistente como el diamante.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1174",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Snorlax",
+    "definition": "Gigantesco Pokémon dormilón y glotón que bloquea los caminos durmiendo pacíficamente.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1175",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Steve",
+    "definition": "El personaje masculino clásico con camisa celeste que manejas por defecto en Minecraft.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1176",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Squirtle",
+    "definition": "Pequeña tortuga azul Pokémon de tipo agua que dispara chorros a presión por la boca.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1177",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Simba",
+    "definition": "Cachorro de león que debe superar el exilio y reclamar la Roca del Rey tras la marcha de Mufasa.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1178",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Scorbunny",
+    "definition": "Enérgico conejo Pokémon de tipo fuego que da botes constantes calentando las plantas de sus patas.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1179",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Super Mario",
+    "definition": "Franquicia estrella de Nintendo donde el fontanero recorre mundos saltando sobre tuberías verdes.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1180",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Sartén",
+    "definition": "Recipiente redondo de metal con mango largo que se usa en la cocina para freír huevos y tortitas.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1181",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Saco",
+    "definition": "Bolsa grande y resistente de tela rústica usada para almacenar y transportar patatas o grano.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1182",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Sello",
+    "definition": "Pequeño trozo de papel engomado con dibujo que se pega en los sobres para enviar cartas.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1183",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Sillón",
+    "definition": "Asiento individual amplio con brazos acolchados muy cómodo para leer en el salón.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1184",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Soga",
+    "definition": "Cuerda gruesa de esparto o cáñamo que se utiliza para atar bultos pesados o amarrar barcas.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1185",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Selva",
+    "definition": "Bosque tropical húmedo, cálido y de vegetación exuberante donde habitan jaguares y monos.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1186",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Secador",
+    "definition": "Aparato eléctrico que expulsa aire caliente para retirar la humedad del pelo tras la ducha.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1187",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Suéter",
+    "definition": "Prenda de punto de lana o algodón de manga larga que se viste para abrigar el tronco.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1188",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Semilla",
+    "definition": "Grano contenido en el interior de los frutos que al enterrarse y regarse germina una nueva planta.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1189",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Tails",
+    "definition": "Zorro naranja de dos colas con las que vuela como un helicóptero y mejor amigo de Sonic.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1190",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Totodile",
+    "definition": "Alegre Pokémon cocodrilo de mandíbulas fuertes al que le gusta morder todo lo que se mueve.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1191",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Thor",
+    "definition": "Dios del trueno de Marvel que invoca los rayos empuñando su martillo mágico Mjolnir.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1192",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Torchic",
+    "definition": "Pequeño polluelo de fuego Pokémon con plumas anaranjadas que guarda una llama en su interior.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1193",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Toads",
+    "definition": "Habitantes con cabeza de champiñón del reino de la princesa Peach en los juegos de Mario.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1194",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Torterra",
+    "definition": "Enorme Pokémon tortuga de tierra y planta que carga con un árbol frondoso sobre su caparazón.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1195",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Tom",
+    "definition": "Gato doméstico que persigue sin éxito en alocadas carreras al ingenioso ratón Jerry.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1196",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "TNT",
+    "definition": "Bloque explosivo rojo de dinamita en Minecraft que se activa con fuego o polvo de redstone.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1197",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Tyranitar",
+    "definition": "Colosal y acorazado Pokémon de roca y siniestro capaz de derribar montañas con sus pisadas.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1198",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Tenedor",
+    "definition": "Utensilio de mesa con mango y tres o cuatro puntas de metal para clavar los alimentos sólidos.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1199",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Trompeta",
+    "definition": "Instrumento musical de viento-metal con boquilla y tres pistones que emite notas brillantes.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1200",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Tiza",
+    "definition": "Barra de arcilla blanca o coloreada que se usa para escribir lecciones en las pizarras de la escuela.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1201",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Trineo",
+    "definition": "Vehículo sin ruedas provisto de patines con el que deslizarse a gran velocidad sobre la nieve.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1202",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Toalla",
+    "definition": "Pieza de felpa de algodón absorbente que usamos para secarnos el cuerpo tras bañarnos.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1203",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Tallo",
+    "definition": "Parte de las plantas que crece en sentido contrario a la raíz y sostiene las ramas, hojas y flores.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1204",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Tímpano",
+    "definition": "Membrana tensa y delgada del oído que vibra con las ondas sonoras permitiéndonos oír.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1205",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Trigo",
+    "definition": "Cereal de espigas doradas cuyos granos se muelen para fabricar la harina del pan.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1206",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Tapón",
+    "definition": "Pieza de corcho o plástico con la que se cierra herméticamente la boca de una botella.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1207",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Trébol",
+    "definition": "Planta pequeña de prado con tres hojas verdes redondas que raramente presenta cuatro.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1208",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Umbreon",
+    "definition": "Evolución nocturna de Eevee de pelaje negro con anillos amarillos que brillan en la oscuridad.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1209",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Ursula",
+    "definition": "Malvada bruja del mar con tentáculos de pulpo que roba la voz a la sirenita Ariel.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1210",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Ultra Ball",
+    "definition": "Bola de diseño negro y amarillo, con un ratio de captura muy superior, para atrapar criaturas difíciles.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1211",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Unown",
+    "definition": "Misteriosos Pokémon con forma de letras del alfabeto que flotan pegados a las paredes de ruinas.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1212",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Ultratumba",
+    "definition": "Dimensión o reino tenebroso en series de fantasía donde habitan fantasmas y esqueletos errantes.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1213",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Uxie",
+    "definition": "Legendario Pokémon psíquico del trío del lago que simboliza el conocimiento en la región de Sinnoh.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1214",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Uub",
+    "definition": "Reencarnación de buen corazón del monstruo Buu que entrena con Goku en Dragon Ball Z.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1215",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Undyne",
+    "definition": "Heroica capitana de la guardia real con armadura en el videojuego de rol Undertale.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1216",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Uncharted",
+    "definition": "Famosa saga de aventuras en consola con cazatesoros que saltan entre ruinas y templos antiguos.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1217",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Urshifu",
+    "definition": "Legendario oso maestro del kung fu en Pokémon que domina el estilo fluido o el estilo brusco.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1218",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Urraca",
+    "definition": "Ave de plumaje blanco y negro con reflejos irisados conocida por su afición a recoger objetos brillantes.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1219",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Ungüento",
+    "definition": "Pomada medicinal aromática y grasa que se unta sobre la piel para aliviar rozaduras y golpes.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1220",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Urna",
+    "definition": "Caja cerrada con una ranura en la tapa donde se introducen papeletas de voto en las elecciones.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1221",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Umbral",
+    "definition": "Parte inferior de la puerta o entrada donde se pisa justo antes de entrar a una casa.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1222",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Urbanización",
+    "definition": "Zona residencial de viviendas unifamiliares con jardines situada a las afueras de la ciudad.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1223",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Utensilio",
+    "definition": "Objeto o herramienta manual que se emplea para facilitar una tarea doméstica en la cocina.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1224",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Vaporeon",
+    "definition": "Evolución marina de Eevee de color azul con aletas branquiales que nada fundiéndose en el agua.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1225",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Voldemort",
+    "definition": "El temible mago tenebroso al que llaman 'El que no debe ser nombrado' en Harry Potter.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1226",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "V-Bucks",
+    "definition": "Moneda virtual oficial de Fortnite conocida como PaVos con la que comprar bailes y skins.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1227",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Venusaur",
+    "definition": "Majestuosa evolución final de Bulbasaur con una enorme flor abierta de pétalos rosas en el lomo.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1228",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Villano",
+    "definition": "Personaje malvado de las historias de ficción que combate contra el superhéroe protagonista.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1229",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Vector",
+    "definition": "Simpático villano con chándal naranja y gafas de Mi villano favorito que roba la Luna.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1230",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Victini",
+    "definition": "Pokémon mítico con grandes orejas en forma de V que trae la victoria asegurada a su entrenador.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1231",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Vulpix",
+    "definition": "Encantador zorro Pokémon de seis colas rizadas de color castaño que lanza pequeñas ascuas.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1232",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Vindicator",
+    "definition": "Hostil enemigo de Minecraft armado con un hacha de hierro que patrulla las aldeas asaltadas.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1233",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Venom",
+    "definition": "Antihéroe simbionte alienígena negro de dientes afilados y lengua kilométrica rival de Spiderman.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1234",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Velero",
+    "definition": "Barco de recreo que aprovecha la fuerza del viento impulsando sus grandes lonas desplegadas.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1235",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Vainilla",
+    "definition": "Especia aromática dulce muy apreciada que se saca de las vainas de una orquídea tropical.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1236",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Veleta",
+    "definition": "Figura metálica giratoria colocada en el tejado que gira indicando la dirección del viento.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1237",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Vaso",
+    "definition": "Recipiente cilíndrico de vidrio o plástico que llenamos de zumo o agua para beber en la mesa.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1238",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Ventana",
+    "definition": "Abertura practicada en la pared con cristal para que entre la luz natural del día y ventilar.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1239",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Vivero",
+    "definition": "Instalación comercial especializada donde se germinan, cuidan y venden plantas y macetas.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1240",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Víbora",
+    "definition": "Serpiente venenosa con cabeza triangular de pupilas verticales que habita en zonas pedregosas.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1241",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Vajilla",
+    "definition": "Conjunto completo de platos, tazas y fuentes que se utiliza para servir la comida a la mesa.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1242",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Venda",
+    "definition": "Tira elástica de gasa que se enrolla firmemente sobre una articulación lastimada para inmovilizarla.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1243",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Vestidor",
+    "definition": "Habitación o zona de la casa acondicionada con armarios abiertos para guardar la ropa.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1244",
+    "letter": "X",
+    "position": "contains",
+    "word": "XP",
+    "definition": "Puntos de experiencia verdes que recoges en Minecraft al minar o derrotar enemigos para encantar.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1245",
+    "letter": "X",
+    "position": "contains",
+    "word": "Xerneas",
+    "definition": "Legendario ciervo Pokémon con grandes cuernos iluminados por los siete colores del arcoíris.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1246",
+    "letter": "X",
+    "position": "contains",
+    "word": "Pixelmon",
+    "definition": "Popular mod de Minecraft que introduce criaturas Pokémon y gimnasios en el mapa de cubos.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1247",
+    "letter": "X",
+    "position": "contains",
+    "word": "X-Men",
+    "definition": "Grupo de superhéroes mutantes liderados por el Profesor X que luchan por la convivencia pacífica.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1248",
+    "letter": "X",
+    "position": "contains",
+    "word": "Xbox",
+    "definition": "Conocida videoconsola de sobremesa creada por Microsoft con mando de cruceta y dos joysticks.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1249",
+    "letter": "X",
+    "position": "contains",
+    "word": "Xylourgos",
+    "definition": "Mundo helado mítico en aventuras espaciales de ficción donde se exploran secretos antiguos.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1250",
+    "letter": "X",
+    "position": "contains",
+    "word": "Roxas",
+    "definition": "Personaje portador de la llave espada en la saga de videojuegos Kingdom Hearts.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1251",
+    "letter": "X",
+    "position": "contains",
+    "word": "Fox McCloud",
+    "definition": "Zorro piloto espacial líder del equipo Star Fox en los videojuegos de naves de Nintendo.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1252",
+    "letter": "X",
+    "position": "contains",
+    "word": "Rex",
+    "definition": "Entrañable tiranosaurio verde de plástico algo nervioso y miedica de la saga Toy Story.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1253",
+    "letter": "X",
+    "position": "contains",
+    "word": "Asterix",
+    "definition": "Pequeño y astuto guerrero galo de bigote rubio que bebe poción mágica para vencer a los romanos.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1254",
+    "letter": "X",
+    "position": "contains",
+    "word": "Saxofón",
+    "definition": "Instrumento musical de viento fabricado en latón dorado con boquilla de caña que suena en el jazz.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1255",
+    "letter": "X",
+    "position": "contains",
+    "word": "Excavadora",
+    "definition": "Potente máquina de construcción con una gran pala frontal que remueve y carga tierra en zanjas.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1256",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "Yoda",
+    "definition": "Pequeño y sabio maestro jedi de piel verde de Star Wars que empuña una espada láser verde.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1257",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "Yveltal",
+    "definition": "Legendario Pokémon con forma de gran ave destructora con alas y cola que forman una letra Y.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1258",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "Yu-Gi-Oh!",
+    "definition": "Anime y juego de cartas coleccionables sobre duelos de monstruos y magos oscuros.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1259",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "Yo-kai Watch",
+    "definition": "Reloj especial que permite a su portador ver e interactuar con seres espirituales traviesos.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1260",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "Yamper",
+    "definition": "Adorable Pokémon perrito de tipo eléctrico con forma de corgi que corretea persiguiendo pelotas.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1261",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "Yanmega",
+    "definition": "Gran libélula prehistórica Pokémon que vuela a velocidades supersónicas creando ondas de choque.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1262",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "YouTube Kids",
+    "definition": "Aplicación de vídeos filtrados con dibujos, canciones y programas infantiles seguros.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1263",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "Yzma",
+    "definition": "Cómica y malvada hechicera de El emperador y sus locuras que convierte a Kuzco en llama.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1264",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "Yancy",
+    "definition": "Personaje entrañable de videojuegos al que ayudas en aventuras secundarias.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1265",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "Yegua",
+    "definition": "Hembra adulta del caballo que amamanta y cuida a su pequeño potro en el establo.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1266",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "Yunque",
+    "definition": "Bloque de acero macizo sobre el que el herrero golpea el metal con martillo.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1267",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "Yodo",
+    "definition": "Elemento químico y líquido oscuro desinfectante que se aplica en las heridas para curarlas.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1268",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "Yacaré",
+    "definition": "Caimán de gran tamaño propio de los ríos y pantanos de Sudamérica.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1269",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "Yuca",
+    "definition": "Planta tropical cuya raíz alargada de carne blanca y piel marrón se come cocida como la patata.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1270",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zamazenta",
+    "definition": "Pokémon legendario con forma de león acorazado con un escudo dorado en el pecho.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1271",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zangoose",
+    "definition": "Ágil Pokémon de pelaje blanco con garras afiladas y una cicatriz roja enemigo de Seviper.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1272",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zekrom",
+    "definition": "Majestuoso dragón negro legendario de tipo eléctrico que genera tormentas con su cola de turbina.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1273",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zafiro",
+    "definition": "Gema azul brillante muy codiciada en aventuras de rol y videojuegos de exploración fantástica.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1274",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zombie Pigman",
+    "definition": "Criatura clásica neutral de Minecraft armada con espada de oro que patrullaba en grupo el Nether.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1275",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zoroark",
+    "definition": "Pokémon zorro siniestro que viste melena carmesí capaz de crear ilusiones para engañar a sus rivales.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1276",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zurg",
+    "definition": "Malvado emperador galáctico con cuernos y túnica morada enemigo jurado de Buzz Lightyear.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1277",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zubat",
+    "definition": "Frecuente Pokémon murciélago azul que habita en las cuevas oscuras y se orienta por ultrasonidos.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1278",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zygarde",
+    "definition": "Legendario Pokémon guardián del ecosistema que reúne células verdes hasta formar un dragón colosal.",
+    "profile": "kids",
+    "isPop": true
+  },
+  {
+    "id": "1279",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zapatilla",
+    "definition": "Calzado ligero y cómodo de tela o cuero con suela de goma que usamos para hacer deporte.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1280",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zócalo",
+    "definition": "Franja inferior de una pared que se pinta o recubre de azulejos para protegerla de golpes y roces.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1281",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zumbido",
+    "definition": "Sonido continuo, monótono y apagado que hacen las abejas y abejorros al volar cerca.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1282",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zapatero",
+    "definition": "Artesano que tiene por oficio arreglar suelas, poner tapas y coser calzado estropeado.",
+    "profile": "kids",
+    "isPop": false
+  },
+  {
+    "id": "1283",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zarzamora",
+    "definition": "Fruta silvestre formada por pequeños granos negros jugosos que crece en zarzas espinosas de campo.",
+    "profile": "kids",
+    "isPop": false
   }
 ]

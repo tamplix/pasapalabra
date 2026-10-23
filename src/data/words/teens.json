@@ -1906,5 +1906,2804 @@
     "definition": "Bebida refrescante habitual a la hora de merendar con amigos.",
     "profile": "teens",
     "isPop": false
+  },
+  {
+    "id": "844",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Átomo",
+    "definition": "Unidad elemental de la materia compuesta por protones, neutrones y electrones.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "845",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Ciberseguridad",
+    "definition": "Conjunto de técnicas y prácticas destinadas a proteger sistemas informáticos y redes de ciberataques.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "846",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Enzima",
+    "definition": "Proteína globular que actúa como catalizador biológico acelerando las reacciones químicas celulares.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "847",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Genoma",
+    "definition": "Secuencia completa de material genético contenida en los cromosomas de un organismo.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "848",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Jujutsu Kaisen",
+    "definition": "Mítico manga y anime japonés sobre hechiceros que combaten maldiciones sobrenaturales.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "849",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Juicio",
+    "definition": "Capacidad cognitiva de deliberar y discernir la verdad o proceso judicial ante un tribunal de derecho.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "850",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "JPEG",
+    "definition": "Formato estándar de compresión digital con pérdida comúnmente empleado para almacenar fotografías.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "851",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Mitocondria",
+    "definition": "Orgánulo celular eucariota encargado de generar la mayor parte de la energía en forma de ATP.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "852",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Engaño",
+    "definition": "Falta de verdad intencionada con la que se hace creer a alguien algo ficticio en juegos y debates.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "853",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Utopía",
+    "definition": "Concepción teórica de un sistema social y político ideal pero considerado irrealizable en la práctica.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1284",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Among Us",
+    "definition": "Videojuego multijugador online donde los tripulantes deben completar tareas y desenmascarar a los impostores.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1285",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "AFK",
+    "definition": "Sigla de 'Away From Keyboard' usada para avisar en chats y partidas online de que alguien se aparta del teclado.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1286",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Attack on Titan",
+    "definition": "Anime shonen de gran éxito sobre gigantes devoradores de humanos conocido en Japón como Shingeki no Kyojin.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1287",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Arcane",
+    "definition": "Serie animada aclamada de Riot Games y Netflix inspirada en el universo y campeones de League of Legends.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1288",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Aim",
+    "definition": "Habilidad o precisión de puntería que demuestra un jugador en shooters competitivos como Valorant o CS:GO.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1289",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Anuel",
+    "definition": "Cantante puertorriqueño pionero del trap latino y la música urbana conocido por frases virales como 'Real hasta la muerte'.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1290",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Asoka",
+    "definition": "Tendencia y reto viral de maquillaje hiperelaborado sincronizado con música india popularizado en TikTok.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1291",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Amnistía",
+    "definition": "Medida jurídica y política que extingue la responsabilidad penal y borra los delitos de un grupo de personas.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1292",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Anatomía",
+    "definition": "Ciencia biológica que analiza la estructura, situación, forma y relación de las distintas partes del cuerpo orgánico.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1293",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Axioma",
+    "definition": "Proposición o principio tan evidente e indudable que se asume sin necesidad de demostración previa en matemáticas.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1294",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Aliteración",
+    "definition": "Recurso poético que consiste en la repetición perceptible de un mismo sonido consonántico a lo largo de un verso.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1295",
+    "letter": "A",
+    "position": "starts_with",
+    "word": "Anticuerpo",
+    "definition": "Proteína producida por el sistema inmunitario en respuesta a la presencia de un antígeno extraño invasor.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1296",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Banear",
+    "definition": "Bloquear, expulsar o restringir el acceso de un usuario a un videojuego, canal de Discord o servidor por infringir normas.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1297",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Bad Bunny",
+    "definition": "Cantante y compositor puertorriqueño superestrella del reggaetón y trap latino autor del disco 'Un Verano Sin Ti'.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1298",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Bleach",
+    "definition": "Famoso manga y anime shonen creado por Tite Kubo sobre shinigamis que guían almas y combaten monstruos huecos.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1299",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Brawl Stars",
+    "definition": "Videojuego móvil de acción por equipos en arenas, creado por Supercell, donde se eligen personajes con habilidades propias.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1300",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Battle Royale",
+    "definition": "Modo de juego multijugador masivo de supervivencia donde decenas de jugadores luchan hasta que solo uno queda en pie.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1301",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Buffear",
+    "definition": "Modificar un arma, personaje o habilidad en un parche de videojuego para aumentar su poder y eficacia.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1302",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Baitear",
+    "definition": "Engañar o provocar deliberadamente a un rival en internet o en un videojuego para que cometa un error ingenuo.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1303",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Barómetro",
+    "definition": "Instrumento de medición meteorológica que sirve para registrar la presión atmosférica del aire.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1304",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Bipolar",
+    "definition": "Trastorno mental o del estado de ánimo caracterizado por fluctuaciones extremas entre episodios de manía y depresión.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1305",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Burguesía",
+    "definition": "Clase social acomodada surgida en la Edad Media propietaria de los medios de producción y capital en la era industrial.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1306",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Balística",
+    "definition": "Disciplina que estudia el movimiento, trayectoria, alcance y efectos del impacto de los proyectiles disparados.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1307",
+    "letter": "B",
+    "position": "starts_with",
+    "word": "Bicarbonato",
+    "definition": "Sal química compuesta soluble en agua comúnmente utilizada en repostería y como remedio antiácido digestivo.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1308",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Cyberpunk",
+    "definition": "Subgénero de ciencia ficción distópica caracterizado por alta tecnología combinada con una sociedad marginada y luces de neón.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1309",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Caster",
+    "definition": "Persona que narra, comenta y analiza en directo las jugadas de torneos de esports o competiciones de videojuegos.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1310",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Carrilear",
+    "definition": "Llevar el peso de la partida y liderar a todo el equipo hacia la victoria en videojuegos competitivos como LoL o Valorant.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1311",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Cazzu",
+    "definition": "Cantante y rapera argentina referente del trap latinoapodada la jefa del trap.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1312",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Chainsaw Man",
+    "definition": "Popular manga y anime de acción sobrenatural sobre Denji, un joven fusionado con un demonio motosierra.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1313",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Clavada",
+    "definition": "Expresión coloquial adolescente para calificar un examen que ha salido impecable y con máxima nota.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1314",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Custom",
+    "definition": "Partida personalizada y privada configurada por los propios jugadores con reglas específicas entre amigos.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1315",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Cartografía",
+    "definition": "Ciencia, arte y técnica ocupada en el trazado, análisis, diseño y estudio sistemático de mapas y globos terráqueos.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1316",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Clorofila",
+    "definition": "Pigmento vegetal verde contenido en los cloroplastos capaz de captar la energía solar para realizar la fotosíntesis.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1317",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Cóncavo",
+    "definition": "Superficie o línea curva que presenta una depresión o curvatura similar a la parte interior de una esfera hueca.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1318",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Coherencia",
+    "definition": "Relación lógica, ordenada y sin contradicciones internas que vincula las partes integrantes de un discurso o texto.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1319",
+    "letter": "C",
+    "position": "starts_with",
+    "word": "Centrifugado",
+    "definition": "Procedimiento mecánico que separa sustancias sólidas y líquidas de distinta densidad haciéndolas girar a gran velocidad.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1320",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Duki",
+    "definition": "Rapero y pionero del trap en Argentina surgido de las batallas del Quinto Escalón y consagrado en estadios.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1321",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Demon Slayer",
+    "definition": "Anime de enorme éxito mundial centrado en Tanjiro Kamado y su lucha por salvar a su hermana Nezuko.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1322",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "DPS",
+    "definition": "Sigla de 'Damage Per Second' que designa en videojuegos de rol y disparos a personajes enfocados en infligir gran daño.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1323",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Duolingo",
+    "definition": "Aplicación móvil de aprendizaje gamificado de idiomas representada por un búho verde que envía recordatorios insistentes.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1324",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Drip",
+    "definition": "Término del argot urbano que alude a tener un estilo de vestir llamativo, elegante, moderno y lleno de swag.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1325",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "DLC",
+    "definition": "Sigla de 'Downloadable Content' que designa el contenido digital descargable adicional creado para expandir un videojuego.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1326",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Digestión",
+    "definition": "Proceso fisiológico por el cual el organismo descompone y absorbe los nutrientes de los alimentos en el tubo digestivo.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1327",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Dialéctica",
+    "definition": "Método filosófico de razonamiento y argumentación que busca la verdad a través del contraste de tesis opuestas.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1328",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Despoblación",
+    "definition": "Pérdida progresiva y masiva de habitantes humanos que sufre un territorio o comarca rural por emigración a las ciudades.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1329",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Deformación",
+    "definition": "Alteración de la forma, volumen o configuración geométrica original de un cuerpo debido al sometimiento a una fuerza externa.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1330",
+    "letter": "D",
+    "position": "starts_with",
+    "word": "Disolvente",
+    "definition": "Sustancia líquida capaz de dispersar homogéneamente a otra llamada soluto para conformar una mezcla homogénea.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1331",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Epic Games",
+    "definition": "Empresa desarrolladora de videojuegos creadora del motor gráfico Unreal Engine y del fenómeno mundial Fortnite.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1332",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Elden Ring",
+    "definition": "Aclamado videojuego de rol y acción en mundo abierto dirigido por Hidetaka Miyazaki y con mitología de George R. R. Martin.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1333",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Elo",
+    "definition": "Sistema de puntuación matemática que calcula el nivel de habilidad relativo de un jugador en ajedrez y partidas clasificatorias online.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1334",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Evangelion",
+    "definition": "Clásico anime psicológico y de ciencia ficción mecha de culto creado por Hideaki Anno protagonizado por Shinji Ikari.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1335",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Edit",
+    "definition": "Vídeo breve con montaje rítmico acelerado y efectos visuales sobre personajes de series o famosos compartido en TikTok.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1336",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Emote",
+    "definition": "Animación o baile expresivo que realiza un personaje en pantalla o icono en chats de Twitch para reaccionar a una jugada.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1337",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Easter Egg",
+    "definition": "Mensaje, referencia o secreto oculto deliberadamente por los desarrolladores dentro de un videojuego o película.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1338",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Early Access",
+    "definition": "Modelo de comercialización de videojuegos donde los usuarios compran y prueban el título mientras aún está en desarrollo.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1339",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Electorado",
+    "definition": "Conjunto total de ciudadanos de un país que poseen legalmente el derecho a ejercer el voto en unos comicios oficiales.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1340",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Epicentro",
+    "definition": "Punto de la superficie terrestre situado en la vertical exacta sobre el hipocentro o foco donde se origina un terremoto.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1341",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Elipse",
+    "definition": "Curva geométrica cerrada plana y simétrica en la que la suma de las distancias desde cualquier punto a dos focos es constante.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1342",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Embrión",
+    "definition": "Organismo animal o vegetal en sus fases iniciales de desarrollo desde la fecundación del cigoto hasta adquirir forma básica.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1343",
+    "letter": "E",
+    "position": "starts_with",
+    "word": "Estambre",
+    "definition": "Órgano reproductor masculino de las flores constituido por un filamento y una antera repleta de granos de polen.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1344",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Fortnite",
+    "definition": "Fenómeno mundial de videojuego battle royale donde cien jugadores se lanzan a una isla construyendo y luchando.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1345",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "FPS",
+    "definition": "Sigla que designa tanto los fotogramas por segundo de fluidez gráfica como el género de disparos en primera persona.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1346",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Free Fire",
+    "definition": "Popular y accesible videojuego móvil de supervivencia y disparos battle royale muy jugado en Latinoamérica y Asia.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1347",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "FNAF",
+    "definition": "Sigla de Five Nights at Freddy's, famosa saga de videojuegos de terror y suspense protagonizada por muñecos animatrónicos.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1348",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Flashear",
+    "definition": "Proyectar o arrojar una granada cegadora en un videojuego shooter para dejar momentáneamente en blanco la visión enemiga.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1349",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Fonética",
+    "definition": "Rama de la lingüística experimental que se ocupa del estudio material de la producción y percepción de los sonidos del habla.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1350",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Factorización",
+    "definition": "Descomposición analítica de un polinomio o de un número entero en el producto de sus factores irreducibles o primos.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1351",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Fermentación",
+    "definition": "Proceso metabólico anaeróbico catabólico que degrada azúcares por acción de microorganismos como levaduras o bacterias.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1352",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Fractura",
+    "definition": "Rotura traumática parcial o total de la continuidad de un hueso en el esqueleto o de una capa rocosa en geología.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1353",
+    "letter": "F",
+    "position": "starts_with",
+    "word": "Filogenia",
+    "definition": "Historia y reconstrucción del parentesco evolutivo que vincula a las diferentes especies a lo largo del tiempo biológico.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1354",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Genshin Impact",
+    "definition": "Popular videojuego de rol de acción en mundo abierto de estética anime con sistema de combate elemental y personajes gacha.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1355",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "GTA",
+    "definition": "Sigla de Grand Theft Auto, aclamada y polémica saga de videojuegos en mundo abierto desarrollada por Rockstar Games.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1356",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Grefg",
+    "definition": "Popular streamer y creador de contenido murciano famoso por sus directos multitudinarios de Fortnite y récords en Twitch.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1357",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "GG",
+    "definition": "Abreviatura en chats de 'Good Game' que se escribe cordialmente al término de una partida multijugador para felicitar.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1358",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Gacha",
+    "definition": "Sistema de monetización en videojuegos donde se invierten monedas virtuales para obtener personajes o armas al azar.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1359",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Grifear",
+    "definition": "Acto destructivo en videojuegos multijugador como Minecraft consistente en destrozar deliberadamente las creaciones ajenas.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1360",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Gameto",
+    "definition": "Célula sexual haploide reproductora especializada, como el óvulo o el espermatozoide, que se une a otra en la fecundación.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1361",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Glóbulo",
+    "definition": "Célula suspendida en el plasma sanguíneo, clasificada en eritrocitos transportadores de oxígeno y leucocitos inmunes.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1362",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Glucosa",
+    "definition": "Monosacárido fundamental soluble en agua que constituye la principal fuente de energía metabólica de las células vivas.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1363",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Gramática",
+    "definition": "Disciplina lingüística que establece las reglas y normas que determinan la correcta articulación y uso de una lengua.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1364",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Gradiente",
+    "definition": "Razón de variación que experimenta una magnitud física o química respecto al cambio continuo de distancia espacial.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1365",
+    "letter": "G",
+    "position": "starts_with",
+    "word": "Genocidio",
+    "definition": "Exterminio o eliminación sistemática y planificada de un grupo humano por motivos étnicos, raciales, religiosos o nacionales.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1366",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Haikyuu",
+    "definition": "Anime y manga deportivo muy seguido sobre un club escolar de voleibol y la superación del pequeño Shoyo Hinata.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1367",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Hitbox",
+    "definition": "Zona geométrica invisible que envuelve a un personaje en un videojuego para registrar los impactos de golpes o disparos.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1368",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Haterismo",
+    "definition": "Actitud generalizada de desprecio y hostilidad tóxica sistemática fomentada en los comentarios de redes sociales.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1369",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Hollow",
+    "definition": "Alma corrompida y monstruosa con máscara blanca que combaten los shinigamis en el universo del anime Bleach.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1370",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Hypear",
+    "definition": "Fomentar o calentar las expectativas del público mediante vídeos cortos, filtraciones y pistas antes de un lanzamiento.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1371",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Histología",
+    "definition": "Rama especializada de la biología microscópica que examina la estructura, composición y función de los tejidos orgánicos.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1372",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Hipotenusa",
+    "definition": "El lado opuesto al ángulo recto en un triángulo rectángulo y que posee la mayor longitud de los tres lados.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1373",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Hidrocarburo",
+    "definition": "Compuesto químico orgánico elemental formado de manera exclusiva por átomos de carbono y de hidrógeno como el metano.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1374",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Heterocigoto",
+    "definition": "Individuo que posee dos alelos diferentes de un gen específico en los cromosomas homólogos de sus células diploides.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1375",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Híbrido",
+    "definition": "Organismo resultante del cruce biológico reproductivo entre dos individuos de especies o subespecies diferentes.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1376",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Hemoglobina",
+    "definition": "Proteína globular que contiene hierro en los glóbulos rojos y que fija y transporta el oxígeno por el sistema circulatorio.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1377",
+    "letter": "H",
+    "position": "starts_with",
+    "word": "Hexágono",
+    "definition": "Polígono plano cerrado delimitado por seis lados y seis vértices cuyos ángulos internos suman setecientos veinte grados.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1378",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "IlloJuan",
+    "definition": "Querido streamer malagueño famoso por su humor cotidiano, directos de videojuegos nostálgicos y naturalidad ante la cámara.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1379",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "IShowSpeed",
+    "definition": "Popular y excéntrico streamer estadounidense famoso por sus directos impredecibles y su devoción viral por Cristiano Ronaldo.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1380",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Instakill",
+    "definition": "Muerte o eliminación inmediata e instantánea de un personaje de un solo golpe o disparo en un videojuego de acción.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1381",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Indie",
+    "definition": "Videojuego desarrollado de manera autónoma por estudios pequeños o individuales sin el respaldo financiero de una gran editora.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1382",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Invocar",
+    "definition": "Realizar una tirada en un juego gacha o lanzar un encantamiento en una aventura de rol para hacer aparecer un aliado.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1383",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "IRL",
+    "definition": "Sigla de 'In Real Life' que identifica a los directos o contenidos donde el streamer sale a la calle a mostrar su vida cotidiana.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1384",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Itachi",
+    "definition": "Legendario y trágico shinobi renegado del clan Uchiha en el anime Naruto conocido por su dominio del Sharingan.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1385",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Ionización",
+    "definition": "Proceso físico o químico por el que un átomo o molécula neutra gana o pierde electrones adquiriendo carga eléctrica.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1386",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Isótopo",
+    "definition": "Cada una de las variedades atómicas de un mismo elemento químico que poseen igual número de protones pero distinto número de neutrones.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1387",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Infinitivo",
+    "definition": "Forma verbal no personal que nombra la acción de manera genérica sin expresar persona, número ni tiempo y termina en ar, er o ir.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1388",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Inflación",
+    "definition": "Proceso económico generalizado y sostenido en el tiempo de elevación de precios que merma el poder adquisitivo del dinero.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1389",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Incógnita",
+    "definition": "Valor o cantidad desconocida dentro de una ecuación o problema que debe deducirse a través de cálculos matemáticos.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1390",
+    "letter": "I",
+    "position": "starts_with",
+    "word": "Invertebrado",
+    "definition": "Animal que carece por completo de columna vertebral ósea y de esqueleto interno articulado como los insectos o moluscos.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1391",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Joji",
+    "definition": "Cantante y productor musical que cosechó enorme éxito internacional tras dejar su faceta viral cómica en YouTube como Filthy Frank.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1392",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "JoJo",
+    "definition": "Saga de manga y anime sobre el linaje Joestar conocida por sus poses estilizadas, stands y batallas extravagantes.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1393",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Jumpscare",
+    "definition": "Recurso cinemático o de videojuegos de terror consistente en sobresaltar al usuario con una imagen repentina y un fuerte chillido.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1394",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Jhin",
+    "definition": "Campeón de League of Legends con aspecto de tirador y asesino metódico obsesionado con el arte teatral y el número cuatro.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1395",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Jinx",
+    "definition": "Caótica campeona armada con cohetes de League of Legends que protagoniza la serie de animación Arcane en Netflix.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1396",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Joycon",
+    "definition": "Cada uno de los dos pequeños mandos desacoplables y sensibles al movimiento que equipa la consola Nintendo Switch.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1397",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Junglear",
+    "definition": "Asumir en videojuegos MOBA el rol de recorrer las zonas boscosas neutrales para emboscar a los rivales por sorpresa.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1398",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "J Balvin",
+    "definition": "Influyente cantante colombiano de música urbana que globalizó éxitos mundiales de reggaetón en festivales internacionales.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1399",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Japo",
+    "definition": "Forma coloquial y abreviada, muy extendida entre adolescentes, de llamar al restaurante de sushi y ramen.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1400",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Jurisprudencia",
+    "definition": "Conjunto sistemático de sentencias y doctrina jurídica uniforme asentada por los tribunales superiores de justicia.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1401",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Jurado",
+    "definition": "Órgano colegiado de ciudadanos legos convocado en un tribunal para emitir un veredicto de culpabilidad o inocencia.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1402",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Jerarquía",
+    "definition": "Organización escalonada de personas, conceptos o cargos en función de grados de subordinación y autoridad creciente.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1403",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Juramento",
+    "definition": "Promesa solemne que se presta invocando a una deidad o a la propia conciencia como garantía de decir la verdad o cumplir un deber.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1404",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Jabonoso",
+    "definition": "Que contiene jabón o que presenta una textura resbaladiza y espumosa semejante al frotarlo con agua.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1405",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Jónico",
+    "definition": "Uno de los tres órdenes clásicos de la arquitectura griega caracterizado por columnas esbeltas rematadas en volutas espirales.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1406",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Júpiter",
+    "definition": "El planeta más voluminoso y masivo del sistema solar, clasificado como gigante gaseoso y rodeado de decenas de lunas.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1407",
+    "letter": "J",
+    "position": "starts_with",
+    "word": "Jaspe",
+    "definition": "Variedad mineral de cuarzo microcristalino opaco y compacto que luce vetas de vivos colores rojo, pardo o amarillo.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1408",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "League of Legends",
+    "definition": "Conocidísimo videojuego competitivo de arena de combate online por equipos conocido popularmente por su sigla LoL.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1409",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Loot",
+    "definition": "Botín compuesto por armas, munición y recursos que un jugador recoge tras abrir cofres o derrotar enemigos en combate.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1410",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Levi",
+    "definition": "Virtuoso capitán de la Legión de Reconocimiento temido por su letal destreza contra titanes en Shingeki no Kyojin.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1411",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Lamine Yamal",
+    "definition": "Joven prodigio del fútbol español que deslumbró mundialmente en la Eurocopa y en el FC Barcelona con solo dieciséis años.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1412",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Lobby",
+    "definition": "Sala de espera digital dentro de un videojuego donde los usuarios se congregan antes de iniciar la partida definitiva.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1413",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Light Yagami",
+    "definition": "Brillante estudiante protagonista del anime Death Note que encuentra una libreta sobrenatural con la que castigar criminales.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1414",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Líquido",
+    "definition": "Estado de agregación de la materia que presenta volumen constante pero adopta la forma del recipiente que lo contiene.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1415",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Lente",
+    "definition": "Dispositivo transparente de cristal pulido con dos superficies curvas que refracta la luz para corregir la visión o ampliar imágenes.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1416",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Linfocito",
+    "definition": "Variedad de glóbulo blanco del sistema inmunitario responsable de la producción de anticuerpos y defensa contra virus.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1417",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Litósfera",
+    "definition": "Capa superficial sólida, rígida y rocosa que compone la corteza y el manto más externo de la Tierra.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1418",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Leyenda",
+    "definition": "Relato tradicional transmitido de generación en generación que mezcla sucesos históricos con elementos fantásticos.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1419",
+    "letter": "L",
+    "position": "starts_with",
+    "word": "Logaritmo",
+    "definition": "Exponente al que es necesario elevar una base dada para obtener como resultado un número determinado en cálculo algebraico.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1420",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Main",
+    "definition": "El personaje, arma o rol predilecto que un jugador domina y utiliza con mayor asiduidad en un videojuego competitivo.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1421",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Multiverso",
+    "definition": "Hipótesis cosmológica y recurso recurrente de ficción donde coexisten múltiples realidades y dimensiones paralelas.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1422",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Muteado",
+    "definition": "Condición de un usuario al que se le ha silenciado el micrófono en una llamada grupal o en un canal de voz de Discord.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1423",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "My Hero Academia",
+    "definition": "Exitoso anime shonen de superhéroes adolescentes en un instituto, protagonizado por Izuku Midoriya, que sueña con suceder a All Might.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1424",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Mod",
+    "definition": "Modificación o parche de software desarrollado por la comunidad para alterar o expandir un juego como Minecraft o GTA.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1425",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Meta",
+    "definition": "La táctica, combinación de personajes o estrategia más eficiente y dominante en un videojuego multijugador en un momento dado.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1426",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Morad",
+    "definition": "Cantante de drill y música urbana de L'Hospitalet que acumula millones de reproducciones retratando la vida de barrio.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1427",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Metáfora",
+    "definition": "Figura retórica literaria consistente en trasladar el sentido directo de una palabra a otro figurado por una analogía oculta.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1428",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Mecánica",
+    "definition": "Rama de la física fundamental que describe el movimiento y reposo de los cuerpos bajo la acción de diversas fuerzas.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1429",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Mutación",
+    "definition": "Alteración accidental y hereditaria en la secuencia de nucleótidos del ADN de un ser vivo que genera variabilidad genética.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1430",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Masa",
+    "definition": "Propiedad intrínseca de la materia que determina cuantitativamente su inercia y su interacción gravitatoria con otros cuerpos.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1431",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Mineral",
+    "definition": "Sustancia sólida inorgánica de origen natural que posee una composición química definida y una estructura cristalina ordenada.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1432",
+    "letter": "M",
+    "position": "starts_with",
+    "word": "Morfología",
+    "definition": "Parte de la gramática que investiga la estructura interna de las palabras, sus lexemas y sus morfemas constitutivos.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1433",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Nerfear",
+    "definition": "Reducir deliberadamente en una actualización el daño o efectividad de un arma o habilidad para equilibrar el juego.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1434",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Noob",
+    "definition": "Término derivado de 'newbie' empleado de forma despectiva o cómica para señalar a alguien torpe o recién llegado a un juego.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1435",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Naruto",
+    "definition": "Legendario anime y manga sobre un ninja rubio marginado en su aldea que lucha con determinación por ganarse el respeto de todos.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1436",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Nicki Nicole",
+    "definition": "Joven cantante y compositora argentina de trap y R&B latino destacada por sus éxitos y colaboraciones internacionales.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1437",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Nuzlocke",
+    "definition": "Desafiante modalidad de juego autoimpuesta en Pokémon donde una criatura debilitada se considera muerta para siempre.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1438",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Nathy Peluso",
+    "definition": "Versátil cantante y compositora hispanoargentina que fusiona géneros como hip hop, salsa, jazz y música urbana.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1439",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Nezuko",
+    "definition": "Personaje de Demon Slayer convertida en demonio que combate junto a su hermano portando un bozal de bambú.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1440",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Noscope",
+    "definition": "Eliminar a un adversario en un videojuego shooter disparando un fusil de francotirador desde la cadera sin abrir la mira.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1441",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Neolítico",
+    "definition": "Periodo prehistórico de la Edad de Piedra pulimentada en que la humanidad descubrió la agricultura, la ganadería y el sedentarismo.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1442",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Neutrón",
+    "definition": "Partícula subatómica sin carga eléctrica neta situada junto a los protones en el núcleo de casi todos los átomos.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1443",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Neoclasicismo",
+    "definition": "Movimiento cultural y artístico del siglo XVIII que reivindicó la sobriedad, el equilibrio y la armonía formal de la Antigüedad grecorromana.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1444",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Nomenclatura",
+    "definition": "Conjunto sistematizado de términos, símbolos y normas técnicas adoptado para denominar compuestos en una ciencia.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1445",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Nematodo",
+    "definition": "Gusano cilíndrico invertebrado no segmentado que habita en suelos, aguas o como parásito de plantas y animales.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1446",
+    "letter": "N",
+    "position": "starts_with",
+    "word": "Neutralización",
+    "definition": "Reacción química entre un ácido y una base que genera como productos una sal inorgánica y agua equilibrando el pH.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1447",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "España",
+    "definition": "País de origen de reconocidos creadores de contenido, streamers y de la competición Kings League.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1448",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Cumpleaños",
+    "definition": "Evento personal celebrado en redes recibiendo felicitaciones y menciones en historias temporales.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1449",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Castaña",
+    "definition": "Fruto otoñal comestible de corteza lustrosa que se recolecta en los bosques y se come asado.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1450",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Cabaña",
+    "definition": "Casa rústica de dimensiones reducidas construida con troncos y maderas en parajes montañosos.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1451",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Araña",
+    "definition": "Arácnido artrópodo dotado de ocho patas y quelíceros que teje complejas redes de seda para capturar insectos.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1452",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Otoño",
+    "definition": "Estación intermedia del año en la que los árboles de hoja caduca pierden su follaje y se acortan los días.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1453",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Leña",
+    "definition": "Conjunto de ramas y maderos cortados que se emplean para alimentar el fuego de una estufa o chimenea.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1454",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Niñez",
+    "definition": "Periodo inicial de la vida humana que abarca desde el nacimiento hasta la entrada en la pubertad.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1455",
+    "letter": "Ñ",
+    "position": "contains",
+    "word": "Pañuelo",
+    "definition": "Trozo cuadrado de tela fina o papel desechable que se utiliza para limpiarse la nariz o las lágrimas.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1456",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "One Piece",
+    "definition": "Legendario manga de Eiichiro Oda sobre Monkey D. Luffy y su tripulación pirata en busca del mayor tesoro del mundo.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1457",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "OP",
+    "definition": "Abreviatura de 'Overpowered' que se utiliza para quejarse de un arma o personaje ridículamente fuerte.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1458",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Onetap",
+    "definition": "Disparo certero a la cabeza que fulmina instantáneamente al rival en juegos como Counter-Strike o Valorant.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1459",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Opening",
+    "definition": "Canción y secuencia de vídeo introductoria que abre cada episodio de una serie de anime.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1460",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Osu",
+    "definition": "Exigente videojuego musical de ritmo rápido donde se pulsan círculos en pantalla al compás de canciones de anime.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1461",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Ozuna",
+    "definition": "Famoso cantante y compositor puertorriqueño de reggaetón y trap melódico apodado 'El negrito de ojos claros'.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1462",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Oligarquía",
+    "definition": "Sistema político en el cual el poder efectivo de gobierno está concentrado en manos de una minoría privilegiada.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1463",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Ovíparo",
+    "definition": "Animal cuya reproducción se efectúa mediante la puesta de huevos que eclosionan fuera del cuerpo materno.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1464",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Ortografía",
+    "definition": "Conjunto estandarizado de reglas y convenciones que rigen la correcta escritura de las palabras en una lengua.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1465",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Osmorregulación",
+    "definition": "Proceso fisiológico por el cual un ser vivo mantiene constante la presión osmótica y el equilibrio de agua y sales.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1466",
+    "letter": "O",
+    "position": "starts_with",
+    "word": "Oratoria",
+    "definition": "Arte de hablar en público con elocuencia, persuasión y rigor retórico para convencer a la audiencia.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1467",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Ping",
+    "definition": "Tiempo de latencia en milisegundos que tarda un paquete de datos en viajar entre tu equipo y el servidor del juego.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1468",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Poke",
+    "definition": "Tazón gastronómico hawaiano de base de arroz con pescado crudo y aguacate muy popular en salidas juveniles.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1469",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Postear",
+    "definition": "Publicar un mensaje, fotografía o vídeo en el muro de una red social para que lo vean tus seguidores.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1470",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "POV",
+    "definition": "Sigla de 'Point of View' usada en TikTok para situar al espectador en primera persona en una escena cómica.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1471",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Primor",
+    "definition": "Cadena de perfumerías y cosmética 'low cost' muy frecuentada por adolescentes para comprar productos de 'skincare'.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1472",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Pop Smoke",
+    "definition": "Recordado rapero neoyorquino considerado una de las mayores figuras del movimiento drill antes de su fallecimiento.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1473",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Polisemia",
+    "definition": "Fenómeno lingüístico por el cual una misma palabra o signo posee varios significados diferentes pero emparentados.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1474",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Proporcionalidad",
+    "definition": "Relación matemática constante y equilibrada que vincula magnitudes que crecen o decrecen de forma coordinada.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1475",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Parasitismo",
+    "definition": "Relación biológica simbiótica en la que un organismo vive a expensas de otro huésped causándole un perjuicio.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1476",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Paleolítico",
+    "definition": "Periodo más extenso y antiguo de la Prehistoria en que los homínidos usaban piedras talladas y vivían de la caza.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1477",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Plaqueta",
+    "definition": "Fragmento celular sanguíneo sin núcleo indispensable para la coagulación y reparación de roturas en vasos sanguíneos.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1478",
+    "letter": "P",
+    "position": "starts_with",
+    "word": "Péndulo",
+    "definition": "Sistema físico suspendido de un punto fijo que oscila rítmicamente a un lado y a otro bajo el influjo de la gravedad.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1479",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Quackity",
+    "definition": "Conocido creador de contenido y streamer bilingüe mexicano famoso por sus series internacionales de Minecraft.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1480",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Quevedo",
+    "definition": "Joven cantante de música urbana canario que arrasó mundialmente en las listas con la Session 52 de Bizarrap.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1481",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Quickscope",
+    "definition": "Técnica de puntería en shooters que consiste en apuntar con la mira de francotirador y disparar al mismo instante.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1482",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Quirk",
+    "definition": "En el anime My Hero Academia, nombre con el que se designa al don o superpoder innato que posee cada individuo.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1483",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Quico",
+    "definition": "Famoso personaje mimado y cachetón de la vecindad cómica de El Chavo del 8.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1484",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Quest",
+    "definition": "Misión u objetivo principal que un personaje debe completar en una aventura gráfica o videojuego de rol.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1485",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Quit",
+    "definition": "Opción de menú para cerrar la aplicación o abandonar de forma prematura una partida en curso.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1486",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "QWERTY",
+    "definition": "Distribución de teclado más extendida en ordenadores y teléfonos móviles nombrada por sus seis primeras teclas.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1487",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Quintal",
+    "definition": "Antigua unidad de medida de peso que equivalía tradicionalmente a cien libras o unos cuarenta y seis kilogramos.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1488",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Quirófano",
+    "definition": "Sala quirúrgica limpia y equipada con tecnología médica avanzada donde se realizan operaciones complejas.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1489",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Quimiorreceptor",
+    "definition": "Célula sensorial capaz de captar estímulos químicos del entorno y convertirlos en señales nerviosas como el olfato.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1490",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Queratina",
+    "definition": "Proteína fibrosa rica en azufre que forma la estructura fundamental del cabello humano, las uñas y las pezuñas.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1491",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Quiste",
+    "definition": "Bolsa membranosa anormal cerrada que se forma en tejidos u órganos conteniendo líquido o materia semisólida.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1492",
+    "letter": "Q",
+    "position": "starts_with",
+    "word": "Quiebra",
+    "definition": "Situación económica y jurídica de una empresa o persona cuyos pasivos superan su patrimonio cesando sus pagos.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1493",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Rauw Alejandro",
+    "definition": "Cantante, bailarín y compositor puertorriqueño de música urbana famoso por sus coreografías y estilo en el reggaetón.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1494",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Ragequit",
+    "definition": "Abandonar con enfado una partida online desconectándose de golpe tras una derrota o muerte injusta.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1495",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Rankear",
+    "definition": "Escalar posiciones o subir de división competitiva en la tabla clasificatoria de un videojuego online.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1496",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Rushing",
+    "definition": "Táctica ofensiva rápida y agresiva en videojuegos donde un equipo ataca sin demora la posición del enemigo.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1497",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Roblox",
+    "definition": "Plataforma masiva donde millones de jugadores crean avatares y juegan mundos programados por la comunidad.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1498",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Respawn",
+    "definition": "Reaparición de un personaje en el punto de inicio tras haber sido abatido en una partida multijugador.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1499",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Retórica",
+    "definition": "Arte humanístico del buen decir que proporciona herramientas discursivas para embellecer y convencer con el lenguaje.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1500",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Ribosoma",
+    "definition": "Complejo molecular citoplasmático compuesto por proteínas y ARN encargado de la síntesis de nuevas proteínas celulares.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1501",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Reacción",
+    "definition": "Transformación química en la que una o varias sustancias iniciales rompen enlaces para constituir compuestos nuevos.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1502",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Renacimiento",
+    "definition": "Movimiento cultural y artístico europeo de los siglos XV y XVI que retomó los ideales de la Antigüedad clásica.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1503",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Racionalismo",
+    "definition": "Doctrina filosófica que defiende que la razón humana es la fuente principal e infalible de todo conocimiento auténtico.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1504",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "República",
+    "definition": "Forma de organización del Estado en la que la máxima autoridad es elegida por los ciudadanos o por el parlamento.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1505",
+    "letter": "R",
+    "position": "starts_with",
+    "word": "Radiación",
+    "definition": "Emisión, propagación y transferencia continua de energía en forma de ondas electromagnéticas o partículas subatómicas.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1506",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Streamer",
+    "definition": "Creador que emite en directo sus partidas de videojuegos, charlas o entretenimiento a través de internet.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1507",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Skin",
+    "definition": "Aspecto visual, atuendo o traje cosmético alternativo que personaliza la apariencia de un personaje o arma en un juego.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1508",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Smurf",
+    "definition": "Cuenta secundaria que un jugador experto se crea para jugar contra usuarios novatos y ganar fácilmente.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1509",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Sukuna",
+    "definition": "Temible y sanguinario rey de las maldiciones sellado en los dedos de Yuji Itadori en el anime Jujutsu Kaisen.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1510",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Sheesh",
+    "definition": "Exclamación viral anglosajona que se pronuncia con tono agudo para manifestar asombro, admiración o sorpresa ante algo top.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1511",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Sinapsis",
+    "definition": "Zona de conexión funcional microscópica entre dos neuronas a través de la cual se transmiten neurotransmisores.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1512",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Subjuntivo",
+    "definition": "Modo gramatical verbal que expresa acciones hipotéticas, deseos, dudas o posibilidades en la oración subordinada.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1513",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Solubilidad",
+    "definition": "Medida de la capacidad que posee una determinada sustancia para disolverse en un disolvente a temperatura fija.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1514",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Soberanía",
+    "definition": "Poder político supremo, independiente e inapelable que corresponde a un Estado o a la ciudadanía de una nación.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1515",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Supernova",
+    "definition": "Explosión estelar cataclísmica y descomunal que destruye una estrella masiva emitiendo un fulgor visible a años luz.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1516",
+    "letter": "S",
+    "position": "starts_with",
+    "word": "Sector",
+    "definition": "Parte claramente diferenciada de una actividad económica o porción de un círculo comprendida entre dos radios.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1517",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Tryhard",
+    "definition": "Jugador que se toma una partida casual de manera exageradamente competitiva esforzándose como si fuera una final.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1518",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Tilt",
+    "definition": "Estado psicológico de frustración o enfado descontrolado en el que un jugador empieza a encadenar errores absurdos.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1519",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Tanjiro",
+    "definition": "Joven espadachín compasivo y esforzado protagonista del anime y manga Kimetsu no Yaiba.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1520",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Travis Scott",
+    "definition": "Influyente rapero estadounidense de trap célebre por sus apoteósicos conciertos y colaboraciones de zapatillas.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1521",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Toxicidad",
+    "definition": "Ambiente cargado de hostilidad, insultos y mal compañerismo habitual en chats de partidas clasificatorias online.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1522",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Tangente",
+    "definition": "Línea recta que toca a una curva en un solo punto sin llegar a cortarla en su entorno inmediato.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1523",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Tejido",
+    "definition": "Conjunto integrado de células semejantes organizadas para desempeñar una función biológica concreta en el organismo.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1524",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Tipografía",
+    "definition": "Arte, técnica y disciplina que diseña y selecciona familias de tipos de letras para imprimir o mostrar textos legibles.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1525",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Tensión",
+    "definition": "Magnitud física que representa la fuerza por unidad de superficie o la diferencia de potencial eléctrico entre dos puntos.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1526",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Totalitarismo",
+    "definition": "Régimen político opresivo no democrático donde el Estado concentra todo el poder suprimiendo libertades ciudadanas.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1527",
+    "letter": "T",
+    "position": "starts_with",
+    "word": "Transcripción",
+    "definition": "Proceso celular mediante el cual la información genética contenida en el ADN se copia en una molécula de ARN mensajero.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1528",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Uzi",
+    "definition": "Subfusil ametrallador compacto de origen israelí que aparece recurrentemente en videojuegos de disparos tácticos.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1529",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Unreal",
+    "definition": "Potente motor gráfico tridimensional desarrollado por Epic Games empleado en títulos punteros de consola y PC.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1530",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Uchiha",
+    "definition": "Trágico y formidable clan de ninjas poseedores del dojutsu Sharingan en el universo del anime Naruto.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1531",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Ultear",
+    "definition": "Maga poderosa capaz de manipular el tiempo que aparece en las aventuras del anime Fairy Tail.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1532",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Ulti",
+    "definition": "Término coloquial abreviado con el que los jugadores nombran la habilidad definitiva más poderosa de su personaje.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1533",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Undertale",
+    "definition": "Aclamado videojuego indie de rol creado por Toby Fox célebre por permitir perdonar a los enemigos en lugar de eliminarlos.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1534",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Urbanismo",
+    "definition": "Disciplina técnica y social enfocada en la planificación, diseño y ordenación racional del espacio en las ciudades.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1535",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Unicelular",
+    "definition": "Organismo vivo primitivo compuesto en su totalidad por una sola célula independiente como protozoos o bacterias.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1536",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Uranio",
+    "definition": "Elemento químico metálico radiactivo de elevado peso atómico empleado como combustible nuclear en reactores de energía.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1537",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Usufructo",
+    "definition": "Derecho real civil a percibir y disfrutar de los frutos de un bien ajeno conservando su forma y sustancia.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1538",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Unilateral",
+    "definition": "Decisión, acuerdo o acto jurídico adoptado por una sola de las partes involucradas sin contar con la opinión ajena.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1539",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Urgencia",
+    "definition": "Necesidad apremiante e inaplazable que exige una actuación inmediata para evitar un daño mayor.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1540",
+    "letter": "U",
+    "position": "starts_with",
+    "word": "Umbral",
+    "definition": "Cantidad mínima de estímulo requerida para que un receptor sensorial o sistema nervioso perciba una señal.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1541",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "V-Bucks",
+    "definition": "Moneda virtual oficial de Fortnite, conocida popularmente en español como PaVos, para adquirir cosméticos en la tienda.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1542",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Velada",
+    "definition": "Macroevento anual de boxeo entre creadores de contenido organizado por Ibai Llanos con récords de audiencia en Twitch.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1543",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "VTuber",
+    "definition": "Creador de contenido digital que utiliza un avatar virtual animado bidimensional o tridimensional en vez de mostrar su cara real.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1544",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Viper",
+    "definition": "Agente controladora tóxica en Valorant capaz de levantar pantallas de humo y muros corrosivos en el mapa.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1545",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Villano",
+    "definition": "Antagonista malvado de cómics o películas que urde planes perversos para enfrentarse al héroe de la historia.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1546",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Vandal",
+    "definition": "Uno de los rifles de asalto más letales y utilizados en el videojuego Valorant por su capacidad de eliminar de un tiro.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1547",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Vertebrado",
+    "definition": "Animal perteneciente al subfilo de los cordados que cuenta con un esqueleto interno articulado y columna vertebral.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1548",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Variable",
+    "definition": "Magnitud que puede adoptar diferentes valores numéricos dentro de un conjunto o fórmula matemática en álgebra.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1549",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Verso",
+    "definition": "Cada una de las líneas que componen un poema, sujeta a menudo a una medida silábica y a un ritmo de rima.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1550",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Vértice",
+    "definition": "Punto geométrico común donde confluyen los dos lados de un ángulo o las aristas de un poliedro.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1551",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Viscosidad",
+    "definition": "Resistencia interna que ofrece un fluido a fluir o deformarse debido al rozamiento entre sus propias moléculas.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1552",
+    "letter": "V",
+    "position": "starts_with",
+    "word": "Vegetación",
+    "definition": "Conjunto total de las plantas y comunidades florales que tapizan de forma natural un territorio o región geográfica.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1553",
+    "letter": "X",
+    "position": "contains",
+    "word": "Xbox",
+    "definition": "Marca de consolas de sobremesa y ecosistema de videojuegos desarrollada por la multinacional Microsoft.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1554",
+    "letter": "X",
+    "position": "contains",
+    "word": "XP",
+    "definition": "Puntos de experiencia que acumula un personaje de videojuego para subir de nivel y desbloquear mejoras.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1555",
+    "letter": "X",
+    "position": "contains",
+    "word": "Xokas",
+    "definition": "Popular y enérgico streamer gallego de Twitch conocido por sus opiniones directas y su dedicación a los videojuegos.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1556",
+    "letter": "X",
+    "position": "contains",
+    "word": "X-Men",
+    "definition": "Grupo de superhéroes mutantes de Marvel que luchan por la integración pacífica bajo la guía del Profesor Xavier.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1557",
+    "letter": "X",
+    "position": "contains",
+    "word": "Fixear",
+    "definition": "Anglicismo adaptado que significa corregir o solucionar un error o bug en una línea de código o programa informático.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1558",
+    "letter": "X",
+    "position": "contains",
+    "word": "Matrix",
+    "definition": "Trilogía cinemática de ciencia ficción donde la humanidad vive engañada en una simulación virtual controlada por máquinas.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1559",
+    "letter": "X",
+    "position": "contains",
+    "word": "Examen",
+    "definition": "Prueba formal de evaluación académica que mide los conocimientos y competencias adquiridos por un alumno en una materia.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1560",
+    "letter": "X",
+    "position": "contains",
+    "word": "Exilio",
+    "definition": "Expulsión forzosa o abandono voluntario de una persona de su país natal por motivos políticos, bélicos o de persecución.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1561",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "Yugi",
+    "definition": "Protagonista del anime Yu-Gi-Oh! que resuelve un rompecabezas milenario y disputa duelos de cartas mágicas.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1562",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "Yone",
+    "definition": "Campeón de espadas espirituales en League of Legends que regresa del más allá y es el hermano de Yasuo.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1563",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "Yasuo",
+    "definition": "Campeón de espada de viento en League of Legends famoso por su habilidad de deslizarse y su muro defensivo.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1564",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "Ysy A",
+    "definition": "Reconocido rapero argentino pionero del movimiento del trap y fundador de la mítica competencia El Quinto Escalón.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1565",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "Yamcha",
+    "definition": "Guerrero z del anime Dragon Ball recordado por su famosa postura derrotado en el cráter de un saibaman.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1566",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "Yuji",
+    "definition": "Protagonista de Jujutsu Kaisen que se traga un dedo maldito de Sukuna adquiriendo descomunal fuerza física.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1567",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "Yandere",
+    "definition": "Arquetipo de personaje en el anime que aparenta dulzura pero muestra una obsesión violenta y peligrosa por amor.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1568",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "Yatra",
+    "definition": "Cantante colombiano de música pop y reggaetón romántico autor de éxitos como 'Tacones Rojos': Sebastián ...",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1569",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "Yegua",
+    "definition": "Hembra adulta de la especie equina domesticada apreciada en actividades agrícolas, deportivas y de cría.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1570",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "Yodo",
+    "definition": "Elemento halógeno no metálico de color violeta oscuro que interviene en el funcionamiento de la glándula tiroides.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1571",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "Yeso",
+    "definition": "Mineral sedimentario de sulfato cálcico que molido y mezclado con agua fragua con rapidez en construcción y vendajes.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1572",
+    "letter": "Y",
+    "position": "starts_with",
+    "word": "Yugular",
+    "definition": "Cada una de las dos venas mayores situadas a ambos lados del cuello que devuelven la sangre de la cabeza hacia el corazón.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1573",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zoro",
+    "definition": "Formidable espadachín con pañuelo verde que domina el estilo de combate de tres espadas en la tripulación de One Piece.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1574",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zelda",
+    "definition": "Legendaria saga de videojuegos de aventura y acción de Nintendo protagonizada por el héroe Link en el reino de Hyrule.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1575",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zedd",
+    "definition": "Famoso DJ y productor ruso-alemán de música electrónica electrohouse laureado con premios Grammy por sus canciones.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1576",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zarcort",
+    "definition": "Popular rapero y youtuber español pionero en componer y viralizar temas de rap dedicados a videojuegos.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1577",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zamasu",
+    "definition": "Antagonista del anime Dragon Ball Super, un dios aprendiz que urde el plan Cero Humanos robando el cuerpo de Goku.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1578",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zonear",
+    "definition": "Controlar el espacio en un videojuego manteniendo al oponente a distancia con proyectiles o habilidades de control.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1579",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zed",
+    "definition": "Sombrío asesino ninja que domina las sombras y las cuchillas shuriken en el videojuego League of Legends.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1580",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zoomer",
+    "definition": "Apelativo coloquial con el que se identifica a los miembros de la Generación Z nacidos en plena era de internet y móviles.",
+    "profile": "teens",
+    "isPop": true
+  },
+  {
+    "id": "1581",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zanja",
+    "definition": "Excavación estrecha y profunda practicada en la tierra para colocar conducciones de agua, gas o desagüe.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1582",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zócalo",
+    "definition": "Cuerpo inferior o franja baja de un muro que se destaca decorativamente o para resguardar la pared de la humedad.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1583",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zozobrar",
+    "definition": "Dicho de una embarcación que peligra de volcar por fuerza del oleaje o estar el ánimo en profunda angustia.",
+    "profile": "teens",
+    "isPop": false
+  },
+  {
+    "id": "1584",
+    "letter": "Z",
+    "position": "starts_with",
+    "word": "Zepelín",
+    "definition": "Antigua aeronave aerostática dirigida de gran envergadura rellena de gas más ligero que el aire con barquilla para viajeros.",
+    "profile": "teens",
+    "isPop": false
   }
 ]

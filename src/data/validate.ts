@@ -26,29 +26,57 @@ function firstLetter(word: string): string {
   return normalize(word)[0]?.toUpperCase() ?? ''
 }
 
+const tokens = (text: string) =>
+  text
+    .toLowerCase()
+    .replace(/ñ/g, '\u0001')
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/\u0001/g, 'ñ')
+    .split(/[^a-z0-9ñ]+/)
+    .filter(Boolean)
+
+/** La definición delata la respuesta si repite alguna palabra significativa (≥4 letras) de la solución, aunque sea en plural o derivada. */
+export function leaksAnswer(word: string, definition: string): boolean {
+  const defTokens = tokens(definition)
+  return tokens(word)
+    .filter((t) => t.length >= 4)
+    .some((t) => defTokens.some((d) => d.startsWith(t)))
+}
+
+/** Comprobaciones de una palabra por sí sola (esquema, posición de la letra y definición que delata). */
+export function validateWord(w: WordRecord): Issue[] {
+  const parsed = wordSchema.safeParse(w)
+  if (!parsed.success) {
+    return [{ level: 'error', id: w.id, message: parsed.error.issues.map((i) => i.message).join('; ') }]
+  }
+  const issues: Issue[] = []
+  const norm = normalize(w.word)
+  if (w.position === 'starts_with' && firstLetter(w.word) !== w.letter) {
+    issues.push({ level: 'error', id: w.id, message: `«${w.word}» no empieza por ${w.letter}` })
+  }
+  if (w.position === 'contains' && !norm.includes(w.letter.toLowerCase())) {
+    issues.push({ level: 'error', id: w.id, message: `«${w.word}» no contiene la ${w.letter}` })
+  }
+  if (leaksAnswer(w.word, w.definition)) {
+    issues.push({ level: 'warning', id: w.id, message: `la definición de «${w.word}» contiene la propia palabra` })
+  }
+  return issues
+}
+
 export function validateBank(bank: readonly WordRecord[], minPerLetter = 5): Issue[] {
   const issues: Issue[] = []
   const seenIds = new Set<string>()
   const seenWords = new Map<string, WordRecord>()
 
   for (const w of bank) {
-    const parsed = wordSchema.safeParse(w)
-    if (!parsed.success) {
-      issues.push({ level: 'error', id: w.id, message: parsed.error.issues.map((i) => i.message).join('; ') })
-      continue
-    }
+    const own = validateWord(w)
+    issues.push(...own)
+    if (own.some((i) => i.level === 'error')) continue
     if (seenIds.has(w.id)) issues.push({ level: 'error', id: w.id, message: 'id duplicado' })
     seenIds.add(w.id)
 
     const norm = normalize(w.word)
-    const letter = w.letter.toLowerCase()
-    if (w.position === 'starts_with' && firstLetter(w.word) !== w.letter) {
-      issues.push({ level: 'error', id: w.id, message: `«${w.word}» no empieza por ${w.letter}` })
-    }
-    if (w.position === 'contains' && !norm.includes(letter)) {
-      issues.push({ level: 'error', id: w.id, message: `«${w.word}» no contiene la ${w.letter}` })
-    }
-
     const key = `${w.profile}:${norm}`
     const prev = seenWords.get(key)
     if (prev) issues.push({ level: 'warning', id: w.id, message: `«${w.word}» duplicada en ${w.profile} (id ${prev.id})` })

@@ -3,6 +3,7 @@ import { ref } from 'vue'
 import PlayerAvatar from '../components/PlayerAvatar.vue'
 import { deletePlayer, players, savePlayer } from '../app/store'
 import { resizeToDataUrl } from '../app/image'
+import { colorFromSeed, randomColor } from '../app/color'
 import type { Profile } from '../core/types'
 import type { PlayerProfile } from '../storage/types'
 
@@ -19,7 +20,7 @@ const error = ref('')
 async function add() {
   const name = newName.value.trim()
   if (!name) return
-  await savePlayer({ id: crypto.randomUUID(), name, profile: newProfile.value, createdAt: Date.now() })
+  await savePlayer({ id: crypto.randomUUID(), name, profile: newProfile.value, color: randomColor(), createdAt: Date.now() })
   newName.value = ''
 }
 
@@ -66,7 +67,7 @@ async function remove(p: PlayerProfile) {
     <ul class="list">
       <li v-for="p in players" :key="p.id" class="card">
         <div class="top">
-          <PlayerAvatar :name="p.name" :image="p.avatar" :seed="p.id" :size="64" />
+          <PlayerAvatar :name="p.name" :image="p.avatar" :color="p.color" :seed="p.id" :size="64" />
           <input :value="p.name" aria-label="Nombre" @change="update(p, { name: ($event.target as HTMLInputElement).value.trim() || p.name })" />
         </div>
         <label>
@@ -75,6 +76,17 @@ async function remove(p: PlayerProfile) {
             <option v-for="o in profiles" :key="o.value" :value="o.value">{{ o.label }}</option>
           </select>
         </label>
+        <div class="color-row">
+          <label class="color">
+            Color de fondo
+            <input
+              type="color"
+              :value="p.color ?? colorFromSeed(p.id)"
+              @change="update(p, { color: ($event.target as HTMLInputElement).value })"
+            />
+          </label>
+          <button class="link" type="button" @click="update(p, { color: randomColor() })">Al azar</button>
+        </div>
         <div class="images">
           <label class="file">
             {{ p.avatar ? 'Cambiar foto' : 'Añadir foto' }}
@@ -116,4 +128,7 @@ label { display: grid; gap: 6px; }
 .file input { position: absolute; inset: 0; opacity: 0; cursor: pointer; }
 .danger { color: var(--bad); }
 .error { color: var(--bad); margin: 0; }
+.color-row { display: flex; align-items: center; gap: 14px; }
+.color { display: flex; align-items: center; gap: 10px; }
+.color input[type='color'] { width: 56px; height: 38px; padding: 2px; border-radius: 10px; cursor: pointer; }
 </style>

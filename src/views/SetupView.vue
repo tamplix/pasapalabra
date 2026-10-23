@@ -33,7 +33,7 @@ const canStart = computed(() => selected.value.length >= 1)
         <ul class="list">
           <li v-for="p in players" :key="p.id">
             <button class="choice" :class="{ on: selected.includes(p.id) }" :aria-pressed="selected.includes(p.id)" @click="toggle(p.id)">
-              <PlayerAvatar :name="p.name" :image="p.avatar" :seed="p.id" :size="44" />
+              <PlayerAvatar :name="p.name" :image="p.avatar" :color="p.color" :seed="p.id" :size="44" />
               <span class="label">
                 <strong>{{ p.name }}</strong>
                 <small>{{ profileLabel[p.profile] }}</small>

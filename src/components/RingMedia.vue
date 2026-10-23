@@ -1,8 +1,13 @@
 <script setup lang="ts">
-import { onBeforeUnmount, ref, watch } from 'vue'
+import { computed, onBeforeUnmount, ref, watch } from 'vue'
+import { colorFromSeed, initialsOf, readableTextColor } from '../app/color'
 
-const props = defineProps<{ image?: string; camera: boolean }>()
+const props = defineProps<{ image?: string; camera: boolean; name: string; seed: string; color?: string }>()
 const emit = defineEmits<{ cameraError: [message: string] }>()
+
+const background = computed(() => props.color ?? colorFromSeed(props.seed))
+const foreground = computed(() => readableTextColor(background.value))
+const initials = computed(() => initialsOf(props.name))
 
 const video = ref<HTMLVideoElement | null>(null)
 const live = ref(false)
@@ -34,6 +39,8 @@ onBeforeUnmount(stop)
 
 <template>
   <div class="stage-bg" aria-hidden="true">
+    <!-- Sin foto ni cámara: las iniciales del jugador sobre su color, como en la lista de jugadores. -->
+    <div v-if="!image && !live" class="placeholder" :style="{ background, color: foreground }">{{ initials }}</div>
     <img v-if="image && !live" :src="image" alt="" class="media" />
     <video v-show="live" ref="video" class="media mirror" autoplay playsinline muted />
   </div>
@@ -46,7 +53,19 @@ onBeforeUnmount(stop)
   border-radius: 50%;
   overflow: hidden;
   pointer-events: none;
+  container-type: inline-size;
   background: radial-gradient(circle at 50% 35%, var(--stage-2), var(--stage) 75%);
+}
+.placeholder {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  font-weight: 800;
+  font-stretch: 85%;
+  /* El tamaño sigue al del círculo, no al de la ventana. */
+  font-size: 40cqw;
+  letter-spacing: 0.02em;
 }
 .media {
   position: absolute;

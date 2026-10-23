@@ -1,19 +1,17 @@
 <script setup lang="ts">
 import { computed } from 'vue'
+import { colorFromSeed, initialsOf, readableTextColor } from '../app/color'
 
-const props = defineProps<{ name: string; image?: string; seed: string; size?: number }>()
+const props = defineProps<{ name: string; image?: string; seed: string; color?: string; size?: number }>()
 
-const hue = computed(() => {
-  let h = 0
-  for (const ch of props.seed) h = (h * 31 + ch.charCodeAt(0)) % 360
-  return h
-})
-const initials = computed(() => props.name.trim().slice(0, 2).toUpperCase() || '?')
+const background = computed(() => props.color ?? colorFromSeed(props.seed))
+const foreground = computed(() => readableTextColor(background.value))
+const initials = computed(() => initialsOf(props.name))
 const px = computed(() => `${props.size ?? 48}px`)
 </script>
 
 <template>
-  <span class="avatar" :style="{ width: px, height: px, '--h': hue }">
+  <span class="avatar" :style="{ width: px, height: px, background, color: foreground }">
     <img v-if="image" :src="image" alt="" />
     <span v-else>{{ initials }}</span>
   </span>
@@ -26,12 +24,9 @@ const px = computed(() => `${props.size ?? 48}px`)
   place-items: center;
   border-radius: 50%;
   overflow: hidden;
-  background: hsl(var(--h) 45% 32%);
-  color: #fff;
   font-weight: 700;
-  font-size: 0.4em;
   box-shadow: 0 0 0 2px var(--gold);
+  font-size: calc(v-bind(px) * 0.38);
 }
-.avatar { font-size: calc(v-bind(px) * 0.38); }
 img { width: 100%; height: 100%; object-fit: cover; }
 </style>

@@ -140,7 +140,7 @@ watch([() => state.value.activeIndex, () => active.value.cursor, waiting], () =>
     <aside v-if="others.length" class="players" aria-label="Otros jugadores">
       <article v-for="{ p, i } in others" :key="p.id" class="pcard" :class="{ done: p.finished }">
         <header>
-          <PlayerAvatar :name="p.name" :image="playersById.get(p.id)?.avatar" :seed="p.id" :size="32" />
+          <PlayerAvatar :name="p.name" :image="playersById.get(p.id)?.avatar" :color="playersById.get(p.id)?.color" :seed="p.id" :size="32" />
           <strong>{{ p.name }}</strong>
           <time :class="{ low: remainingMs(i) < 15000 && !p.finished }">{{ fmt(remainingMs(i)) }}</time>
         </header>
@@ -156,14 +156,21 @@ watch([() => state.value.activeIndex, () => active.value.cursor, waiting], () =>
     <section class="board">
       <RoscoRing :entries="active.rosco" :active="active.cursor">
         <template #media>
-          <RingMedia :image="profile?.avatar" :camera="settings.camera" @camera-error="cameraError = $event" />
+          <RingMedia
+            :image="profile?.avatar"
+            :color="profile?.color"
+            :name="active.name"
+            :seed="active.id"
+            :camera="settings.camera"
+            @camera-error="cameraError = $event"
+          />
         </template>
       </RoscoRing>
     </section>
 
     <section class="panel">
       <div class="turn">
-        <PlayerAvatar :name="active.name" :image="profile?.avatar" :seed="active.id" :size="36" />
+        <PlayerAvatar :name="active.name" :image="profile?.avatar" :color="profile?.color" :seed="active.id" :size="36" />
         <strong>{{ active.name }}</strong>
       </div>
       <div class="clock" :class="{ low: remainingMs(state.activeIndex) < 15000 }">

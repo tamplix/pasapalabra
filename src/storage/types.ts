@@ -27,6 +27,8 @@ export interface PlayerProfile {
   createdAt: number
   /** Foto del jugador (data URL JPEG reducida): avatar y, en su turno, interior del aro. */
   avatar?: string
+  /** Color de fondo de sus iniciales (hexadecimal); si falta se deriva de su id. */
+  color?: string
 }
 
 /**

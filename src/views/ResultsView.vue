@@ -19,7 +19,7 @@ const mark = { correct: '✓', wrong: '✗', pending: '–' } as const
 
     <ol class="podium">
       <li v-for="p in ranked" :key="p.id" :class="{ win: p.id === winner?.id }">
-        <PlayerAvatar :name="p.name" :image="playersById.get(p.id)?.avatar" :seed="p.id" :size="56" />
+        <PlayerAvatar :name="p.name" :image="playersById.get(p.id)?.avatar" :color="playersById.get(p.id)?.color" :seed="p.id" :size="56" />
         <div>
           <strong>{{ p.name }}</strong>
           <span>{{ scoreOf(p).correct }} aciertos, {{ scoreOf(p).wrong }} fallos, {{ scoreOf(p).pending }} sin responder</span>

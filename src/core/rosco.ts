@@ -6,6 +6,8 @@ export interface RoscoOptions {
   popRatio?: number
   /** Palabras ya usadas (por ejemplo, en el rosco del rival); se evitan si hay alternativa. */
   exclude?: ReadonlySet<string>
+  /** Veces que se ha usado cada palabra (por id). Se prefieren las menos usadas; las ausentes cuentan 0. */
+  usage?: Readonly<Record<string, number>>
 }
 
 export class IncompleteBankError extends Error {
@@ -31,20 +33,26 @@ export function buildPrompt(word: Pick<WordRecord, 'letter' | 'position'>): stri
  * (`popRatio`, un 25 % por defecto: 6 de 25). Las letras que llevan argot se
  * eligen al azar entre las que tienen alguna palabra pop disponible; si hay
  * menos de las necesarias, el rosco lleva todas las que se puedan.
+ * Dentro de cada letra se eligen las palabras menos usadas (`usage`), al azar si empatan;
+ * y las letras con argot son las que tienen sus palabras pop menos usadas.
  */
 export function generateRosco(
   bank: readonly WordRecord[],
   profile: Profile,
   rng: Rng,
-  { popRatio = 0.25, exclude = new Set() }: RoscoOptions = {},
+  { popRatio = 0.25, exclude = new Set(), usage = {} }: RoscoOptions = {},
 ): RoscoEntry[] {
   const pool = bank.filter((w) => w.profile === profile || w.profile === 'all')
   const target = Math.round(ALPHABET.length * popRatio)
   const free = (w: WordRecord) => !exclude.has(w.id)
+  const uses = (w: WordRecord) => usage[w.id] ?? 0
 
-  const withPop = shuffle(ALPHABET, rng).filter((letter) =>
-    pool.some((w) => w.letter === letter && w.isPop && free(w)),
-  )
+  // Las letras con argot son aquellas cuya palabra pop menos usada lo está menos; el orden
+  // aleatorio previo desempata (el sort es estable).
+  const popCandidates = (letter: string) => pool.filter((w) => w.letter === letter && w.isPop && free(w))
+  const withPop = shuffle(ALPHABET, rng)
+    .filter((letter) => popCandidates(letter).length > 0)
+    .sort((a, b) => Math.min(...popCandidates(a).map(uses)) - Math.min(...popCandidates(b).map(uses)))
   const popLetters = new Set(withPop.slice(0, target))
 
   const chosen = new Map<string, WordRecord>()
@@ -60,6 +68,10 @@ export function generateRosco(
     const wantPop = popLetters.has(letter)
     const matching = candidates.filter((w) => w.isPop === wantPop)
     if (matching.length) candidates = matching
+
+    // Prioridad a las menos usadas: solo compiten las que empatan en el menor número de usos.
+    const least = Math.min(...candidates.map(uses))
+    candidates = candidates.filter((w) => uses(w) === least)
 
     const word = pick(candidates, rng)
     usedWords.add(word.word.toLowerCase())
@@ -77,6 +89,7 @@ export function generateRosco(
       aliases: w.aliases ?? [],
       isPop: w.isPop,
       status: 'pending' as const,
+      seen: false,
     }
   })
 }

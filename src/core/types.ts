@@ -32,6 +32,8 @@ export interface RoscoEntry {
   aliases: string[]
   isPop: boolean
   status: EntryStatus
+  /** La casilla ha estado en juego con el reloj en marcha, es decir, se ha mostrado su definición. */
+  seen: boolean
   /** Respuesta escrita por el jugador (solo si ha respondido). */
   given?: string
 }

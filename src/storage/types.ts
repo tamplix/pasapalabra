@@ -39,4 +39,8 @@ export interface Repository {
   deletePlayer(id: string): Promise<void>
   saveGame(game: GameRecord): Promise<void>
   listGames(): Promise<GameRecord[]>
+  /** Veces que se ha usado cada palabra del banco, por id. Las nunca usadas no aparecen. */
+  getWordUsage(): Promise<Record<string, number>>
+  /** Suma un uso a cada palabra indicada (un id repetido suma varias veces). */
+  addWordUsage(wordIds: readonly string[]): Promise<void>
 }

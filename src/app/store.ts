@@ -17,6 +17,8 @@ export const games = ref<GameRecord[]>([])
 export const game = shallowRef<GameState | null>(null)
 /** Reloj de la interfaz; se actualiza varias veces por segundo mientras se juega. */
 export const now = ref(Date.now())
+/** Veces que se ha usado cada palabra del banco (por id) en partidas terminadas. */
+export const wordUsage = ref<Record<string, number>>({})
 export const storageWarning = ref(false)
 /** Modo de respuesta de la partida en curso (fijado al empezar). */
 export const answerMode = ref<AnswerMode>('manual')
@@ -42,6 +44,7 @@ export async function init() {
   }
   players.value = await repo.listPlayers()
   games.value = await repo.listGames()
+  wordUsage.value = await repo.getWordUsage()
   setInterval(() => {
     now.value = Date.now()
     if (game.value?.status === 'playing') dispatch({ type: 'tick', at: now.value })
@@ -65,6 +68,7 @@ export function startGame(playerIds: string[]) {
     seed: Math.floor(Math.random() * 2 ** 32),
     players: chosen.map(({ id, name, profile }) => ({ id, name, profile })),
     durationMs: settings.durationSec * 1000,
+    usage: wordUsage.value,
   })
   answerMode.value = settings.answerMode
   lastResult.value = null
@@ -100,6 +104,14 @@ async function finishGame(state: GameState) {
   const record = toGameRecord(state, crypto.randomUUID())
   await repo.saveGame(record)
   games.value = [...games.value, record]
+  // Solo cuentan las palabras que llegaron a mostrarse (con el reloj en marcha).
+  const seen = state.players.flatMap((p) => p.rosco.filter((e) => e.seen).map((e) => e.wordId))
+  try {
+    await repo.addWordUsage(seen)
+    wordUsage.value = await repo.getWordUsage()
+  } catch {
+    // El contador es una ayuda para variar los roscos: si falla, la partida ya está guardada.
+  }
   screen.value = 'results'
 }
 

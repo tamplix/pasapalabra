@@ -79,6 +79,47 @@ describe('generateRosco', () => {
     const rosco = generateRosco(bank, 'adults', createRng(1))
     expect(rosco.filter((e) => e.isPop)).toHaveLength(2)
   })
+  it('prefiere las palabras menos usadas', () => {
+    const bank = makeBank(3, 1)
+    // n0 y n1 muy usadas en todas las letras; n2 sin usar.
+    const usage = Object.fromEntries(ALPHABET.flatMap((l) => [[`${l}0`, 5], [`${l}1`, 5]]))
+    for (let seed = 0; seed < 20; seed++) {
+      const rosco = generateRosco(bank, 'adults', createRng(seed), { usage })
+      expect(rosco.every((e) => e.word.endsWith('palabra2'))).toBe(true)
+    }
+  })
+  it('mantiene equilibrado el uso: dentro de cada letra y tipo la diferencia es de 1 como mucho', () => {
+    const bank = makeBank(3, 2) // por letra: dos pop (n0, n2) y una formal (n1)
+    const usage: Record<string, number> = {}
+    for (let game = 0; game < 60; game++) {
+      for (const e of generateRosco(bank, 'adults', createRng(game), { usage })) {
+        usage[e.wordId] = (usage[e.wordId] ?? 0) + 1
+      }
+    }
+    for (const letter of ALPHABET) {
+      const pops = [usage[`${letter}0`] ?? 0, usage[`${letter}2`] ?? 0]
+      expect(Math.abs(pops[0]! - pops[1]!)).toBeLessThanOrEqual(1)
+    }
+  })
+  it('lleva argot en las letras cuyas palabras pop están menos usadas', () => {
+    const bank = makeBank(3, 2)
+    const fresh = new Set(['T', 'U', 'V', 'X', 'Y', 'Z'])
+    const usage = Object.fromEntries(
+      ALPHABET.flatMap((l) => (fresh.has(l) ? [] : [[`${l}0`, 3], [`${l}2`, 3]])),
+    )
+    for (let seed = 0; seed < 20; seed++) {
+      const rosco = generateRosco(bank, 'adults', createRng(seed), { usage })
+      expect(new Set(rosco.filter((e) => e.isPop).map((e) => e.letter))).toEqual(fresh)
+    }
+  })
+  it('la prioridad por uso no rompe la cuota del 25 % de argot', () => {
+    const bank = makeBank(3, 2)
+    // Las formales (n=1) están muy usadas, pero la cuota manda sobre la prioridad.
+    const usage = Object.fromEntries(ALPHABET.map((l) => [`${l}1`, 9]))
+    for (let seed = 0; seed < 20; seed++) {
+      expect(generateRosco(bank, 'adults', createRng(seed), { usage }).filter((e) => e.isPop)).toHaveLength(6)
+    }
+  })
   it('falla con un error claro si falta una letra', () => {
     const bank = makeBank().filter((w) => w.letter !== 'Q')
     expect(() => generateRosco(bank, 'adults', createRng(1))).toThrow(IncompleteBankError)
@@ -189,6 +230,35 @@ describe('engine', () => {
     s = reduce(s, { type: 'tick', at: 20_001 })
     expect(s.status).toBe('finished')
     expect(winnerOf(s)).toBeNull()
+  })
+})
+
+describe('palabras vistas', () => {
+  const seenWords = (s: GameState, i: number) =>
+    s.players[i]!.rosco.filter((e) => e.seen).map((e) => e.letter)
+
+  it('al empezar la partida, ninguna se ha visto; al empezar el turno, solo la primera', () => {
+    const lobby = createGame(makeBank(), { seed: 1, players, durationMs: 10_000 })
+    let s = reduce(lobby, { type: 'start', at: 0 })
+    expect(seenWords(s, 0)).toEqual([])
+    s = begin(s, 1)
+    expect(seenWords(s, 0)).toEqual(['A'])
+    expect(seenWords(s, 1)).toEqual([])
+  })
+  it('al avanzar con el reloj en marcha se ven las siguientes; las pasadas siguen vistas', () => {
+    let s = started()
+    s = reduce(s, { type: 'judge', at: 10, correct: true }) // sigue Ana: B
+    expect(seenWords(s, 0)).toEqual(['A', 'B'])
+    s = reduce(s, { type: 'pass', at: 20 }) // Ana pasa B; turno de Leo en pausa
+    expect(seenWords(s, 0)).toEqual(['A', 'B'])
+    expect(seenWords(s, 1)).toEqual([]) // en pausa no se muestra nada
+    s = begin(s, 30)
+    expect(seenWords(s, 1)).toEqual(['A'])
+  })
+  it('rendirse no marca como vistas las letras que quedaban', () => {
+    let s = started()
+    s = reduce(s, { type: 'surrender', at: 5 })
+    expect(seenWords(s, 0)).toEqual(['A'])
   })
 })
 

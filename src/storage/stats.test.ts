@@ -38,3 +38,14 @@ describe('estadísticas', () => {
     expect(ana.byLetter.A).toEqual({ correct: 1, wrong: 0 })
   })
 })
+
+describe('contador de uso de palabras', () => {
+  it('suma usos por palabra y acumula entre partidas', async () => {
+    const repo = createMemoryRepository()
+    expect(await repo.getWordUsage()).toEqual({})
+    await repo.addWordUsage(['1', '2', '2'])
+    await repo.addWordUsage(['2', '3'])
+    expect(await repo.getWordUsage()).toEqual({ '1': 1, '2': 3, '3': 1 })
+  })
+})
+

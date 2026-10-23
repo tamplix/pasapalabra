@@ -14,7 +14,7 @@ export const DEFAULT_DURATION_MS = 150_000
 
 export const MAX_UNDO = 20
 
-export interface NewGameOptions extends Pick<RoscoOptions, 'popRatio'> {
+export interface NewGameOptions extends Pick<RoscoOptions, 'popRatio' | 'usage'> {
   seed: number
   players: PlayerConfig[]
   durationMs?: number
@@ -24,7 +24,7 @@ export function createGame(bank: readonly WordRecord[], opts: NewGameOptions): G
   const rng = createRng(opts.seed)
   const used = new Set<string>()
   const players: PlayerState[] = opts.players.map((cfg) => {
-    const rosco = generateRosco(bank, cfg.profile, rng, { popRatio: opts.popRatio, exclude: used })
+    const rosco = generateRosco(bank, cfg.profile, rng, { popRatio: opts.popRatio, usage: opts.usage, exclude: used })
     rosco.forEach((e) => used.add(e.wordId))
     return {
       ...cfg,
@@ -92,7 +92,22 @@ function advanceTurn(state: GameState, at: number, switchPlayer: boolean): GameS
   return { ...state, activeIndex: nextIndex, turnStartedAt: switched ? null : at }
 }
 
+/** Marca como vista la casilla en juego, siempre que el reloj del turno esté en marcha. */
+function markSeen(state: GameState): GameState {
+  if (state.status !== 'playing' || state.turnStartedAt === null) return state
+  const player = state.players[state.activeIndex]
+  const entry = player?.rosco[player.cursor]
+  if (!player || player.finished || !entry || entry.seen) return state
+  return withPlayer(state, state.activeIndex, {
+    rosco: player.rosco.map((e, i) => (i === player.cursor ? { ...e, seen: true } : e)),
+  })
+}
+
 export function reduce(state: GameState, action: GameAction): GameState {
+  return markSeen(step(state, action))
+}
+
+function step(state: GameState, action: GameAction): GameState {
   if (action.type === 'start') {
     if (state.status !== 'lobby') return state
     return { ...state, status: 'playing', startedAt: action.at, turnStartedAt: null }

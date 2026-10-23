@@ -2,7 +2,7 @@ import { describe, expect, it } from 'vitest'
 import { createGame, reduce, scoreOf, winnerOf } from './engine'
 import { isCorrectAnswer, normalize } from './normalize'
 import { createRng } from './rng'
-import { generateRosco, IncompleteBankError } from './rosco'
+import { buildPool, generateRosco, IncompleteBankError, MIN_OWN_WORDS } from './rosco'
 import { ALPHABET, type GameState, type WordRecord } from './types'
 
 function makeBank(perLetter = 3, popEvery = 1): WordRecord[] {
@@ -123,6 +123,42 @@ describe('generateRosco', () => {
   it('falla con un error claro si falta una letra', () => {
     const bank = makeBank().filter((w) => w.letter !== 'Q')
     expect(() => generateRosco(bank, 'adults', createRng(1))).toThrow(IncompleteBankError)
+  })
+})
+
+describe('perfil young', () => {
+  const youngWord = (letter: string, n: number): WordRecord => ({
+    id: `y${letter}${n}`, letter: letter as WordRecord['letter'], position: 'starts_with',
+    word: `${letter.toLowerCase()}joven${n}`, definition: 'definición de prueba', profile: 'young', isPop: false,
+  })
+
+  it('sin palabras propias usa las de adultos (y las comunes)', () => {
+    const bank = makeBank()
+    const young = buildPool(bank, 'young').map((w) => w.id).sort()
+    const adults = buildPool(bank, 'adults').map((w) => w.id).sort()
+    expect(young).toEqual(adults)
+    for (let seed = 0; seed < 20; seed++) {
+      expect(generateRosco(bank, 'young', createRng(seed))).toHaveLength(25)
+    }
+  })
+  it('las letras con suficientes palabras propias solo usan las suyas; las demás se completan con adultos', () => {
+    const own = Array.from({ length: MIN_OWN_WORDS }, (_, n) => youngWord('A', n))
+    const bank = [...makeBank(), ...own]
+    const pool = buildPool(bank, 'young')
+    const wordsOfA = pool.filter((w) => w.letter === 'A').map((w) => w.profile).sort()
+    expect(wordsOfA.every((p) => p === 'young' || p === 'all')).toBe(true)
+    expect(pool.filter((w) => w.letter === 'B').some((w) => w.profile === 'adults')).toBe(true)
+  })
+  it('con pocas palabras propias en una letra, esa letra sigue usando también las de adultos', () => {
+    const bank = [...makeBank(), youngWord('A', 0)]
+    const wordsOfA = buildPool(bank, 'young').filter((w) => w.letter === 'A')
+    expect(wordsOfA.some((w) => w.profile === 'young')).toBe(true)
+    expect(wordsOfA.some((w) => w.profile === 'adults')).toBe(true)
+  })
+  it('los demás perfiles no se ven afectados por el respaldo', () => {
+    const bank = [...makeBank(), youngWord('A', 0)]
+    expect(buildPool(bank, 'adults').some((w) => w.profile === 'young')).toBe(false)
+    expect(buildPool(bank, 'kids').every((w) => w.profile === 'kids' || w.profile === 'all')).toBe(true)
   })
 })
 

@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest'
 import { createRng } from '../core/rng'
-import { generateRosco } from '../core/rosco'
+import { buildPool, generateRosco } from '../core/rosco'
 import { bank } from './bank'
 import { validateBank } from './validate'
 
@@ -11,7 +11,7 @@ describe('banco de palabras real', () => {
     expect(validateBank(bank).filter((i) => i.level === 'error')).toEqual([])
   })
   it('genera roscos válidos para todos los perfiles con muchas semillas y un 25 % de argot', () => {
-    for (const profile of ['kids', 'teens', 'adults'] as const) {
+    for (const profile of ['kids', 'teens', 'young', 'adults'] as const) {
       for (let seed = 0; seed < 200; seed++) {
         const rosco = generateRosco(bank, profile, createRng(seed))
         expect(rosco).toHaveLength(25)
@@ -21,14 +21,14 @@ describe('banco de palabras real', () => {
     }
   })
   it('con el uso acumulado, tras 100 partidas ninguna palabra se queda atrás', () => {
-    for (const profile of ['kids', 'teens', 'adults'] as const) {
+    for (const profile of ['kids', 'teens', 'young', 'adults'] as const) {
       const usage: Record<string, number> = {}
       for (let game = 0; game < 100; game++) {
         for (const e of generateRosco(bank, profile, createRng(game), { usage })) {
           usage[e.wordId] = (usage[e.wordId] ?? 0) + 1
         }
       }
-      const pool = bank.filter((w) => w.profile === profile || w.profile === 'all')
+      const pool = buildPool(bank, profile)
       for (const letter of new Set(pool.map((w) => w.letter))) {
         for (const pop of [true, false]) {
           const counts = pool.filter((w) => w.letter === letter && w.isPop === pop).map((w) => usage[w.id] ?? 0)

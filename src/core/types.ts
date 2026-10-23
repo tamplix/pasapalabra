@@ -4,7 +4,7 @@ export const ALPHABET = [
 ] as const
 
 export type Letter = (typeof ALPHABET)[number]
-export type Profile = 'kids' | 'teens' | 'adults'
+export type Profile = 'kids' | 'teens' | 'young' | 'adults'
 export type WordProfile = Profile | 'all'
 export type LetterPosition = 'starts_with' | 'contains'
 

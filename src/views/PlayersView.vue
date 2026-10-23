@@ -1,27 +1,38 @@
 <script setup lang="ts">
-import { ref } from 'vue'
+import { computed, ref } from 'vue'
 import PlayerAvatar from '../components/PlayerAvatar.vue'
 import { deletePlayer, players, savePlayer } from '../app/store'
 import { resizeToDataUrl } from '../app/image'
 import { colorFromSeed, randomColor } from '../app/color'
-import type { Profile } from '../core/types'
+import { isValidBirthDate, MIN_BIRTH_DATE, playerSummary, todayIso } from '../app/age'
 import type { PlayerProfile } from '../storage/types'
 
-const profiles: { value: Profile; label: string }[] = [
-  { value: 'kids', label: 'Niños (~9 años)' },
-  { value: 'teens', label: 'Adolescentes (~16 años)' },
-  { value: 'adults', label: 'Adultos' },
-]
-
+const today = todayIso()
 const newName = ref('')
-const newProfile = ref<Profile>('adults')
+const newBirth = ref('')
 const error = ref('')
+
+const newSummary = computed(() => (isValidBirthDate(newBirth.value) ? playerSummary({ birthDate: newBirth.value }) : ''))
+const canAdd = computed(() => newName.value.trim() !== '' && isValidBirthDate(newBirth.value))
 
 async function add() {
   const name = newName.value.trim()
-  if (!name) return
-  await savePlayer({ id: crypto.randomUUID(), name, profile: newProfile.value, color: randomColor(), createdAt: Date.now() })
+  if (!name || !isValidBirthDate(newBirth.value)) return
+  await savePlayer({ id: crypto.randomUUID(), name, birthDate: newBirth.value, color: randomColor(), createdAt: Date.now() })
   newName.value = ''
+  newBirth.value = ''
+}
+
+/** Cambia la fecha de nacimiento; si no es válida, deja la anterior y avisa. */
+async function changeBirth(p: PlayerProfile, e: Event) {
+  const input = e.target as HTMLInputElement
+  error.value = ''
+  if (!isValidBirthDate(input.value)) {
+    input.value = p.birthDate ?? ''
+    error.value = 'La fecha de nacimiento no es válida: debe ser una fecha pasada, de 1900 en adelante.'
+    return
+  }
+  await update(p, { birthDate: input.value })
 }
 
 async function update(p: PlayerProfile, patch: Partial<PlayerProfile>) {
@@ -54,12 +65,11 @@ async function remove(p: PlayerProfile) {
         <input v-model="newName" placeholder="Nombre del jugador" required />
       </label>
       <label>
-        Perfil de palabras
-        <select v-model="newProfile">
-          <option v-for="o in profiles" :key="o.value" :value="o.value">{{ o.label }}</option>
-        </select>
+        Fecha de nacimiento
+        <input v-model="newBirth" type="date" :min="MIN_BIRTH_DATE" :max="today" required />
       </label>
-      <button class="primary" type="submit">Añadir jugador</button>
+      <button class="primary" type="submit" :disabled="!canAdd">Añadir jugador</button>
+      <p v-if="newSummary" class="hint">Palabras para: {{ newSummary }}</p>
     </form>
 
     <p v-if="error" class="error" role="alert">{{ error }}</p>
@@ -71,11 +81,12 @@ async function remove(p: PlayerProfile) {
           <input :value="p.name" aria-label="Nombre" @change="update(p, { name: ($event.target as HTMLInputElement).value.trim() || p.name })" />
         </div>
         <label>
-          Perfil de palabras
-          <select :value="p.profile" @change="update(p, { profile: ($event.target as HTMLSelectElement).value as Profile })">
-            <option v-for="o in profiles" :key="o.value" :value="o.value">{{ o.label }}</option>
-          </select>
+          Fecha de nacimiento
+          <input type="date" :value="p.birthDate ?? ''" :min="MIN_BIRTH_DATE" :max="today" @change="changeBirth(p, $event)" />
         </label>
+        <p class="hint" :class="{ warn: !p.birthDate }">
+          {{ playerSummary(p) }}<template v-if="!p.birthDate">. Indica su fecha de nacimiento para ajustar las palabras.</template>
+        </p>
         <div class="color-row">
           <label class="color">
             Color de fondo
@@ -131,4 +142,7 @@ label { display: grid; gap: 6px; }
 .color-row { display: flex; align-items: center; gap: 14px; }
 .color { display: flex; align-items: center; gap: 10px; }
 .color input[type='color'] { width: 56px; height: 38px; padding: 2px; border-radius: 10px; cursor: pointer; }
+.hint { margin: 0; color: var(--muted); font-size: 0.95rem; }
+.hint.warn { color: var(--gold); }
+.new .hint { flex-basis: 100%; }
 </style>

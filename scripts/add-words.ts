@@ -6,7 +6,7 @@
  *
  * Uso: npm run add-words -- <ruta.md> [--dry]
  */
-import { readFileSync, writeFileSync } from 'node:fs'
+import { existsSync, readFileSync, writeFileSync } from 'node:fs'
 import { resolve } from 'node:path'
 import { normalize } from '../src/core/normalize'
 import type { WordRecord } from '../src/core/types'
@@ -83,7 +83,7 @@ if (dry) {
 const dir = resolve(import.meta.dirname, '../src/data/words')
 for (const [profile, list] of Object.entries(perProfile)) {
   const file = resolve(dir, `${profile}.json`)
-  const current = JSON.parse(readFileSync(file, 'utf8')) as WordRecord[]
+  const current = existsSync(file) ? (JSON.parse(readFileSync(file, 'utf8')) as WordRecord[]) : []
   writeFileSync(file, JSON.stringify([...current, ...list!], null, 2) + '\n')
 }
 console.log(`\nEscrito: ${added.length} palabras añadidas. Total del banco: ${bank.length + added.length}.`)

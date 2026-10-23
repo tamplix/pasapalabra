@@ -1,5 +1,6 @@
 import { z } from 'zod'
 import { normalize } from '../core/normalize'
+import { buildPool } from '../core/rosco'
 import { ALPHABET, type Profile, type WordRecord } from '../core/types'
 
 export const wordSchema = z.object({
@@ -8,7 +9,7 @@ export const wordSchema = z.object({
   position: z.enum(['starts_with', 'contains']),
   word: z.string().min(1),
   definition: z.string().min(10),
-  profile: z.enum(['all', 'kids', 'teens', 'adults']),
+  profile: z.enum(['all', 'kids', 'teens', 'young', 'adults']),
   isPop: z.boolean(),
   aliases: z.array(z.string()).optional(),
   difficulty: z.union([z.literal(1), z.literal(2), z.literal(3)]).optional(),
@@ -83,10 +84,11 @@ export function validateBank(bank: readonly WordRecord[], minPerLetter = 5): Iss
     else seenWords.set(key, w)
   }
 
-  const profiles: Profile[] = ['kids', 'teens', 'adults']
+  const profiles: Profile[] = ['kids', 'teens', 'young', 'adults']
   for (const profile of profiles) {
+    const profilePool = buildPool(bank, profile)
     for (const letter of ALPHABET) {
-      const pool = bank.filter((w) => w.letter === letter && (w.profile === profile || w.profile === 'all'))
+      const pool = profilePool.filter((w) => w.letter === letter)
       if (pool.length === 0) issues.push({ level: 'error', message: `${profile}/${letter}: sin palabras` })
       else if (pool.length < minPerLetter) {
         issues.push({ level: 'warning', message: `${profile}/${letter}: solo ${pool.length} candidatas (mínimo recomendado ${minPerLetter})` })

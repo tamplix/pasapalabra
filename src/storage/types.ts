@@ -23,7 +23,10 @@ export interface GameRecord {
 export interface PlayerProfile {
   id: string
   name: string
-  profile: Profile
+  /** Fecha de nacimiento (`AAAA-MM-DD`); de ella se deduce el perfil de palabras en cada partida. */
+  birthDate?: string
+  /** Perfil fijo de los jugadores creados antes de pedir la fecha de nacimiento; solo se usa si falta `birthDate`. */
+  profile?: Profile
   createdAt: number
   /** Foto del jugador (data URL JPEG reducida): avatar y, en su turno, interior del aro. */
   avatar?: string

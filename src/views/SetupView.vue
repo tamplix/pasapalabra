@@ -3,10 +3,10 @@ import { computed, ref } from 'vue'
 import PlayerAvatar from '../components/PlayerAvatar.vue'
 import { players, screen, startGame } from '../app/store'
 import { settings } from '../app/settings'
+import { playerSummary } from '../app/age'
 
 const MAX_PLAYERS = 4
 const selected = ref<string[]>([])
-const profileLabel = { kids: 'Niños', teens: 'Adolescentes', adults: 'Adultos' } as const
 
 function toggle(id: string) {
   selected.value = selected.value.includes(id)
@@ -36,7 +36,7 @@ const canStart = computed(() => selected.value.length >= 1)
               <PlayerAvatar :name="p.name" :image="p.avatar" :color="p.color" :seed="p.id" :size="44" />
               <span class="label">
                 <strong>{{ p.name }}</strong>
-                <small>{{ profileLabel[p.profile] }}</small>
+                <small>{{ playerSummary(p) }}</small>
               </span>
               <b v-if="selected.includes(p.id)" class="order">{{ selected.indexOf(p.id) + 1 }}</b>
             </button>

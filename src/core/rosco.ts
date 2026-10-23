@@ -10,6 +10,26 @@ export interface RoscoOptions {
   usage?: Readonly<Record<string, number>>
 }
 
+/** Mientras un perfil tenga menos palabras propias que estas en una letra, esa letra se completa con las de su perfil de respaldo. */
+export const MIN_OWN_WORDS = 5
+
+/** Perfil cuyas palabras sirven de respaldo cuando al perfil le faltan palabras propias. */
+const FALLBACK: Partial<Record<Profile, Profile>> = { young: 'adults' }
+
+/**
+ * Palabras que puede usar un perfil: las suyas, las comunes (`all`) y, en las letras donde
+ * tenga menos de `MIN_OWN_WORDS` propias, las de su perfil de respaldo (hoy `young` usa las de `adults`).
+ */
+export function buildPool(bank: readonly WordRecord[], profile: Profile): WordRecord[] {
+  const base = bank.filter((w) => w.profile === profile || w.profile === 'all')
+  const fallback = FALLBACK[profile]
+  if (!fallback) return base
+  const own = new Map<string, number>()
+  for (const w of base) if (w.profile === profile) own.set(w.letter, (own.get(w.letter) ?? 0) + 1)
+  const extra = bank.filter((w) => w.profile === fallback && (own.get(w.letter) ?? 0) < MIN_OWN_WORDS)
+  return [...base, ...extra]
+}
+
 export class IncompleteBankError extends Error {
   readonly letter: string
   readonly profile: Profile
@@ -42,7 +62,7 @@ export function generateRosco(
   rng: Rng,
   { popRatio = 0.25, exclude = new Set(), usage = {} }: RoscoOptions = {},
 ): RoscoEntry[] {
-  const pool = bank.filter((w) => w.profile === profile || w.profile === 'all')
+  const pool = buildPool(bank, profile)
   const target = Math.round(ALPHABET.length * popRatio)
   const free = (w: WordRecord) => !exclude.has(w.id)
   const uses = (w: WordRecord) => usage[w.id] ?? 0

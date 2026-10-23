@@ -7,6 +7,7 @@ import { createIndexedDbRepository } from '../storage/indexeddb'
 import { createMemoryRepository } from '../storage/memory'
 import { toGameRecord } from '../storage/record'
 import type { GameRecord, PlayerProfile, Repository } from '../storage/types'
+import { profileOf } from './age'
 import { settings, type AnswerMode } from './settings'
 
 export type Screen = 'setup' | 'game' | 'results' | 'players' | 'stats'
@@ -66,7 +67,8 @@ export function startGame(playerIds: string[]) {
   const chosen = playerIds.map((id) => playersById.value.get(id)!)
   game.value = createGame(bank, {
     seed: Math.floor(Math.random() * 2 ** 32),
-    players: chosen.map(({ id, name, profile }) => ({ id, name, profile })),
+    // El perfil se calcula con la edad que tiene cada jugador el día de la partida.
+    players: chosen.map((player) => ({ id: player.id, name: player.name, profile: profileOf(player) })),
     durationMs: settings.durationSec * 1000,
     usage: wordUsage.value,
   })

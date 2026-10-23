@@ -36,7 +36,6 @@ onBeforeUnmount(stop)
   <div class="stage-bg" aria-hidden="true">
     <img v-if="image && !live" :src="image" alt="" class="media" />
     <video v-show="live" ref="video" class="media mirror" autoplay playsinline muted />
-    <div class="scrim" />
   </div>
 </template>
 
@@ -46,6 +45,7 @@ onBeforeUnmount(stop)
   inset: 0;
   border-radius: 50%;
   overflow: hidden;
+  pointer-events: none;
   background: radial-gradient(circle at 50% 35%, var(--stage-2), var(--stage) 75%);
 }
 .media {
@@ -56,9 +56,4 @@ onBeforeUnmount(stop)
   object-fit: cover;
 }
 .mirror { transform: scaleX(-1); }
-.scrim {
-  position: absolute;
-  inset: 0;
-  background: radial-gradient(circle, color-mix(in srgb, var(--stage) 35%, transparent), color-mix(in srgb, var(--stage) 70%, transparent) 100%);
-}
 </style>

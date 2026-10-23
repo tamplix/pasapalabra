@@ -1,5 +1,7 @@
 <script setup lang="ts">
 import { onMounted } from 'vue'
+import NebulaBackground from './components/NebulaBackground.vue'
+import VerdictFlash from './components/VerdictFlash.vue'
 import GameView from './views/GameView.vue'
 import PlayersView from './views/PlayersView.vue'
 import ResultsView from './views/ResultsView.vue'
@@ -17,6 +19,8 @@ const tabs: { id: Screen; label: string }[] = [
 </script>
 
 <template>
+  <NebulaBackground />
+  <VerdictFlash />
   <GameView v-if="screen === 'game'" />
   <template v-else>
     <header class="top">

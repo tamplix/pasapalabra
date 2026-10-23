@@ -30,22 +30,6 @@ Juego del rosco de Pasapalabra para navegador, pensado para jugar en familia en 
 
 En la pausa de preparación, Intro o Espacio empiezan el turno.
 
-## Acceso
-
-La app pide usuario y contraseña al abrirla. Se definen una vez con:
-
-```bash
-npm run set-login
-```
-
-El comando pide usuario y contraseña (sin mostrarla) y escribe en `.env.local`, que git ignora, solo una sal y una huella derivada (PBKDF2-SHA256). No guarda ni el usuario ni la contraseña. Sin ese archivo la app muestra cómo configurarlo y no deja entrar.
-
-El usuario no distingue mayúsculas; la contraseña sí. La sesión dura mientras la pestaña esté abierta, o se recuerda en el equipo si se marca «Recordarme».
-
-> Es una puerta de acceso sencilla, no seguridad real: la app se ejecuta entera en el navegador, y quien tenga el código puede saltársela o intentar adivinar la contraseña a partir de la huella. Usa una contraseña larga.
-
-Para publicar la web, las variables `VITE_LOGIN_SALT`, `VITE_LOGIN_ITERATIONS` y `VITE_LOGIN_HASH` de `.env.local` deben estar disponibles al ejecutar `npm run build` (por ejemplo, como secretos del servicio de despliegue).
-
 ## Desarrollo
 
 Requiere Node.js.
@@ -62,12 +46,7 @@ npm run validate-bank  # valida el banco de palabras
 
 Cada push a `main` ejecuta `.github/workflows/deploy.yml`, que pasa los tests, construye la web y la publica en `https://tamplix.github.io/pasapalabra/`.
 
-Configuración única, en GitHub (*Settings* del repositorio):
-
-1. *Pages → Build and deployment → Source*: **GitHub Actions**.
-2. *Secrets and variables → Actions → New repository secret*: crea `VITE_LOGIN_SALT`, `VITE_LOGIN_ITERATIONS` y `VITE_LOGIN_HASH`, copiando los valores de tu `.env.local`. Sin ellos, la web publicada muestra que el acceso no está configurado.
-
-La huella del login acaba dentro del código público de la web, aunque no esté en el repositorio. Por eso importa que la contraseña sea larga.
+Configuración única, en GitHub (*Settings* del repositorio): *Pages → Build and deployment → Source*: **GitHub Actions**.
 
 El build usa `BASE_PATH=/pasapalabra/`; en local no hace falta, porque por defecto es `/`.
 

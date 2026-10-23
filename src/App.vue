@@ -5,8 +5,6 @@ import PlayersView from './views/PlayersView.vue'
 import ResultsView from './views/ResultsView.vue'
 import SetupView from './views/SetupView.vue'
 import StatsView from './views/StatsView.vue'
-import LoginView from './views/LoginView.vue'
-import { authenticated, logout } from './app/auth'
 import { init, screen, storageWarning, type Screen } from './app/store'
 
 onMounted(init)
@@ -19,8 +17,7 @@ const tabs: { id: Screen; label: string }[] = [
 </script>
 
 <template>
-  <LoginView v-if="!authenticated" />
-  <GameView v-else-if="screen === 'game'" />
+  <GameView v-if="screen === 'game'" />
   <template v-else>
     <header class="top">
       <span class="brand">Pasapalabra</span>
@@ -33,7 +30,6 @@ const tabs: { id: Screen; label: string }[] = [
         >
           {{ t.label }}
         </button>
-        <button class="exit" @click="logout">Salir</button>
       </nav>
     </header>
     <main>
@@ -54,7 +50,6 @@ const tabs: { id: Screen; label: string }[] = [
 nav { display: flex; gap: 6px; }
 nav button { background: none; border-color: transparent; }
 nav button[aria-current='page'] { border-color: var(--gold); color: var(--gold); }
-nav .exit { color: var(--muted); font-weight: 400; margin-left: 8px; }
 main { padding: 12px clamp(16px, 4vw, 40px) 60px; }
 .warn { max-width: 760px; margin: 0 auto 18px; padding: 10px 14px; border-radius: 10px; background: color-mix(in srgb, var(--bad) 20%, transparent); }
 </style>

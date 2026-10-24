@@ -5,7 +5,7 @@ Juego del rosco de Pasapalabra para navegador, pensado para jugar en familia en 
 ## Características
 
 - Rosco de 25 letras con palabras de cuatro perfiles más un fondo común. El perfil de cada jugador sale de su fecha de nacimiento, con la edad que tenga el día de la partida: niños (0–13), adolescentes (14–22), jóvenes (23–38) y adultos (39 en adelante). Cada jugador usa su propio perfil, así que pueden jugar a la vez un niño y un adulto. Los jugadores creados antes de pedir la fecha conservan su perfil hasta que se les indique.
-- El perfil de jóvenes aún no tiene palabras propias: usa las de adultos. En cuanto haya al menos 5 palabras `young` en una letra, esa letra usa solo las suyas (más las comunes).
+- El perfil de jóvenes tiene 1000 palabras propias (40 por letra). Si en alguna letra tuviera menos de 5 propias, esa letra se completa con las de adultos.
 - Cada rosco lleva siempre un 25 % de argot y cultura pop (6 de 25).
 - Contador de uso por palabra: al terminar una partida se suma un uso a cada palabra que llegó a mostrarse (con el reloj en marcha). Al generar roscos se priorizan las menos usadas, de modo que el banco rota antes de repetir. El contador vive en el navegador (IndexedDB), no en los JSON del banco, así que cada navegador y cada dirección llevan su propia cuenta.
 - De 1 a 4 jugadores por turnos, cada uno con su reloj. Acertar mantiene el turno; fallar o pasar lo cede.

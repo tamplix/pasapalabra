@@ -4,6 +4,7 @@ import PlayerAvatar from '../components/PlayerAvatar.vue'
 import { players, screen, startGame } from '../app/store'
 import { settings } from '../app/settings'
 import { playerSummary } from '../app/age'
+import PresenterLink from '../components/PresenterLink.vue'
 
 const MAX_PLAYERS = 4
 const selected = ref<string[]>([])
@@ -51,7 +52,7 @@ const canStart = computed(() => selected.value.length >= 1)
           <span><strong>Manual</strong><small>Se responde en voz alta y alguien valida con los botones o con el teclado (Mayús izquierda: incorrecto, Mayús derecha: correcto, Espacio: pasapalabra).</small></span>
         </label>
         <label class="radio">
-          <input v-model="settings.answerMode" type="radio" value="typed" />
+          <input v-model="settings.answerMode" type="radio" value="typed" :disabled="settings.presenter" />
           <span><strong>Escribiendo</strong><small>Cada jugador teclea la palabra y el juego la comprueba.</small></span>
         </label>
       </fieldset>
@@ -62,6 +63,18 @@ const canStart = computed(() => selected.value.length >= 1)
           Tiempo por jugador (segundos)
           <input v-model.number="settings.durationSec" type="number" min="30" max="900" step="10" />
         </label>
+        <label class="check">
+          <input v-model="settings.presenter" type="checkbox" />
+          Usar un móvil como presentador: lee las definiciones y valida las respuestas
+        </label>
+        <div v-if="settings.presenter" class="presenter-box">
+          <p class="hint">Con presentador, las respuestas se validan siempre desde su móvil (modo manual).</p>
+          <label class="check">
+            <input v-model="settings.presenterHidesDefinition" type="checkbox" />
+            Ocultar la definición en esta pantalla mientras el presentador esté conectado
+          </label>
+          <PresenterLink />
+        </div>
         <label class="check">
           <input v-model="settings.camera" type="checkbox" />
           Mostrar la cámara en directo dentro del aro, en lugar de la foto
@@ -106,6 +119,8 @@ h2 { font-size: 1.05rem; font-weight: 600; margin: 0 0 12px; color: var(--gold);
 .options label { display: grid; gap: 6px; }
 .options label.check { display: flex; align-items: center; gap: 10px; }
 .options input[type='number'] { max-width: 160px; }
+.presenter-box { display: grid; gap: 12px; padding: 14px 16px; border-radius: 14px; border: 1.5px solid color-mix(in srgb, var(--chalk) 16%, transparent); background: color-mix(in srgb, var(--stage-2) 55%, transparent); }
+.hint { margin: 0; color: var(--muted); font-size: 0.95rem; }
 .start { justify-self: start; font-size: 1.2rem; padding: 14px 28px; }
 .empty { display: grid; gap: 14px; justify-items: start; }
 </style>

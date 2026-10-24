@@ -14,6 +14,20 @@ Juego del rosco de Pasapalabra para navegador, pensado para jugar en familia en 
 - Jugadores, partidas y estadísticas guardados en el navegador (IndexedDB): partidas, victorias, precisión y acierto por letra.
 - Deshacer el último veredicto.
 
+## Presentador con el móvil
+
+Opción de los ajustes de partida, desactivada por defecto (con ella apagada todo funciona como siempre y no se carga ninguna librería de conexión). La pantalla compartida muestra el rosco a los jugadores; un móvil hace de presentador: lee la definición, ve la solución y valida con botones (Correcto, Incorrecto, Pasapalabra, Empezar turno, Deshacer, Rendirse).
+
+1. Marca «Usar un móvil como presentador» al preparar la partida: aparece un QR y un código.
+2. Escanea el QR con el móvil (abre `#/presentador/CÓDIGO`). Quedan emparejados.
+3. La partida va siempre en modo manual. Mientras el móvil esté conectado, la pantalla oculta la definición (opcional) y la solución; si se desconecta, la definición vuelve a verse y la partida sigue con los controles de siempre.
+
+La pantalla es la que manda: lleva el motor y el reloj, así que no hay que sincronizar relojes. El móvil recibe el estado cada segundo, reconecta solo si se corta y mantiene la pantalla encendida si el navegador lo permite. Una orden repetida por la red no puntúa dos veces.
+
+La conexión usa WebRTC con PeerJS: el servicio público de PeerJS solo hace de intermediario para el primer saludo y los datos van directos entre los dos dispositivos, normalmente por la red local. Pueden fallar redes que aíslan los dispositivos entre sí (típicas de wifis de invitados). Se puede usar un servidor de saludo propio con `VITE_PEER_HOST`, `VITE_PEER_PORT`, `VITE_PEER_PATH` y `VITE_PEER_SECURE`.
+
+El QR apunta a la dirección desde la que se abrió la pantalla: en local (`localhost`) el móvil no podría abrirla, así que hay que abrir la pantalla con la IP del equipo (por ejemplo `npm run dev -- --host` y `http://192.168.x.x:5173`) o usar la web publicada.
+
 ## Modos de respuesta
 
 - **Manual** (por defecto): se responde en voz alta y alguien valida.

@@ -5,6 +5,8 @@ import RoscoRing from '../components/RoscoRing.vue'
 import RingMedia from '../components/RingMedia.vue'
 import { answerMode, dispatch, game, lastResult, now, playersById, remainingMs } from '../app/store'
 import { settings } from '../app/settings'
+import { presenterHidesDefinition } from '../app/presenter'
+import PresenterLink from '../components/PresenterLink.vue'
 import { scoreOf } from '../core/engine'
 
 const state = computed(() => game.value!)
@@ -135,7 +137,8 @@ watch([() => state.value.activeIndex, () => active.value.cursor, waiting], () =>
         <h2>{{ entry.prompt }}</h2>
         <div class="big" aria-hidden="true">{{ entry.letter }}</div>
       </div>
-      <p class="definition">{{ entry.definition }}</p>
+      <p v-if="presenterHidesDefinition" class="definition muted">La definición la lee el presentador desde su móvil.</p>
+      <p v-else class="definition">{{ entry.definition }}</p>
     </div>
     <aside v-if="others.length" class="players" aria-label="Otros jugadores">
       <article v-for="{ p, i } in others" :key="p.id" class="pcard" :class="{ done: p.finished }">
@@ -198,7 +201,7 @@ watch([() => state.value.activeIndex, () => active.value.cursor, waiting], () =>
         </div>
       </form>
       <div v-else class="judge">
-        <div class="solution" :class="{ shown: showSolution }">
+        <div v-if="!presenterHidesDefinition" class="solution" :class="{ shown: showSolution }">
           <button
             type="button"
             :aria-pressed="showSolution"
@@ -221,6 +224,7 @@ watch([() => state.value.activeIndex, () => active.value.cursor, waiting], () =>
         <template v-else>Era «{{ verdict.word }}»</template>
       </p>
       <p v-if="cameraError" class="cam-error">{{ cameraError }}</p>
+      <PresenterLink v-if="settings.presenter" compact />
       <div class="foot">
         <button class="link" type="button" :disabled="!state.history.length" @click="undo">
           Deshacer<template v-if="answerMode === 'manual'"> (Retroceso)</template>
@@ -370,4 +374,5 @@ kbd {
 .ready-box { display: grid; }
 .start { font-size: 1.3rem; padding: 18px 24px; }
 .start kbd { display: inline; margin-left: 8px; }
+.definition.muted { color: var(--muted); font-style: italic; }
 </style>

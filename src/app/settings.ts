@@ -6,13 +6,17 @@ export type AnswerMode = 'typed' | 'manual'
 export interface Settings {
   /** Cómo se responde. */
   answerMode: AnswerMode
+  /** Un móvil hace de presentador: lee las definiciones y valida las respuestas (siempre en modo manual). */
+  presenter: boolean
+  /** Oculta la definición en esta pantalla mientras el presentador esté conectado. */
+  presenterHidesDefinition: boolean
   /** Muestra la cámara en directo como fondo del jugador que tiene el turno. */
   camera: boolean
   durationSec: number
 }
 
 const KEY = 'pasapalabra:settings'
-const defaults: Settings = { answerMode: 'manual', camera: false, durationSec: 150 }
+const defaults: Settings = { answerMode: 'manual', presenter: false, presenterHidesDefinition: true, camera: false, durationSec: 150 }
 
 function load(): Settings {
   try {

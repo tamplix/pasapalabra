@@ -72,7 +72,8 @@ export function startGame(playerIds: string[]) {
     durationMs: settings.durationSec * 1000,
     usage: wordUsage.value,
   })
-  answerMode.value = settings.answerMode
+  // Con presentador, las respuestas las valida él: el modo escrito no tiene sentido.
+  answerMode.value = settings.presenter ? 'manual' : settings.answerMode
   lastResult.value = null
   dispatch({ type: 'start', at: Date.now() })
   screen.value = 'game'

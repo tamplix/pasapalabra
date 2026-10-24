@@ -1,6 +1,8 @@
 <script setup lang="ts">
 import { onMounted } from 'vue'
 import NebulaBackground from './components/NebulaBackground.vue'
+import PresenterRemoteView from './views/PresenterRemoteView.vue'
+import { initPresenter } from './app/presenter'
 import VerdictFlash from './components/VerdictFlash.vue'
 import GameView from './views/GameView.vue'
 import PlayersView from './views/PlayersView.vue'
@@ -9,7 +11,15 @@ import SetupView from './views/SetupView.vue'
 import StatsView from './views/StatsView.vue'
 import { init, screen, storageWarning, type Screen } from './app/store'
 
-onMounted(init)
+/** El móvil del presentador abre `#/presentador/CODIGO`: solo muestra el mando, sin el resto de la aplicación. */
+const remote = /^#\/presentador\/([A-Za-z0-9]{4,12})$/.exec(location.hash)
+const remoteCode = remote ? remote[1]!.toUpperCase() : null
+
+onMounted(() => {
+  if (remoteCode) return
+  void init()
+  initPresenter()
+})
 
 const tabs: { id: Screen; label: string }[] = [
   { id: 'setup', label: 'Jugar' },
@@ -19,6 +29,8 @@ const tabs: { id: Screen; label: string }[] = [
 </script>
 
 <template>
+  <PresenterRemoteView v-if="remoteCode" :code="remoteCode" />
+  <template v-else>
   <NebulaBackground />
   <VerdictFlash />
   <GameView v-if="screen === 'game'" />
@@ -45,6 +57,7 @@ const tabs: { id: Screen; label: string }[] = [
       <StatsView v-else-if="screen === 'stats'" />
       <ResultsView v-else-if="screen === 'results'" />
     </main>
+  </template>
   </template>
 </template>
 

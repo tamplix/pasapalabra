@@ -27,7 +27,7 @@ interface BarButton {
   tone: 'yes' | 'no' | 'neutral' | 'primary' | 'small'
 }
 
-/** Botones de la barra lateral según la fase de la partida. De arriba abajo, los menos usados primero. */
+/** Botones de la barra lateral según la fase de la partida. Deshacer va el último y más pequeño. */
 const bar = computed<BarButton[]>(() => {
   const v = view.value
   if (!v) return []
@@ -36,10 +36,10 @@ const bar = computed<BarButton[]>(() => {
   if (v.phase === 'paused') return [{ id: 'resume', label: 'Reanudar', icon: 'play', cmd: 'resume', tone: 'primary' }]
   if (v.phase === 'playing') {
     return [
-      { id: 'pause', label: 'Pausa', icon: 'pause', cmd: 'pause', tone: 'neutral' },
-      { id: 'pass', label: 'Pasapalabra', icon: 'skip', cmd: 'pass', tone: 'neutral' },
       { id: 'yes', label: 'Correcto', icon: 'check', cmd: 'judge-yes', tone: 'yes' },
       { id: 'no', label: 'Incorrecto', icon: 'x', cmd: 'judge-no', tone: 'no' },
+      { id: 'pass', label: 'Pasapalabra', icon: 'skip', cmd: 'pass', tone: 'neutral' },
+      { id: 'pause', label: 'Pausa', icon: 'pause', cmd: 'pause', tone: 'neutral' },
       ...undo,
     ]
   }
@@ -196,7 +196,9 @@ onBeforeUnmount(() => {
 
 <style scoped>
 .remote {
-  --btn: min(72px, calc((100dvh - 72px) / 5.3));
+  /* 4 botones grandes + Deshacer (más pequeño) repartidos por el alto disponible. */
+  --btn-h: min(112px, calc((100dvh - 28px - 32px) / 4.6));
+  --btn-w: calc(var(--btn-h) * 1.4);
   min-height: 100dvh;
   max-width: 560px;
   margin: 0 auto;
@@ -258,8 +260,8 @@ footer { display: flex; justify-content: center; gap: 24px; }
   border: 0 solid color-mix(in srgb, var(--chalk) 16%, transparent);
 }
 .icon-btn {
-  width: var(--btn);
-  height: var(--btn);
+  width: var(--btn-w);
+  height: var(--btn-h);
   padding: 0;
   display: grid;
   place-items: center;
@@ -268,27 +270,31 @@ footer { display: flex; justify-content: center; gap: 24px; }
   touch-action: manipulation;
   -webkit-tap-highlight-color: transparent;
 }
-.icon-btn svg { width: 58%; height: 58%; }
+.icon-btn svg { height: 56%; width: auto; aspect-ratio: 1; }
 .icon-btn.yes { background: var(--ok); border-color: var(--ok); color: #04210f; }
 .icon-btn.no { background: var(--bad); border-color: var(--bad); color: #fff; }
 .icon-btn.primary { background: var(--gold); border-color: var(--gold); color: var(--stage); }
-.icon-btn.small { width: calc(var(--btn) * 0.72); height: calc(var(--btn) * 0.72); border-radius: 14px; opacity: 0.9; }
+.icon-btn.small { width: calc(var(--btn-w) * 0.62); height: calc(var(--btn-h) * 0.55); border-radius: 14px; opacity: 0.9; }
 
 @media (orientation: landscape) {
-  .remote { padding-right: calc(var(--btn) + 36px + env(safe-area-inset-right)); padding-left: max(16px, env(safe-area-inset-left)); max-width: none; }
+  .remote { padding-right: calc(var(--btn-w) + 36px + env(safe-area-inset-right)); padding-left: max(16px, env(safe-area-inset-left)); max-width: none; }
   .bar {
     top: 0;
     right: 0;
     bottom: 0;
-    width: calc(var(--btn) + 24px + env(safe-area-inset-right));
-    padding: 8px 12px 8px 12px;
+    width: calc(var(--btn-w) + 24px + env(safe-area-inset-right));
+    padding: 14px 12px;
     padding-right: calc(12px + env(safe-area-inset-right));
     flex-direction: column;
     border-left-width: 1.5px;
   }
 }
 @media (orientation: portrait) {
-  .remote { --btn: min(68px, calc((100vw - 72px) / 5)); padding-bottom: calc(var(--btn) + 48px + env(safe-area-inset-bottom)); }
+  .remote {
+    --btn-w: min(112px, calc((100vw - 24px - 3 * 10px - 8px) / 4.6));
+    --btn-h: calc(var(--btn-w) * 0.95);
+    padding-bottom: calc(var(--btn-h) + 48px + env(safe-area-inset-bottom));
+  }
   .bar {
     left: 0;
     right: 0;

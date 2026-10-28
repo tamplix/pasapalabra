@@ -30,13 +30,14 @@ const mark = { correct: '✓', wrong: '✗', pending: '–' } as const
     <section v-for="p in state.players" :key="p.id" class="review">
       <h2>Rosco de {{ p.name }}</h2>
       <table>
-        <thead><tr><th></th><th>Letra</th><th>Solución</th><th>Respuesta</th></tr></thead>
+        <thead><tr><th></th><th>Letra</th><th>Solución</th><th>Definición</th><th>Respuesta</th></tr></thead>
         <tbody>
           <tr v-for="e in p.rosco" :key="e.letter" :class="e.status">
             <td class="mark" :aria-label="e.status">{{ mark[e.status] }}</td>
-            <td>{{ e.letter }}</td>
-            <td>{{ e.word }}</td>
-            <td>{{ e.given ?? '' }}</td>
+            <td class="letter">{{ e.letter }}</td>
+            <td class="word">{{ e.word }}</td>
+            <td class="def">{{ e.definition }}</td>
+            <td class="answer" :data-label="e.given ? 'Respuesta' : undefined">{{ e.given ?? '' }}</td>
           </tr>
         </tbody>
       </table>
@@ -50,7 +51,7 @@ const mark = { correct: '✓', wrong: '✗', pending: '–' } as const
 </template>
 
 <style scoped>
-.wrap { max-width: 820px; margin: 0 auto; display: grid; gap: 24px; }
+.wrap { max-width: 1040px; margin: 0 auto; display: grid; gap: 24px; }
 h1 { font-size: clamp(2.4rem, 7vw, 4.4rem); margin: 0; font-weight: 800; font-stretch: 75%; color: var(--gold); }
 h2 { font-size: 1.1rem; margin: 0 0 8px; }
 .podium { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
@@ -62,8 +63,30 @@ table { width: 100%; border-collapse: collapse; font-size: 0.95rem; }
 th { text-align: left; font-weight: 600; color: var(--muted); }
 th, td { padding: 6px 10px; border-bottom: 1px solid color-mix(in srgb, var(--chalk) 12%, transparent); }
 .mark { width: 2rem; font-weight: 800; }
+.letter { font-weight: 800; }
+.word { font-weight: 600; white-space: nowrap; }
+.def { color: var(--muted); line-height: 1.35; min-width: 16rem; }
+.pending .def { opacity: 0.85; }
 .correct .mark { color: var(--ok); }
 .wrong .mark { color: var(--bad); }
 .pending { color: var(--muted); }
 .actions { display: flex; gap: 12px; flex-wrap: wrap; }
+
+/* En pantallas estrechas cada casilla ocupa varias líneas: marca y letra a la izquierda, y debajo de la palabra su definición y la respuesta. */
+@media (max-width: 700px) {
+  table, tbody { display: block; }
+  thead { display: none; }
+  tr {
+    display: grid;
+    grid-template-columns: 1.6rem 2rem minmax(0, 1fr);
+    column-gap: 8px;
+    padding: 8px 0;
+    border-bottom: 1px solid color-mix(in srgb, var(--chalk) 12%, transparent);
+  }
+  td { border: 0; padding: 1px 0; }
+  .def, .answer { grid-column: 3; min-width: 0; }
+  .word { white-space: normal; }
+  .answer:not([data-label]) { display: none; }
+  .answer[data-label]::before { content: attr(data-label) ': '; color: var(--muted); }
+}
 </style>

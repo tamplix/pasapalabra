@@ -23,3 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 .vitest/
+
+# Material de trabajo local (listas de palabras en markdown); no se sube al repositorio
+recursos/

@@ -7,6 +7,7 @@ import { answerMode, dispatch, game, lastResult, now, playersById, remainingMs }
 import { settings } from '../app/settings'
 import { presenterHidesDefinition, presenterStatus } from '../app/presenter'
 import PresenterLink from '../components/PresenterLink.vue'
+import VerdictWord from '../components/VerdictWord.vue'
 import { scoreOf } from '../core/engine'
 
 const state = computed(() => game.value!)
@@ -272,6 +273,7 @@ watch([() => state.value.activeIndex, () => active.value.cursor, waiting, paused
         <button class="link" type="button" :disabled="paused" @click="surrender">Rendirse</button>
       </div>
     </section>
+    <VerdictWord />
   </div>
 </template>
 

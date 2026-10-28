@@ -10,6 +10,8 @@ export function commandToAction(cmd: Command, at: number): GameAction {
     case 'pass': return { type: 'pass', at }
     case 'undo': return { type: 'undo', at }
     case 'surrender': return { type: 'surrender', at }
+    case 'pause': return { type: 'pause', at }
+    case 'resume': return { type: 'resume', at }
   }
 }
 

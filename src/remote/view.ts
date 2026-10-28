@@ -13,7 +13,7 @@ export const VERDICT_MS = 3000
 
 /**
  * Lo que ve el presentador, calculado a partir del estado de la partida.
- * En la pausa de preparación no se envía la casilla, para no adelantar la definición.
+ * En la preparación del turno no se envía la casilla, para no adelantar la definición.
  */
 export function buildPresenterView(
   game: GameState | null,
@@ -23,6 +23,7 @@ export function buildPresenterView(
     return { phase: 'idle', entry: null, players: [], remainingMs: 0, canUndo: false, verdict: null }
   }
 
+  const paused = game.status === 'playing' && game.paused
   const running = game.status === 'playing' && game.turnStartedAt !== null
   const elapsed = running ? ctx.now - (game.turnStartedAt ?? ctx.now) : 0
 
@@ -48,13 +49,14 @@ export function buildPresenterView(
   }
 
   const active = game.players[game.activeIndex]!
-  const entry = running ? active.rosco[active.cursor] : undefined
+  const entry = running || paused ? active.rosco[active.cursor] : undefined
   return {
-    phase: running ? 'playing' : 'waiting',
+    phase: paused ? 'paused' : running ? 'playing' : 'waiting',
     entry: entry ? { letter: entry.letter, prompt: entry.prompt, definition: entry.definition, word: entry.word } : null,
     players,
     remainingMs: players[game.activeIndex]!.remainingMs,
-    canUndo: game.history.length > 0,
+    // En pausa no se puede deshacer, así que no se ofrece.
+    canUndo: game.history.length > 0 && !paused,
     verdict,
   }
 }

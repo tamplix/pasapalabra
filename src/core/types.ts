@@ -68,6 +68,8 @@ export interface GameState {
    * significa pausa de preparación: el reloj está parado hasta la acción `begin`.
    */
   turnStartedAt: number | null
+  /** Partida en pausa: el reloj está parado y solo se admite reanudar. */
+  paused: boolean
   startedAt: number | null
   finishedAt: number | null
   /** Pila de acciones deshacibles (la más reciente al final). */
@@ -85,4 +87,8 @@ export type GameAction =
   | { type: 'surrender'; at: number }
   /** Anula la última respuesta, veredicto o pasapalabra. */
   | { type: 'undo'; at: number }
+  /** Detiene el reloj del turno en marcha. */
+  | { type: 'pause'; at: number }
+  /** Reanuda el turno tras una pausa. */
+  | { type: 'resume'; at: number }
   | { type: 'tick'; at: number }

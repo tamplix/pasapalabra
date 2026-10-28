@@ -5,7 +5,7 @@ import RoscoRing from '../components/RoscoRing.vue'
 import RingMedia from '../components/RingMedia.vue'
 import { answerMode, dispatch, game, lastResult, now, playersById, remainingMs } from '../app/store'
 import { settings } from '../app/settings'
-import { presenterHidesDefinition } from '../app/presenter'
+import { presenterHidesDefinition, presenterStatus } from '../app/presenter'
 import PresenterLink from '../components/PresenterLink.vue'
 import { scoreOf } from '../core/engine'
 
@@ -17,8 +17,12 @@ const others = computed(() =>
   state.value.players.map((p, i) => ({ p, i })).filter(({ i }) => i !== state.value.activeIndex),
 )
 
-/** Pausa de preparación: con la partida en curso y el reloj del turno aún parado. */
-const waiting = computed(() => state.value.status === 'playing' && state.value.turnStartedAt === null)
+/** Partida en pausa: el reloj está parado y no se puede jugar hasta reanudar. */
+const paused = computed(() => state.value.status === 'playing' && state.value.paused)
+/** Pausa de preparación: con la partida en curso y el reloj del turno aún parado (sin estar en pausa). */
+const waiting = computed(() => state.value.status === 'playing' && state.value.turnStartedAt === null && !state.value.paused)
+/** Con el móvil del presentador conectado, la pausa se maneja desde su botonera. */
+const presenterConnected = computed(() => settings.presenter && presenterStatus.value === 'connected')
 
 const text = ref('')
 const input = ref<HTMLInputElement | null>(null)
@@ -52,12 +56,27 @@ function judge(correct: boolean) {
 }
 /**
  * Atajos de teclado.
- * En la pausa de preparación: Intro o Espacio empiezan el turno y Retroceso deshace.
+ * En pausa: Intro, Espacio o P reanudan.
+ * En la preparación del turno: Intro o Espacio empiezan el turno y Retroceso deshace.
+ * Con el turno en marcha, P pausa (salvo mientras se escribe en el campo de respuesta).
  * En el modo manual, durante el turno: Mayús izquierda = incorrecto, Mayús derecha = correcto,
  * Espacio = pasapalabra, Retroceso = deshacer e Intro (mantenida) = ver la solución.
  */
 function onKeyDown(e: KeyboardEvent) {
   if (game.value?.status !== 'playing') return
+  if (paused.value) {
+    if ((e.code === 'Enter' || e.code === 'Space' || e.code === 'KeyP') && !e.repeat) {
+      e.preventDefault()
+      suppressEnter = e.code === 'Enter'
+      resume()
+    }
+    return
+  }
+  if (e.code === 'KeyP' && !e.repeat && !waiting.value && !(e.target instanceof HTMLInputElement)) {
+    e.preventDefault()
+    pause()
+    return
+  }
   if (waiting.value) {
     if (e.code === 'Backspace' && !e.repeat) undo()
     else if ((e.code === 'Enter' || e.code === 'Space') && !e.repeat) {
@@ -105,6 +124,13 @@ let suppressEnter = false
 function begin() {
   dispatch({ type: 'begin', at: Date.now() })
 }
+function pause() {
+  showSolution.value = false
+  dispatch({ type: 'pause', at: Date.now() })
+}
+function resume() {
+  dispatch({ type: 'resume', at: Date.now() })
+}
 function undo() {
   showSolution.value = false
   dispatch({ type: 'undo', at: Date.now() })
@@ -115,7 +141,7 @@ function surrender() {
   }
 }
 
-watch([() => state.value.activeIndex, () => active.value.cursor, waiting], () => {
+watch([() => state.value.activeIndex, () => active.value.cursor, waiting, paused], () => {
   showSolution.value = false
   nextTick(() => input.value?.focus())
 }, {
@@ -126,7 +152,13 @@ watch([() => state.value.activeIndex, () => active.value.cursor, waiting], () =>
 
 <template>
   <div class="game" :class="{ solo: !others.length }">
-    <div v-if="waiting" class="clue ready" aria-live="polite">
+    <div v-if="paused" class="clue ready" aria-live="polite">
+      <div class="text">
+        <h2>Partida en pausa</h2>
+        <p>El reloj está parado. Reanudad cuando estéis listos.</p>
+      </div>
+    </div>
+    <div v-else-if="waiting" class="clue ready" aria-live="polite">
       <div class="text">
         <h2>Turno de {{ active.name }}</h2>
         <p>Cuando estéis listos, pulsad Empezar. El reloj arranca en ese momento.</p>
@@ -179,7 +211,12 @@ watch([() => state.value.activeIndex, () => active.value.cursor, waiting], () =>
       <div class="clock" :class="{ low: remainingMs(state.activeIndex) < 15000 }">
         {{ fmt(remainingMs(state.activeIndex)) }}
       </div>
-      <div v-if="waiting" class="ready-box">
+      <div v-if="paused" class="ready-box">
+        <button class="primary start" type="button" @click="resume">
+          Reanudar <kbd>Intro, Espacio o P</kbd>
+        </button>
+      </div>
+      <div v-else-if="waiting" class="ready-box">
         <button class="primary start" type="button" @click="begin">
           Empezar <kbd>Intro o Espacio</kbd>
         </button>
@@ -226,10 +263,13 @@ watch([() => state.value.activeIndex, () => active.value.cursor, waiting], () =>
       <p v-if="cameraError" class="cam-error">{{ cameraError }}</p>
       <PresenterLink v-if="settings.presenter" compact />
       <div class="foot">
-        <button class="link" type="button" :disabled="!state.history.length" @click="undo">
+        <button v-if="!presenterConnected" class="link" type="button" :disabled="waiting || paused" @click="pause">
+          Pausa<template v-if="answerMode === 'manual'"> (P)</template>
+        </button>
+        <button class="link" type="button" :disabled="!state.history.length || paused" @click="undo">
           Deshacer<template v-if="answerMode === 'manual'"> (Retroceso)</template>
         </button>
-        <button class="link" type="button" @click="surrender">Rendirse</button>
+        <button class="link" type="button" :disabled="paused" @click="surrender">Rendirse</button>
       </div>
     </section>
   </div>

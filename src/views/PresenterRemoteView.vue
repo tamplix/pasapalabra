@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { computed, onBeforeUnmount, onMounted, ref } from 'vue'
 import { readableTextColor } from '../app/color'
+import Icon from '../components/Icon.vue'
 import type { Command, PresenterView } from '../remote/protocol'
 import { connectToHost, type ClientStatus, type PresenterClient } from '../remote/transport'
 
@@ -17,6 +18,33 @@ let clockTimer: ReturnType<typeof setInterval> | undefined
 let wakeLock: { release(): Promise<void> } | null = null
 
 const running = computed(() => view.value?.phase === 'playing')
+
+interface BarButton {
+  id: string
+  label: string
+  icon: 'check' | 'x' | 'skip' | 'pause' | 'play' | 'undo'
+  cmd: Command
+  tone: 'yes' | 'no' | 'neutral' | 'primary' | 'small'
+}
+
+/** Botones de la barra lateral según la fase de la partida. De arriba abajo, los menos usados primero. */
+const bar = computed<BarButton[]>(() => {
+  const v = view.value
+  if (!v) return []
+  const undo: BarButton[] = v.canUndo ? [{ id: 'undo', label: 'Deshacer', icon: 'undo', cmd: 'undo', tone: 'small' }] : []
+  if (v.phase === 'waiting') return [{ id: 'begin', label: 'Empezar turno', icon: 'play', cmd: 'begin', tone: 'primary' }, ...undo]
+  if (v.phase === 'paused') return [{ id: 'resume', label: 'Reanudar', icon: 'play', cmd: 'resume', tone: 'primary' }]
+  if (v.phase === 'playing') {
+    return [
+      { id: 'pause', label: 'Pausa', icon: 'pause', cmd: 'pause', tone: 'neutral' },
+      { id: 'pass', label: 'Pasapalabra', icon: 'skip', cmd: 'pass', tone: 'neutral' },
+      { id: 'yes', label: 'Correcto', icon: 'check', cmd: 'judge-yes', tone: 'yes' },
+      { id: 'no', label: 'Incorrecto', icon: 'x', cmd: 'judge-no', tone: 'no' },
+      ...undo,
+    ]
+  }
+  return []
+})
 const remaining = computed(() => {
   if (!view.value) return 0
   const spent = running.value ? now.value - receivedAt.value : 0
@@ -36,7 +64,7 @@ function send(cmd: Command) {
   client?.send({ t: 'cmd', id: crypto.randomUUID(), cmd })
   navigator.vibrate?.(25)
   // Evita pulsaciones dobles que puntuarían dos letras seguidas.
-  if (cmd !== 'undo') {
+  if (cmd !== 'undo' && cmd !== 'pause' && cmd !== 'resume') {
     locked.value = true
     setTimeout(() => (locked.value = false), 700)
   }
@@ -109,24 +137,18 @@ onBeforeUnmount(() => {
       </section>
 
       <section v-if="view.phase === 'waiting'" class="center">
-        <p>Turno de <strong>{{ active?.name }}</strong>. Cuando estéis listos, empieza el turno.</p>
-        <button class="primary big" type="button" :disabled="locked" @click="send('begin')">Empezar turno</button>
-        <button v-if="view.canUndo" type="button" @click="send('undo')">Deshacer</button>
+        <p>Turno de <strong>{{ active?.name }}</strong>. Cuando estéis listos, pulsa <Icon name="play" class="inline" /> para empezar el turno.</p>
       </section>
 
-      <template v-else-if="view.phase === 'playing' && view.entry">
-        <section class="clue">
-          <p class="prompt"><span class="letter">{{ view.entry.letter }}</span>{{ view.entry.prompt }}</p>
-          <p class="definition">{{ view.entry.definition }}</p>
-          <p class="solution">Solución: <strong>{{ view.entry.word }}</strong></p>
-        </section>
+      <section v-else-if="view.phase === 'paused'" class="center">
+        <p><strong>Partida en pausa.</strong> El reloj está parado. Pulsa <Icon name="play" class="inline" /> para reanudar.</p>
+      </section>
 
-        <section class="actions" aria-label="Valorar la respuesta">
-          <button class="no" type="button" :disabled="locked" @click="send('judge-no')">Incorrecto</button>
-          <button class="yes" type="button" :disabled="locked" @click="send('judge-yes')">Correcto</button>
-          <button class="pass" type="button" :disabled="locked" @click="send('pass')">Pasapalabra</button>
-        </section>
-      </template>
+      <section v-if="(view.phase === 'playing' || view.phase === 'paused') && view.entry" class="clue">
+        <p class="prompt"><span class="letter">{{ view.entry.letter }}</span>{{ view.entry.prompt }}</p>
+        <p class="definition">{{ view.entry.definition }}</p>
+        <p class="solution">Solución: <strong>{{ view.entry.word }}</strong></p>
+      </section>
 
       <p v-if="view.verdict" class="verdict" :class="view.verdict.correct ? 'ok' : 'bad'" role="status">
         {{ view.verdict.correct ? 'Correcto' : 'Era' }}: {{ view.verdict.word }}
@@ -149,15 +171,32 @@ onBeforeUnmount(() => {
       </section>
 
       <footer v-if="view.phase !== 'finished'">
-        <button v-if="view.phase === 'playing' && view.canUndo" type="button" class="link" @click="send('undo')">Deshacer</button>
-        <button type="button" class="link" @click="surrender">Rendirse</button>
+        <button type="button" class="link" :disabled="view.phase === 'paused'" @click="surrender">Rendirse</button>
       </footer>
+
+      <!-- Barra fija de solo iconos: no se desplaza con el contenido y queda al alcance del pulgar. -->
+      <nav v-if="bar.length" class="bar" aria-label="Acciones del presentador">
+        <button
+          v-for="b in bar"
+          :key="b.id"
+          type="button"
+          class="icon-btn"
+          :class="b.tone"
+          :disabled="locked && b.tone !== 'small' && b.id !== 'resume' && b.id !== 'pause'"
+          :aria-label="b.label"
+          :title="b.label"
+          @click="send(b.cmd)"
+        >
+          <Icon :name="b.icon" />
+        </button>
+      </nav>
     </template>
   </main>
 </template>
 
 <style scoped>
 .remote {
+  --btn: min(72px, calc((100dvh - 72px) / 5.3));
   min-height: 100dvh;
   max-width: 560px;
   margin: 0 auto;
@@ -174,7 +213,8 @@ header p { margin: 0; }
 .reconnecting .dot { background: var(--bad); }
 .center { display: grid; gap: 14px; text-align: center; justify-items: center; padding-top: 8px; }
 .center h1 { margin: 0; font-size: 1.8rem; }
-.center p { margin: 0; }
+.center p { margin: 0; line-height: 1.5; }
+.inline { width: 1.1em; height: 1.1em; vertical-align: -0.2em; }
 .turn { display: flex; justify-content: space-between; align-items: center; }
 .who { display: flex; align-items: center; gap: 10px; font-size: 1.2rem; }
 .avatar { display: inline-grid; place-items: center; width: 40px; height: 40px; border-radius: 50%; font-weight: 700; box-shadow: 0 0 0 2px var(--gold); flex: none; }
@@ -194,12 +234,6 @@ header p { margin: 0; }
 .definition { margin: 0; font-size: 1.35rem; line-height: 1.4; }
 .solution { margin: 0; padding-top: 10px; border-top: 1px dashed color-mix(in srgb, var(--chalk) 25%, transparent); color: var(--muted); }
 .solution strong { color: var(--gold); font-size: 1.5rem; }
-.actions { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
-.actions button { padding: 22px 12px; font-size: 1.25rem; }
-.actions .yes { background: var(--ok); border-color: var(--ok); color: #04210f; }
-.actions .no { background: var(--bad); border-color: var(--bad); color: #fff; }
-.actions .pass { grid-column: 1 / -1; padding: 16px; font-size: 1.05rem; }
-.big { font-size: 1.3rem; padding: 20px 40px; }
 .verdict { margin: 0; text-align: center; font-weight: 700; font-size: 1.15rem; }
 .ok { color: var(--ok); }
 .bad { color: var(--bad); }
@@ -210,4 +244,70 @@ header p { margin: 0; }
 .score { font-weight: 700; font-variant-numeric: tabular-nums; }
 time { font-variant-numeric: tabular-nums; min-width: 3.2rem; text-align: right; }
 footer { display: flex; justify-content: center; gap: 24px; }
+
+/* Barra de acciones: fija, de solo iconos. En horizontal va a la derecha (pulgar derecho); en vertical, abajo. */
+.bar {
+  position: fixed;
+  z-index: 5;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  background: color-mix(in srgb, var(--stage) 88%, transparent);
+  backdrop-filter: blur(8px);
+  border: 0 solid color-mix(in srgb, var(--chalk) 16%, transparent);
+}
+.icon-btn {
+  width: var(--btn);
+  height: var(--btn);
+  padding: 0;
+  display: grid;
+  place-items: center;
+  border-radius: 18px;
+  border-width: 2px;
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+}
+.icon-btn svg { width: 58%; height: 58%; }
+.icon-btn.yes { background: var(--ok); border-color: var(--ok); color: #04210f; }
+.icon-btn.no { background: var(--bad); border-color: var(--bad); color: #fff; }
+.icon-btn.primary { background: var(--gold); border-color: var(--gold); color: var(--stage); }
+.icon-btn.small { width: calc(var(--btn) * 0.72); height: calc(var(--btn) * 0.72); border-radius: 14px; opacity: 0.9; }
+
+@media (orientation: landscape) {
+  .remote { padding-right: calc(var(--btn) + 36px + env(safe-area-inset-right)); padding-left: max(16px, env(safe-area-inset-left)); max-width: none; }
+  .bar {
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: calc(var(--btn) + 24px + env(safe-area-inset-right));
+    padding: 8px 12px 8px 12px;
+    padding-right: calc(12px + env(safe-area-inset-right));
+    flex-direction: column;
+    border-left-width: 1.5px;
+  }
+}
+@media (orientation: portrait) {
+  .remote { --btn: min(68px, calc((100vw - 72px) / 5)); padding-bottom: calc(var(--btn) + 48px + env(safe-area-inset-bottom)); }
+  .bar {
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 10px 12px calc(10px + env(safe-area-inset-bottom));
+    flex-direction: row;
+    border-top-width: 1.5px;
+  }
+}
+/* Móvil en horizontal: poca altura útil, así que se compacta el contenido para leer sin desplazarse. */
+@media (orientation: landscape) and (max-height: 560px) {
+  .remote { padding-top: 8px; padding-bottom: 14px; gap: 10px; }
+  .clue { padding: 12px 14px; gap: 6px; }
+  .letter { font-size: 2.2rem; }
+  .definition { font-size: 1.2rem; line-height: 1.35; }
+  .solution strong { font-size: 1.3rem; }
+  .clock { font-size: 2rem; }
+  .who { font-size: 1.05rem; }
+  .avatar { width: 32px; height: 32px; font-size: 0.8rem; }
+  .row { padding: 5px 10px; }
+}
 </style>

@@ -1,6 +1,6 @@
 /** Mensajes entre la pantalla compartida (que manda) y el móvil del presentador (que la maneja). */
 
-export const COMMANDS = ['begin', 'judge-yes', 'judge-no', 'pass', 'undo', 'surrender'] as const
+export const COMMANDS = ['begin', 'judge-yes', 'judge-no', 'pass', 'undo', 'surrender', 'pause', 'resume'] as const
 export type Command = (typeof COMMANDS)[number]
 
 export interface PresenterPlayer {
@@ -23,9 +23,12 @@ export interface PresenterEntry {
 }
 
 export interface PresenterView {
-  /** idle: sin partida · waiting: pausa de preparación del turno · playing: turno en marcha · finished: partida terminada */
-  phase: 'idle' | 'waiting' | 'playing' | 'finished'
-  /** Casilla en juego; null fuera del turno (en la pausa no se adelanta la definición). */
+  /**
+   * idle: sin partida · waiting: pausa de preparación del turno · playing: turno en marcha ·
+   * paused: partida en pausa con el reloj parado · finished: partida terminada
+   */
+  phase: 'idle' | 'waiting' | 'playing' | 'paused' | 'finished'
+  /** Casilla en juego; null en la preparación del turno (no se adelanta la definición). Con la partida en pausa sigue visible para el presentador. */
   entry: PresenterEntry | null
   players: PresenterPlayer[]
   /** Tiempo restante del jugador activo en el instante del envío. */

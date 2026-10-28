@@ -65,6 +65,25 @@ describe('vista del presentador', () => {
   })
 })
 
+describe('pausa en la vista del presentador', () => {
+  it('con la partida en pausa informa de ello, conserva la casilla y el tiempo, y no ofrece deshacer', () => {
+    let g = reduce(reduce(base(), { type: 'start', at: 0 }), { type: 'begin', at: 0 })
+    g = reduce(g, { type: 'judge', at: 100, correct: true })
+    g = reduce(g, { type: 'pause', at: 5000 })
+    const v = buildPresenterView(g, { now: 20_000, colorOf, verdict: null })
+    expect(v.phase).toBe('paused')
+    expect(v.entry?.letter).toBe('B')
+    expect(v.remainingMs).toBe(55_000)
+    expect(v.canUndo).toBe(false)
+  })
+  it('las órdenes de pausa y reanudación se traducen y se aceptan', () => {
+    expect(commandToAction('pause', 3)).toEqual({ type: 'pause', at: 3 })
+    expect(commandToAction('resume', 3)).toEqual({ type: 'resume', at: 3 })
+    expect(isPresenterMessage({ t: 'cmd', id: 'x', cmd: 'pause' })).toBe(true)
+    expect(isPresenterMessage({ t: 'cmd', id: 'x', cmd: 'resume' })).toBe(true)
+  })
+})
+
 describe('órdenes del presentador', () => {
   it('cada orden se traduce a la acción del motor con la hora de la pantalla', () => {
     expect(commandToAction('begin', 7)).toEqual({ type: 'begin', at: 7 })

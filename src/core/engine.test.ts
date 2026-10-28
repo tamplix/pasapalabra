@@ -269,6 +269,65 @@ describe('engine', () => {
   })
 })
 
+describe('pausa', () => {
+  it('detiene el reloj del turno y no cobra el tiempo parado', () => {
+    let s = started()
+    s = reduce(s, { type: 'pause', at: 3000 })
+    expect(s.paused).toBe(true)
+    expect(s.turnStartedAt).toBeNull()
+    expect(s.players[0]!.remainingMs).toBe(7000)
+    s = reduce(s, { type: 'tick', at: 60_000 })
+    expect(s.players[0]!.remainingMs).toBe(7000)
+    expect(s.status).toBe('playing')
+  })
+  it('al reanudar el reloj sigue desde donde se quedó', () => {
+    let s = reduce(started(), { type: 'pause', at: 3000 })
+    s = reduce(s, { type: 'resume', at: 9000 })
+    expect(s.paused).toBe(false)
+    expect(s.turnStartedAt).toBe(9000)
+    s = reduce(s, { type: 'tick', at: 10_000 })
+    expect(s.players[0]!.remainingMs).toBe(6000)
+  })
+  it('en pausa solo se admite reanudar: no se puntúa, ni se pasa, ni se deshace, ni se empieza ni se rinde', () => {
+    let s = reduce(started(), { type: 'judge', at: 100, correct: true })
+    s = reduce(s, { type: 'pause', at: 200 })
+    for (const action of [
+      { type: 'judge', at: 300, correct: true },
+      { type: 'answer', at: 300, text: 'x' },
+      { type: 'pass', at: 300 },
+      { type: 'undo', at: 300 },
+      { type: 'begin', at: 300 },
+      { type: 'surrender', at: 300 },
+      { type: 'pause', at: 300 },
+    ] as const) {
+      expect(reduce(s, action)).toBe(s)
+    }
+  })
+  it('no hay pausa si el reloj ya está parado ni si no estaba en pausa al reanudar', () => {
+    const s = reduce(started(), { type: 'pass', at: 500 }) // turno de Leo, en preparación
+    expect(reduce(s, { type: 'pause', at: 600 })).toBe(s)
+    const running = started()
+    expect(reduce(running, { type: 'resume', at: 600 })).toBe(running)
+  })
+  it('pausar y reanudar no altera el historial: se puede deshacer lo anterior', () => {
+    let s = reduce(started(), { type: 'judge', at: 100, correct: false })
+    s = reduce(s, { type: 'undo', at: 150 }) // vuelve Ana con el reloj en marcha
+    s = reduce(s, { type: 'judge', at: 200, correct: true })
+    const before = s.history.length
+    s = reduce(s, { type: 'pause', at: 300 })
+    s = reduce(s, { type: 'resume', at: 400 })
+    expect(s.history).toHaveLength(before)
+    s = reduce(s, { type: 'undo', at: 500 })
+    expect(s.players[0]!.rosco[0]!.status).toBe('pending')
+  })
+  it('si el tiempo ya se había acabado al pausar, se cede el turno y no queda en pausa', () => {
+    const s = reduce(started(), { type: 'pause', at: 11_000 })
+    expect(s.paused).toBe(false)
+    expect(s.players[0]!.finished).toBe(true)
+    expect(s.activeIndex).toBe(1)
+  })
+})
+
 describe('palabras vistas', () => {
   const seenWords = (s: GameState, i: number) =>
     s.players[i]!.rosco.filter((e) => e.seen).map((e) => e.letter)

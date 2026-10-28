@@ -13,10 +13,11 @@ Juego del rosco de Pasapalabra para navegador, pensado para jugar en familia en 
 - Foto del jugador dentro del aro durante su turno, o la cámara en directo (opcional).
 - Jugadores, partidas y estadísticas guardados en el navegador (IndexedDB): partidas, victorias, precisión y acierto por letra.
 - Deshacer el último veredicto.
+- Pausa: detiene el reloj del turno; durante la pausa se oculta la definición y no se puede puntuar. Se pausa y se reanuda desde la pantalla (botón o tecla P) o desde el móvil del presentador.
 
 ## Presentador con el móvil
 
-Opción de los ajustes de partida, desactivada por defecto (con ella apagada todo funciona como siempre y no se carga ninguna librería de conexión). La pantalla compartida muestra el rosco a los jugadores; un móvil hace de presentador: lee la definición, ve la solución y valida con botones (Correcto, Incorrecto, Pasapalabra, Empezar turno, Deshacer, Rendirse).
+Opción de los ajustes de partida, desactivada por defecto (con ella apagada todo funciona como siempre y no se carga ninguna librería de conexión). La pantalla compartida muestra el rosco a los jugadores; un móvil hace de presentador: lee la definición, ve la solución y valida con una botonera de solo iconos fija en un lateral (a la derecha en horizontal, abajo en vertical, para llegar con el pulgar sin desplazarse): Correcto, Incorrecto, Pasapalabra, Pausa, Empezar turno y Deshacer. Rendirse queda dentro de la página, más lejos, para no pulsarlo sin querer.
 
 1. Marca «Usar un móvil como presentador» al preparar la partida: aparece un QR y un código.
 2. Escanea el QR con el móvil (abre `#/presentador/CÓDIGO`). Quedan emparejados.
@@ -42,6 +43,7 @@ El QR apunta a la dirección desde la que se abrió la pantalla: en local (`loca
 | Espacio | Pasapalabra |
 | Intro (mantenida) | Ver la solución |
 | Retroceso | Deshacer |
+| P | Pausar o reanudar |
 
 En la pausa de preparación, Intro o Espacio empiezan el turno.
 

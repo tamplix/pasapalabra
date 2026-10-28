@@ -40,6 +40,7 @@ export function createGame(bank: readonly WordRecord[], opts: NewGameOptions): G
     players,
     activeIndex: 0,
     turnStartedAt: null,
+    paused: false,
     startedAt: null,
     finishedAt: null,
     history: [],
@@ -113,6 +114,21 @@ function step(state: GameState, action: GameAction): GameState {
     return { ...state, status: 'playing', startedAt: action.at, turnStartedAt: null }
   }
   if (state.status !== 'playing') return state
+
+  if (state.paused) {
+    // En pausa el reloj sigue parado y solo se puede reanudar; cualquier otra acción no hace nada.
+    return action.type === 'resume' ? { ...state, paused: false, turnStartedAt: action.at } : state
+  }
+  if (action.type === 'resume') return state
+
+  if (action.type === 'pause') {
+    // Con el reloj ya parado (pausa de preparación del turno) no hay nada que detener.
+    if (state.turnStartedAt === null) return state
+    const spent = spendTime(state, action.at)
+    // Si el tiempo se acabó justo antes de pausar, no hay pausa: se cede el turno como siempre.
+    if (spent.players[spent.activeIndex]!.finished) return advanceTurn(spent, action.at, true)
+    return { ...spent, turnStartedAt: null, paused: true }
+  }
 
   if (action.type === 'undo') {
     const previous = state.history.at(-1)

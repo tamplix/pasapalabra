@@ -2,6 +2,7 @@
 import { computed, onBeforeUnmount, onMounted, ref } from 'vue'
 import { readableTextColor } from '../app/color'
 import Icon from '../components/Icon.vue'
+import VolumeControl from '../components/VolumeControl.vue'
 import type { Command, PresenterView } from '../remote/protocol'
 import { connectToHost, type ClientStatus, type PresenterClient } from '../remote/transport'
 
@@ -16,6 +17,21 @@ const locked = ref(false)
 let client: PresenterClient | null = null
 let clockTimer: ReturnType<typeof setInterval> | undefined
 let wakeLock: { release(): Promise<void> } | null = null
+
+/** Mientras se toca el control se enseña el valor propio: el estado que llega de la pantalla no debe hacer saltar el deslizador. */
+const touched = ref({ at: 0, volume: 0, muted: false })
+const audio = computed(() => {
+  const a = view.value?.audio
+  if (!a?.enabled) return null
+  return now.value - touched.value.at < 1500 ? { ...a, volume: touched.value.volume, muted: touched.value.muted } : a
+})
+function setAudio(change: { volume?: number; muted?: boolean }) {
+  const a = audio.value
+  if (!a) return
+  touched.value = { at: Date.now(), volume: change.volume ?? a.volume, muted: change.volume !== undefined ? false : (change.muted ?? a.muted) }
+  now.value = Date.now()
+  client?.send({ t: 'audio', ...change, ...(change.volume !== undefined ? { muted: false } : {}) })
+}
 
 const running = computed(() => view.value?.phase === 'playing')
 
@@ -126,6 +142,8 @@ onBeforeUnmount(() => {
     </section>
 
     <template v-else>
+      <VolumeControl v-if="audio" class="vol" :volume="audio.volume" :muted="audio.muted" @volume="(v) => setAudio({ volume: v })" @mute="(m) => setAudio({ muted: m })" />
+
       <section v-if="view.phase !== 'finished'" class="turn">
         <div class="who" v-if="active">
           <span class="avatar" :style="{ background: active.color, color: readableTextColor(active.color) }" aria-hidden="true">

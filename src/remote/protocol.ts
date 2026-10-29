@@ -36,16 +36,28 @@ export interface PresenterView {
   canUndo: boolean
   /** Resultado de la última respuesta, durante unos segundos. */
   verdict: { word: string; correct: boolean } | null
+  /** Música de la pantalla: volumen de 0 a 1 y si está silenciada. `enabled` es falso con la música desactivada en las opciones. */
+  audio: { enabled: boolean; volume: number; muted: boolean }
 }
 
 export type HostMessage = { t: 'state'; view: PresenterView } | { t: 'ack'; id: string }
-export type PresenterMessage = { t: 'hello' } | { t: 'ping' } | { t: 'cmd'; id: string; cmd: Command }
+/** El móvil cambia el volumen o el silencio de la música de la pantalla; cualquiera de los dos campos es opcional. */
+export interface AudioMessage {
+  t: 'audio'
+  volume?: number
+  muted?: boolean
+}
+export type PresenterMessage = { t: 'hello' } | { t: 'ping' } | { t: 'cmd'; id: string; cmd: Command } | AudioMessage
 
 const isObject = (x: unknown): x is Record<string, unknown> => typeof x === 'object' && x !== null
 
 export function isPresenterMessage(x: unknown): x is PresenterMessage {
   if (!isObject(x)) return false
   if (x.t === 'hello' || x.t === 'ping') return true
+  if (x.t === 'audio') {
+    const okVolume = x.volume === undefined || (typeof x.volume === 'number' && x.volume >= 0 && x.volume <= 1)
+    return okVolume && (x.muted === undefined || typeof x.muted === 'boolean')
+  }
   return x.t === 'cmd' && typeof x.id === 'string' && x.id.length > 0 && COMMANDS.includes(x.cmd as Command)
 }
 

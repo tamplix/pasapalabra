@@ -79,6 +79,14 @@ const canStart = computed(() => selected.value.length >= 1)
           <input v-model="settings.camera" type="checkbox" />
           Mostrar la cámara en directo dentro del aro, en lugar de la foto
         </label>
+        <label class="check">
+          <input v-model="settings.music" type="checkbox" />
+          Música de fondo, que se vuelve más tensa durante el turno de cada jugador
+        </label>
+        <label class="check">
+          <input v-model="settings.effects" type="checkbox" />
+          Efectos de sonido: aplausos al acertar y un «ooohh» del público al fallar
+        </label>
       </section>
 
       <button class="primary start" :disabled="!canStart" @click="startGame(selected)">Empezar partida</button>

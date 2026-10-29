@@ -6,6 +6,7 @@ import RingMedia from '../components/RingMedia.vue'
 import { answerMode, dispatch, game, lastResult, now, playersById, remainingMs } from '../app/store'
 import { settings } from '../app/settings'
 import { presenterHidesDefinition, presenterStatus } from '../app/presenter'
+import VolumeControl from '../components/VolumeControl.vue'
 import PresenterLink from '../components/PresenterLink.vue'
 import VerdictWord from '../components/VerdictWord.vue'
 import { scoreOf } from '../core/engine'
@@ -24,6 +25,14 @@ const paused = computed(() => state.value.status === 'playing' && state.value.pa
 const waiting = computed(() => state.value.status === 'playing' && state.value.turnStartedAt === null && !state.value.paused)
 /** Con el móvil del presentador conectado, la pausa se maneja desde su botonera. */
 const presenterConnected = computed(() => settings.presenter && presenterStatus.value === 'connected')
+
+function setVolume(volume: number) {
+  settings.musicVolume = volume
+  settings.musicMuted = false
+}
+function setMuted(muted: boolean) {
+  settings.musicMuted = muted
+}
 
 const text = ref('')
 const input = ref<HTMLInputElement | null>(null)
@@ -262,6 +271,13 @@ watch([() => state.value.activeIndex, () => active.value.cursor, waiting, paused
         <template v-else>Era «{{ verdict.word }}»</template>
       </p>
       <p v-if="cameraError" class="cam-error">{{ cameraError }}</p>
+      <VolumeControl
+        v-if="settings.music || settings.effects"
+        :volume="settings.musicVolume"
+        :muted="settings.musicMuted"
+        @volume="setVolume"
+        @mute="setMuted"
+      />
       <PresenterLink v-if="settings.presenter" compact />
       <div class="foot">
         <button v-if="!presenterConnected" class="link" type="button" :disabled="waiting || paused" @click="pause">

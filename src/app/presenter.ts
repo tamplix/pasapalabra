@@ -64,6 +64,7 @@ function publish(force: boolean) {
     now,
     colorOf: (id) => playersById.value.get(id)?.color ?? colorFromSeed(id),
     verdict: last ? { word: last.word, correct: last.correct, at: last.at } : null,
+    audio: { enabled: settings.music || settings.effects, volume: settings.musicVolume, muted: settings.musicMuted },
   })
   // La firma ignora el reloj: solo se envía al instante lo que cambia en la partida; el reloj va con el envío periódico.
   const signature = JSON.stringify({ ...view, remainingMs: 0, players: view.players.map((p) => ({ ...p, remainingMs: 0 })) })
@@ -76,6 +77,11 @@ function onMessage(message: PresenterMessage) {
   lastSeen = Date.now()
   if (presenterStatus.value === 'waiting') presenterStatus.value = 'connected'
   if (message.t === 'hello') return publish(true)
+  if (message.t === 'audio') {
+    if (message.volume !== undefined) settings.musicVolume = message.volume
+    if (message.muted !== undefined) settings.musicMuted = message.muted
+    return
+  }
   if (message.t !== 'cmd') return
   if (!alreadyApplied(message.id) && game.value) dispatch(commandToAction(message.cmd, Date.now()))
   link?.send({ t: 'ack', id: message.id })
@@ -142,5 +148,5 @@ function tick() {
 /** Activa o desactiva el presentador según el ajuste. Se llama una vez al arrancar la aplicación. */
 export function initPresenter() {
   watch(() => settings.presenter, (on) => (on ? void start() : stop()), { immediate: true })
-  watch([game, lastResult], () => publish(false), { flush: 'post' })
+  watch([game, lastResult, () => settings.music, () => settings.effects, () => settings.musicVolume, () => settings.musicMuted], () => publish(false), { flush: 'post' })
 }

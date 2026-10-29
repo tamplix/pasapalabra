@@ -17,10 +17,11 @@ export const VERDICT_MS = 3000
  */
 export function buildPresenterView(
   game: GameState | null,
-  ctx: { now: number; colorOf: (id: string) => string; verdict: Verdict | null },
+  ctx: { now: number; colorOf: (id: string) => string; verdict: Verdict | null; audio?: PresenterView['audio'] },
 ): PresenterView {
+  const audio = ctx.audio ?? { enabled: false, volume: 0, muted: false }
   if (!game || game.status === 'lobby') {
-    return { phase: 'idle', entry: null, players: [], remainingMs: 0, canUndo: false, verdict: null }
+    return { phase: 'idle', entry: null, players: [], remainingMs: 0, canUndo: false, verdict: null, audio }
   }
 
   const paused = game.status === 'playing' && game.paused
@@ -45,7 +46,7 @@ export function buildPresenterView(
   const verdict = ctx.verdict && ctx.now - ctx.verdict.at < VERDICT_MS ? { word: ctx.verdict.word, correct: ctx.verdict.correct } : null
 
   if (game.status === 'finished') {
-    return { phase: 'finished', entry: null, players, remainingMs: 0, canUndo: false, verdict }
+    return { phase: 'finished', entry: null, players, remainingMs: 0, canUndo: false, verdict, audio }
   }
 
   const active = game.players[game.activeIndex]!
@@ -58,5 +59,6 @@ export function buildPresenterView(
     // En pausa no se puede deshacer, así que no se ofrece.
     canUndo: game.history.length > 0 && !paused,
     verdict,
+    audio,
   }
 }

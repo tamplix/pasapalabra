@@ -1,3 +1,4 @@
+import { normalize } from './normalize'
 import { pick, shuffle, type Rng } from './rng'
 import { ALPHABET, type Profile, type RoscoEntry, type WordRecord } from './types'
 
@@ -17,17 +18,44 @@ export const MIN_OWN_WORDS = 5
 const FALLBACK: Partial<Record<Profile, Profile>> = { young: 'adults' }
 
 /**
- * Palabras que puede usar un perfil: las suyas, las comunes (`all`) y, en las letras donde
- * tenga menos de `MIN_OWN_WORDS` propias, las de su perfil de respaldo (hoy `young` usa las de `adults`).
+ * Palabras que puede usar un perfil: las suyas, las comunes (`all`), las que otros perfiles comparten con él
+ * (`also`) y, en las letras donde tenga menos de `MIN_OWN_WORDS` propias, las de su perfil de respaldo
+ * (hoy `young` completaría con las de `adults`). Una misma palabra no aparece dos veces: si coincide entre
+ * varias fuentes, se queda la propia, luego la común, luego la compartida y por último la de respaldo.
  */
-export function buildPool(bank: readonly WordRecord[], profile: Profile): WordRecord[] {
-  const base = bank.filter((w) => w.profile === profile || w.profile === 'all')
+function computePool(bank: readonly WordRecord[], profile: Profile): WordRecord[] {
+  const base = bank.filter((w) => w.profile === profile || w.profile === 'all' || w.also?.includes(profile))
   const fallback = FALLBACK[profile]
-  if (!fallback) return base
-  const own = new Map<string, number>()
-  for (const w of base) if (w.profile === profile) own.set(w.letter, (own.get(w.letter) ?? 0) + 1)
-  const extra = bank.filter((w) => w.profile === fallback && (own.get(w.letter) ?? 0) < MIN_OWN_WORDS)
-  return [...base, ...extra]
+  let merged = base
+  if (fallback) {
+    const own = new Map<string, number>()
+    for (const w of base) if (w.profile === profile) own.set(w.letter, (own.get(w.letter) ?? 0) + 1)
+    merged = [...base, ...bank.filter((w) => w.profile === fallback && (own.get(w.letter) ?? 0) < MIN_OWN_WORDS)]
+    // Una palabra puede llegar por dos vías (compartida y de respaldo): se queda una sola vez.
+    merged = [...new Map(merged.map((w) => [w.id, w])).values()]
+  }
+
+  const rank = (w: WordRecord) => (w.profile === profile ? 0 : w.profile === 'all' ? 1 : w.also?.includes(profile) ? 2 : 3)
+  const kept = new Set<string>()
+  const seen = new Set<string>()
+  for (const w of [...merged].sort((a, b) => rank(a) - rank(b))) {
+    const key = normalize(w.word)
+    if (seen.has(key)) continue
+    seen.add(key)
+    kept.add(w.id)
+  }
+  // Se conserva el orden original del banco para que la generación siga siendo reproducible por semilla.
+  return merged.filter((w) => kept.has(w.id))
+}
+
+const poolCache = new WeakMap<readonly WordRecord[], Map<Profile, WordRecord[]>>()
+
+export function buildPool(bank: readonly WordRecord[], profile: Profile): WordRecord[] {
+  let byProfile = poolCache.get(bank)
+  if (!byProfile) poolCache.set(bank, (byProfile = new Map()))
+  let pool = byProfile.get(profile)
+  if (!pool) byProfile.set(profile, (pool = computePool(bank, profile)))
+  return pool
 }
 
 export class IncompleteBankError extends Error {

@@ -126,6 +126,37 @@ describe('generateRosco', () => {
   })
 })
 
+describe('palabras compartidas entre perfiles (also)', () => {
+  const word = (id: string, profile: WordRecord['profile'], w: string, also?: WordRecord['also']): WordRecord => ({
+    id, letter: 'A', position: 'starts_with', word: w, definition: 'definición de prueba', profile, isPop: false, ...(also ? { also } : {}),
+  })
+
+  it('una palabra compartida entra en la reserva del otro perfil, y solo en esa', () => {
+    const bank = [word('1', 'adults', 'Alfa', ['teens']), word('2', 'adults', 'Beta'), word('3', 'kids', 'Gamma')]
+    expect(buildPool(bank, 'teens').map((w) => w.id)).toEqual(['1'])
+    expect(buildPool(bank, 'adults').map((w) => w.id)).toEqual(['1', '2'])
+    expect(buildPool(bank, 'kids').map((w) => w.id)).toEqual(['3'])
+  })
+  it('no hay palabras repetidas: si coincide con una propia, se queda la propia', () => {
+    const bank = [word('1', 'adults', 'Matrix', ['young']), word('2', 'young', 'Matrix'), word('3', 'all', 'matrix')]
+    const pool = buildPool(bank, 'young')
+    expect(pool).toHaveLength(1)
+    expect(pool[0]!.id).toBe('2')
+  })
+  it('la compartida gana a la de respaldo y una misma palabra no entra por dos vías', () => {
+    const bank = [word('1', 'adults', 'Alfa'), word('2', 'teens', 'alfa', ['young']), word('3', 'adults', 'Beta', ['young'])]
+    const pool = buildPool(bank, 'young') // young completa con adultos mientras tenga pocas propias
+    expect(pool.map((w) => w.id).sort()).toEqual(['2', '3'])
+  })
+  it('las palabras compartidas cuentan en la generación del rosco', () => {
+    const bank = makeBank()
+    const shared = bank.map((w) => (w.profile === 'adults' ? { ...w, profile: 'teens' as const, also: ['young' as const] } : w))
+    const rosco = generateRosco(shared, 'young', createRng(3))
+    expect(rosco).toHaveLength(25)
+    expect(buildPool(shared, 'young').some((w) => w.profile === 'teens')).toBe(true)
+  })
+})
+
 describe('perfil young', () => {
   const youngWord = (letter: string, n: number): WordRecord => ({
     id: `y${letter}${n}`, letter: letter as WordRecord['letter'], position: 'starts_with',

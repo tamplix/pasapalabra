@@ -16,6 +16,8 @@ export interface WordRecord {
   definition: string
   profile: WordProfile
   isPop: boolean
+  /** Otros perfiles para los que la palabra también es apta (además de `profile`). No aplica a `all`. */
+  also?: Profile[]
   aliases?: string[]
   difficulty?: 1 | 2 | 3
   tags?: string[]

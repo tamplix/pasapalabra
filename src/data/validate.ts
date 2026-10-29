@@ -11,6 +11,7 @@ export const wordSchema = z.object({
   definition: z.string().min(10),
   profile: z.enum(['all', 'kids', 'teens', 'young', 'adults']),
   isPop: z.boolean(),
+  also: z.array(z.enum(['kids', 'teens', 'young', 'adults'])).optional(),
   aliases: z.array(z.string()).optional(),
   difficulty: z.union([z.literal(1), z.literal(2), z.literal(3)]).optional(),
   tags: z.array(z.string()).optional(),
@@ -52,6 +53,12 @@ export function validateWord(w: WordRecord): Issue[] {
     return [{ level: 'error', id: w.id, message: parsed.error.issues.map((i) => i.message).join('; ') }]
   }
   const issues: Issue[] = []
+  if (w.also?.includes(w.profile as Profile)) {
+    issues.push({ level: 'error', id: w.id, message: `«${w.word}» comparte su propio perfil (${w.profile}) en «also»` })
+  }
+  if (w.profile === 'all' && w.also?.length) {
+    issues.push({ level: 'error', id: w.id, message: `«${w.word}» es común (all): no necesita «also»` })
+  }
   const norm = normalize(w.word)
   if (w.position === 'starts_with' && firstLetter(w.word) !== w.letter) {
     issues.push({ level: 'error', id: w.id, message: `«${w.word}» no empieza por ${w.letter}` })

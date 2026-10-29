@@ -10,7 +10,8 @@
     "test": "vitest run",
     "validate-bank": "tsx scripts/validate-bank.ts",
     "migrate-bank": "tsx scripts/migrate-from-md.ts",
-    "add-words": "tsx scripts/add-words.ts"
+    "add-words": "tsx scripts/add-words.ts",
+    "apply-also": "tsx scripts/apply-also.ts"
   },
   "dependencies": {
     "@fontsource-variable/bricolage-grotesque": "^5.3.0",

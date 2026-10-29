@@ -1,5 +1,6 @@
 import { describe, expect, it } from 'vitest'
 import { createRng } from '../core/rng'
+import { normalize } from '../core/normalize'
 import { buildPool, generateRosco } from '../core/rosco'
 import { bank } from './bank'
 import { validateBank } from './validate'
@@ -36,5 +37,27 @@ describe('banco de palabras real', () => {
         }
       }
     }
+  })
+  it('ninguna reserva de perfil repite palabras, aunque lleguen por distintas vías', () => {
+    for (const profile of ['kids', 'teens', 'young', 'adults'] as const) {
+      const pool = buildPool(bank, profile)
+      expect(new Set(pool.map((w) => normalize(w.word))).size).toBe(pool.length)
+    }
+  })
+  it('las palabras compartidas respetan el criterio: sin recuerdos de época ni jerga ajena en perfiles más jóvenes', () => {
+    const shared = (word: string) => bank.find((w) => w.word === word && w.profile === 'adults')?.also ?? []
+    for (const word of ['Javi', 'Unicaja', 'Verano Azul', 'Zipi y Zape', 'Barrio Sésamo', 'Reválida']) {
+      expect(shared(word), word).not.toContain('young')
+      expect(shared(word), word).not.toContain('teens')
+    }
+    // Nada de contenido para adultos hacia los adolescentes.
+    for (const word of ['Pulp Fiction', 'Rambo', 'South Park', 'Padre de familia', 'Juego de Tronos', 'Dexter']) {
+      const hits = bank.filter((w) => w.word === word).flatMap((w) => w.also ?? [])
+      expect(hits, word).not.toContain('teens')
+    }
+  })
+  it('lo compartido amplía de verdad las reservas de jóvenes y adultos', () => {
+    expect(buildPool(bank, 'young').length).toBeGreaterThan(bank.filter((w) => w.profile === 'young').length + 500)
+    expect(buildPool(bank, 'adults').length).toBeGreaterThan(bank.filter((w) => w.profile === 'adults').length + 500)
   })
 })

@@ -6,7 +6,11 @@
     "word": "Acústica",
     "definition": "Rama de la física que estudia la producción, transmisión y efectos del sonido.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "284",
@@ -15,7 +19,11 @@
     "word": "Adrenalina",
     "definition": "Hormona segregada en situaciones de alerta o emoción intensa que acelera el pulso.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "285",
@@ -24,7 +32,10 @@
     "word": "Algoritmo",
     "definition": "Conjunto de reglas de las aplicaciones que decide qué vídeos o publicaciones te recomienda ver.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "286",
@@ -33,7 +44,11 @@
     "word": "Anime",
     "definition": "Estilo de animación japonesa muy popular con series como Naruto, One Piece o Attack on Titan.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "287",
@@ -51,7 +66,11 @@
     "word": "Asteroide",
     "definition": "Cuerpo rocoso de menor tamaño que un planeta que orbita alrededor del Sol.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "289",
@@ -60,7 +79,11 @@
     "word": "Atmósfera",
     "definition": "Capa de gases que rodea la Tierra y la protege de la radiación solar.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "290",
@@ -69,7 +92,11 @@
     "word": "Autonomía",
     "definition": "Capacidad de tomar decisiones y actuar por cuenta propia sin depender de otros.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "291",
@@ -78,7 +105,10 @@
     "word": "Autotune",
     "definition": "Efecto de audio electrónico muy usado en el trap para modular y afinar la voz.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "292",
@@ -87,7 +117,10 @@
     "word": "Avatar",
     "definition": "Representación gráfica o personaje que elige un usuario para identificarse en un juego o foro.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "293",
@@ -96,7 +129,11 @@
     "word": "Bachillerato",
     "definition": "Etapa de estudios postobligatorios en España que prepara para la universidad.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "294",
@@ -105,7 +142,11 @@
     "word": "Bacteria",
     "definition": "Microorganismo unicelular sin núcleo diferenciado que puede ser beneficioso o patógeno.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "295",
@@ -132,7 +173,11 @@
     "word": "Biodiversidad",
     "definition": "Variedad de especies animales y vegetales que habitan en un ecosistema.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "298",
@@ -141,7 +186,11 @@
     "word": "Biología",
     "definition": "Ciencia que estudia la estructura, funcionamiento y evolución de los seres vivos.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "299",
@@ -159,7 +208,11 @@
     "word": "Broma",
     "definition": "Acción o comentario gracioso para reírse entre amigos sin mala intención.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "301",
@@ -168,7 +221,10 @@
     "word": "Brújula",
     "definition": "Instrumento con aguja imantada que señala siempre hacia el norte magnético.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "302",
@@ -177,7 +233,11 @@
     "word": "Bóveda",
     "definition": "Estructura arquitectónica curvada que cubre el espacio entre muros o columnas.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "303",
@@ -186,7 +246,11 @@
     "word": "Chat",
     "definition": "Conversación por mensajes de texto en tiempo real dentro de una aplicación como WhatsApp.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "304",
@@ -195,7 +259,11 @@
     "word": "Cinética",
     "definition": "Energía que posee un cuerpo debido a su velocidad y movimiento.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "305",
@@ -204,7 +272,11 @@
     "word": "Constelación",
     "definition": "Agrupación convencional de estrellas que dibuja una figura imaginaria en el cielo.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "306",
@@ -213,7 +285,11 @@
     "word": "Copia",
     "definition": "Trampa prohibida en los exámenes consistente en mirar las respuestas de un compañero.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "307",
@@ -222,7 +298,11 @@
     "word": "Cosplay",
     "definition": "Afición de disfrazarse meticulosamente de un personaje de anime, cómic o videojuego.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "308",
@@ -231,7 +311,10 @@
     "word": "Cringe",
     "definition": "Sensación de vergüenza ajena provocada por algún comentario, vídeo o actitud.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "309",
@@ -240,7 +323,11 @@
     "word": "Criterio",
     "definition": "Pauta o principio que se utiliza para juzgar, discernir o valorar una cuestión.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "310",
@@ -258,7 +345,11 @@
     "word": "Crónica",
     "definition": "Género periodístico o literario que narra hechos reales siguiendo un orden cronológico.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "312",
@@ -267,7 +358,11 @@
     "word": "Célula",
     "definition": "Unidad morfológica y funcional básica más pequeña de todos los seres vivos.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "313",
@@ -276,7 +371,10 @@
     "word": "Debate",
     "definition": "Discusión formal y argumentada entre varias personas con opiniones contrapuestas.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "314",
@@ -285,7 +383,11 @@
     "word": "Democracia",
     "definition": "Sistema político en el que el poder reside en el pueblo mediante elecciones libres.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "315",
@@ -294,7 +396,11 @@
     "word": "Densidad",
     "definition": "Relación matemática entre la masa de un cuerpo y el volumen que ocupa.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "316",
@@ -303,7 +409,11 @@
     "word": "Dinámica",
     "definition": "Parte de la mecánica clásica que estudia el movimiento de los cuerpos en relación con las fuerzas.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "317",
@@ -312,7 +422,11 @@
     "word": "Directo",
     "definition": "Emisión en tiempo real en Twitch o YouTube interactuando con el chat.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "318",
@@ -321,7 +435,10 @@
     "word": "Discord",
     "definition": "Aplicación de mensajería y canales de voz muy utilizada por gamers y comunidades online.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "319",
@@ -330,7 +447,11 @@
     "word": "Diámetro",
     "definition": "Línea recta que une dos puntos de una circunferencia pasando por su centro.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "320",
@@ -357,7 +478,11 @@
     "word": "Ecosistema",
     "definition": "Comunidad biológica de seres vivos que interactúan con su medio físico.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "323",
@@ -366,7 +491,11 @@
     "word": "Ecuación",
     "definition": "Igualdad algebraica que contiene una o varias incógnitas que se deben despejar.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "324",
@@ -375,7 +504,11 @@
     "word": "Emoji",
     "definition": "Símbolo o carita gráfica que acompaña a los mensajes de texto para expresar emociones.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "325",
@@ -393,7 +526,11 @@
     "word": "Entropía",
     "definition": "Magnitud termodinámica que mide el grado de desorden o irreversibilidad de un sistema.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "327",
@@ -411,7 +548,11 @@
     "word": "Esports",
     "definition": "Competiciones profesionales de videojuegos organizadas con equipos y torneos oficiales.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "329",
@@ -420,7 +561,11 @@
     "word": "Estudio",
     "definition": "Lugar donde se encierra un productor musical para grabar voces y mezclar pistas.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "330",
@@ -429,7 +574,11 @@
     "word": "Evolución",
     "definition": "Proceso continuo de cambio genético y adaptación biológica de las especies a lo largo del tiempo.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "331",
@@ -438,7 +587,11 @@
     "word": "Fake",
     "definition": "Término en inglés para referirse a algo falso, manipulado o que es un engaño.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "332",
@@ -447,7 +600,11 @@
     "word": "Feed",
     "definition": "Muro principal de una red social donde van apareciendo las publicaciones de las cuentas seguidas.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "333",
@@ -456,7 +613,11 @@
     "word": "Filosofía",
     "definition": "Disciplina que reflexiona sobre la naturaleza de la realidad, el conocimiento y la moral.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "334",
@@ -465,7 +626,11 @@
     "word": "Filtro",
     "definition": "Efecto digital que modifica los colores, iluminación o rostro en fotos de Instagram o TikTok.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "335",
@@ -483,7 +648,11 @@
     "word": "Follower",
     "definition": "Seguidor que se suscribe a tus publicaciones en cualquier red social.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "337",
@@ -492,7 +661,11 @@
     "word": "Fotosíntesis",
     "definition": "Proceso químico mediante el cual las plantas convierten la luz solar y el agua en glucosa y oxígeno.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "338",
@@ -501,7 +674,11 @@
     "word": "Frecuencia",
     "definition": "Número de repeticiones de una onda o fenómeno periódico por unidad de tiempo.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "339",
@@ -510,7 +687,11 @@
     "word": "Fricción",
     "definition": "Fuerza de rozamiento que se opone al deslizamiento de una superficie sobre otra.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "340",
@@ -519,7 +700,10 @@
     "word": "Fusión",
     "definition": "Cambio de estado de una sustancia de sólido a líquido por acción del calor.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "341",
@@ -528,7 +712,11 @@
     "word": "Gamer",
     "definition": "Persona aficionada a jugar con frecuencia a videojuegos en consola o PC.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "342",
@@ -537,7 +725,10 @@
     "word": "Genética",
     "definition": "Parte de la biología que estudia cómo se transmiten los caracteres hereditarios de padres a hijos.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "343",
@@ -546,7 +737,11 @@
     "word": "Geometría",
     "definition": "Rama de las matemáticas que estudia las propiedades de figuras en el plano o en el espacio.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "344",
@@ -555,7 +750,11 @@
     "word": "Ghosting",
     "definition": "Acto de desaparecer y cortar toda comunicación con alguien de repente sin dar explicaciones.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "345",
@@ -564,7 +763,10 @@
     "word": "Glaciar",
     "definition": "Masa gruesa de hielo en la superficie terrestre que se desplaza lentamente cuesta abajo.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "346",
@@ -582,7 +784,11 @@
     "word": "Goku",
     "definition": "Poderoso guerrero saiyajin protagonista de la mítica serie de anime Dragon Ball.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "348",
@@ -591,7 +797,11 @@
     "word": "Gorra",
     "definition": "Accesorio plano o curvo indispensable de la estética urbana juvenil.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "349",
@@ -600,7 +810,11 @@
     "word": "Gravedad",
     "definition": "Fuerza natural de atracción que la masa de la Tierra ejerce sobre todos los cuerpos.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "350",
@@ -609,7 +823,11 @@
     "word": "Hashtag",
     "definition": "Etiqueta que comienza con almohadilla para clasificar temas en redes sociales.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "351",
@@ -618,7 +836,10 @@
     "word": "Hater",
     "definition": "Persona que se dedica constantemente a criticar, insultar o tirar odio en redes sociales.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "352",
@@ -627,7 +848,10 @@
     "word": "Headset",
     "definition": "Auriculares con micrófono incorporado esenciales para comunicarse en partidas online.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "353",
@@ -636,7 +860,11 @@
     "word": "Hemisferio",
     "definition": "Cada una de las dos mitades, norte o sur, en que el ecuador divide el globo terráqueo.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "354",
@@ -645,7 +873,10 @@
     "word": "Hipótesis",
     "definition": "Suposición con base científica que se formula provisionalmente para ser comprobada con experimentos.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "355",
@@ -654,7 +885,11 @@
     "word": "Hormona",
     "definition": "Sustancia química secretada por glándulas que viaja por la sangre regulando funciones del cuerpo.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "356",
@@ -663,7 +898,10 @@
     "word": "Hype",
     "definition": "Gran expectativa, entusiasmo o impaciencia generada ante el estreno de una serie o videojuego.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "357",
@@ -681,7 +919,10 @@
     "word": "Ibai",
     "definition": "Conocidísimo streamer y comunicador vasco organizador de La Velada del Año.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "359",
@@ -690,7 +931,11 @@
     "word": "Ilustración",
     "definition": "Movimiento intelectual y cultural europeo del siglo XVIII centrado en la razón y la ciencia.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "360",
@@ -699,7 +944,11 @@
     "word": "Inercia",
     "definition": "Propiedad de los cuerpos de resistirse a cambiar su estado de reposo o movimiento sin una fuerza exterior.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "361",
@@ -708,7 +957,10 @@
     "word": "Influencer",
     "definition": "Persona con gran cantidad de seguidores en redes que influye en modas y opiniones.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "362",
@@ -717,7 +969,11 @@
     "word": "Inmunidad",
     "definition": "Capacidad del organismo para resistir o combatir una infección o enfermedad mediante defensas.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "363",
@@ -726,7 +982,10 @@
     "word": "Instagram",
     "definition": "Red social visual basada en historias de 24 horas, reels y fotos en el feed.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "364",
@@ -744,7 +1003,11 @@
     "word": "Inteligencia",
     "definition": "Capacidad de razonar, aprender de la experiencia y resolver problemas complejos.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "366",
@@ -753,7 +1016,11 @@
     "word": "Intro",
     "definition": "Fragmento musical o escena inicial que da comienzo a un vídeo o canción.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "367",
@@ -762,7 +1029,11 @@
     "word": "Japón",
     "definition": "País asiático cuna del manga, el cosplay, los videojuegos de Nintendo y el ramen.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "368",
@@ -771,7 +1042,10 @@
     "word": "Jornada",
     "definition": "Tiempo diario dedicado al trabajo o a una actividad deportiva o académica.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "369",
@@ -780,7 +1054,11 @@
     "word": "Jovial",
     "definition": "Actitud desenfadada, alegre y llena de energía propia de la juventud.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "370",
@@ -789,7 +1067,10 @@
     "word": "Joya",
     "definition": "En argot coloquial, algo extraordinario, único o muy valioso.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "371",
@@ -798,7 +1079,11 @@
     "word": "Juerga",
     "definition": "Salida nocturna o fiesta de fin de semana con amigos para pasarlo bien.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "372",
@@ -816,7 +1101,10 @@
     "word": "Jurisdicción",
     "definition": "Autoridad o potestad legal para juzgar y aplicar las leyes en un territorio determinado.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "374",
@@ -825,7 +1113,10 @@
     "word": "Lag",
     "definition": "Retardo molesto en la conexión a internet que congela la partida en juegos online.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "375",
@@ -834,7 +1125,11 @@
     "word": "Latitud",
     "definition": "Distancia angular medida en grados desde cualquier punto de la Tierra hasta la línea del ecuador.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "376",
@@ -852,7 +1147,10 @@
     "word": "Literatura",
     "definition": "Arte de la expresión escrita o hablada a través de novelas, poesía y teatro.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "378",
@@ -861,7 +1159,10 @@
     "word": "Lofi",
     "definition": "Estilo de música relajante con ritmos suaves de hip hop ideal para estudiar o concentrarse.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "379",
@@ -870,7 +1171,11 @@
     "word": "Longitud",
     "definition": "Dimensión de una línea o distancia física entre dos puntos del espacio.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "380",
@@ -888,7 +1193,10 @@
     "word": "Lógica",
     "definition": "Método o razonamiento en el que las conclusiones se derivan válidamente de premisas.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "382",
@@ -897,7 +1205,11 @@
     "word": "Manga",
     "definition": "Cómic de origen japonés que se lee tradicionalmente de derecha a izquierda.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "383",
@@ -906,7 +1218,11 @@
     "word": "Marvel",
     "definition": "Compañía de cómics y películas creadora de Los Vengadores, Iron Man y Spiderman.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "384",
@@ -915,7 +1231,10 @@
     "word": "Meme",
     "definition": "Imagen, texto o fragmento de vídeo con tono cómico que se viraliza rápidamente por internet.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "385",
@@ -924,7 +1243,11 @@
     "word": "Metabolismo",
     "definition": "Conjunto de reacciones químicas celulares que transforman los nutrientes en energía.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "386",
@@ -933,7 +1256,11 @@
     "word": "Molécula",
     "definition": "Grupo estable de átomos unidos químicamente que constituye la menor porción de una sustancia pura.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "387",
@@ -942,7 +1269,11 @@
     "word": "Monarquía",
     "definition": "Forma de gobierno en la que la jefatura del Estado recae de forma vitalicia y hereditaria en un rey.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "388",
@@ -951,7 +1282,11 @@
     "word": "Móvil",
     "definition": "Dispositivo tecnológico sin el cual casi ningún adolescente sale de casa.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "389",
@@ -960,7 +1295,11 @@
     "word": "Nebulosa",
     "definition": "Enorme nube interestelar compuesta de gas y polvo cósmico donde nacen las estrellas.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "390",
@@ -969,7 +1308,11 @@
     "word": "Nerd",
     "definition": "Persona muy estudiosa o apasionada por la informática y la tecnología.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "391",
@@ -978,7 +1321,10 @@
     "word": "Netflix",
     "definition": "Plataforma de streaming en la que ves maratones de series juveniles.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "392",
@@ -987,7 +1333,10 @@
     "word": "Neurona",
     "definition": "Célula especializada del sistema nervioso capaz de transmitir impulsos eléctricos.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "393",
@@ -996,7 +1345,11 @@
     "word": "Notificación",
     "definition": "Aviso en la pantalla de bloqueo del teléfono indicando un nuevo mensaje o llamada.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "394",
@@ -1023,7 +1376,10 @@
     "word": "Nutrición",
     "definition": "Proceso biológico mediante el cual los seres vivos asimilan los alimentos necesarios para subsistir.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "397",
@@ -1032,7 +1388,11 @@
     "word": "Núcleo",
     "definition": "Parte central más densa e interna de una célula, de un átomo o de un planeta.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "398",
@@ -1041,7 +1401,10 @@
     "word": "Añadir",
     "definition": "Acción de agregar un nuevo contacto a tu lista de amigos o una canción a tu playlist.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "399",
@@ -1059,7 +1422,11 @@
     "word": "Dañino",
     "definition": "Que provoca perjuicio, dolor o consecuencias nocivas para la salud o el entorno.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "401",
@@ -1068,7 +1435,11 @@
     "word": "Diseñar",
     "definition": "Idear y trazar el plano, esquema o aspecto visual de un objeto o prenda antes de producirlo.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "402",
@@ -1077,7 +1448,11 @@
     "word": "Engañar",
     "definition": "Hacer creer algo que no es verdad, muy común en juegos sociales como Among Us.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "403",
@@ -1095,7 +1470,11 @@
     "word": "Reseña",
     "definition": "Texto breve en el que se resume y se da una valoración crítica de un libro, película o videojuego.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "405",
@@ -1104,7 +1483,10 @@
     "word": "Señal",
     "definition": "Cobertura de red inalámbrica que buscas desesperadamente cuando no cargan los vídeos.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "406",
@@ -1113,7 +1495,11 @@
     "word": "Soñar",
     "definition": "Imaginar despierto o dormido las metas y proyectos que quieres conseguir de mayor.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "407",
@@ -1122,7 +1508,10 @@
     "word": "Odisea",
     "definition": "Viaje largo lleno de peripecias y dificultades, como el relatado por Homero sobre Ulises.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "408",
@@ -1131,7 +1520,11 @@
     "word": "Offline",
     "definition": "Estado de desconexión sin acceso temporal a la red de internet.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "409",
@@ -1140,7 +1533,11 @@
     "word": "Online",
     "definition": "Estar conectado a la red y disponible en internet.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "410",
@@ -1149,7 +1546,10 @@
     "word": "Otaku",
     "definition": "Término con el que se conoce a las personas apasionadas por el manga y la cultura japonesa.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "411",
@@ -1158,7 +1558,10 @@
     "word": "Outfit",
     "definition": "Conjunto de prendas y accesorios combinados que lleva puesta una persona.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "412",
@@ -1167,7 +1570,11 @@
     "word": "Overwatch",
     "definition": "Videojuego de disparos por equipos en primera persona desarrollado por Blizzard.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "413",
@@ -1176,7 +1583,11 @@
     "word": "Óptica",
     "definition": "Rama de la física que estudia el comportamiento de la luz y sus fenómenos de refracción y reflexión.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "414",
@@ -1185,7 +1596,11 @@
     "word": "Órbita",
     "definition": "Trayectoria curva que describe un cuerpo celeste alrededor de otro bajo la influencia de la gravedad.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "415",
@@ -1194,7 +1609,11 @@
     "word": "Ósmosis",
     "definition": "Paso de un disolvente a través de una membrana semipermeable hacia una solución más concentrada.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "416",
@@ -1203,7 +1622,11 @@
     "word": "Parábola",
     "definition": "Curva cónica abierta simétrica que describe la trayectoria de un proyectil en el vacío.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "417",
@@ -1212,7 +1635,10 @@
     "word": "Platino",
     "definition": "El trofeo de máximo nivel que se desbloquea en PlayStation al completar todos los logros.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "418",
@@ -1221,7 +1647,10 @@
     "word": "Play",
     "definition": "Abreviatura coloquial con la que se nombra a la consola PlayStation de Sony.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "419",
@@ -1230,7 +1659,11 @@
     "word": "Playlist",
     "definition": "Lista personalizada de canciones creada en plataformas como Spotify o Apple Music.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "420",
@@ -1239,7 +1672,11 @@
     "word": "Podcast",
     "definition": "Programa de audio grabado que se escucha en streaming sobre cualquier temática.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "421",
@@ -1248,7 +1685,11 @@
     "word": "Polímero",
     "definition": "Compuesto químico formado por la unión repetida de moléculas más simples llamadas monómeros.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "422",
@@ -1257,7 +1698,11 @@
     "word": "Post",
     "definition": "Publicación individual de foto o texto subida a una red social.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "423",
@@ -1266,7 +1711,11 @@
     "word": "Prosa",
     "definition": "Forma habitual de escribir que no está sujeta a la medida de los versos ni a la rima.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "424",
@@ -1275,7 +1724,11 @@
     "word": "Protón",
     "definition": "Partícula subatómica con carga eléctrica positiva presente en el núcleo del átomo.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "425",
@@ -1302,7 +1755,10 @@
     "word": "Quemar",
     "definition": "En argot, gastar o escuchar tantas veces una canción que acabas aborreciéndola.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "428",
@@ -1320,7 +1776,10 @@
     "word": "Quásar",
     "definition": "Objeto astronómico lejano extremadamente luminoso alimentado por un agujero negro supermasivo.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "430",
@@ -1347,7 +1806,11 @@
     "word": "Random",
     "definition": "Palabra inglesa usada para describir algo o a alguien imprevisto, absurdo o fuera de lugar.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "433",
@@ -1365,7 +1828,11 @@
     "word": "Reel",
     "definition": "Formato de vídeo corto en Instagram diseñado para competir con TikTok.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "435",
@@ -1374,7 +1841,11 @@
     "word": "Refracción",
     "definition": "Cambio de dirección que experimenta un rayo de luz al pasar oblicuamente de un medio a otro.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "436",
@@ -1383,7 +1854,11 @@
     "word": "Relatividad",
     "definition": "Teoría física formulada por Albert Einstein sobre el espacio, el tiempo y la gravedad.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "437",
@@ -1392,7 +1867,11 @@
     "word": "Resonancia",
     "definition": "Aumento de la amplitud de vibración cuando la frecuencia coincide con la frecuencia propia del sistema.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "438",
@@ -1410,7 +1889,10 @@
     "word": "Rosalía",
     "definition": "Cantante catalana creadora del álbum Motomami y referente de la música pop urbana.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "440",
@@ -1419,7 +1901,11 @@
     "word": "Satélite",
     "definition": "Cuerpo celeste natural o dispositivo artificial que orbita alrededor de un planeta.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "441",
@@ -1428,7 +1914,10 @@
     "word": "Shippear",
     "definition": "Desear o emparejar sentimentalmente a dos personajes ficticios o amigos reales.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "442",
@@ -1437,7 +1926,10 @@
     "word": "Simbiosis",
     "definition": "Asociación estrecha y continuada entre dos especies biológicas con beneficio mutuo.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "443",
@@ -1446,7 +1938,11 @@
     "word": "Sintaxis",
     "definition": "Parte de la gramática que enseña a coordinar y unir las palabras para formar oraciones.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "444",
@@ -1455,7 +1951,10 @@
     "word": "Sostenible",
     "definition": "Desarrollo que satisface las necesidades presentes sin comprometer los recursos de generaciones futuras.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "445",
@@ -1464,7 +1963,11 @@
     "word": "Spoiler",
     "definition": "Revelación no deseada del final o de una parte clave de una serie o película.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "446",
@@ -1473,7 +1976,10 @@
     "word": "Spotify",
     "definition": "Plataforma líder para escuchar música y podcasts en cualquier dispositivo.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "447",
@@ -1482,7 +1988,10 @@
     "word": "Stalkear",
     "definition": "Espiar u ojear discretamente el perfil y las publicaciones de alguien en redes sociales.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "448",
@@ -1491,7 +2000,11 @@
     "word": "Story",
     "definition": "Foto o vídeo efímero en redes sociales que desaparece a las 24 horas.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "449",
@@ -1500,7 +2013,11 @@
     "word": "Tectónica",
     "definition": "Parte de la geología que estudia las fallas, pliegues y placas de la corteza terrestre.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "450",
@@ -1509,7 +2026,11 @@
     "word": "Teorema",
     "definition": "Proposición matemática demostrable de forma lógica a partir de axiomas previos.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "451",
@@ -1518,7 +2039,11 @@
     "word": "Termodinámica",
     "definition": "Rama de la física que estudia la relación entre el calor, el trabajo mecánico y la energía.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "452",
@@ -1527,7 +2052,10 @@
     "word": "TikTok",
     "definition": "Plataforma de vídeos cortos en formato vertical con bailes, trends y audios virales.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "453",
@@ -1536,7 +2064,11 @@
     "word": "Tragedia",
     "definition": "Obra dramática de tono solemne cuyo desenlace suele ser desdichado para sus personajes.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "454",
@@ -1545,7 +2077,10 @@
     "word": "Trap",
     "definition": "Estilo musical urbano caracterizado por cajas rítmicas 808 y letras directas.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "455",
@@ -1554,7 +2089,11 @@
     "word": "Trend",
     "definition": "Tendencia o reto viral que muchos usuarios replican en TikTok.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "456",
@@ -1563,7 +2102,11 @@
     "word": "Troll",
     "definition": "Usuario que publica comentarios molestos u ofensivos con el único fin de provocar.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "457",
@@ -1572,7 +2115,11 @@
     "word": "Twitch",
     "definition": "Plataforma líder de transmisiones en directo de videojuegos y charlas como las de Ibai.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "458",
@@ -1581,7 +2128,11 @@
     "word": "Ultrasonido",
     "definition": "Vibración acústica de frecuencia superior al límite audible por el oído humano.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "459",
@@ -1590,7 +2141,10 @@
     "word": "Unbox",
     "definition": "Término anglosajón para desempaquetar y mostrar por primera vez un producto en vídeo.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "460",
@@ -1599,7 +2153,10 @@
     "word": "Underground",
     "definition": "Cultura alternativa que se mantiene fuera de los circuitos comerciales masivos.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "461",
@@ -1608,7 +2165,11 @@
     "word": "Update",
     "definition": "Actualización de software que corrige fallos o añade nuevas funciones a un juego.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "462",
@@ -1617,7 +2178,11 @@
     "word": "Urban",
     "definition": "Género musical y estilo callejero que engloba el trap, hip hop, reggaeton y drill.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "463",
@@ -1626,7 +2191,11 @@
     "word": "USB",
     "definition": "Puerto estándar utilizado para conectar periféricos y cargar baterías de dispositivos.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "464",
@@ -1635,7 +2204,11 @@
     "word": "Vacuna",
     "definition": "Preparado biológico que estimula el sistema inmunitario contra una enfermedad infecciosa específica.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "465",
@@ -1653,7 +2226,10 @@
     "word": "Vanguardia",
     "definition": "Movimiento artístico e innovador que rompe con los cánones y estilos tradicionales.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "467",
@@ -1662,7 +2238,10 @@
     "word": "Vaper",
     "definition": "Dispositivo electrónico de inhalación de vapor que sustituye al tabaco tradicional.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "468",
@@ -1671,7 +2250,11 @@
     "word": "Vector",
     "definition": "Segmento de recta orientado en el espacio caracterizado por su módulo, dirección y sentido.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "469",
@@ -1680,7 +2263,11 @@
     "word": "Velocidad",
     "definition": "Magnitud física vectorial que expresa la distancia recorrida por un objeto en la unidad de tiempo.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "470",
@@ -1689,7 +2276,10 @@
     "word": "Vibe",
     "definition": "Vibra, atmósfera o energía especial que transmite una persona o un lugar.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "471",
@@ -1698,7 +2288,10 @@
     "word": "Viral",
     "definition": "Contenido digital que se difunde a velocidad masiva acumulando millones de reproducciones.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "472",
@@ -1707,7 +2300,10 @@
     "word": "Vlog",
     "definition": "Vídeo en el que un creador documenta su vida cotidiana o un viaje para compartirlo.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "473",
@@ -1716,7 +2312,10 @@
     "word": "Clímax",
     "definition": "Punto culminante de mayor tensión o intensidad emocional en una narración dramática.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "474",
@@ -1725,7 +2324,11 @@
     "word": "Contexto",
     "definition": "Conjunto de circunstancias espaciales, temporales o culturales que rodean a un acontecimiento o texto.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "475",
@@ -1752,7 +2355,11 @@
     "word": "Pixel",
     "definition": "Unidad mínima que compone una imagen digital en pantalla.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "478",
@@ -1761,7 +2368,10 @@
     "word": "Tóxico",
     "definition": "Comportamiento perjudicial, agresivo o destructivo de un jugador en partidas multijugador.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "479",
@@ -1779,7 +2389,11 @@
     "word": "Óxido",
     "definition": "Compuesto químico resultante de la unión de un elemento con el oxígeno.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "481",
@@ -1797,7 +2411,10 @@
     "word": "Yen",
     "definition": "Moneda oficial de Japón con la que se compran figuras de anime.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "483",
@@ -1806,7 +2423,10 @@
     "word": "Yoga",
     "definition": "Práctica de estiramiento y relajación física recomendada para combatir el estrés escolar.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "484",
@@ -1815,7 +2435,11 @@
     "word": "Youtuber",
     "definition": "Creador de contenido audiovisual que sube vídeos a la plataforma de Google.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "485",
@@ -1851,7 +2475,11 @@
     "word": "Zapatillas",
     "definition": "Calzado deportivo urbano imprescindible como las Nike Dunk o Jordan.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "489",
@@ -1860,7 +2488,10 @@
     "word": "Zigzag",
     "definition": "Línea quebrada formada por ángulos alternos entrantes y salientes sucesivos.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "490",
@@ -1905,7 +2536,10 @@
     "word": "Zumo",
     "definition": "Bebida refrescante habitual a la hora de merendar con amigos.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "844",
@@ -1914,7 +2548,11 @@
     "word": "Átomo",
     "definition": "Unidad elemental de la materia compuesta por protones, neutrones y electrones.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "845",
@@ -1923,7 +2561,11 @@
     "word": "Ciberseguridad",
     "definition": "Conjunto de técnicas y prácticas destinadas a proteger sistemas informáticos y redes de ciberataques.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "846",
@@ -1932,7 +2574,11 @@
     "word": "Enzima",
     "definition": "Proteína globular que actúa como catalizador biológico acelerando las reacciones químicas celulares.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "847",
@@ -1941,7 +2587,11 @@
     "word": "Genoma",
     "definition": "Secuencia completa de material genético contenida en los cromosomas de un organismo.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "848",
@@ -1959,7 +2609,10 @@
     "word": "Juicio",
     "definition": "Capacidad cognitiva de deliberar y discernir la verdad o proceso judicial ante un tribunal de derecho.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "850",
@@ -1968,7 +2621,11 @@
     "word": "JPEG",
     "definition": "Formato estándar de compresión digital con pérdida comúnmente empleado para almacenar fotografías.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "851",
@@ -1977,7 +2634,11 @@
     "word": "Mitocondria",
     "definition": "Orgánulo celular eucariota encargado de generar la mayor parte de la energía en forma de ATP.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "852",
@@ -1995,7 +2656,10 @@
     "word": "Utopía",
     "definition": "Concepción teórica de un sistema social y político ideal pero considerado irrealizable en la práctica.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "1284",
@@ -2004,7 +2668,10 @@
     "word": "Among Us",
     "definition": "Videojuego multijugador online donde los tripulantes deben completar tareas y desenmascarar a los impostores.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "1285",
@@ -2022,7 +2689,10 @@
     "word": "Attack on Titan",
     "definition": "Anime shonen de gran éxito sobre gigantes devoradores de humanos conocido en Japón como Shingeki no Kyojin.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "1287",
@@ -2049,7 +2719,10 @@
     "word": "Anuel",
     "definition": "Cantante puertorriqueño pionero del trap latino y la música urbana conocido por frases virales como 'Real hasta la muerte'.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "1290",
@@ -2067,7 +2740,11 @@
     "word": "Amnistía",
     "definition": "Medida jurídica y política que extingue la responsabilidad penal y borra los delitos de un grupo de personas.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1292",
@@ -2076,7 +2753,11 @@
     "word": "Anatomía",
     "definition": "Ciencia biológica que analiza la estructura, situación, forma y relación de las distintas partes del cuerpo orgánico.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1293",
@@ -2085,7 +2766,10 @@
     "word": "Axioma",
     "definition": "Proposición o principio tan evidente e indudable que se asume sin necesidad de demostración previa en matemáticas.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "1294",
@@ -2094,7 +2778,11 @@
     "word": "Aliteración",
     "definition": "Recurso poético que consiste en la repetición perceptible de un mismo sonido consonántico a lo largo de un verso.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1295",
@@ -2103,7 +2791,11 @@
     "word": "Anticuerpo",
     "definition": "Proteína producida por el sistema inmunitario en respuesta a la presencia de un antígeno extraño invasor.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1296",
@@ -2121,7 +2813,11 @@
     "word": "Bad Bunny",
     "definition": "Cantante y compositor puertorriqueño superestrella del reggaetón y trap latino autor del disco 'Un Verano Sin Ti'.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1298",
@@ -2130,7 +2826,10 @@
     "word": "Bleach",
     "definition": "Famoso manga y anime shonen creado por Tite Kubo sobre shinigamis que guían almas y combaten monstruos huecos.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "1299",
@@ -2175,7 +2874,11 @@
     "word": "Barómetro",
     "definition": "Instrumento de medición meteorológica que sirve para registrar la presión atmosférica del aire.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1304",
@@ -2184,7 +2887,11 @@
     "word": "Bipolar",
     "definition": "Trastorno mental o del estado de ánimo caracterizado por fluctuaciones extremas entre episodios de manía y depresión.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1305",
@@ -2202,7 +2909,11 @@
     "word": "Balística",
     "definition": "Disciplina que estudia el movimiento, trayectoria, alcance y efectos del impacto de los proyectiles disparados.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1307",
@@ -2211,7 +2922,11 @@
     "word": "Bicarbonato",
     "definition": "Sal química compuesta soluble en agua comúnmente utilizada en repostería y como remedio antiácido digestivo.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1308",
@@ -2220,7 +2935,10 @@
     "word": "Cyberpunk",
     "definition": "Subgénero de ciencia ficción distópica caracterizado por alta tecnología combinada con una sociedad marginada y luces de neón.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "1309",
@@ -2283,7 +3001,10 @@
     "word": "Cartografía",
     "definition": "Ciencia, arte y técnica ocupada en el trazado, análisis, diseño y estudio sistemático de mapas y globos terráqueos.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "1316",
@@ -2292,7 +3013,11 @@
     "word": "Clorofila",
     "definition": "Pigmento vegetal verde contenido en los cloroplastos capaz de captar la energía solar para realizar la fotosíntesis.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1317",
@@ -2301,7 +3026,11 @@
     "word": "Cóncavo",
     "definition": "Superficie o línea curva que presenta una depresión o curvatura similar a la parte interior de una esfera hueca.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1318",
@@ -2310,7 +3039,10 @@
     "word": "Coherencia",
     "definition": "Relación lógica, ordenada y sin contradicciones internas que vincula las partes integrantes de un discurso o texto.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "1319",
@@ -2319,7 +3051,11 @@
     "word": "Centrifugado",
     "definition": "Procedimiento mecánico que separa sustancias sólidas y líquidas de distinta densidad haciéndolas girar a gran velocidad.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1320",
@@ -2355,7 +3091,11 @@
     "word": "Duolingo",
     "definition": "Aplicación móvil de aprendizaje gamificado de idiomas representada por un búho verde que envía recordatorios insistentes.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1324",
@@ -2373,7 +3113,10 @@
     "word": "DLC",
     "definition": "Sigla de 'Downloadable Content' que designa el contenido digital descargable adicional creado para expandir un videojuego.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "1326",
@@ -2382,7 +3125,11 @@
     "word": "Digestión",
     "definition": "Proceso fisiológico por el cual el organismo descompone y absorbe los nutrientes de los alimentos en el tubo digestivo.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1327",
@@ -2391,7 +3138,11 @@
     "word": "Dialéctica",
     "definition": "Método filosófico de razonamiento y argumentación que busca la verdad a través del contraste de tesis opuestas.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1328",
@@ -2400,7 +3151,11 @@
     "word": "Despoblación",
     "definition": "Pérdida progresiva y masiva de habitantes humanos que sufre un territorio o comarca rural por emigración a las ciudades.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1329",
@@ -2409,7 +3164,11 @@
     "word": "Deformación",
     "definition": "Alteración de la forma, volumen o configuración geométrica original de un cuerpo debido al sometimiento a una fuerza externa.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1330",
@@ -2418,7 +3177,11 @@
     "word": "Disolvente",
     "definition": "Sustancia líquida capaz de dispersar homogéneamente a otra llamada soluto para conformar una mezcla homogénea.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1331",
@@ -2436,7 +3199,10 @@
     "word": "Elden Ring",
     "definition": "Aclamado videojuego de rol y acción en mundo abierto dirigido por Hidetaka Miyazaki y con mitología de George R. R. Martin.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "1333",
@@ -2454,7 +3220,10 @@
     "word": "Evangelion",
     "definition": "Clásico anime psicológico y de ciencia ficción mecha de culto creado por Hideaki Anno protagonizado por Shinji Ikari.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "1335",
@@ -2481,7 +3250,11 @@
     "word": "Easter Egg",
     "definition": "Mensaje, referencia o secreto oculto deliberadamente por los desarrolladores dentro de un videojuego o película.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1338",
@@ -2499,7 +3272,11 @@
     "word": "Electorado",
     "definition": "Conjunto total de ciudadanos de un país que poseen legalmente el derecho a ejercer el voto en unos comicios oficiales.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1340",
@@ -2508,7 +3285,11 @@
     "word": "Epicentro",
     "definition": "Punto de la superficie terrestre situado en la vertical exacta sobre el hipocentro o foco donde se origina un terremoto.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1341",
@@ -2517,7 +3298,11 @@
     "word": "Elipse",
     "definition": "Curva geométrica cerrada plana y simétrica en la que la suma de las distancias desde cualquier punto a dos focos es constante.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1342",
@@ -2526,7 +3311,11 @@
     "word": "Embrión",
     "definition": "Organismo animal o vegetal en sus fases iniciales de desarrollo desde la fecundación del cigoto hasta adquirir forma básica.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1343",
@@ -2535,7 +3324,11 @@
     "word": "Estambre",
     "definition": "Órgano reproductor masculino de las flores constituido por un filamento y una antera repleta de granos de polen.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1344",
@@ -2544,7 +3337,10 @@
     "word": "Fortnite",
     "definition": "Fenómeno mundial de videojuego battle royale donde cien jugadores se lanzan a una isla construyendo y luchando.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "1345",
@@ -2553,7 +3349,10 @@
     "word": "FPS",
     "definition": "Sigla que designa tanto los fotogramas por segundo de fluidez gráfica como el género de disparos en primera persona.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "1346",
@@ -2589,7 +3388,11 @@
     "word": "Fonética",
     "definition": "Rama de la lingüística experimental que se ocupa del estudio material de la producción y percepción de los sonidos del habla.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1350",
@@ -2598,7 +3401,11 @@
     "word": "Factorización",
     "definition": "Descomposición analítica de un polinomio o de un número entero en el producto de sus factores irreducibles o primos.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1351",
@@ -2607,7 +3414,11 @@
     "word": "Fermentación",
     "definition": "Proceso metabólico anaeróbico catabólico que degrada azúcares por acción de microorganismos como levaduras o bacterias.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1352",
@@ -2616,7 +3427,11 @@
     "word": "Fractura",
     "definition": "Rotura traumática parcial o total de la continuidad de un hueso en el esqueleto o de una capa rocosa en geología.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1353",
@@ -2625,7 +3440,11 @@
     "word": "Filogenia",
     "definition": "Historia y reconstrucción del parentesco evolutivo que vincula a las diferentes especies a lo largo del tiempo biológico.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1354",
@@ -2643,7 +3462,10 @@
     "word": "GTA",
     "definition": "Sigla de Grand Theft Auto, aclamada y polémica saga de videojuegos en mundo abierto desarrollada por Rockstar Games.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "1356",
@@ -2661,7 +3483,10 @@
     "word": "GG",
     "definition": "Abreviatura en chats de 'Good Game' que se escribe cordialmente al término de una partida multijugador para felicitar.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "1358",
@@ -2688,7 +3513,11 @@
     "word": "Gameto",
     "definition": "Célula sexual haploide reproductora especializada, como el óvulo o el espermatozoide, que se une a otra en la fecundación.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1361",
@@ -2697,7 +3526,11 @@
     "word": "Glóbulo",
     "definition": "Célula suspendida en el plasma sanguíneo, clasificada en eritrocitos transportadores de oxígeno y leucocitos inmunes.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1362",
@@ -2706,7 +3539,11 @@
     "word": "Glucosa",
     "definition": "Monosacárido fundamental soluble en agua que constituye la principal fuente de energía metabólica de las células vivas.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1363",
@@ -2715,7 +3552,10 @@
     "word": "Gramática",
     "definition": "Disciplina lingüística que establece las reglas y normas que determinan la correcta articulación y uso de una lengua.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "1364",
@@ -2724,7 +3564,11 @@
     "word": "Gradiente",
     "definition": "Razón de variación que experimenta una magnitud física o química respecto al cambio continuo de distancia espacial.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1365",
@@ -2733,7 +3577,11 @@
     "word": "Genocidio",
     "definition": "Exterminio o eliminación sistemática y planificada de un grupo humano por motivos étnicos, raciales, religiosos o nacionales.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1366",
@@ -2787,7 +3635,11 @@
     "word": "Histología",
     "definition": "Rama especializada de la biología microscópica que examina la estructura, composición y función de los tejidos orgánicos.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1372",
@@ -2796,7 +3648,11 @@
     "word": "Hipotenusa",
     "definition": "El lado opuesto al ángulo recto en un triángulo rectángulo y que posee la mayor longitud de los tres lados.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1373",
@@ -2805,7 +3661,11 @@
     "word": "Hidrocarburo",
     "definition": "Compuesto químico orgánico elemental formado de manera exclusiva por átomos de carbono y de hidrógeno como el metano.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1374",
@@ -2814,7 +3674,11 @@
     "word": "Heterocigoto",
     "definition": "Individuo que posee dos alelos diferentes de un gen específico en los cromosomas homólogos de sus células diploides.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1375",
@@ -2823,7 +3687,11 @@
     "word": "Híbrido",
     "definition": "Organismo resultante del cruce biológico reproductivo entre dos individuos de especies o subespecies diferentes.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1376",
@@ -2832,7 +3700,11 @@
     "word": "Hemoglobina",
     "definition": "Proteína globular que contiene hierro en los glóbulos rojos y que fija y transporta el oxígeno por el sistema circulatorio.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1377",
@@ -2841,7 +3713,11 @@
     "word": "Hexágono",
     "definition": "Polígono plano cerrado delimitado por seis lados y seis vértices cuyos ángulos internos suman setecientos veinte grados.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1378",
@@ -2877,7 +3753,10 @@
     "word": "Indie",
     "definition": "Videojuego desarrollado de manera autónoma por estudios pequeños o individuales sin el respaldo financiero de una gran editora.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "1382",
@@ -2895,7 +3774,10 @@
     "word": "IRL",
     "definition": "Sigla de 'In Real Life' que identifica a los directos o contenidos donde el streamer sale a la calle a mostrar su vida cotidiana.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "1384",
@@ -2904,7 +3786,10 @@
     "word": "Itachi",
     "definition": "Legendario y trágico shinobi renegado del clan Uchiha en el anime Naruto conocido por su dominio del Sharingan.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "1385",
@@ -2913,7 +3798,11 @@
     "word": "Ionización",
     "definition": "Proceso físico o químico por el que un átomo o molécula neutra gana o pierde electrones adquiriendo carga eléctrica.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1386",
@@ -2922,7 +3811,11 @@
     "word": "Isótopo",
     "definition": "Cada una de las variedades atómicas de un mismo elemento químico que poseen igual número de protones pero distinto número de neutrones.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1387",
@@ -2931,7 +3824,11 @@
     "word": "Infinitivo",
     "definition": "Forma verbal no personal que nombra la acción de manera genérica sin expresar persona, número ni tiempo y termina en ar, er o ir.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1388",
@@ -2940,7 +3837,10 @@
     "word": "Inflación",
     "definition": "Proceso económico generalizado y sostenido en el tiempo de elevación de precios que merma el poder adquisitivo del dinero.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "1389",
@@ -2949,7 +3849,11 @@
     "word": "Incógnita",
     "definition": "Valor o cantidad desconocida dentro de una ecuación o problema que debe deducirse a través de cálculos matemáticos.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1390",
@@ -2958,7 +3862,11 @@
     "word": "Invertebrado",
     "definition": "Animal que carece por completo de columna vertebral ósea y de esqueleto interno articulado como los insectos o moluscos.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1391",
@@ -3030,7 +3938,10 @@
     "word": "J Balvin",
     "definition": "Influyente cantante colombiano de música urbana que globalizó éxitos mundiales de reggaetón en festivales internacionales.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "1399",
@@ -3057,7 +3968,10 @@
     "word": "Jurado",
     "definition": "Órgano colegiado de ciudadanos legos convocado en un tribunal para emitir un veredicto de culpabilidad o inocencia.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "1402",
@@ -3084,7 +3998,11 @@
     "word": "Jabonoso",
     "definition": "Que contiene jabón o que presenta una textura resbaladiza y espumosa semejante al frotarlo con agua.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1405",
@@ -3093,7 +4011,11 @@
     "word": "Jónico",
     "definition": "Uno de los tres órdenes clásicos de la arquitectura griega caracterizado por columnas esbeltas rematadas en volutas espirales.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1406",
@@ -3102,7 +4024,10 @@
     "word": "Júpiter",
     "definition": "El planeta más voluminoso y masivo del sistema solar, clasificado como gigante gaseoso y rodeado de decenas de lunas.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "1407",
@@ -3111,7 +4036,11 @@
     "word": "Jaspe",
     "definition": "Variedad mineral de cuarzo microcristalino opaco y compacto que luce vetas de vivos colores rojo, pardo o amarillo.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1408",
@@ -3120,7 +4049,10 @@
     "word": "League of Legends",
     "definition": "Conocidísimo videojuego competitivo de arena de combate online por equipos conocido popularmente por su sigla LoL.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "1409",
@@ -3174,7 +4106,11 @@
     "word": "Líquido",
     "definition": "Estado de agregación de la materia que presenta volumen constante pero adopta la forma del recipiente que lo contiene.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1415",
@@ -3183,7 +4119,11 @@
     "word": "Lente",
     "definition": "Dispositivo transparente de cristal pulido con dos superficies curvas que refracta la luz para corregir la visión o ampliar imágenes.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1416",
@@ -3192,7 +4132,11 @@
     "word": "Linfocito",
     "definition": "Variedad de glóbulo blanco del sistema inmunitario responsable de la producción de anticuerpos y defensa contra virus.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1417",
@@ -3201,7 +4145,11 @@
     "word": "Litósfera",
     "definition": "Capa superficial sólida, rígida y rocosa que compone la corteza y el manto más externo de la Tierra.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1418",
@@ -3210,7 +4158,11 @@
     "word": "Leyenda",
     "definition": "Relato tradicional transmitido de generación en generación que mezcla sucesos históricos con elementos fantásticos.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1419",
@@ -3219,7 +4171,11 @@
     "word": "Logaritmo",
     "definition": "Exponente al que es necesario elevar una base dada para obtener como resultado un número determinado en cálculo algebraico.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1420",
@@ -3237,7 +4193,11 @@
     "word": "Multiverso",
     "definition": "Hipótesis cosmológica y recurso recurrente de ficción donde coexisten múltiples realidades y dimensiones paralelas.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1422",
@@ -3291,7 +4251,10 @@
     "word": "Metáfora",
     "definition": "Figura retórica literaria consistente en trasladar el sentido directo de una palabra a otro figurado por una analogía oculta.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "1428",
@@ -3300,7 +4263,11 @@
     "word": "Mecánica",
     "definition": "Rama de la física fundamental que describe el movimiento y reposo de los cuerpos bajo la acción de diversas fuerzas.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1429",
@@ -3309,7 +4276,11 @@
     "word": "Mutación",
     "definition": "Alteración accidental y hereditaria en la secuencia de nucleótidos del ADN de un ser vivo que genera variabilidad genética.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1430",
@@ -3318,7 +4289,11 @@
     "word": "Masa",
     "definition": "Propiedad intrínseca de la materia que determina cuantitativamente su inercia y su interacción gravitatoria con otros cuerpos.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1431",
@@ -3327,7 +4302,11 @@
     "word": "Mineral",
     "definition": "Sustancia sólida inorgánica de origen natural que posee una composición química definida y una estructura cristalina ordenada.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1432",
@@ -3336,7 +4315,11 @@
     "word": "Morfología",
     "definition": "Parte de la gramática que investiga la estructura interna de las palabras, sus lexemas y sus morfemas constitutivos.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1433",
@@ -3354,7 +4337,10 @@
     "word": "Noob",
     "definition": "Término derivado de 'newbie' empleado de forma despectiva o cómica para señalar a alguien torpe o recién llegado a un juego.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "1435",
@@ -3417,7 +4403,11 @@
     "word": "Neolítico",
     "definition": "Periodo prehistórico de la Edad de Piedra pulimentada en que la humanidad descubrió la agricultura, la ganadería y el sedentarismo.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1442",
@@ -3426,7 +4416,11 @@
     "word": "Neutrón",
     "definition": "Partícula subatómica sin carga eléctrica neta situada junto a los protones en el núcleo de casi todos los átomos.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1443",
@@ -3435,7 +4429,11 @@
     "word": "Neoclasicismo",
     "definition": "Movimiento cultural y artístico del siglo XVIII que reivindicó la sobriedad, el equilibrio y la armonía formal de la Antigüedad grecorromana.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1444",
@@ -3444,7 +4442,10 @@
     "word": "Nomenclatura",
     "definition": "Conjunto sistematizado de términos, símbolos y normas técnicas adoptado para denominar compuestos en una ciencia.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "1445",
@@ -3453,7 +4454,11 @@
     "word": "Nematodo",
     "definition": "Gusano cilíndrico invertebrado no segmentado que habita en suelos, aguas o como parásito de plantas y animales.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1446",
@@ -3462,7 +4467,11 @@
     "word": "Neutralización",
     "definition": "Reacción química entre un ácido y una base que genera como productos una sal inorgánica y agua equilibrando el pH.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1447",
@@ -3489,7 +4498,11 @@
     "word": "Castaña",
     "definition": "Fruto otoñal comestible de corteza lustrosa que se recolecta en los bosques y se come asado.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1450",
@@ -3507,7 +4520,11 @@
     "word": "Araña",
     "definition": "Arácnido artrópodo dotado de ocho patas y quelíceros que teje complejas redes de seda para capturar insectos.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1452",
@@ -3525,7 +4542,10 @@
     "word": "Leña",
     "definition": "Conjunto de ramas y maderos cortados que se emplean para alimentar el fuego de una estufa o chimenea.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "1454",
@@ -3534,7 +4554,10 @@
     "word": "Niñez",
     "definition": "Periodo inicial de la vida humana que abarca desde el nacimiento hasta la entrada en la pubertad.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "1455",
@@ -3552,7 +4575,10 @@
     "word": "One Piece",
     "definition": "Legendario manga de Eiichiro Oda sobre Monkey D. Luffy y su tripulación pirata en busca del mayor tesoro del mundo.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "1457",
@@ -3579,7 +4605,10 @@
     "word": "Opening",
     "definition": "Canción y secuencia de vídeo introductoria que abre cada episodio de una serie de anime.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "1460",
@@ -3597,7 +4626,10 @@
     "word": "Ozuna",
     "definition": "Famoso cantante y compositor puertorriqueño de reggaetón y trap melódico apodado 'El negrito de ojos claros'.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "1462",
@@ -3606,7 +4638,10 @@
     "word": "Oligarquía",
     "definition": "Sistema político en el cual el poder efectivo de gobierno está concentrado en manos de una minoría privilegiada.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "1463",
@@ -3615,7 +4650,11 @@
     "word": "Ovíparo",
     "definition": "Animal cuya reproducción se efectúa mediante la puesta de huevos que eclosionan fuera del cuerpo materno.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1464",
@@ -3624,7 +4663,10 @@
     "word": "Ortografía",
     "definition": "Conjunto estandarizado de reglas y convenciones que rigen la correcta escritura de las palabras en una lengua.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "1465",
@@ -3633,7 +4675,11 @@
     "word": "Osmorregulación",
     "definition": "Proceso fisiológico por el cual un ser vivo mantiene constante la presión osmótica y el equilibrio de agua y sales.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1466",
@@ -3705,7 +4751,11 @@
     "word": "Polisemia",
     "definition": "Fenómeno lingüístico por el cual una misma palabra o signo posee varios significados diferentes pero emparentados.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1474",
@@ -3714,7 +4764,11 @@
     "word": "Proporcionalidad",
     "definition": "Relación matemática constante y equilibrada que vincula magnitudes que crecen o decrecen de forma coordinada.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1475",
@@ -3723,7 +4777,11 @@
     "word": "Parasitismo",
     "definition": "Relación biológica simbiótica en la que un organismo vive a expensas de otro huésped causándole un perjuicio.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1476",
@@ -3732,7 +4790,11 @@
     "word": "Paleolítico",
     "definition": "Periodo más extenso y antiguo de la Prehistoria en que los homínidos usaban piedras talladas y vivían de la caza.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1477",
@@ -3741,7 +4803,11 @@
     "word": "Plaqueta",
     "definition": "Fragmento celular sanguíneo sin núcleo indispensable para la coagulación y reparación de roturas en vasos sanguíneos.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1478",
@@ -3750,7 +4816,11 @@
     "word": "Péndulo",
     "definition": "Sistema físico suspendido de un punto fijo que oscila rítmicamente a un lado y a otro bajo el influjo de la gravedad.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1479",
@@ -3804,7 +4874,10 @@
     "word": "Quest",
     "definition": "Misión u objetivo principal que un personaje debe completar en una aventura gráfica o videojuego de rol.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "1485",
@@ -3831,7 +4904,11 @@
     "word": "Quintal",
     "definition": "Antigua unidad de medida de peso que equivalía tradicionalmente a cien libras o unos cuarenta y seis kilogramos.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1488",
@@ -3849,7 +4926,11 @@
     "word": "Quimiorreceptor",
     "definition": "Célula sensorial capaz de captar estímulos químicos del entorno y convertirlos en señales nerviosas como el olfato.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1490",
@@ -3858,7 +4939,11 @@
     "word": "Queratina",
     "definition": "Proteína fibrosa rica en azufre que forma la estructura fundamental del cabello humano, las uñas y las pezuñas.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1491",
@@ -3867,7 +4952,11 @@
     "word": "Quiste",
     "definition": "Bolsa membranosa anormal cerrada que se forma en tejidos u órganos conteniendo líquido o materia semisólida.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1492",
@@ -3930,7 +5019,10 @@
     "word": "Respawn",
     "definition": "Reaparición de un personaje en el punto de inicio tras haber sido abatido en una partida multijugador.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "1499",
@@ -3948,7 +5040,11 @@
     "word": "Ribosoma",
     "definition": "Complejo molecular citoplasmático compuesto por proteínas y ARN encargado de la síntesis de nuevas proteínas celulares.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1501",
@@ -3957,7 +5053,10 @@
     "word": "Reacción",
     "definition": "Transformación química en la que una o varias sustancias iniciales rompen enlaces para constituir compuestos nuevos.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "1502",
@@ -3966,7 +5065,11 @@
     "word": "Renacimiento",
     "definition": "Movimiento cultural y artístico europeo de los siglos XV y XVI que retomó los ideales de la Antigüedad clásica.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1503",
@@ -3975,7 +5078,10 @@
     "word": "Racionalismo",
     "definition": "Doctrina filosófica que defiende que la razón humana es la fuente principal e infalible de todo conocimiento auténtico.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "1504",
@@ -3984,7 +5090,11 @@
     "word": "República",
     "definition": "Forma de organización del Estado en la que la máxima autoridad es elegida por los ciudadanos o por el parlamento.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1505",
@@ -3993,7 +5103,11 @@
     "word": "Radiación",
     "definition": "Emisión, propagación y transferencia continua de energía en forma de ondas electromagnéticas o partículas subatómicas.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1506",
@@ -4002,7 +5116,11 @@
     "word": "Streamer",
     "definition": "Creador que emite en directo sus partidas de videojuegos, charlas o entretenimiento a través de internet.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1507",
@@ -4011,7 +5129,10 @@
     "word": "Skin",
     "definition": "Aspecto visual, atuendo o traje cosmético alternativo que personaliza la apariencia de un personaje o arma en un juego.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "1508",
@@ -4047,7 +5168,11 @@
     "word": "Sinapsis",
     "definition": "Zona de conexión funcional microscópica entre dos neuronas a través de la cual se transmiten neurotransmisores.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1512",
@@ -4056,7 +5181,11 @@
     "word": "Subjuntivo",
     "definition": "Modo gramatical verbal que expresa acciones hipotéticas, deseos, dudas o posibilidades en la oración subordinada.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1513",
@@ -4065,7 +5194,11 @@
     "word": "Solubilidad",
     "definition": "Medida de la capacidad que posee una determinada sustancia para disolverse en un disolvente a temperatura fija.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1514",
@@ -4074,7 +5207,10 @@
     "word": "Soberanía",
     "definition": "Poder político supremo, independiente e inapelable que corresponde a un Estado o a la ciudadanía de una nación.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "1515",
@@ -4083,7 +5219,11 @@
     "word": "Supernova",
     "definition": "Explosión estelar cataclísmica y descomunal que destruye una estrella masiva emitiendo un fulgor visible a años luz.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1516",
@@ -4092,7 +5232,11 @@
     "word": "Sector",
     "definition": "Parte claramente diferenciada de una actividad económica o porción de un círculo comprendida entre dos radios.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1517",
@@ -4146,7 +5290,11 @@
     "word": "Tangente",
     "definition": "Línea recta que toca a una curva en un solo punto sin llegar a cortarla en su entorno inmediato.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1523",
@@ -4155,7 +5303,11 @@
     "word": "Tejido",
     "definition": "Conjunto integrado de células semejantes organizadas para desempeñar una función biológica concreta en el organismo.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1524",
@@ -4164,7 +5316,11 @@
     "word": "Tipografía",
     "definition": "Arte, técnica y disciplina que diseña y selecciona familias de tipos de letras para imprimir o mostrar textos legibles.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1525",
@@ -4173,7 +5329,11 @@
     "word": "Tensión",
     "definition": "Magnitud física que representa la fuerza por unidad de superficie o la diferencia de potencial eléctrico entre dos puntos.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1526",
@@ -4182,7 +5342,11 @@
     "word": "Totalitarismo",
     "definition": "Régimen político opresivo no democrático donde el Estado concentra todo el poder suprimiendo libertades ciudadanas.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1527",
@@ -4191,7 +5355,11 @@
     "word": "Transcripción",
     "definition": "Proceso celular mediante el cual la información genética contenida en el ADN se copia en una molécula de ARN mensajero.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1528",
@@ -4263,7 +5431,11 @@
     "word": "Unicelular",
     "definition": "Organismo vivo primitivo compuesto en su totalidad por una sola célula independiente como protozoos o bacterias.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1536",
@@ -4272,7 +5444,11 @@
     "word": "Uranio",
     "definition": "Elemento químico metálico radiactivo de elevado peso atómico empleado como combustible nuclear en reactores de energía.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1537",
@@ -4290,7 +5466,10 @@
     "word": "Unilateral",
     "definition": "Decisión, acuerdo o acto jurídico adoptado por una sola de las partes involucradas sin contar con la opinión ajena.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "1539",
@@ -4371,7 +5550,11 @@
     "word": "Vertebrado",
     "definition": "Animal perteneciente al subfilo de los cordados que cuenta con un esqueleto interno articulado y columna vertebral.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1548",
@@ -4380,7 +5563,10 @@
     "word": "Variable",
     "definition": "Magnitud que puede adoptar diferentes valores numéricos dentro de un conjunto o fórmula matemática en álgebra.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "1549",
@@ -4389,7 +5575,11 @@
     "word": "Verso",
     "definition": "Cada una de las líneas que componen un poema, sujeta a menudo a una medida silábica y a un ritmo de rima.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1550",
@@ -4398,7 +5588,11 @@
     "word": "Vértice",
     "definition": "Punto geométrico común donde confluyen los dos lados de un ángulo o las aristas de un poliedro.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1551",
@@ -4407,7 +5601,11 @@
     "word": "Viscosidad",
     "definition": "Resistencia interna que ofrece un fluido a fluir o deformarse debido al rozamiento entre sus propias moléculas.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1552",
@@ -4416,7 +5614,11 @@
     "word": "Vegetación",
     "definition": "Conjunto total de las plantas y comunidades florales que tapizan de forma natural un territorio o región geográfica.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "1553",
@@ -4425,7 +5627,10 @@
     "word": "Xbox",
     "definition": "Marca de consolas de sobremesa y ecosistema de videojuegos desarrollada por la multinacional Microsoft.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "1554",
@@ -4470,7 +5675,10 @@
     "word": "Matrix",
     "definition": "Trilogía cinemática de ciencia ficción donde la humanidad vive engañada en una simulación virtual controlada por máquinas.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "1559",
@@ -4497,7 +5705,10 @@
     "word": "Yugi",
     "definition": "Protagonista del anime Yu-Gi-Oh! que resuelve un rompecabezas milenario y disputa duelos de cartas mágicas.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "1562",
@@ -4614,7 +5825,10 @@
     "word": "Zelda",
     "definition": "Legendaria saga de videojuegos de aventura y acción de Nintendo protagonizada por el héroe Link en el reino de Hyrule.",
     "profile": "teens",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "1575",
@@ -4704,6 +5918,10 @@
     "word": "Zepelín",
     "definition": "Antigua aeronave aerostática dirigida de gran envergadura rellena de gas más ligero que el aire con barquilla para viajeros.",
     "profile": "teens",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults",
+      "young"
+    ]
   }
 ]

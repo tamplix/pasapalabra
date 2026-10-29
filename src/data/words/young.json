@@ -6,7 +6,10 @@
     "word": "Abnegación",
     "definition": "Renuncia voluntaria a los propios deseos o intereses en favor de los demás.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2347",
@@ -15,7 +18,10 @@
     "word": "Abstracto",
     "definition": "Dicho de una idea o concepto que no se puede percibir con los sentidos.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2348",
@@ -24,7 +30,10 @@
     "word": "Acérrimo",
     "definition": "Muy firme y decidido en la defensa de una idea, una causa o una persona.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2349",
@@ -33,7 +42,10 @@
     "word": "Aciago",
     "definition": "Que anuncia desgracia o resulta de mal agüero.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2350",
@@ -42,7 +54,10 @@
     "word": "Adagio",
     "definition": "Sentencia breve que encierra un consejo; también, movimiento musical lento.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2351",
@@ -51,7 +66,10 @@
     "word": "Adversario",
     "definition": "Persona que se opone a otra o compite contra ella.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2352",
@@ -60,7 +78,10 @@
     "word": "Afable",
     "definition": "Agradable, amable y cordial en el trato con los demás.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2353",
@@ -87,7 +108,10 @@
     "word": "Ambición",
     "definition": "Deseo intenso de conseguir poder, riqueza o fama.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2356",
@@ -96,7 +120,10 @@
     "word": "Anécdota",
     "definition": "Relato breve de un suceso curioso que se cuenta como entretenimiento.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2357",
@@ -114,7 +141,10 @@
     "word": "Arquitecto",
     "definition": "Profesional que proyecta edificios y dirige su construcción.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2359",
@@ -123,7 +153,10 @@
     "word": "Arrendar",
     "definition": "Ceder o tomar algo, como una vivienda, por un tiempo a cambio de un precio.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2360",
@@ -132,7 +165,10 @@
     "word": "Ascenso",
     "definition": "Subida de categoría laboral o de puesto en una empresa.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2361",
@@ -141,7 +177,10 @@
     "word": "Astucia",
     "definition": "Habilidad para conseguir lo que se quiere con ingenio y disimulo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2362",
@@ -150,7 +189,10 @@
     "word": "Autónomo",
     "definition": "Trabajador que ejerce su actividad por cuenta propia y no depende de una empresa.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2363",
@@ -168,7 +210,10 @@
     "word": "Aval",
     "definition": "Garantía que da una persona o entidad para asegurar el pago de una deuda ajena.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2365",
@@ -177,7 +222,10 @@
     "word": "Ábaco",
     "definition": "Marco con varillas y bolas que sirve para contar y hacer operaciones sencillas.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2366",
@@ -186,7 +234,10 @@
     "word": "Acuarela",
     "definition": "Pintura hecha con colores diluidos en agua sobre papel.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2367",
@@ -195,7 +246,10 @@
     "word": "Armisticio",
     "definition": "Acuerdo entre países en guerra para suspender las hostilidades.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2368",
@@ -204,7 +258,10 @@
     "word": "Arbitraje",
     "definition": "Intervención de un tercero para resolver un conflicto entre dos partes.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2369",
@@ -213,7 +270,10 @@
     "word": "Amortizar",
     "definition": "Recuperar poco a poco el dinero invertido en algo o pagar una deuda por partes.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2370",
@@ -222,7 +282,10 @@
     "word": "Ansiedad",
     "definition": "Estado de inquietud y agitación del ánimo ante lo que puede ocurrir.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2371",
@@ -231,7 +294,10 @@
     "word": "Alquiler",
     "definition": "Precio que se paga por el uso temporal de una vivienda o de un objeto.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2372",
@@ -240,7 +306,10 @@
     "word": "Aprendiz",
     "definition": "Persona que empieza a aprender un oficio o una profesión.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2373",
@@ -249,7 +318,10 @@
     "word": "Aeropuerto",
     "definition": "Instalación con pistas y terminales donde despegan y aterrizan los aviones.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2374",
@@ -258,7 +330,11 @@
     "word": "Aladdin",
     "definition": "Película de animación de Disney de 1992 en la que un genio azul concede deseos a un joven ladronzuelo desde una lámpara.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "2375",
@@ -285,7 +361,10 @@
     "word": "Aída",
     "definition": "Comedia de Telecinco ambientada en el barrio de Esperanza Sur, con Mauricio Colmenero y su familia.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2378",
@@ -303,7 +382,10 @@
     "word": "Avril Lavigne",
     "definition": "Cantante canadiense de pop-punk que triunfó en 2002 con «Complicated» y «Sk8er Boi».",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2380",
@@ -321,7 +403,10 @@
     "word": "Alejandro Sanz",
     "definition": "Cantautor madrileño de «Corazón partío» y «Y solamente tú».",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2382",
@@ -330,7 +415,10 @@
     "word": "Aquí no hay quien viva",
     "definition": "Comedia coral de Antena 3 ambientada en una comunidad de vecinos de la calle Desengaño 21.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2383",
@@ -348,7 +436,10 @@
     "word": "Amy Winehouse",
     "definition": "Cantante británica de voz profunda y estilo retro, autora de «Rehab» y «Back to Black».",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2385",
@@ -357,7 +448,10 @@
     "word": "Alucinar",
     "definition": "En lenguaje coloquial, quedarse asombrado o muy sorprendido ante algo.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2386",
@@ -366,7 +460,10 @@
     "word": "Bagaje",
     "definition": "Conjunto de conocimientos o experiencias que posee una persona.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2387",
@@ -375,7 +472,10 @@
     "word": "Balanza",
     "definition": "Instrumento que sirve para medir el peso de los objetos.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2388",
@@ -384,7 +484,10 @@
     "word": "Bancarrota",
     "definition": "Situación de quien no puede pagar sus deudas y pierde su negocio.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2389",
@@ -393,7 +496,10 @@
     "word": "Baremo",
     "definition": "Lista de tarifas o puntuaciones que sirve de referencia para valorar algo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2390",
@@ -411,7 +517,10 @@
     "word": "Beneficio",
     "definition": "Ganancia económica que se obtiene de una actividad.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2392",
@@ -420,7 +529,10 @@
     "word": "Benévolo",
     "definition": "Que muestra comprensión y buena voluntad hacia los demás.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2393",
@@ -429,7 +541,10 @@
     "word": "Bibliografía",
     "definition": "Lista de libros y escritos consultados o recomendados sobre un tema.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2394",
@@ -438,7 +553,10 @@
     "word": "Bilingüe",
     "definition": "Dicho de quien habla dos lenguas con soltura.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2395",
@@ -447,7 +565,10 @@
     "word": "Biografía",
     "definition": "Relato de la vida de una persona escrito por otra.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2396",
@@ -456,7 +577,10 @@
     "word": "Bisagra",
     "definition": "Pieza metálica que une una puerta con su marco y permite abrirla.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2397",
@@ -465,7 +589,10 @@
     "word": "Bloqueo",
     "definition": "Impedimento que detiene el avance o el funcionamiento de algo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2398",
@@ -474,7 +601,10 @@
     "word": "Bohemio",
     "definition": "Dicho de quien lleva una vida artística, libre y poco convencional.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2399",
@@ -483,7 +613,10 @@
     "word": "Bonanza",
     "definition": "Tiempo de prosperidad; también, calma en el mar.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2400",
@@ -492,7 +625,10 @@
     "word": "Borrador",
     "definition": "Primera versión de un escrito que luego se corrige.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2401",
@@ -501,7 +637,10 @@
     "word": "Botín",
     "definition": "Conjunto de bienes que se roban o se arrebatan en un asalto o una guerra.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2402",
@@ -537,7 +676,10 @@
     "word": "Bufete",
     "definition": "Despacho profesional donde ejerce un abogado.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2406",
@@ -546,7 +688,10 @@
     "word": "Búnker",
     "definition": "Refugio subterráneo muy resistente construido para protegerse de ataques.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2407",
@@ -564,7 +709,10 @@
     "word": "Balsa",
     "definition": "Embarcación hecha con troncos atados que flota sobre el agua.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2409",
@@ -573,7 +721,10 @@
     "word": "Bálsamo",
     "definition": "Sustancia aromática que alivia el dolor; por extensión, consuelo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2410",
@@ -582,7 +733,10 @@
     "word": "Barrera",
     "definition": "Obstáculo que impide pasar o dificulta el avance.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2411",
@@ -591,7 +745,10 @@
     "word": "Brecha",
     "definition": "Abertura en un muro; también, diferencia grande entre dos situaciones.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2412",
@@ -600,7 +757,10 @@
     "word": "Bordillo",
     "definition": "Borde de piedra que separa la acera de la calzada.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2413",
@@ -609,7 +769,10 @@
     "word": "Bruma",
     "definition": "Niebla ligera, sobre todo la que se forma en el mar.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2414",
@@ -627,7 +790,10 @@
     "word": "Bisbal",
     "definition": "Cantante almeriense que saltó a la fama en Operación Triunfo y cantó «Ave María».",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2416",
@@ -636,7 +802,10 @@
     "word": "Backstreet Boys",
     "definition": "Grupo vocal masculino estadounidense de los 90 famoso por «I Want It That Way».",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2417",
@@ -654,7 +823,10 @@
     "word": "Breaking Bad",
     "definition": "Serie de AMC sobre un profesor de química enfermo que se convierte en fabricante de metanfetamina.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2419",
@@ -663,7 +835,10 @@
     "word": "Britney Spears",
     "definition": "Cantante estadounidense que irrumpió en 1998 con «...Baby One More Time» y se convirtió en princesa del pop.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2420",
@@ -672,7 +847,10 @@
     "word": "Buenafuente",
     "definition": "Programa nocturno de humor de Antena 3 y La Sexta presentado por un humorista catalán.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2421",
@@ -681,7 +859,10 @@
     "word": "Botellón",
     "definition": "Reunión de jóvenes que beben en la calle, sobre todo de noche.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2422",
@@ -690,7 +871,10 @@
     "word": "Bajón",
     "definition": "En lenguaje coloquial, bajada repentina del ánimo o de las fuerzas.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2423",
@@ -699,7 +883,10 @@
     "word": "BlackBerry",
     "definition": "Teléfono con teclado físico muy de moda a finales de los 2000, famoso por su mensajería.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2424",
@@ -717,7 +904,10 @@
     "word": "Bob Marley",
     "definition": "Músico jamaicano, icono del reggae, autor de «No Woman, No Cry» y «Three Little Birds».",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2426",
@@ -726,7 +916,10 @@
     "word": "Cacique",
     "definition": "Persona que ejerce un poder abusivo e influyente en un pueblo o una zona.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2427",
@@ -735,7 +928,10 @@
     "word": "Candidato",
     "definition": "Persona que aspira a un cargo o a un premio.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2428",
@@ -744,7 +940,10 @@
     "word": "Canon",
     "definition": "Conjunto de reglas o modelos considerados ejemplares.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2429",
@@ -753,7 +952,10 @@
     "word": "Capital",
     "definition": "Dinero o bienes que se invierten para producir más riqueza.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2430",
@@ -762,7 +964,10 @@
     "word": "Carisma",
     "definition": "Capacidad de atraer y entusiasmar a los demás.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2431",
@@ -780,7 +985,10 @@
     "word": "Cohesión",
     "definition": "Unión estrecha entre las partes de un grupo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2433",
@@ -789,7 +997,10 @@
     "word": "Coherente",
     "definition": "Que mantiene una relación lógica con lo que dice o hace.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2434",
@@ -798,7 +1009,10 @@
     "word": "Colaborar",
     "definition": "Trabajar junto con otras personas para lograr un fin común.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2435",
@@ -807,7 +1021,10 @@
     "word": "Cómplice",
     "definition": "Persona que ayuda a otra a cometer una falta o un delito.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2436",
@@ -825,7 +1042,10 @@
     "word": "Consenso",
     "definition": "Acuerdo al que llegan varias personas o grupos.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2438",
@@ -834,7 +1054,10 @@
     "word": "Contrato",
     "definition": "Acuerdo escrito por el que varias partes se comprometen a cumplir unas condiciones.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2439",
@@ -852,7 +1075,10 @@
     "word": "Cosmopolita",
     "definition": "Dicho de quien se siente en casa en cualquier lugar del mundo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2441",
@@ -861,7 +1087,10 @@
     "word": "Creatividad",
     "definition": "Capacidad de inventar o crear cosas nuevas.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2442",
@@ -870,7 +1099,10 @@
     "word": "Crédito",
     "definition": "Préstamo que concede un banco y que luego hay que devolver con intereses.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2443",
@@ -879,7 +1111,10 @@
     "word": "Cuota",
     "definition": "Cantidad fija que se paga de forma periódica.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2444",
@@ -888,7 +1123,10 @@
     "word": "Currículum",
     "definition": "Documento que resume la formación y la experiencia profesional de una persona.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2445",
@@ -906,7 +1144,10 @@
     "word": "Cauteloso",
     "definition": "Que actúa con precaución para evitar riesgos.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2447",
@@ -915,7 +1156,10 @@
     "word": "Censo",
     "definition": "Recuento oficial de los habitantes de un lugar.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2448",
@@ -924,7 +1168,10 @@
     "word": "Cima",
     "definition": "Parte más alta de una montaña o de un árbol.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2449",
@@ -951,7 +1198,10 @@
     "word": "Cobijo",
     "definition": "Lugar que protege de la lluvia o del frío.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2452",
@@ -960,7 +1210,10 @@
     "word": "Cavilar",
     "definition": "Pensar con mucha atención y preocupación en algo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2453",
@@ -978,7 +1231,11 @@
     "word": "Cristiano Ronaldo",
     "definition": "Futbolista portugués que triunfó en el Manchester United y en el Real Madrid, con cinco Balones de Oro.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "2455",
@@ -987,7 +1244,10 @@
     "word": "Cuéntame",
     "definition": "Serie de TVE sobre la familia Alcántara y la historia de España desde los años 60.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2456",
@@ -996,7 +1256,10 @@
     "word": "Crepúsculo",
     "definition": "Saga de novelas y películas de vampiros adolescentes con Bella y Edward.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2457",
@@ -1005,7 +1268,10 @@
     "word": "Coldplay",
     "definition": "Banda británica liderada por Chris Martin, autora de «Yellow» y «Viva la Vida».",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2458",
@@ -1014,7 +1280,11 @@
     "word": "Chuck Norris",
     "definition": "Actor de artes marciales protagonista de «Walker, Texas Ranger» y de memes sobre su fuerza.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "2459",
@@ -1023,7 +1293,10 @@
     "word": "Cuarto Milenio",
     "definition": "Programa de misterio presentado por Iker Jiménez en Cuatro.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2460",
@@ -1050,7 +1323,10 @@
     "word": "Cutre",
     "definition": "En lenguaje coloquial, de mala calidad, descuidado o de aspecto pobre.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2463",
@@ -1059,7 +1335,10 @@
     "word": "Chungo",
     "definition": "En lenguaje coloquial, difícil, peligroso o de mala pinta.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2464",
@@ -1068,7 +1347,10 @@
     "word": "Colega",
     "definition": "En lenguaje coloquial, amigo o compañero con quien se tiene confianza.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2465",
@@ -1077,7 +1359,10 @@
     "word": "Chiquito de la Calzada",
     "definition": "Humorista malagueño de «fistro» y «pecador de la pradera».",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2466",
@@ -1104,7 +1389,10 @@
     "word": "Déficit",
     "definition": "Cantidad que falta para que algo esté completo, como cuando se gasta más de lo que se ingresa.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2469",
@@ -1113,7 +1401,10 @@
     "word": "Delegar",
     "definition": "Encargar a otra persona una tarea o una responsabilidad propia.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2470",
@@ -1131,7 +1422,10 @@
     "word": "Dilema",
     "definition": "Situación en la que hay que elegir entre dos opciones igualmente difíciles.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2472",
@@ -1140,7 +1434,10 @@
     "word": "Diplomacia",
     "definition": "Habilidad para tratar asuntos delicados sin ofender a nadie.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2473",
@@ -1149,7 +1446,10 @@
     "word": "Disciplina",
     "definition": "Conjunto de normas que se cumplen para lograr un orden o un fin.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2474",
@@ -1158,7 +1458,10 @@
     "word": "Disyuntiva",
     "definition": "Alternativa entre dos opciones que se excluyen.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2475",
@@ -1167,7 +1470,10 @@
     "word": "Divagar",
     "definition": "Apartarse del asunto principal al hablar o al escribir.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2476",
@@ -1176,7 +1482,10 @@
     "word": "Dividendo",
     "definition": "Parte de los beneficios de una empresa que se reparte entre sus accionistas.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2477",
@@ -1185,7 +1494,10 @@
     "word": "Dogma",
     "definition": "Principio que se considera indiscutible dentro de una doctrina.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2478",
@@ -1194,7 +1506,10 @@
     "word": "Dominio",
     "definition": "Poder que se tiene sobre algo; también, ámbito de una materia.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2479",
@@ -1203,7 +1518,10 @@
     "word": "Dotación",
     "definition": "Conjunto de personas o medios asignados a un servicio.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2480",
@@ -1212,7 +1530,10 @@
     "word": "Dualidad",
     "definition": "Existencia de dos elementos distintos en una misma cosa.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2481",
@@ -1221,7 +1542,10 @@
     "word": "Dúctil",
     "definition": "Dicho de un metal que puede estirarse en hilos; también, persona de carácter flexible.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2482",
@@ -1239,7 +1563,10 @@
     "word": "Deducir",
     "definition": "Sacar una conclusión a partir de unos datos.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2484",
@@ -1248,7 +1575,10 @@
     "word": "Defensor",
     "definition": "Persona que protege o apoya a otra o a una causa.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2485",
@@ -1257,7 +1587,10 @@
     "word": "Desafío",
     "definition": "Reto que se plantea a alguien para ver si es capaz de superarlo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2486",
@@ -1266,7 +1599,10 @@
     "word": "Desván",
     "definition": "Parte más alta de una casa, bajo el tejado, donde se guardan trastos.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2487",
@@ -1275,7 +1611,10 @@
     "word": "Devaluar",
     "definition": "Disminuir el valor de algo, especialmente el de una moneda.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2488",
@@ -1284,7 +1623,10 @@
     "word": "Diáspora",
     "definition": "Dispersión de un pueblo que abandona su tierra de origen.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2489",
@@ -1293,7 +1635,10 @@
     "word": "Dilatar",
     "definition": "Hacer más grande o más largo algo; retrasar su duración.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2490",
@@ -1302,7 +1647,10 @@
     "word": "Diccionario",
     "definition": "Libro que recoge y explica las palabras de una lengua.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2491",
@@ -1320,7 +1668,10 @@
     "word": "Desempleo",
     "definition": "Situación de quienes quieren trabajar y no encuentran empleo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2493",
@@ -1329,7 +1680,10 @@
     "word": "Deriva",
     "definition": "Movimiento de una embarcación sin rumbo, arrastrada por el viento o la corriente.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2494",
@@ -1338,7 +1692,10 @@
     "word": "Daft Punk",
     "definition": "Dúo francés de música electrónica con cascos robóticos, autor de «Get Lucky».",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2495",
@@ -1356,7 +1713,10 @@
     "word": "Dani Martín",
     "definition": "Cantante que fue la voz de El Canto del Loco y luego siguió en solitario.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2497",
@@ -1365,7 +1725,10 @@
     "word": "David Guetta",
     "definition": "DJ francés de música de baile, autor de «When Love Takes Over» y «Titanium».",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2498",
@@ -1374,7 +1737,10 @@
     "word": "Dr. House",
     "definition": "Serie de Fox sobre un brillante médico cojo, cínico y adicto a los analgésicos que resuelve casos imposibles.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2499",
@@ -1383,7 +1749,10 @@
     "word": "Don Omar",
     "definition": "Cantante puertorriqueño de reguetón, autor de «Danza Kuduro».",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "2500",
@@ -1392,7 +1761,10 @@
     "word": "Drake",
     "definition": "Rapero canadiense de «Hotline Bling» y «God's Plan».",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "2501",
@@ -1410,7 +1782,10 @@
     "word": "Dar el cante",
     "definition": "Expresión coloquial que significa llamar la atención de forma ridícula.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2503",
@@ -1446,7 +1821,10 @@
     "word": "Eficaz",
     "definition": "Que consigue el resultado que se esperaba.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2507",
@@ -1455,7 +1833,10 @@
     "word": "Egoísmo",
     "definition": "Amor excesivo a uno mismo que lleva a ignorar a los demás.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2508",
@@ -1482,7 +1863,10 @@
     "word": "Emprendedor",
     "definition": "Persona que pone en marcha proyectos con iniciativa y decisión.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2511",
@@ -1500,7 +1884,10 @@
     "word": "Ensayo",
     "definition": "Texto en el que un autor expone y defiende sus ideas sobre un tema.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2513",
@@ -1509,7 +1896,10 @@
     "word": "Epidemia",
     "definition": "Enfermedad que afecta a muchas personas de un lugar a la vez.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2514",
@@ -1527,7 +1917,10 @@
     "word": "Escrutinio",
     "definition": "Recuento y comprobación de los votos emitidos en una elección.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2516",
@@ -1536,7 +1929,10 @@
     "word": "Esencial",
     "definition": "Que resulta imprescindible por pertenecer a la naturaleza de algo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2517",
@@ -1545,7 +1941,10 @@
     "word": "Estigma",
     "definition": "Marca social negativa que se atribuye a una persona por su condición.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2518",
@@ -1554,7 +1953,10 @@
     "word": "Ética",
     "definition": "Conjunto de principios morales que dirigen la conducta de una persona.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2519",
@@ -1572,7 +1974,10 @@
     "word": "Evasión",
     "definition": "Escapada de una situación incómoda, como una cárcel o una obligación.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2521",
@@ -1581,7 +1986,10 @@
     "word": "Exhaustivo",
     "definition": "Que agota todos los aspectos de un tema, sin dejar nada fuera.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2522",
@@ -1608,7 +2016,10 @@
     "word": "Embargo",
     "definition": "Retención de bienes por orden judicial para saldar una deuda.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2525",
@@ -1617,7 +2028,10 @@
     "word": "Emisario",
     "definition": "Persona enviada a una misión con un mensaje.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2526",
@@ -1635,7 +2049,10 @@
     "word": "Ensalzar",
     "definition": "Hablar muy bien de alguien o de algo para resaltar sus méritos.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2528",
@@ -1644,7 +2061,10 @@
     "word": "Entorno",
     "definition": "Conjunto de lo que rodea a una persona o a una cosa.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2529",
@@ -1653,7 +2073,10 @@
     "word": "Equilibrio",
     "definition": "Estado de un cuerpo que se mantiene estable sin caerse.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2530",
@@ -1662,7 +2085,10 @@
     "word": "Esfuerzo",
     "definition": "Empleo enérgico de la fuerza o de la voluntad para conseguir algo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2531",
@@ -1671,7 +2097,10 @@
     "word": "Estrategia",
     "definition": "Plan trazado con inteligencia para lograr un objetivo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2532",
@@ -1698,7 +2127,10 @@
     "word": "Eminem",
     "definition": "Rapero de Detroit autor de «Lose Yourself» y protagonista de «8 Millas».",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2535",
@@ -1707,7 +2139,10 @@
     "word": "El Canto del Loco",
     "definition": "Grupo madrileño de pop-rock de «Zapatillas» y «Contigo».",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2536",
@@ -1725,7 +2160,10 @@
     "word": "Estopa",
     "definition": "Dúo de hermanos de Cornellà autor de «Vino tinto» y «Como Camarón».",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2538",
@@ -1734,7 +2172,10 @@
     "word": "Eurovisión",
     "definition": "Concurso internacional de canción donde cada país presenta un tema y se vota por puntos.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "2539",
@@ -1752,7 +2193,11 @@
     "word": "El Rey León",
     "definition": "Película de Disney de 1994 sobre un cachorro, Simba, heredero de las Tierras del Orgullo.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "2541",
@@ -1761,7 +2206,10 @@
     "word": "Eurodance",
     "definition": "Estilo de música de baile de los 90, con ritmos rápidos y estribillos pegadizos.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2542",
@@ -1770,7 +2218,10 @@
     "word": "Erasmus",
     "definition": "Programa europeo de intercambio universitario, asociado a fiestas y viajes.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2543",
@@ -1779,7 +2230,10 @@
     "word": "El Hormiguero",
     "definition": "Programa de entretenimiento con Pablo Motos y unas hormigas que hablan, Trancas y Barrancas.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2544",
@@ -1788,7 +2242,10 @@
     "word": "Emma Watson",
     "definition": "Actriz británica que interpretó a Hermione en la saga de Harry Potter.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2545",
@@ -1797,7 +2254,10 @@
     "word": "Enrique Iglesias",
     "definition": "Cantante madrileño de pop latino, autor de «Bailamos» y «Hero».",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2546",
@@ -1806,7 +2266,10 @@
     "word": "Fábula",
     "definition": "Relato breve, con animales o cosas como personajes, que termina con una enseñanza moral.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2547",
@@ -1815,7 +2278,10 @@
     "word": "Facción",
     "definition": "Grupo de personas que se separa de otro mayor por sus ideas.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2548",
@@ -1833,7 +2299,10 @@
     "word": "Fastidio",
     "definition": "Disgusto o molestia que produce algo pesado o desagradable.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2550",
@@ -1842,7 +2311,10 @@
     "word": "Fatiga",
     "definition": "Cansancio que produce el esfuerzo o el trabajo excesivo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2551",
@@ -1851,7 +2323,10 @@
     "word": "Fecundo",
     "definition": "Capaz de producir mucho, ya sea una tierra, una idea o un autor.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2552",
@@ -1860,7 +2335,10 @@
     "word": "Fehaciente",
     "definition": "Que prueba algo de manera indudable, dicho de un documento o un testimonio.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2553",
@@ -1869,7 +2347,10 @@
     "word": "Fervor",
     "definition": "Entusiasmo intenso con que se hace algo o se siente una creencia.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2554",
@@ -1878,7 +2359,10 @@
     "word": "Fiabilidad",
     "definition": "Cualidad de lo que merece confianza porque funciona sin fallos.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2555",
@@ -1887,7 +2371,10 @@
     "word": "Fidelidad",
     "definition": "Lealtad que se mantiene hacia una persona, una causa o una promesa.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2556",
@@ -1905,7 +2392,10 @@
     "word": "Fiscal",
     "definition": "Persona que acusa en nombre de la sociedad durante un juicio.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2558",
@@ -1923,7 +2413,10 @@
     "word": "Fluidez",
     "definition": "Facilidad para expresarse con soltura; también, cualidad de lo que fluye.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2560",
@@ -1932,7 +2425,10 @@
     "word": "Foco",
     "definition": "Punto desde el que sale la luz o donde se concentra un fenómeno.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2561",
@@ -1941,7 +2437,10 @@
     "word": "Fomentar",
     "definition": "Impulsar o promover el desarrollo de algo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2562",
@@ -1950,7 +2449,10 @@
     "word": "Fortuna",
     "definition": "Suerte buena o mala; también, gran cantidad de dinero o de bienes.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2563",
@@ -1968,7 +2470,10 @@
     "word": "Franqueza",
     "definition": "Sinceridad con que se dicen las cosas sin rodeos.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2565",
@@ -1977,7 +2482,10 @@
     "word": "Frontera",
     "definition": "Límite que separa dos países o territorios.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2566",
@@ -1986,7 +2494,10 @@
     "word": "Frugal",
     "definition": "Moderado en el comer y el beber; que se contenta con lo necesario.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2567",
@@ -2004,7 +2515,10 @@
     "word": "Fútil",
     "definition": "De poca importancia o de escaso valor, que no merece atención.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2569",
@@ -2013,7 +2527,10 @@
     "word": "Fachada",
     "definition": "Cara exterior de un edificio; también, apariencia engañosa.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2570",
@@ -2022,7 +2539,10 @@
     "word": "Fraude",
     "definition": "Engaño con el que se perjudica a alguien para obtener un provecho.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2571",
@@ -2031,7 +2551,10 @@
     "word": "Fianza",
     "definition": "Dinero que se deja como garantía del cumplimiento de una obligación.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2572",
@@ -2040,7 +2563,10 @@
     "word": "Franquicia",
     "definition": "Derecho que se concede para explotar una marca o un negocio con su nombre.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2573",
@@ -2058,7 +2584,11 @@
     "word": "Friends",
     "definition": "Serie de NBC sobre seis amigos neoyorquinos que se reúnen en el café Central Perk.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "2575",
@@ -2076,7 +2606,11 @@
     "word": "FIFA",
     "definition": "Saga anual de videojuegos de fútbol de EA Sports, rival de Pro Evolution Soccer.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "2577",
@@ -2085,7 +2619,10 @@
     "word": "Fito y Fitipaldis",
     "definition": "Banda del bilbaíno ex Platero y Tú, autor de «Soldadito marinero».",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2578",
@@ -2094,7 +2631,10 @@
     "word": "Facebook",
     "definition": "Red social creada por Mark Zuckerberg que desbancó a Tuenti entre los jóvenes españoles.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2579",
@@ -2112,7 +2652,11 @@
     "word": "Futurama",
     "definition": "Serie de Matt Groening ambientada en el año 3000 con Fry, Leela y el robot Bender.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "2581",
@@ -2121,7 +2665,10 @@
     "word": "Flipar",
     "definition": "En lenguaje coloquial, quedarse muy sorprendido o entusiasmado; también, estar fuera de sí.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2582",
@@ -2130,7 +2677,10 @@
     "word": "Friki",
     "definition": "Persona muy aficionada a algo, como los cómics, la ciencia ficción o los videojuegos.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2583",
@@ -2139,7 +2689,10 @@
     "word": "Finde",
     "definition": "Forma coloquial y abreviada de referirse al sábado y al domingo.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2584",
@@ -2157,7 +2710,11 @@
     "word": "Fórmula 1",
     "definition": "Campeonato de automovilismo en el que Fernando Alonso ganó dos títulos mundiales con Renault en 2005 y 2006.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "2586",
@@ -2184,7 +2741,10 @@
     "word": "Gallardía",
     "definition": "Valor y elegancia con que se actúa ante el peligro.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2589",
@@ -2193,7 +2753,10 @@
     "word": "Garantía",
     "definition": "Seguridad de que algo cumplirá lo prometido.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2590",
@@ -2202,7 +2765,10 @@
     "word": "Generoso",
     "definition": "Que da con gusto lo que tiene sin esperar nada a cambio.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2591",
@@ -2211,7 +2777,10 @@
     "word": "Gestión",
     "definition": "Conjunto de trámites y acciones para administrar un asunto.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2592",
@@ -2220,7 +2789,10 @@
     "word": "Gratitud",
     "definition": "Sentimiento de agradecimiento por un favor recibido.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2593",
@@ -2229,7 +2801,10 @@
     "word": "Gremio",
     "definition": "Conjunto de personas que ejercen un mismo oficio.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2594",
@@ -2247,7 +2822,10 @@
     "word": "Gentilicio",
     "definition": "Nombre que indica el lugar de origen de una persona.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2596",
@@ -2256,7 +2834,10 @@
     "word": "Glosario",
     "definition": "Lista de palabras de un texto con sus explicaciones.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2597",
@@ -2265,7 +2846,10 @@
     "word": "Gobernanza",
     "definition": "Forma de gobernar que busca el equilibrio entre instituciones, sociedad y economía.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2598",
@@ -2274,7 +2858,10 @@
     "word": "Grandilocuente",
     "definition": "Que habla o escribe con un estilo exagerado y pomposo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2599",
@@ -2301,7 +2888,10 @@
     "word": "Guion",
     "definition": "Texto con los diálogos y la acción de una película o una serie.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2602",
@@ -2319,7 +2909,10 @@
     "word": "Gimnasia",
     "definition": "Conjunto de ejercicios físicos para fortalecer el cuerpo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2604",
@@ -2337,7 +2930,10 @@
     "word": "Globalización",
     "definition": "Proceso por el que economías y culturas de todo el mundo se conectan.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2606",
@@ -2355,7 +2951,10 @@
     "word": "Gruñido",
     "definition": "Sonido ronco que emiten algunos animales; también, queja entre dientes.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2608",
@@ -2364,7 +2963,10 @@
     "word": "Guarida",
     "definition": "Lugar donde se refugian los animales salvajes o los delincuentes.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2609",
@@ -2373,7 +2975,10 @@
     "word": "Gerente",
     "definition": "Persona que dirige los negocios de una empresa.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2610",
@@ -2391,7 +2996,10 @@
     "word": "Gaceta",
     "definition": "Publicación oficial o periódico de noticias.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2612",
@@ -2400,7 +3008,10 @@
     "word": "Garaje",
     "definition": "Local o espacio cubierto donde se guardan los coches.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2613",
@@ -2409,7 +3020,10 @@
     "word": "Gratuito",
     "definition": "Que se obtiene o se recibe sin pagar nada por ello.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2614",
@@ -2418,7 +3032,10 @@
     "word": "Gran Hermano",
     "definition": "Reality de convivencia en una casa vigilada por cámaras que Telecinco estrenó en 2000.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2615",
@@ -2463,7 +3080,11 @@
     "word": "Google",
     "definition": "Buscador de internet fundado en 1998 cuyo nombre ya funciona como verbo.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "2620",
@@ -2472,7 +3093,10 @@
     "word": "Gangnam Style",
     "definition": "Canción surcoreana de 2012 con un baile del caballo que fue el primer vídeo con mil millones de visitas.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2621",
@@ -2481,7 +3105,10 @@
     "word": "Gladiator",
     "definition": "Película de Ridley Scott de 2000 con Russell Crowe como general romano convertido en esclavo.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2622",
@@ -2499,7 +3126,10 @@
     "word": "Guiri",
     "definition": "En lenguaje coloquial, turista extranjero, sobre todo el que viene a España.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2624",
@@ -2508,7 +3138,10 @@
     "word": "Grunge",
     "definition": "Estilo de rock alternativo de Seattle de los 90, con Nirvana y Pearl Jam.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2625",
@@ -2517,7 +3150,10 @@
     "word": "Gorillaz",
     "definition": "Banda virtual de dibujos creada por Damon Albarn y Jamie Hewlett, autora de «Feel Good Inc.».",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2626",
@@ -2526,7 +3162,10 @@
     "word": "Habilidad",
     "definition": "Capacidad y destreza para hacer algo con acierto.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2627",
@@ -2535,7 +3174,10 @@
     "word": "Hábitat",
     "definition": "Lugar con las condiciones adecuadas para que viva una especie.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2628",
@@ -2562,7 +3204,10 @@
     "word": "Heredero",
     "definition": "Persona que recibe los bienes o derechos de otra al morir.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2631",
@@ -2571,7 +3216,10 @@
     "word": "Hermético",
     "definition": "Que cierra tan bien que no deja pasar el aire; también, difícil de entender.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2632",
@@ -2580,7 +3228,10 @@
     "word": "Heterogéneo",
     "definition": "Compuesto por elementos de naturaleza distinta.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2633",
@@ -2589,7 +3240,10 @@
     "word": "Hidratar",
     "definition": "Aportar agua al cuerpo o a la piel para que no se seque.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2634",
@@ -2598,7 +3252,10 @@
     "word": "Hilvanar",
     "definition": "Unir con puntadas largas las piezas de una prenda antes de coserlas; también, enlazar ideas.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2635",
@@ -2607,7 +3264,10 @@
     "word": "Hipoteca",
     "definition": "Préstamo que se obtiene dejando una vivienda como garantía.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2636",
@@ -2625,7 +3285,10 @@
     "word": "Historiador",
     "definition": "Persona que estudia y narra los hechos del pasado.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2638",
@@ -2634,7 +3297,10 @@
     "word": "Holístico",
     "definition": "Que considera algo como un todo, y no como la suma de sus partes.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2639",
@@ -2643,7 +3309,10 @@
     "word": "Homogéneo",
     "definition": "Formado por elementos de la misma naturaleza.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2640",
@@ -2652,7 +3321,10 @@
     "word": "Honorarios",
     "definition": "Pago que recibe un profesional por sus servicios.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2641",
@@ -2661,7 +3333,10 @@
     "word": "Hostil",
     "definition": "Contrario o enemigo, que muestra mala disposición.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2642",
@@ -2670,7 +3345,10 @@
     "word": "Huella",
     "definition": "Señal que deja una persona o un animal al pisar; también, rastro de algo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2643",
@@ -2679,7 +3357,10 @@
     "word": "Humildad",
     "definition": "Virtud de quien reconoce sus limitaciones y no presume.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2644",
@@ -2688,7 +3369,10 @@
     "word": "Hurto",
     "definition": "Robo de cosas ajenas cometido sin violencia ni intimidación.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2645",
@@ -2697,7 +3381,10 @@
     "word": "Horizonte",
     "definition": "Línea donde parecen juntarse el cielo y la tierra.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2646",
@@ -2706,7 +3393,10 @@
     "word": "Hemeroteca",
     "definition": "Lugar donde se conservan periódicos y revistas para consultarlos.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2647",
@@ -2715,7 +3405,10 @@
     "word": "Herencia",
     "definition": "Conjunto de bienes y derechos que se reciben al morir alguien.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2648",
@@ -2724,7 +3417,10 @@
     "word": "Honradez",
     "definition": "Rectitud y honestidad con que una persona actúa en todos sus asuntos.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2649",
@@ -2733,7 +3429,10 @@
     "word": "Hospitalidad",
     "definition": "Buen trato a los invitados y visitantes.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2650",
@@ -2742,7 +3441,10 @@
     "word": "Holgazán",
     "definition": "Persona que no quiere trabajar y se queda sin hacer nada.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2651",
@@ -2751,7 +3453,10 @@
     "word": "Hilo",
     "definition": "Fibra delgada y larga que se usa para coser o tejer.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2652",
@@ -2760,7 +3465,10 @@
     "word": "Hallazgo",
     "definition": "Cosa que se encuentra, sobre todo si es valiosa o inesperada.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2653",
@@ -2769,7 +3477,10 @@
     "word": "Humor",
     "definition": "Capacidad de ver y mostrar el lado gracioso de las cosas.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2654",
@@ -2805,7 +3516,10 @@
     "word": "Hospital Central",
     "definition": "Serie médica de Telecinco ambientada en el servicio de urgencias de un gran centro sanitario madrileño.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2658",
@@ -2814,7 +3528,11 @@
     "word": "Hakuna Matata",
     "definition": "Frase de «El Rey León» que significa «no hay problema» en suajili.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "2659",
@@ -2823,7 +3541,10 @@
     "word": "Hipster",
     "definition": "Persona de estética y gustos alternativos y vintage, muy de moda en los 2010.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2660",
@@ -2850,7 +3571,10 @@
     "word": "Hotmail",
     "definition": "Servicio de correo electrónico de Microsoft muy usado en los 2000, junto con Messenger.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2663",
@@ -2904,7 +3628,10 @@
     "word": "Ignorancia",
     "definition": "Falta de conocimientos o de noticias sobre algo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2669",
@@ -2913,7 +3640,10 @@
     "word": "Ilación",
     "definition": "Relación lógica entre las partes de un razonamiento.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2670",
@@ -2922,7 +3652,10 @@
     "word": "Ilustre",
     "definition": "De fama y méritos reconocidos por todos, digno de admiración.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2671",
@@ -2931,7 +3664,10 @@
     "word": "Imparcial",
     "definition": "Que juzga sin favorecer a ninguna de las partes.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2672",
@@ -2940,7 +3676,10 @@
     "word": "Impuesto",
     "definition": "Dinero que los ciudadanos pagan al Estado.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2673",
@@ -2958,7 +3697,10 @@
     "word": "Indulto",
     "definition": "Perdón total o parcial de una pena concedido por la autoridad.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2675",
@@ -2976,7 +3718,10 @@
     "word": "Ingenuo",
     "definition": "Que actúa con inocencia y se fía sin sospechar.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2677",
@@ -2985,7 +3730,10 @@
     "word": "Inmigrante",
     "definition": "Persona que llega a un país para vivir en él.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2678",
@@ -2994,7 +3742,10 @@
     "word": "Inquilino",
     "definition": "Persona que alquila una vivienda para vivir en ella.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2679",
@@ -3003,7 +3754,10 @@
     "word": "Insomnio",
     "definition": "Dificultad para conciliar el sueño o para dormir de un tirón.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2680",
@@ -3012,7 +3766,10 @@
     "word": "Intuición",
     "definition": "Percepción rápida de algo sin necesidad de razonarlo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2681",
@@ -3021,7 +3778,10 @@
     "word": "Inversión",
     "definition": "Colocación de dinero en un negocio para obtener ganancias.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2682",
@@ -3030,7 +3790,10 @@
     "word": "Ironía",
     "definition": "Forma de expresarse en la que se da a entender lo contrario de lo que se dice.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2683",
@@ -3039,7 +3802,10 @@
     "word": "Inconformismo",
     "definition": "Actitud de quien no acepta que las cosas sean como son y quiere cambiarlas.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2684",
@@ -3048,7 +3814,10 @@
     "word": "Identidad",
     "definition": "Conjunto de rasgos que distinguen a una persona de las demás.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2685",
@@ -3057,7 +3826,10 @@
     "word": "Imaginación",
     "definition": "Capacidad de crear imágenes e ideas en la mente.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2686",
@@ -3066,7 +3838,10 @@
     "word": "Inclusión",
     "definition": "Integración de todas las personas en un grupo o en la sociedad.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2687",
@@ -3075,7 +3850,10 @@
     "word": "Indagar",
     "definition": "Intentar descubrir algo haciendo preguntas o investigando.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2688",
@@ -3084,7 +3862,10 @@
     "word": "Infancia",
     "definition": "Primera etapa de la vida de una persona, hasta la pubertad.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2689",
@@ -3093,7 +3874,10 @@
     "word": "Innovación",
     "definition": "Introducción de novedades que mejoran algo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2690",
@@ -3102,7 +3886,10 @@
     "word": "Instinto",
     "definition": "Impulso natural que mueve a actuar sin pensar.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2691",
@@ -3111,7 +3898,10 @@
     "word": "Interino",
     "definition": "Que ocupa un puesto temporalmente, a la espera de su titular.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2692",
@@ -3120,7 +3910,10 @@
     "word": "Irreverente",
     "definition": "Que falta al respeto debido a lo que otros consideran sagrado.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2693",
@@ -3129,7 +3922,10 @@
     "word": "Itinerario",
     "definition": "Ruta que se sigue para ir de un lugar a otro.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2694",
@@ -3138,7 +3934,10 @@
     "word": "iPod",
     "definition": "Reproductor de música de Apple, con rueda táctil, que popularizó los MP3 a principios de los 2000.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2695",
@@ -3147,7 +3946,11 @@
     "word": "iPhone",
     "definition": "Teléfono de Apple presentado en 2007 que popularizó las pantallas táctiles.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "2696",
@@ -3165,7 +3968,10 @@
     "word": "Internet Explorer",
     "definition": "Navegador web de Microsoft que durante años venía instalado en Windows.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2698",
@@ -3174,7 +3980,10 @@
     "word": "Iker Casillas",
     "definition": "Portero del Real Madrid y de la selección que levantó la Copa del Mundo en 2010.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2699",
@@ -3183,7 +3992,11 @@
     "word": "Iniesta",
     "definition": "Centrocampista del Barça autor del gol que dio a España el Mundial de 2010.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "2700",
@@ -3201,7 +4014,11 @@
     "word": "Ice Age",
     "definition": "Saga de animación sobre un mamut, un perezoso y un tigre dientes de sable en la prehistoria.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "2702",
@@ -3210,7 +4027,10 @@
     "word": "Inception",
     "definition": "Película de Christopher Nolan de 2010 sobre ladrones que entran en los sueños de otros.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2703",
@@ -3237,7 +4057,10 @@
     "word": "Ikea",
     "definition": "Tienda sueca de muebles desmontables con nombres raros y albóndigas en el restaurante.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2706",
@@ -3264,7 +4087,10 @@
     "word": "Jovialidad",
     "definition": "Alegría y buen humor que se muestran en el carácter y en el trato.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2709",
@@ -3282,7 +4108,10 @@
     "word": "Judicial",
     "definition": "Relativo a los jueces, a los tribunales o a la administración de justicia.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2711",
@@ -3345,7 +4174,10 @@
     "word": "Jaleo",
     "definition": "Alboroto, ruido o confusión producido por mucha gente a la vez.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2718",
@@ -3354,7 +4186,10 @@
     "word": "Jarabe",
     "definition": "Medicina líquida y dulce que se toma a cucharadas.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2719",
@@ -3363,7 +4198,10 @@
     "word": "Jardinería",
     "definition": "Arte y técnica de cultivar y cuidar jardines y plantas ornamentales.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2720",
@@ -3372,7 +4210,10 @@
     "word": "Jazz",
     "definition": "Música de origen afroamericano con mucha improvisación.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2721",
@@ -3390,7 +4231,10 @@
     "word": "Jinete",
     "definition": "Persona que monta a caballo, sobre todo si lo hace con habilidad.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2723",
@@ -3399,7 +4243,10 @@
     "word": "Jirón",
     "definition": "Trozo desgarrado de una tela o de una prenda de vestir.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2724",
@@ -3444,7 +4291,10 @@
     "word": "Juglar",
     "definition": "Artista de la Edad Media que recitaba y cantaba poemas.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2729",
@@ -3453,7 +4303,10 @@
     "word": "Juguetón",
     "definition": "Que le gusta jugar y moverse de forma alegre.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2730",
@@ -3462,7 +4315,10 @@
     "word": "Justificar",
     "definition": "Probar con razones que algo es correcto.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2731",
@@ -3480,7 +4336,10 @@
     "word": "Jungla",
     "definition": "Selva espesa y muy poblada de vegetación de las zonas tropicales.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2733",
@@ -3489,7 +4348,10 @@
     "word": "Junta",
     "definition": "Reunión de personas para tratar un asunto.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2734",
@@ -3498,7 +4360,10 @@
     "word": "Jackass",
     "definition": "Programa de MTV con bromas y acrobacias disparatadas protagonizado por Johnny Knoxville.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2735",
@@ -3507,7 +4372,10 @@
     "word": "Jennifer López",
     "definition": "Cantante y actriz neoyorquina de «Waiting for Tonight» y «On the Floor».",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2736",
@@ -3516,7 +4384,10 @@
     "word": "Jack Sparrow",
     "definition": "Pirata excéntrico de «Piratas del Caribe» interpretado por Johnny Depp.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2737",
@@ -3525,7 +4396,10 @@
     "word": "Justin Bieber",
     "definition": "Cantante canadiense descubierto en YouTube, autor de «Baby» y «Sorry».",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2738",
@@ -3534,7 +4408,10 @@
     "word": "Justin Timberlake",
     "definition": "Cantante estadounidense, ex miembro de NSYNC, autor de «Cry Me a River».",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2739",
@@ -3543,7 +4420,10 @@
     "word": "Jarabe de Palo",
     "definition": "Grupo de Pau Donés autor de «La flaca» y «Depende».",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2740",
@@ -3552,7 +4432,10 @@
     "word": "Juego de Tronos",
     "definition": "Serie de HBO basada en las novelas de George R. R. Martin, con dragones y el Trono de Hierro.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2741",
@@ -3561,7 +4444,11 @@
     "word": "Jedi",
     "definition": "Caballero de la saga «Star Wars» que usa la Fuerza y un sable láser.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "2742",
@@ -3588,7 +4475,10 @@
     "word": "Jeta",
     "definition": "En lenguaje coloquial, cara dura o descaro.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2745",
@@ -3597,7 +4487,10 @@
     "word": "Jordan",
     "definition": "Leyenda del baloncesto de los Chicago Bulls con el número 23 y seis anillos de la NBA.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2746",
@@ -3606,7 +4499,10 @@
     "word": "Labor",
     "definition": "Trabajo o tarea que se realiza con esfuerzo y dedicación.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2747",
@@ -3624,7 +4520,10 @@
     "word": "Laguna",
     "definition": "Hueco o falta en un conjunto, como en la memoria o en una ley; también, lago pequeño.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2749",
@@ -3633,7 +4532,10 @@
     "word": "Lamento",
     "definition": "Queja que expresa pena o dolor ante una desgracia o una pérdida.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2750",
@@ -3651,7 +4553,10 @@
     "word": "Lealtad",
     "definition": "Fidelidad y respeto hacia una persona, una causa o un compromiso.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2752",
@@ -3660,7 +4565,10 @@
     "word": "Legado",
     "definition": "Lo que se deja a los sucesores, ya sea una herencia o una obra cultural.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2753",
@@ -3669,7 +4577,10 @@
     "word": "Legislación",
     "definition": "Conjunto de leyes de un país o de una materia.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2754",
@@ -3687,7 +4598,10 @@
     "word": "Lenguaje",
     "definition": "Sistema de signos con el que las personas se comunican.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2756",
@@ -3696,7 +4610,10 @@
     "word": "Letargo",
     "definition": "Estado de sueño profundo o de falta de actividad.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2757",
@@ -3705,7 +4622,10 @@
     "word": "Liderazgo",
     "definition": "Capacidad para dirigir a un grupo e influir en él.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2758",
@@ -3714,7 +4634,10 @@
     "word": "Limitación",
     "definition": "Restricción o frontera que impide hacer algo más allá de cierto punto.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2759",
@@ -3732,7 +4655,10 @@
     "word": "Liquidez",
     "definition": "Facilidad para convertir un bien en dinero en efectivo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2761",
@@ -3759,7 +4685,10 @@
     "word": "Locuaz",
     "definition": "Dicho de una persona que habla mucho y con gran facilidad.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2764",
@@ -3768,7 +4697,10 @@
     "word": "Logística",
     "definition": "Organización de los medios necesarios para llevar a cabo una operación.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2765",
@@ -3786,7 +4718,10 @@
     "word": "Lucro",
     "definition": "Ganancia o beneficio que se saca de algo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2767",
@@ -3795,7 +4730,10 @@
     "word": "Ludoteca",
     "definition": "Lugar donde los niños pueden jugar y aprender con juguetes y juegos.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2768",
@@ -3804,7 +4742,10 @@
     "word": "Lujo",
     "definition": "Abundancia de cosas caras y superfluas que no son necesarias.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2769",
@@ -3813,7 +4754,10 @@
     "word": "Lectura",
     "definition": "Acción de leer; también, interpretación que se hace de algo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2770",
@@ -3822,7 +4766,10 @@
     "word": "Linterna",
     "definition": "Aparato portátil que da luz con una pila.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2771",
@@ -3840,7 +4787,10 @@
     "word": "Librería",
     "definition": "Tienda o establecimiento donde se venden libros al público.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2773",
@@ -3849,7 +4799,10 @@
     "word": "Licencia",
     "definition": "Permiso que concede una autoridad para hacer algo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2774",
@@ -3858,7 +4811,10 @@
     "word": "La Oreja de Van Gogh",
     "definition": "Grupo donostiarra de pop de «La playa» y «Rosas».",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2775",
@@ -3867,7 +4823,11 @@
     "word": "Los Simpson",
     "definition": "Familia amarilla de dibujos de Springfield creada por Matt Groening; Homer, Marge, Bart, Lisa y Maggie.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "2776",
@@ -3876,7 +4836,10 @@
     "word": "Lost",
     "definition": "Serie de ABC sobre supervivientes de un accidente aéreo en una isla misteriosa, con un monstruo de humo.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2777",
@@ -3885,7 +4848,10 @@
     "word": "Linkin Park",
     "definition": "Banda californiana de nu metal con Chester Bennington, autora de «In the End» y «Numb».",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2778",
@@ -3894,7 +4860,11 @@
     "word": "Lady Gaga",
     "definition": "Cantante estadounidense de «Poker Face» y «Bad Romance», famosa por sus excéntricos looks.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "2779",
@@ -3903,7 +4873,10 @@
     "word": "La Casa de Papel",
     "definition": "Serie española sobre un atraco a la Fábrica de Moneda con monos rojos y máscaras de Dalí.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2780",
@@ -3912,7 +4885,10 @@
     "word": "Los Serrano",
     "definition": "Serie de Telecinco sobre dos familias que se unen, con Antonio Resines y Belén Rueda.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2781",
@@ -3939,7 +4915,10 @@
     "word": "Lana del Rey",
     "definition": "Cantante estadounidense de «Summertime Sadness» y «Video Games», de estética melancólica y vintage.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2784",
@@ -3948,7 +4927,10 @@
     "word": "LOL",
     "definition": "En mensajes, siglas con las que se indica que algo hace reír mucho.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2785",
@@ -3957,7 +4939,10 @@
     "word": "Like",
     "definition": "Pulgar hacia arriba o corazón con que se muestra que algo nos gusta en las redes sociales.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2786",
@@ -3975,7 +4960,10 @@
     "word": "Magnanimidad",
     "definition": "Grandeza de ánimo para perdonar y ser generoso.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2788",
@@ -3984,7 +4972,10 @@
     "word": "Mediocre",
     "definition": "De calidad media o baja, sin destacar en nada.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2789",
@@ -3993,7 +4984,10 @@
     "word": "Mecenas",
     "definition": "Persona que protege y financia a artistas o a la cultura.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2790",
@@ -4002,7 +4996,10 @@
     "word": "Memorando",
     "definition": "Escrito informal en el que se recuerda o se comunica algo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2791",
@@ -4011,7 +5008,10 @@
     "word": "Mendigar",
     "definition": "Pedir limosna o pedir algo con humildad y insistencia.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2792",
@@ -4020,7 +5020,10 @@
     "word": "Mentor",
     "definition": "Persona que aconseja y guía a otra con menos experiencia.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2793",
@@ -4029,7 +5032,10 @@
     "word": "Meticuloso",
     "definition": "Que hace las cosas con muchísimo cuidado y atención a los detalles.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2794",
@@ -4038,7 +5044,10 @@
     "word": "Metódico",
     "definition": "Que obra con orden y sigue un procedimiento fijo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2795",
@@ -4056,7 +5065,10 @@
     "word": "Migración",
     "definition": "Desplazamiento de personas o animales de un lugar a otro.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2797",
@@ -4065,7 +5077,10 @@
     "word": "Minucioso",
     "definition": "Que se detiene en los detalles más pequeños.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2798",
@@ -4074,7 +5089,10 @@
     "word": "Mitigar",
     "definition": "Hacer menos intenso o más suave un dolor o un problema.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2799",
@@ -4083,7 +5101,10 @@
     "word": "Moderación",
     "definition": "Cualidad de quien evita los excesos y actúa con templanza.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2800",
@@ -4101,7 +5122,10 @@
     "word": "Mordaz",
     "definition": "Que critica con ironía y de forma hiriente.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2802",
@@ -4110,7 +5134,10 @@
     "word": "Mudanza",
     "definition": "Traslado de los muebles y enseres de una casa a otra.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2803",
@@ -4119,7 +5146,10 @@
     "word": "Mutuo",
     "definition": "Que se da entre dos personas o cosas por igual.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2804",
@@ -4128,7 +5158,10 @@
     "word": "Mercadotecnia",
     "definition": "Conjunto de técnicas para promocionar y vender un producto.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2805",
@@ -4137,7 +5170,10 @@
     "word": "Mérito",
     "definition": "Valor que tiene una persona por sus acciones.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2806",
@@ -4146,7 +5182,10 @@
     "word": "Meteoro",
     "definition": "Fenómeno luminoso que se produce al entrar un cuerpo en la atmósfera.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2807",
@@ -4155,7 +5194,10 @@
     "word": "Mezquino",
     "definition": "Que escatima lo que da; también, de mala intención.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2808",
@@ -4164,7 +5206,10 @@
     "word": "Milagro",
     "definition": "Hecho extraordinario que se atribuye a una causa sobrenatural.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2809",
@@ -4173,7 +5218,10 @@
     "word": "Modestia",
     "definition": "Falta de orgullo; actitud de quien no presume de sus méritos.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2810",
@@ -4182,7 +5230,10 @@
     "word": "Moraleja",
     "definition": "Enseñanza que se saca de una fábula o de un cuento.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2811",
@@ -4191,7 +5242,10 @@
     "word": "Mueca",
     "definition": "Gesto que se hace con la cara para expresar burla o disgusto.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2812",
@@ -4200,7 +5254,10 @@
     "word": "Muralla",
     "definition": "Muro grueso que rodea una ciudad para defenderla.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2813",
@@ -4227,7 +5284,10 @@
     "word": "Messenger",
     "definition": "Programa de mensajería instantánea de Microsoft, con zumbidos y emoticonos, que triunfó en los 2000.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2816",
@@ -4236,7 +5296,10 @@
     "word": "MySpace",
     "definition": "Red social de principios de los 2000 con perfiles personalizables y música; precursora de Facebook.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2817",
@@ -4254,7 +5317,10 @@
     "word": "Mortadelo y Filemón",
     "definition": "Dúo de agentes de la T.I.A. de los cómics de Ibáñez, un maestro del disfraz y su jefe.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2819",
@@ -4263,7 +5329,10 @@
     "word": "Mägo de Oz",
     "definition": "Banda madrileña de folk metal de «Fiesta pagana» y «La Costa del Silencio».",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2820",
@@ -4272,7 +5341,10 @@
     "word": "Muse",
     "definition": "Banda británica de rock de «Supermassive Black Hole» y «Uprising».",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2821",
@@ -4281,7 +5353,10 @@
     "word": "Manolito Gafotas",
     "definition": "Niño de Carabanchel protagonista de los libros de Elvira Lindo.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2822",
@@ -4290,7 +5365,10 @@
     "word": "MTV",
     "definition": "Canal de música por cable famoso por sus videoclips y sus programas de los 90 y los 2000.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2823",
@@ -4299,7 +5377,10 @@
     "word": "Molar",
     "definition": "En lenguaje coloquial, gustar mucho o parecer estupendo.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2824",
@@ -4326,7 +5407,10 @@
     "word": "Narcisismo",
     "definition": "Admiración excesiva por uno mismo y por la propia imagen.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2827",
@@ -4335,7 +5419,10 @@
     "word": "Natalidad",
     "definition": "Número de nacimientos en un lugar y un tiempo determinados.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2828",
@@ -4344,7 +5431,10 @@
     "word": "Navegante",
     "definition": "Persona que viaja por mar o por el aire; también, quien se mueve por internet.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2829",
@@ -4362,7 +5452,10 @@
     "word": "Necedad",
     "definition": "Dicho o hecho propio de una persona terca y de poca inteligencia.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2831",
@@ -4380,7 +5473,10 @@
     "word": "Negociación",
     "definition": "Proceso en el que las partes hablan para llegar a un acuerdo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2833",
@@ -4389,7 +5485,10 @@
     "word": "Neutral",
     "definition": "Que no toma partido por ninguna de las partes.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2834",
@@ -4407,7 +5506,10 @@
     "word": "Nítido",
     "definition": "Claro, limpio y bien definido, sin confusión.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2836",
@@ -4416,7 +5518,10 @@
     "word": "Nobleza",
     "definition": "Cualidad de las personas de carácter elevado y generoso; también, clase social privilegiada.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2837",
@@ -4443,7 +5548,10 @@
     "word": "Notoriedad",
     "definition": "Fama o conocimiento general que tiene alguien o algo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2840",
@@ -4452,7 +5560,10 @@
     "word": "Novato",
     "definition": "Persona nueva o sin experiencia en una actividad.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2841",
@@ -4488,7 +5599,10 @@
     "word": "Numerario",
     "definition": "Dinero en efectivo, es decir, billetes y monedas.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2845",
@@ -4506,7 +5620,10 @@
     "word": "Notario",
     "definition": "Funcionario público que da fe de los contratos y documentos.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2847",
@@ -4515,7 +5632,10 @@
     "word": "Nómina",
     "definition": "Documento en el que se detalla el sueldo mensual de un trabajador.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2848",
@@ -4524,7 +5644,10 @@
     "word": "Neófito",
     "definition": "Persona que se acaba de incorporar a una actividad o ideología.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2849",
@@ -4533,7 +5656,10 @@
     "word": "Nefasto",
     "definition": "Muy malo, funesto o que trae mala suerte o desgracia.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2850",
@@ -4551,7 +5677,10 @@
     "word": "Natación",
     "definition": "Deporte que consiste en moverse por el agua con los brazos y las piernas.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2852",
@@ -4560,7 +5689,10 @@
     "word": "Nocturno",
     "definition": "Que ocurre o está activo durante la noche.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2853",
@@ -4605,7 +5737,10 @@
     "word": "Nokia 3310",
     "definition": "Teléfono móvil casi indestructible del año 2000, famoso por su juego de la serpiente.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2858",
@@ -4623,7 +5758,10 @@
     "word": "Narcos",
     "definition": "Serie de Netflix sobre el auge y la caída del capo colombiano Pablo Escobar.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2860",
@@ -4650,7 +5788,10 @@
     "word": "Nesquik",
     "definition": "Cacao en polvo para disolver en leche, con un conejo como mascota.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2863",
@@ -4659,7 +5800,10 @@
     "word": "Nutella",
     "definition": "Crema de cacao y avellanas para untar en el pan o en las tortitas.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2864",
@@ -4668,7 +5812,10 @@
     "word": "NBA",
     "definition": "Liga profesional de baloncesto de Estados Unidos con Michael Jordan, Kobe Bryant y LeBron James.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2865",
@@ -4695,7 +5842,10 @@
     "word": "Enseñanza",
     "definition": "Acción de enseñar; sistema y método para dar instrucción.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2868",
@@ -4704,7 +5854,10 @@
     "word": "Pestaña",
     "definition": "Pelo del borde de los párpados; también, lengüeta de un archivo o de una ventana.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2869",
@@ -4713,7 +5866,10 @@
     "word": "Campiña",
     "definition": "Espacio grande de tierra cultivada, llana y abierta.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2870",
@@ -4722,7 +5878,10 @@
     "word": "Bañera",
     "definition": "Recipiente grande donde una persona puede bañarse.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2871",
@@ -4749,7 +5908,10 @@
     "word": "Extraño",
     "definition": "Que resulta raro, desconocido o sorprendente.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2874",
@@ -4767,7 +5929,10 @@
     "word": "Tamaño",
     "definition": "Conjunto de las dimensiones de algo, que determina si es grande o pequeño.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2876",
@@ -4794,7 +5959,10 @@
     "word": "Muñeca",
     "definition": "Parte del cuerpo donde se une la mano con el antebrazo; también, juguete con forma humana.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2879",
@@ -4803,7 +5971,10 @@
     "word": "Rebaño",
     "definition": "Conjunto de ganado, sobre todo de ovejas, que se cuida junto.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2880",
@@ -4812,7 +5983,10 @@
     "word": "Caña",
     "definition": "Tallo hueco y nudoso de ciertas plantas; también, vaso de cerveza.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2881",
@@ -4821,7 +5995,10 @@
     "word": "Compañerismo",
     "definition": "Buena relación y apoyo entre compañeros.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2882",
@@ -4830,7 +6007,10 @@
     "word": "Pañal",
     "definition": "Prenda absorbente que se pone a los bebés.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2883",
@@ -4839,7 +6019,10 @@
     "word": "Ñandú",
     "definition": "Ave corredora de América del Sur parecida al avestruz.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2884",
@@ -4848,7 +6031,10 @@
     "word": "Ñu",
     "definition": "Antílope africano de cuernos curvos y barba que migra en grandes manadas.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2885",
@@ -4857,7 +6043,10 @@
     "word": "Ñoquis",
     "definition": "Pasta de patata en forma de bolitas, típica de Italia.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2886",
@@ -4866,7 +6055,10 @@
     "word": "Ñame",
     "definition": "Raíz comestible tropical parecida a la batata.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2887",
@@ -4875,7 +6067,10 @@
     "word": "Piñón",
     "definition": "Semilla comestible y blanquecina que se extrae de la piña de un pino.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2888",
@@ -4884,7 +6079,10 @@
     "word": "Contraseña",
     "definition": "Palabra o clave secreta que permite acceder a algo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2889",
@@ -4893,7 +6091,10 @@
     "word": "Peñasco",
     "definition": "Roca grande y elevada que sobresale en un terreno.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2890",
@@ -4902,7 +6103,10 @@
     "word": "Ensueño",
     "definition": "Fantasía o ilusión de lo que se desea; imagen agradable que se ve al dormir.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2891",
@@ -4938,7 +6142,10 @@
     "word": "Cuñao",
     "definition": "En lenguaje coloquial, familiar político que opina de todo con aires de sabelotodo.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2895",
@@ -4947,7 +6154,10 @@
     "word": "Ñoño",
     "definition": "En lenguaje coloquial, persona remilgada y muy apocada, o algo muy cursi.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2896",
@@ -4956,7 +6166,10 @@
     "word": "Compañeros",
     "definition": "Serie juvenil de Antena 3 ambientada en el instituto Azcona a finales de los 90.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2897",
@@ -4965,7 +6178,10 @@
     "word": "El Señor de los Anillos",
     "definition": "Trilogía de Peter Jackson basada en Tolkien, con Frodo, Gandalf y el objeto que debe destruirse en el Monte del Destino.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2898",
@@ -4974,7 +6190,10 @@
     "word": "Señor Burns",
     "definition": "Millonario avaricioso y de aspecto decrépito, dueño de la central nuclear de Springfield.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2899",
@@ -4983,7 +6202,10 @@
     "word": "Doña Florinda",
     "definition": "Vecina de «El Chavo del 8» que protege a su hijo Quico y desprecia a la «chusma».",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2900",
@@ -5001,7 +6223,10 @@
     "word": "Piña colada",
     "definition": "Cóctel tropical de ron, crema de coco y fruta tropical amarilla.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2902",
@@ -5010,7 +6235,10 @@
     "word": "Peña",
     "definition": "En lenguaje coloquial, grupo de amigos que se reúnen con frecuencia.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2903",
@@ -5019,7 +6247,10 @@
     "word": "Mañana nunca muere",
     "definition": "Película de James Bond de 1997 con Pierce Brosnan y un magnate de la prensa como villano.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2904",
@@ -5046,7 +6277,10 @@
     "word": "Obstáculo",
     "definition": "Cosa que impide o dificulta el paso o el avance.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2907",
@@ -5055,7 +6289,10 @@
     "word": "Obstinado",
     "definition": "Que se mantiene firme en su opinión o en su propósito.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2908",
@@ -5073,7 +6310,10 @@
     "word": "Ocio",
     "definition": "Tiempo libre que se dedica a descansar o a divertirse.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2910",
@@ -5082,7 +6322,10 @@
     "word": "Oda",
     "definition": "Poema lírico en el que se alaba a una persona, a un lugar o a una cosa.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2911",
@@ -5100,7 +6343,10 @@
     "word": "Oferta",
     "definition": "Propuesta de un producto o servicio a un precio determinado.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2913",
@@ -5109,7 +6355,10 @@
     "word": "Oficio",
     "definition": "Ocupación habitual, sobre todo la que requiere habilidad manual.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2914",
@@ -5118,7 +6367,10 @@
     "word": "Ojeada",
     "definition": "Mirada rápida y superficial que se echa a algo o a alguien.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2915",
@@ -5127,7 +6379,10 @@
     "word": "Olfato",
     "definition": "Sentido con el que se perciben los olores.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2916",
@@ -5145,7 +6400,10 @@
     "word": "Omisión",
     "definition": "Hecho de no decir o no hacer algo que se debía.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2918",
@@ -5154,7 +6412,10 @@
     "word": "Onomatopeya",
     "definition": "Palabra que imita el sonido de aquello que nombra.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2919",
@@ -5163,7 +6424,10 @@
     "word": "Opaco",
     "definition": "Que no deja pasar la luz, por lo que no se ve a su través.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2920",
@@ -5172,7 +6436,10 @@
     "word": "Optimista",
     "definition": "Que ve el lado favorable de las cosas y espera lo mejor.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2921",
@@ -5181,7 +6448,10 @@
     "word": "Oprimir",
     "definition": "Someter a una persona o a un pueblo con violencia o autoridad.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2922",
@@ -5199,7 +6469,10 @@
     "word": "Orfebre",
     "definition": "Artesano que trabaja el oro, la plata y otros metales preciosos.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2924",
@@ -5208,7 +6481,10 @@
     "word": "Orgullo",
     "definition": "Satisfacción excesiva por lo propio; también, dignidad.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2925",
@@ -5217,7 +6493,10 @@
     "word": "Originalidad",
     "definition": "Cualidad de lo que es nuevo y distinto de lo habitual.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2926",
@@ -5235,7 +6514,10 @@
     "word": "Oscilar",
     "definition": "Moverse de un lado a otro de forma alternada.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2928",
@@ -5244,7 +6526,10 @@
     "word": "Ostentoso",
     "definition": "Que se hace con exceso de lujo para llamar la atención.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2929",
@@ -5262,7 +6547,10 @@
     "word": "Oxidar",
     "definition": "Cubrir de óxido un metal por la acción del aire o de la humedad.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2931",
@@ -5271,7 +6559,10 @@
     "word": "Obligación",
     "definition": "Deber que se debe cumplir por ley o por conciencia.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2932",
@@ -5280,7 +6571,10 @@
     "word": "Observatorio",
     "definition": "Lugar con instrumentos para estudiar los astros.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2933",
@@ -5289,7 +6583,10 @@
     "word": "Orquesta",
     "definition": "Conjunto de músicos que tocan instrumentos juntos.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2934",
@@ -5307,7 +6604,10 @@
     "word": "Oasis",
     "definition": "Banda de Manchester de los hermanos Gallagher, de «Wonderwall» y «Don't Look Back in Anger».",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2936",
@@ -5316,7 +6616,10 @@
     "word": "Oliver y Benji",
     "definition": "Dibujos de fútbol japonés con campos interminables y chuts imposibles, protagonizados por un delantero y un portero.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2937",
@@ -5334,7 +6637,10 @@
     "word": "Ocean's Eleven",
     "definition": "Película de 2001 con George Clooney y Brad Pitt sobre un atraco a casinos de Las Vegas.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2939",
@@ -5343,7 +6649,10 @@
     "word": "Obélix",
     "definition": "Gigantón galo de las historias de cómic que cayó de pequeño en la marmita de la poción mágica.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2940",
@@ -5352,7 +6661,10 @@
     "word": "Okupa",
     "definition": "En lenguaje coloquial, persona que ocupa una vivienda vacía sin permiso.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2941",
@@ -5361,7 +6673,10 @@
     "word": "OK",
     "definition": "Expresión que indica acuerdo, popularizada en el mundo entero.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2942",
@@ -5370,7 +6685,10 @@
     "word": "Oscar",
     "definition": "Estatuilla dorada de Hollywood que premia lo mejor del cine.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2943",
@@ -5379,7 +6697,10 @@
     "word": "Oreo",
     "definition": "Galleta negra rellena de crema blanca que se moja en leche.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2944",
@@ -5388,7 +6709,10 @@
     "word": "Ozzy Osbourne",
     "definition": "Cantante de Black Sabbath, de «Paranoid», que protagonizó un reality familiar de MTV.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2945",
@@ -5397,7 +6721,10 @@
     "word": "Ouija",
     "definition": "Tablero con letras y números para comunicarse con los espíritus, popular en fiestas de pijamas.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2946",
@@ -5406,7 +6733,10 @@
     "word": "Paciencia",
     "definition": "Capacidad de esperar o de soportar algo sin alterarse.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2947",
@@ -5415,7 +6745,10 @@
     "word": "Paliativo",
     "definition": "Dicho de lo que alivia un mal o un dolor sin llegar a curarlo del todo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2948",
@@ -5442,7 +6775,10 @@
     "word": "Patrimonio",
     "definition": "Conjunto de bienes de una persona o de un pueblo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2951",
@@ -5451,7 +6787,10 @@
     "word": "Pausa",
     "definition": "Interrupción breve de una acción o de un movimiento.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2952",
@@ -5460,7 +6799,10 @@
     "word": "Peculiar",
     "definition": "Propio o característico de alguien o de algo; raro.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2953",
@@ -5469,7 +6811,10 @@
     "word": "Pedagogía",
     "definition": "Ciencia que estudia la educación y la enseñanza.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2954",
@@ -5478,7 +6823,10 @@
     "word": "Pensión",
     "definition": "Cantidad de dinero que se cobra periódicamente, por ejemplo al jubilarse.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2955",
@@ -5487,7 +6835,10 @@
     "word": "Perenne",
     "definition": "Que dura siempre, o que no se acaba ni se interrumpe con el tiempo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2956",
@@ -5496,7 +6847,10 @@
     "word": "Perseverancia",
     "definition": "Firmeza para seguir esforzándose hasta lograr un fin.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2957",
@@ -5505,7 +6859,10 @@
     "word": "Persuadir",
     "definition": "Convencer a alguien con razones para que haga algo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2958",
@@ -5514,7 +6871,10 @@
     "word": "Pertinente",
     "definition": "Que viene a propósito o resulta oportuno en el momento y lugar adecuados.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2959",
@@ -5523,7 +6883,10 @@
     "word": "Pesimista",
     "definition": "Que ve el lado desfavorable de las cosas.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2960",
@@ -5532,7 +6895,10 @@
     "word": "Plagio",
     "definition": "Copia de una obra ajena presentándola como propia.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2961",
@@ -5541,7 +6907,10 @@
     "word": "Plenario",
     "definition": "Dicho de una reunión en la que participan todos sus miembros.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2962",
@@ -5550,7 +6919,10 @@
     "word": "Pluralidad",
     "definition": "Variedad de personas o de ideas que conviven.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2963",
@@ -5559,7 +6931,10 @@
     "word": "Prejuicio",
     "definition": "Opinión que se tiene de algo antes de conocerlo bien.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2964",
@@ -5577,7 +6952,10 @@
     "word": "Presupuesto",
     "definition": "Cálculo anticipado del coste de algo o del dinero del que se dispone.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2966",
@@ -5586,7 +6964,10 @@
     "word": "Prestigio",
     "definition": "Buena fama que tiene una persona o una cosa.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2967",
@@ -5595,7 +6976,10 @@
     "word": "Previsión",
     "definition": "Cálculo o aviso anticipado de lo que se cree que va a ocurrir.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2968",
@@ -5604,7 +6988,10 @@
     "word": "Primicia",
     "definition": "Noticia o información que se da a conocer por primera vez.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2969",
@@ -5613,7 +7000,10 @@
     "word": "Prioridad",
     "definition": "Cualidad de lo que va primero por su importancia.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2970",
@@ -5622,7 +7012,10 @@
     "word": "Privilegio",
     "definition": "Ventaja especial de la que goza alguien.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2971",
@@ -5631,7 +7024,10 @@
     "word": "Prudencia",
     "definition": "Cuidado y sensatez al actuar para evitar riesgos.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2972",
@@ -5640,7 +7036,10 @@
     "word": "Pulcro",
     "definition": "Limpio y cuidado en su aspecto y en su manera de vestir.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2973",
@@ -5649,7 +7048,10 @@
     "word": "Puntual",
     "definition": "Que llega a tiempo, o que ocurre exactamente a la hora prevista.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2974",
@@ -5667,7 +7069,11 @@
     "word": "Pasapalabra",
     "definition": "Concurso televisivo con un rosco de letras, presentado en España por Christian Gálvez durante más de una década.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "2976",
@@ -5676,7 +7082,11 @@
     "word": "PlayStation",
     "definition": "Consola de Sony cuya segunda versión es la más vendida de la historia.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "2977",
@@ -5694,7 +7104,10 @@
     "word": "Pablo Alborán",
     "definition": "Cantautor malagueño de «Solamente tú» y «Perdóname».",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2979",
@@ -5703,7 +7116,10 @@
     "word": "Pereza",
     "definition": "Grupo madrileño de rock de «Princesas» y «Lady Madrid».",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2980",
@@ -5712,7 +7128,10 @@
     "word": "Pitbull",
     "definition": "Rapero estadounidense de origen cubano de «Give Me Everything», que se hace llamar «Mr. Worldwide».",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2981",
@@ -5721,7 +7140,10 @@
     "word": "Pearl Jam",
     "definition": "Banda de Seattle del grunge liderada por Eddie Vedder, autora de «Alive» y «Black».",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2982",
@@ -5730,7 +7152,10 @@
     "word": "Pink Floyd",
     "definition": "Banda británica de rock progresivo de «The Wall» y «The Dark Side of the Moon».",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2983",
@@ -5739,7 +7164,10 @@
     "word": "Padre de familia",
     "definition": "Serie de animación irreverente de Seth MacFarlane con el bebé Stewie y un perro que habla.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2984",
@@ -5748,7 +7176,10 @@
     "word": "Postureo",
     "definition": "En lenguaje coloquial, actitud de quien aparenta lo que no es, sobre todo en las redes sociales.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2985",
@@ -5757,7 +7188,10 @@
     "word": "Pasada",
     "definition": "En lenguaje coloquial, algo exagerado o espectacular.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2986",
@@ -5766,7 +7200,10 @@
     "word": "Quebrantar",
     "definition": "Romper o incumplir una ley, una norma o una promesa.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2987",
@@ -5784,7 +7221,10 @@
     "word": "Queja",
     "definition": "Expresión de dolor, descontento o protesta.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2989",
@@ -5793,7 +7233,10 @@
     "word": "Quemadura",
     "definition": "Daño producido en la piel por el fuego, el calor o un producto corrosivo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2990",
@@ -5811,7 +7254,10 @@
     "word": "Quedar",
     "definition": "Permanecer en un lugar o en cierto estado; también, acordar un encuentro con alguien.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "2992",
@@ -5892,7 +7338,10 @@
     "word": "Quincena",
     "definition": "Período de quince días seguidos, como la mitad de un mes.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3001",
@@ -5910,7 +7359,10 @@
     "word": "Quirúrgico",
     "definition": "Relativo a la cirugía y a las operaciones que se hacen con instrumentos.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3003",
@@ -5919,7 +7371,10 @@
     "word": "Quitar",
     "definition": "Separar o retirar algo del lugar donde estaba.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3004",
@@ -5928,7 +7383,10 @@
     "word": "Quietud",
     "definition": "Falta de movimiento o de ruido; estado de calma y de reposo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3005",
@@ -5946,7 +7404,10 @@
     "word": "Quechua",
     "definition": "Pueblo y lengua de los Andes, hablados en Perú y países vecinos.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3007",
@@ -5955,7 +7416,10 @@
     "word": "Quetzal",
     "definition": "Ave de plumaje verde de Centroamérica; también, moneda de Guatemala.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3008",
@@ -5964,7 +7428,10 @@
     "word": "Quijote",
     "definition": "Hidalgo manchego que enloquece leyendo libros de caballerías en la obra de Cervantes.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3009",
@@ -5982,7 +7449,10 @@
     "word": "Quebradizo",
     "definition": "Que se rompe o se quiebra con facilidad.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3011",
@@ -6018,7 +7488,10 @@
     "word": "Quentin Tarantino",
     "definition": "Director de «Pulp Fiction» y «Kill Bill», de violencia estilizada y diálogos largos.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3015",
@@ -6036,7 +7509,10 @@
     "word": "Quiksilver",
     "definition": "Marca de ropa de surf con un logotipo de ola y montaña, muy de moda en los 2000.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3017",
@@ -6045,7 +7521,10 @@
     "word": "Quién quiere ser millonario",
     "definition": "Concurso de preguntas con cuatro respuestas y comodines, como el 50 %, el público y la llamada, con Carlos Sobera.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3018",
@@ -6054,7 +7533,10 @@
     "word": "Quinto elemento",
     "definition": "Película de ciencia ficción de Luc Besson de 1997 con Bruce Willis y Milla Jovovich.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3019",
@@ -6063,7 +7545,10 @@
     "word": "Quake",
     "definition": "Videojuego de disparos en primera persona de 1996 que popularizó las partidas en red.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3020",
@@ -6072,7 +7557,11 @@
     "word": "Quiz",
     "definition": "Cuestionario breve de preguntas, típico de las redes y de los concursos.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "3021",
@@ -6081,7 +7570,10 @@
     "word": "Quesadilla",
     "definition": "Tortilla de maíz doblada y rellena de queso, de la cocina mexicana, muy de moda.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3022",
@@ -6099,7 +7591,10 @@
     "word": "Quedada",
     "definition": "En lenguaje coloquial, encuentro informal entre amigos, a menudo organizado por internet.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3024",
@@ -6108,7 +7603,10 @@
     "word": "Quinqui",
     "definition": "En lenguaje coloquial, persona marginal; también, estilo de cine de los 80 sobre delincuencia juvenil.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3025",
@@ -6117,7 +7615,10 @@
     "word": "Quasimodo",
     "definition": "Campanero jorobado de Notre Dame protagonista de una película de Disney de 1996.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3026",
@@ -6126,7 +7627,10 @@
     "word": "Radicar",
     "definition": "Estar o tener su origen en un lugar o en una causa.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3027",
@@ -6135,7 +7639,10 @@
     "word": "Rancio",
     "definition": "Dicho de un alimento, que huele y sabe fuerte por el paso del tiempo; también, anticuado.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3028",
@@ -6144,7 +7651,10 @@
     "word": "Rapidez",
     "definition": "Velocidad o prontitud con la que se hace o sucede algo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3029",
@@ -6153,7 +7663,10 @@
     "word": "Raciocinio",
     "definition": "Capacidad de pensar, razonar y sacar conclusiones lógicas.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3030",
@@ -6162,7 +7675,10 @@
     "word": "Rebelión",
     "definition": "Levantamiento de un grupo de personas contra una autoridad.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3031",
@@ -6171,7 +7687,10 @@
     "word": "Recelo",
     "definition": "Desconfianza o temor ante algo que parece sospechoso o peligroso.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3032",
@@ -6180,7 +7699,10 @@
     "word": "Recesión",
     "definition": "Bajada de la actividad económica de un país.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3033",
@@ -6198,7 +7720,10 @@
     "word": "Reconciliar",
     "definition": "Volver a poner en paz a personas enfrentadas.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3035",
@@ -6216,7 +7741,10 @@
     "word": "Redundancia",
     "definition": "Repetición innecesaria de una idea o de una palabra.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3037",
@@ -6243,7 +7771,10 @@
     "word": "Regencia",
     "definition": "Gobierno de un Estado por una persona cuando el rey es menor o no puede reinar.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3040",
@@ -6252,7 +7783,10 @@
     "word": "Rehén",
     "definition": "Persona retenida por otra para exigir algo a cambio.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3041",
@@ -6261,7 +7795,10 @@
     "word": "Reivindicar",
     "definition": "Reclamar algo a lo que se tiene derecho.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3042",
@@ -6270,7 +7807,10 @@
     "word": "Rencor",
     "definition": "Resentimiento persistente por una ofensa recibida.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3043",
@@ -6279,7 +7819,10 @@
     "word": "Rendimiento",
     "definition": "Producto o utilidad que da algo en relación con lo invertido.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3044",
@@ -6288,7 +7831,10 @@
     "word": "Renombre",
     "definition": "Fama o prestigio de una persona por sus méritos.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3045",
@@ -6297,7 +7843,10 @@
     "word": "Renovable",
     "definition": "Que puede reponerse o sustituirse una y otra vez.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3046",
@@ -6315,7 +7864,10 @@
     "word": "Resolución",
     "definition": "Decisión firme; también, solución de un problema.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3048",
@@ -6324,7 +7876,10 @@
     "word": "Respaldo",
     "definition": "Apoyo o protección que se da a algo o a alguien.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3049",
@@ -6342,7 +7897,10 @@
     "word": "Reticente",
     "definition": "Que no dice todo lo que piensa o que se muestra reservado.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3051",
@@ -6360,7 +7918,10 @@
     "word": "Rutina",
     "definition": "Costumbre de hacer las cosas siempre del mismo modo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3053",
@@ -6369,7 +7930,10 @@
     "word": "Ruinoso",
     "definition": "Que está a punto de caerse o que produce pérdidas.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3054",
@@ -6378,7 +7942,11 @@
     "word": "Rihanna",
     "definition": "Cantante de Barbados de «Umbrella» y «Diamonds».",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "3055",
@@ -6396,7 +7964,10 @@
     "word": "Radiohead",
     "definition": "Banda británica de rock alternativo de «Creep» y «Karma Police».",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3057",
@@ -6405,7 +7976,10 @@
     "word": "Red Hot Chili Peppers",
     "definition": "Banda californiana de funk-rock de «Californication» y «Under the Bridge».",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3058",
@@ -6414,7 +7988,11 @@
     "word": "Reguetón",
     "definition": "Género urbano de ritmo dembow nacido en Puerto Rico que triunfó con Daddy Yankee.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "3059",
@@ -6432,7 +8010,11 @@
     "word": "Real Madrid",
     "definition": "Club de fútbol blanco con el Santiago Bernabéu y más Copas de Europa que ningún otro.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "3061",
@@ -6441,7 +8023,10 @@
     "word": "Resident Evil",
     "definition": "Saga de videojuegos de terror con zombis y la corporación farmacéutica Umbrella.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3062",
@@ -6450,7 +8035,10 @@
     "word": "Reality",
     "definition": "Programa de televisión que sigue a personas reales en situaciones de convivencia o competición.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3063",
@@ -6459,7 +8047,10 @@
     "word": "Rolling Stones",
     "definition": "Banda británica de Mick Jagger y Keith Richards, de «Satisfaction» y «Paint It Black».",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3064",
@@ -6468,7 +8059,10 @@
     "word": "Rave",
     "definition": "Fiesta multitudinaria de música electrónica, típica de los 90, a menudo en naves o al aire libre.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3065",
@@ -6477,7 +8071,10 @@
     "word": "Rollo",
     "definition": "En lenguaje coloquial, asunto o situación pesada o aburrida.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3066",
@@ -6486,7 +8083,10 @@
     "word": "Sagacidad",
     "definition": "Astucia y habilidad para comprender y anticiparse a lo que ocurre.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3067",
@@ -6495,7 +8095,10 @@
     "word": "Salubridad",
     "definition": "Condición de lo que es bueno para la salud.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3068",
@@ -6504,7 +8107,10 @@
     "word": "Sanción",
     "definition": "Pena o castigo que se aplica a quien incumple una norma.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3069",
@@ -6522,7 +8128,10 @@
     "word": "Satisfacción",
     "definition": "Sensación de placer que se experimenta cuando se cumple un deseo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3071",
@@ -6531,7 +8140,10 @@
     "word": "Savia",
     "definition": "Líquido que circula por las plantas y las nutre.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3072",
@@ -6549,7 +8161,10 @@
     "word": "Sentencia",
     "definition": "Resolución que dicta un juez para poner fin a un juicio.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3074",
@@ -6558,7 +8173,10 @@
     "word": "Serenidad",
     "definition": "Calma y tranquilidad del ánimo ante las dificultades.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3075",
@@ -6567,7 +8185,10 @@
     "word": "Sigilo",
     "definition": "Cuidado para no hacer ruido ni ser descubierto.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3076",
@@ -6585,7 +8206,10 @@
     "word": "Sinceridad",
     "definition": "Cualidad de quien dice lo que piensa sin engaño.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3078",
@@ -6594,7 +8218,10 @@
     "word": "Sindicato",
     "definition": "Asociación de trabajadores para defender sus intereses.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3079",
@@ -6603,7 +8230,10 @@
     "word": "Síntesis",
     "definition": "Resumen que reúne y expresa lo esencial de algo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3080",
@@ -6612,7 +8242,10 @@
     "word": "Sistema",
     "definition": "Conjunto de elementos que se relacionan entre sí y funcionan como un todo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3081",
@@ -6621,7 +8254,10 @@
     "word": "Soborno",
     "definition": "Dinero o regalo que se da para conseguir un favor ilegal.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3082",
@@ -6630,7 +8266,10 @@
     "word": "Solidaridad",
     "definition": "Apoyo a la causa o a la necesidad de otros.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3083",
@@ -6648,7 +8287,10 @@
     "word": "Subsidio",
     "definition": "Ayuda económica que se concede a quien la necesita.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3085",
@@ -6657,7 +8299,10 @@
     "word": "Subvención",
     "definition": "Dinero que da el Estado para financiar una actividad.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3086",
@@ -6666,7 +8311,10 @@
     "word": "Sucinto",
     "definition": "Dicho de lo que se expresa de forma breve y con pocas palabras.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3087",
@@ -6675,7 +8323,10 @@
     "word": "Sufragio",
     "definition": "Sistema de votación; también, voto o ayuda que se da a algo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3088",
@@ -6684,7 +8335,10 @@
     "word": "Superávit",
     "definition": "Cantidad en que los ingresos superan a los gastos.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3089",
@@ -6693,7 +8347,10 @@
     "word": "Susceptible",
     "definition": "Que se ofende con facilidad; capaz de recibir una modificación.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3090",
@@ -6702,7 +8359,10 @@
     "word": "Sustento",
     "definition": "Alimento o apoyo necesario para poder vivir y mantenerse.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3091",
@@ -6711,7 +8371,10 @@
     "word": "Sutileza",
     "definition": "Agudeza y delicadeza para percibir o expresar detalles.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3092",
@@ -6720,7 +8383,10 @@
     "word": "Sumisión",
     "definition": "Obediencia total ante la voluntad de otro.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3093",
@@ -6729,7 +8395,10 @@
     "word": "Salario",
     "definition": "Cantidad de dinero que recibe un trabajador por su trabajo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3094",
@@ -6738,7 +8407,11 @@
     "word": "Shakira",
     "definition": "Cantante colombiana de «Whenever, Wherever» y del «Waka Waka» del Mundial de 2010.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "3095",
@@ -6765,7 +8438,10 @@
     "word": "Sálvame",
     "definition": "Programa de crónica rosa de Telecinco presentado durante años por Jorge Javier Vázquez.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3098",
@@ -6783,7 +8459,10 @@
     "word": "South Park",
     "definition": "Serie de animación gamberra de niños de papel recortado en un pueblo de Colorado.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3100",
@@ -6792,7 +8471,11 @@
     "word": "Stranger Things",
     "definition": "Serie de Netflix ambientada en los 80 con Once, Hawkins y el Mundo del Revés.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "3101",
@@ -6801,7 +8484,11 @@
     "word": "Selfie",
     "definition": "Autorretrato hecho con el móvil que se comparte en las redes sociales.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "3102",
@@ -6810,7 +8497,11 @@
     "word": "Snapchat",
     "definition": "Aplicación de mensajes y fotos que desaparecen, con filtros de perrito.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "3103",
@@ -6819,7 +8510,10 @@
     "word": "SMS",
     "definition": "Mensaje de texto breve de 160 caracteres que se enviaba con el móvil.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3104",
@@ -6828,7 +8522,11 @@
     "word": "Star Wars",
     "definition": "Saga espacial de George Lucas con la Fuerza, sables láser y la Estrella de la Muerte.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "3105",
@@ -6837,7 +8535,11 @@
     "word": "Shin Chan",
     "definition": "Niño travieso de cinco años de dibujos japoneses famoso por enseñar el trasero.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "3106",
@@ -6846,7 +8548,10 @@
     "word": "Tabú",
     "definition": "Tema del que no se habla por prejuicios o por respeto.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3107",
@@ -6855,7 +8560,10 @@
     "word": "Tangible",
     "definition": "Que se puede tocar o percibir de forma clara.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3108",
@@ -6864,7 +8572,10 @@
     "word": "Tarifa",
     "definition": "Precio fijado oficialmente para un servicio o un transporte.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3109",
@@ -6873,7 +8584,10 @@
     "word": "Telepatía",
     "definition": "Transmisión de pensamientos entre personas sin usar los sentidos.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3110",
@@ -6882,7 +8596,10 @@
     "word": "Temerario",
     "definition": "Que se arriesga mucho sin pensar en las consecuencias.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3111",
@@ -6900,7 +8617,10 @@
     "word": "Tendencia",
     "definition": "Dirección en la que algo evoluciona; inclinación hacia algo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3113",
@@ -6909,7 +8629,10 @@
     "word": "Teoría",
     "definition": "Conjunto de ideas que explican un fenómeno.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3114",
@@ -6918,7 +8641,10 @@
     "word": "Terapia",
     "definition": "Tratamiento para curar o aliviar una enfermedad.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3115",
@@ -6927,7 +8653,10 @@
     "word": "Testamento",
     "definition": "Documento en el que una persona dispone de sus bienes para después de su muerte.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3116",
@@ -6945,7 +8674,10 @@
     "word": "Topografía",
     "definition": "Arte de describir y representar un terreno.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3118",
@@ -6954,7 +8686,10 @@
     "word": "Tradición",
     "definition": "Costumbre o doctrina que pasa de generación en generación.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3119",
@@ -6963,7 +8698,10 @@
     "word": "Transparencia",
     "definition": "Cualidad de lo que deja ver a su través; claridad en la gestión.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3120",
@@ -6972,7 +8710,10 @@
     "word": "Trascendente",
     "definition": "Que va más allá de lo inmediato y tiene gran importancia.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3121",
@@ -6981,7 +8722,10 @@
     "word": "Tribunal",
     "definition": "Lugar o grupo de jueces que administra justicia.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3122",
@@ -6990,7 +8734,10 @@
     "word": "Tregua",
     "definition": "Pausa pactada en una lucha o en un conflicto armado.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3123",
@@ -6999,7 +8746,10 @@
     "word": "Trivial",
     "definition": "De poca importancia, o tan conocido que ya no llama la atención.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3124",
@@ -7008,7 +8758,10 @@
     "word": "Turbulencia",
     "definition": "Agitación del aire o del agua; también, desorden.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3125",
@@ -7017,7 +8770,10 @@
     "word": "Tutelar",
     "definition": "Proteger o dirigir a alguien que lo necesita.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3126",
@@ -7026,7 +8782,10 @@
     "word": "Tesoro",
     "definition": "Conjunto de cosas de valor guardadas; también, persona muy querida.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3127",
@@ -7044,7 +8803,10 @@
     "word": "Titular",
     "definition": "Persona que ostenta un cargo o derecho; también, encabezamiento de una noticia.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3129",
@@ -7053,7 +8815,10 @@
     "word": "Tópico",
     "definition": "Idea o expresión muy repetida y poco original.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3130",
@@ -7062,7 +8827,10 @@
     "word": "Teletrabajo",
     "definition": "Forma de trabajar desde casa mediante internet.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3131",
@@ -7071,7 +8839,10 @@
     "word": "Trámite",
     "definition": "Cada uno de los pasos que hay que dar para resolver un asunto.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3132",
@@ -7080,7 +8851,10 @@
     "word": "Tecnología",
     "definition": "Conjunto de conocimientos y herramientas para crear soluciones prácticas.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3133",
@@ -7089,7 +8863,10 @@
     "word": "Transacción",
     "definition": "Operación de compra, venta o intercambio.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3134",
@@ -7116,7 +8893,10 @@
     "word": "Tamagotchi",
     "definition": "Mascota virtual de los 90 en un huevo con pantalla que había que alimentar y cuidar.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3137",
@@ -7134,7 +8914,10 @@
     "word": "Tarzán",
     "definition": "Hombre criado por gorilas en la selva de una película de Disney de 1999, con banda sonora de Phil Collins.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3139",
@@ -7152,7 +8935,10 @@
     "word": "The Beatles",
     "definition": "Cuarteto de Liverpool de «Yesterday» y «Hey Jude».",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3141",
@@ -7170,7 +8956,10 @@
     "word": "Twitter",
     "definition": "Red social de mensajes breves de 140 caracteres, hoy llamada X.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3143",
@@ -7179,7 +8968,10 @@
     "word": "Tinder",
     "definition": "Aplicación para ligar en la que se desliza a derecha o izquierda.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3144",
@@ -7188,7 +8980,10 @@
     "word": "Torrente",
     "definition": "Policía casposo y malhablado de las películas de Santiago Segura.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3145",
@@ -7197,7 +8992,10 @@
     "word": "Teletubbies",
     "definition": "Serie infantil de cuatro muñecos de colores con una antena en la cabeza y una pantalla en la barriga.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3146",
@@ -7224,7 +9022,10 @@
     "word": "Unánime",
     "definition": "Aceptado, compartido o votado por todos sin excepción.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3149",
@@ -7233,7 +9034,10 @@
     "word": "Ubicación",
     "definition": "Lugar o sitio en el que está situada o colocada una cosa.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3150",
@@ -7242,7 +9046,10 @@
     "word": "Ultimátum",
     "definition": "Aviso final con amenaza de tomar medidas si no se cumple.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3151",
@@ -7251,7 +9058,10 @@
     "word": "Ultrajar",
     "definition": "Ofender gravemente a alguien con palabras o hechos.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3152",
@@ -7278,7 +9088,10 @@
     "word": "Unificar",
     "definition": "Reunir varias cosas distintas para que formen una sola.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3155",
@@ -7305,7 +9118,10 @@
     "word": "Universidad",
     "definition": "Centro de enseñanza superior donde se estudian carreras y se investiga.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3158",
@@ -7350,7 +9166,10 @@
     "word": "Usurero",
     "definition": "Persona que presta dinero con intereses abusivos.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3163",
@@ -7359,7 +9178,10 @@
     "word": "Usurpar",
     "definition": "Quitar algo a alguien, como un cargo o un derecho, con violencia o engaño.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3164",
@@ -7368,7 +9190,10 @@
     "word": "Utilidad",
     "definition": "Provecho o beneficio que se obtiene de algo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3165",
@@ -7386,7 +9211,10 @@
     "word": "Utilitario",
     "definition": "Dicho de lo que se valora por su servicio práctico.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3167",
@@ -7395,7 +9223,10 @@
     "word": "Útil",
     "definition": "Que sirve para algo o que produce provecho o beneficio.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3168",
@@ -7413,7 +9244,10 @@
     "word": "Urna",
     "definition": "Caja con una ranura en la que se depositan los votos.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3170",
@@ -7422,7 +9256,10 @@
     "word": "Usuario",
     "definition": "Persona que utiliza un servicio o un aparato.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3171",
@@ -7431,7 +9268,10 @@
     "word": "Unidad",
     "definition": "Cualidad de lo que forma un todo; también, cada una de las partes de un conjunto.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3172",
@@ -7449,7 +9289,10 @@
     "word": "Ufano",
     "definition": "Orgulloso y satisfecho de sí mismo, con aire de superioridad.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3174",
@@ -7467,7 +9310,10 @@
     "word": "Usher",
     "definition": "Cantante estadounidense de R&B de «Yeah!» y «Burn».",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3176",
@@ -7476,7 +9322,10 @@
     "word": "Un paso adelante",
     "definition": "Serie de Antena 3 sobre una escuela de baile y música con Miguel Ángel Muñoz.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3177",
@@ -7494,7 +9343,10 @@
     "word": "Ugly Betty",
     "definition": "Serie de ABC sobre una joven con aparato y gafas que trabaja en una revista de moda.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3179",
@@ -7503,7 +9355,10 @@
     "word": "Undertaker",
     "definition": "Luchador de WWE de aspecto siniestro, famoso por sus 21 victorias seguidas en WrestleMania.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3180",
@@ -7512,7 +9367,10 @@
     "word": "Uptown Funk",
     "definition": "Canción de Bruno Mars y Mark Ronson de 2014 que fue un éxito global.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3181",
@@ -7539,7 +9397,11 @@
     "word": "Uber",
     "definition": "Aplicación para pedir un coche con conductor desde el móvil.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "3184",
@@ -7548,7 +9410,10 @@
     "word": "UFC",
     "definition": "Organización de artes marciales mixtas con peleas dentro de una jaula octogonal.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3185",
@@ -7557,7 +9422,10 @@
     "word": "Up",
     "definition": "Película de Pixar de 2009 sobre un anciano que ata globos a su casa y viaja con un niño explorador.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3186",
@@ -7566,7 +9434,10 @@
     "word": "Vacilar",
     "definition": "Dudar o titubear antes de decidir o de hacer algo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3187",
@@ -7575,7 +9446,10 @@
     "word": "Vaivén",
     "definition": "Movimiento alternativo de un lado a otro, como el de un columpio.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3188",
@@ -7584,7 +9458,10 @@
     "word": "Valentía",
     "definition": "Esfuerzo y decisión con que se actúa ante el peligro.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3189",
@@ -7602,7 +9479,10 @@
     "word": "Vanidad",
     "definition": "Orgullo exagerado por las propias cualidades.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3191",
@@ -7620,7 +9500,10 @@
     "word": "Vasallo",
     "definition": "Persona que se sometía a un señor feudal.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3193",
@@ -7629,7 +9512,10 @@
     "word": "Vehemente",
     "definition": "Que expresa con mucha fuerza y pasión lo que siente.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3194",
@@ -7647,7 +9533,10 @@
     "word": "Verosimilitud",
     "definition": "Apariencia de verdad que tiene algo, de modo que parece creíble.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3196",
@@ -7656,7 +9545,10 @@
     "word": "Vertiente",
     "definition": "Cada uno de los lados inclinados de una montaña; también, aspecto de un asunto.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3197",
@@ -7665,7 +9557,10 @@
     "word": "Vestigio",
     "definition": "Resto o señal que queda de algo antiguo o desaparecido.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3198",
@@ -7674,7 +9569,10 @@
     "word": "Veto",
     "definition": "Derecho a impedir que se apruebe una ley o una decisión.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3199",
@@ -7683,7 +9581,10 @@
     "word": "Viabilidad",
     "definition": "Posibilidad de llevar a cabo algo con éxito.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3200",
@@ -7701,7 +9602,10 @@
     "word": "Vigencia",
     "definition": "Condición de lo que sigue en vigor o es válido en el momento actual.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3202",
@@ -7710,7 +9614,10 @@
     "word": "Vigilia",
     "definition": "Estado de quien está despierto cuando debería dormir.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3203",
@@ -7719,7 +9626,10 @@
     "word": "Vínculo",
     "definition": "Unión o relación estrecha entre personas o entre cosas.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3204",
@@ -7728,7 +9638,10 @@
     "word": "Virtud",
     "definition": "Cualidad moral positiva de una persona o de una acción.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3205",
@@ -7737,7 +9650,10 @@
     "word": "Vislumbrar",
     "definition": "Ver de forma poco clara o a lo lejos; intuir algo por indicios.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3206",
@@ -7746,7 +9662,10 @@
     "word": "Vitalicio",
     "definition": "Que dura hasta el final de la vida de una persona.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3207",
@@ -7773,7 +9692,10 @@
     "word": "Voraz",
     "definition": "Que come con muchísimo apetito; también, que destruye con rapidez.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3210",
@@ -7782,7 +9704,10 @@
     "word": "Vulnerable",
     "definition": "Que puede ser herido o dañado con facilidad.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3211",
@@ -7791,7 +9716,10 @@
     "word": "Vertedero",
     "definition": "Lugar donde se acumulan, de forma controlada o no, los residuos.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3212",
@@ -7800,7 +9728,10 @@
     "word": "Vendaval",
     "definition": "Viento muy fuerte, sin llegar a temporal.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3213",
@@ -7809,7 +9740,10 @@
     "word": "Voluminoso",
     "definition": "De mucho tamaño o que ocupa mucho espacio.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3214",
@@ -7818,7 +9752,11 @@
     "word": "Vengadores",
     "definition": "Película de Marvel de 2012 que reúne a Iron Man, Hulk, Thor y Capitán América.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "3215",
@@ -7827,7 +9765,10 @@
     "word": "Vengaboys",
     "definition": "Grupo holandés de eurodance de «Boom, Boom, Boom!!» y «We Like to Party».",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3216",
@@ -7836,7 +9777,10 @@
     "word": "Vin Diesel",
     "definition": "Actor de «Fast & Furious» y voz del árbol Groot en el cine.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3217",
@@ -7854,7 +9798,10 @@
     "word": "V de Vendetta",
     "definition": "Película de 2005 con un justiciero enmascarado que cita el cinco de noviembre.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3219",
@@ -7863,7 +9810,10 @@
     "word": "Vikings",
     "definition": "Serie histórica sobre Ragnar Lothbrok y los guerreros nórdicos.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3220",
@@ -7872,7 +9822,10 @@
     "word": "Valentino Rossi",
     "definition": "Piloto italiano de MotoGP, nueve veces campeón del mundo, con el número 46.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3221",
@@ -7908,7 +9861,10 @@
     "word": "Vicky el Vikingo",
     "definition": "Serie de dibujos de un niño de un pueblo nórdico de cascos con cuernos que salva a su tribu con sus ideas.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3225",
@@ -7917,7 +9873,10 @@
     "word": "Velociraptor",
     "definition": "Dinosaurio rápido y astuto de «Jurassic Park» que caza en manada.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3226",
@@ -7926,7 +9885,10 @@
     "word": "Exagerar",
     "definition": "Dar a algo más importancia o tamaño del que tiene.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3227",
@@ -7935,7 +9897,10 @@
     "word": "Exactitud",
     "definition": "Cualidad de lo que se ajusta con precisión a lo que debe ser.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3228",
@@ -7944,7 +9909,10 @@
     "word": "Excedente",
     "definition": "Parte que sobra o exceso de producción que no se consume.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3229",
@@ -7953,7 +9921,10 @@
     "word": "Exceso",
     "definition": "Cantidad que sobrepasa lo normal o lo necesario.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3230",
@@ -7962,7 +9933,10 @@
     "word": "Exigencia",
     "definition": "Petición firme de algo a lo que se tiene derecho; nivel alto de calidad.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3231",
@@ -7989,7 +9963,10 @@
     "word": "Expansión",
     "definition": "Aumento de tamaño o de extensión de algo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3234",
@@ -7998,7 +9975,10 @@
     "word": "Expediente",
     "definition": "Conjunto de papeles de un asunto o historial de una persona.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3235",
@@ -8007,7 +9987,10 @@
     "word": "Experiencia",
     "definition": "Conocimiento que se adquiere con la práctica o con lo vivido.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3236",
@@ -8016,7 +9999,10 @@
     "word": "Experimento",
     "definition": "Prueba que se hace para comprobar una hipótesis.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3237",
@@ -8025,7 +10011,10 @@
     "word": "Experto",
     "definition": "Persona con gran conocimiento o habilidad en una materia.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3238",
@@ -8034,7 +10023,10 @@
     "word": "Explicación",
     "definition": "Información que se da para que algo se entienda.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3239",
@@ -8043,7 +10035,10 @@
     "word": "Explotación",
     "definition": "Aprovechamiento de recursos o de personas.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3240",
@@ -8052,7 +10047,10 @@
     "word": "Exportar",
     "definition": "Vender y enviar productos propios a otro país.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3241",
@@ -8061,7 +10059,10 @@
     "word": "Expresión",
     "definition": "Manifestación de un pensamiento o de un sentimiento.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3242",
@@ -8070,7 +10071,10 @@
     "word": "Exquisito",
     "definition": "De gran calidad o sabor delicioso, que destaca por su refinamiento.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3243",
@@ -8088,7 +10092,10 @@
     "word": "Exterior",
     "definition": "Que está por la parte de fuera de algo, sin formar parte de su interior.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3245",
@@ -8097,7 +10104,10 @@
     "word": "Extinción",
     "definition": "Desaparición total de una especie o de algo que dejó de existir.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3246",
@@ -8106,7 +10116,10 @@
     "word": "Extorsión",
     "definition": "Presión con amenazas para obtener dinero o un favor.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3247",
@@ -8115,7 +10128,10 @@
     "word": "Extranjero",
     "definition": "Persona que pertenece a un país distinto del que se habla.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3248",
@@ -8124,7 +10140,10 @@
     "word": "Extremo",
     "definition": "Parte final o más alejada de algo, o punto máximo al que se llega.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3249",
@@ -8142,7 +10161,10 @@
     "word": "Sexismo",
     "definition": "Discriminación de una persona por su sexo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3251",
@@ -8151,7 +10173,10 @@
     "word": "Anexo",
     "definition": "Cosa que se une a otra principal y depende de ella, como un documento adjunto.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3252",
@@ -8160,7 +10185,10 @@
     "word": "Maximizar",
     "definition": "Llevar algo a su valor o a su grado máximo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3253",
@@ -8169,7 +10197,10 @@
     "word": "Complexión",
     "definition": "Constitución física de una persona, es decir, su aspecto fuerte o débil.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3254",
@@ -8187,7 +10218,11 @@
     "word": "Xavi",
     "definition": "Centrocampista del Barça que ganó el Mundial de 2010 y dos Eurocopas con la Roja.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "3256",
@@ -8205,7 +10240,10 @@
     "word": "Xena",
     "definition": "Princesa guerrera de una serie de los 90 que combatía con espada y un grito de guerra característico.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3258",
@@ -8214,7 +10252,10 @@
     "word": "Xabi Alonso",
     "definition": "Centrocampista que jugó en Liverpool, Real Madrid y Bayern, campeón del mundo en 2010.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3259",
@@ -8241,7 +10282,10 @@
     "word": "Dexter",
     "definition": "Serie de Showtime sobre un forense de Miami que de noche mata a criminales.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3262",
@@ -8259,7 +10303,10 @@
     "word": "Sexo en Nueva York",
     "definition": "Serie de HBO de cuatro amigas neoyorquinas con tacones y cócteles, protagonizada por Carrie Bradshaw.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3264",
@@ -8268,7 +10315,11 @@
     "word": "Alexa",
     "definition": "Asistente virtual de Amazon que responde a la voz desde un altavoz.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "3265",
@@ -8277,7 +10328,11 @@
     "word": "Xiaomi",
     "definition": "Marca china de móviles de buena relación calidad-precio.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "3266",
@@ -8295,7 +10350,10 @@
     "word": "Yesca",
     "definition": "Materia seca y muy inflamable que arde con facilidad al recibir una chispa.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3268",
@@ -8385,7 +10443,10 @@
     "word": "Yacija",
     "definition": "Cama pobre o lecho improvisado hecho de paja o de ramas.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3278",
@@ -8403,7 +10464,10 @@
     "word": "Yedra",
     "definition": "Planta trepadora de hojas siempre verdes.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3280",
@@ -8412,7 +10476,10 @@
     "word": "Yantar",
     "definition": "Comer, o la comida, en especial la del mediodía, en lenguaje antiguo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3281",
@@ -8430,7 +10497,10 @@
     "word": "Yogurtera",
     "definition": "Aparato eléctrico que sirve para hacer yogur en casa.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3283",
@@ -8448,7 +10518,10 @@
     "word": "Yeísmo",
     "definition": "Pronunciación de la «ll» como la «y», muy extendida en el español.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3285",
@@ -8457,7 +10530,10 @@
     "word": "Yambo",
     "definition": "Pie de la poesía clásica formado por una sílaba breve y otra larga.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3286",
@@ -8466,7 +10542,10 @@
     "word": "Yoduro",
     "definition": "Compuesto químico que contiene yodo combinado con otro elemento.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3287",
@@ -8475,7 +10554,10 @@
     "word": "Yuppie",
     "definition": "Joven profesional urbano y ambicioso de los años 80.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3288",
@@ -8502,7 +10584,10 @@
     "word": "Yerbabuena",
     "definition": "Planta aromática usada en infusiones y cócteles.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3291",
@@ -8511,7 +10596,10 @@
     "word": "Yute",
     "definition": "Fibra vegetal con que se hacen sacos y cuerdas.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3292",
@@ -8520,7 +10608,10 @@
     "word": "Yeguada",
     "definition": "Conjunto de yeguas o de ganado caballar que se cría junto.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3293",
@@ -8547,7 +10638,11 @@
     "word": "YouTube",
     "definition": "Plataforma de vídeos fundada en 2005 y comprada por Google.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "3296",
@@ -8574,7 +10669,10 @@
     "word": "Yellow",
     "definition": "Éxito de Coldplay del año 2000 que dice «mira las estrellas».",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3299",
@@ -8583,7 +10681,10 @@
     "word": "Yeah!",
     "definition": "Éxito de Usher con Lil Jon y Ludacris de 2004.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3300",
@@ -8601,7 +10702,10 @@
     "word": "Yogui",
     "definition": "Oso de dibujos animados que roba cestas de comida en el parque Jellystone.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3302",
@@ -8664,7 +10768,10 @@
     "word": "Zalamería",
     "definition": "Demostración exagerada de cariño para conseguir algo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3309",
@@ -8673,7 +10780,10 @@
     "word": "Zambullirse",
     "definition": "Meterse de golpe en el agua, de cabeza y con ímpetu.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3310",
@@ -8682,7 +10792,10 @@
     "word": "Zancada",
     "definition": "Paso largo que se da al caminar o correr.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3311",
@@ -8691,7 +10804,10 @@
     "word": "Zángano",
     "definition": "Macho de la abeja; también, persona vaga.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3312",
@@ -8718,7 +10834,10 @@
     "word": "Zarandear",
     "definition": "Mover a alguien de un lado a otro con fuerza.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3315",
@@ -8727,7 +10846,10 @@
     "word": "Zarpar",
     "definition": "Salir un barco del puerto para comenzar un viaje.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3316",
@@ -8736,7 +10858,10 @@
     "word": "Zarpazo",
     "definition": "Golpe dado con la garra de un animal salvaje.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3317",
@@ -8790,7 +10915,10 @@
     "word": "Zorro",
     "definition": "Mamífero de cola larga y espesa, astuto y de hocico puntiagudo.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3323",
@@ -8817,7 +10945,10 @@
     "word": "Zurcir",
     "definition": "Coser una rotura o un agujero de una prenda.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3326",
@@ -8835,7 +10966,10 @@
     "word": "Zafarrancho",
     "definition": "Preparativos para un combate; también, gran alboroto.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3328",
@@ -8862,7 +10996,10 @@
     "word": "Zahorí",
     "definition": "Persona que, según se cree, descubre agua o minerales bajo tierra.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3331",
@@ -8880,7 +11017,10 @@
     "word": "Zarcillo",
     "definition": "Pendiente en forma de aro que se lleva en las orejas.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3333",
@@ -8889,7 +11029,10 @@
     "word": "Zurrar",
     "definition": "Dar golpes o una paliza a alguien con fuerza.",
     "profile": "young",
-    "isPop": false
+    "isPop": false,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3334",
@@ -8907,7 +11050,11 @@
     "word": "Zidane",
     "definition": "Centrocampista francés del Real Madrid y de la Selección, famoso por su cabezazo en la final del Mundial de 2006.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "3336",
@@ -8916,7 +11063,10 @@
     "word": "Zoolander",
     "definition": "Película de 2001 sobre un modelo estúpido con una mirada que llama «Magnum».",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3337",
@@ -8925,7 +11075,10 @@
     "word": "Zombi",
     "definition": "Muerto viviente de películas y videojuegos que camina con torpeza y busca cerebros.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3338",
@@ -8934,7 +11087,10 @@
     "word": "Zapping",
     "definition": "Acción de cambiar de canal constantemente con el mando.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3339",
@@ -8943,7 +11099,11 @@
     "word": "Zara",
     "definition": "Marca de ropa gallega del grupo Inditex presente en todo el mundo.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "3340",
@@ -8952,7 +11112,10 @@
     "word": "Zumba",
     "definition": "Baile fitness con música latina que se puso de moda en los gimnasios.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3341",
@@ -8961,7 +11124,10 @@
     "word": "Zasca",
     "definition": "En lenguaje coloquial, respuesta rápida y contundente que deja sin palabras al contrario.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "3342",
@@ -8979,7 +11145,11 @@
     "word": "Zoom",
     "definition": "Plataforma de videollamadas muy usada durante la pandemia.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "3344",
@@ -8997,6 +11167,9 @@
     "word": "Zlatan",
     "definition": "Delantero sueco de gran carácter, campeón con el Barça, el Inter y el Milan.",
     "profile": "young",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   }
 ]

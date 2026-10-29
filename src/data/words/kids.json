@@ -186,7 +186,11 @@
     "word": "Creeper",
     "definition": "Monstruo verde silencioso de Minecraft que se acerca y explota.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "119",
@@ -276,7 +280,12 @@
     "word": "Elsa",
     "definition": "Reina de Arendelle con poderes de hielo y nieve en la película Frozen.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "129",
@@ -708,7 +717,11 @@
     "word": "Lego",
     "definition": "Piezas de plástico de colores con pequeños tubos para encajar y hacer castillos.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "177",
@@ -771,7 +784,11 @@
     "word": "Mario",
     "definition": "Fontanero con bigote, mono azul y gorra roja del famoso videojuego de Nintendo.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "184",
@@ -798,7 +815,12 @@
     "word": "Minecraft",
     "definition": "Famoso juego de aventura y construcción con gráficos hechos de píxeles y cubos.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "187",
@@ -1068,7 +1090,12 @@
     "word": "Pikachu",
     "definition": "El compañero Pokémon amarillo con cola en forma de rayo.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "217",
@@ -1275,7 +1302,12 @@
     "word": "Sonic",
     "definition": "Erizo azul de videojuegos que corre a gran velocidad recogiendo anillos.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "240",
@@ -1680,7 +1712,11 @@
     "word": "Angry Birds",
     "definition": "Pájaros enfadados que se lanzan con un tirachinas contra los cerdos verdes.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "759",
@@ -1698,7 +1734,12 @@
     "word": "Bob Esponja",
     "definition": "Personaje amarillo y cuadrado que vive en una piña bajo el mar y trabaja friendo hamburguesas en el Crustáceo Crujiente.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "761",
@@ -1707,7 +1748,11 @@
     "word": "Charmander",
     "definition": "Pokémon de fuego con una llama encendida en la punta de la cola.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "762",
@@ -1716,7 +1761,12 @@
     "word": "Cars",
     "definition": "Película de coches parlantes protagonizada por Rayo McQueen.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "763",
@@ -1725,7 +1775,11 @@
     "word": "Doraemon",
     "definition": "Gato robot azul del futuro con un bolsillo mágico lleno de inventos.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "764",
@@ -1734,7 +1788,12 @@
     "word": "Disney",
     "definition": "Estudio de dibujos animados creador de Mickey Mouse y de Frozen.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "765",
@@ -1743,7 +1802,11 @@
     "word": "Enderman",
     "definition": "Criatura negra, alta y delgada de Minecraft que se teletransporta y no soporta que la miren.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "766",
@@ -1752,7 +1815,12 @@
     "word": "Frozen",
     "definition": "Película de Disney en la que Elsa congela el reino y su hermana Anna va a buscarla.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "767",
@@ -1761,7 +1829,12 @@
     "word": "Gru",
     "definition": "Villano de Mi Villano Favorito rodeado de pequeños ayudantes amarillos.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "768",
@@ -1770,7 +1843,11 @@
     "word": "Hello Kitty",
     "definition": "Gatita blanca con un lazo rojo en la oreja creada en Japón.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "young"
+    ]
   },
   {
     "id": "769",
@@ -1779,7 +1856,11 @@
     "word": "Harry Potter",
     "definition": "Joven mago con una cicatriz en forma de rayo que estudia en Hogwarts.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "770",
@@ -1788,7 +1869,12 @@
     "word": "Iron Man",
     "definition": "Superhéroe con armadura roja y dorada que en realidad es Tony Stark.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "771",
@@ -1797,7 +1883,12 @@
     "word": "Jenga",
     "definition": "Juego de torre de bloques de madera de la que se retiran piezas sin que se caiga.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "772",
@@ -1806,7 +1897,12 @@
     "word": "Luigi",
     "definition": "Hermano alto de Mario que viste de verde.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "773",
@@ -1815,7 +1911,12 @@
     "word": "Mickey",
     "definition": "Ratón de dibujos animados con orejas redondas y pantalón rojo, mascota de Disney.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "774",
@@ -1824,7 +1925,12 @@
     "word": "Messi",
     "definition": "Futbolista argentino zurdo famoso por sus regates y sus balones de oro.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "775",
@@ -1851,7 +1957,11 @@
     "word": "Olaf",
     "definition": "Muñeco de nieve simpático de Frozen que sueña con vivir un verano.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "778",
@@ -1878,7 +1988,11 @@
     "word": "Pokémon",
     "definition": "Criaturas que se capturan con Poké Balls y se hacen luchar entre sí.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "781",
@@ -1887,7 +2001,11 @@
     "word": "Quidditch",
     "definition": "Deporte de Harry Potter que se juega volando sobre escobas con una snitch dorada.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "782",
@@ -1896,7 +2014,12 @@
     "word": "Rayo McQueen",
     "definition": "Coche de carreras rojo protagonista de la película Cars.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "783",
@@ -1905,7 +2028,11 @@
     "word": "Shrek",
     "definition": "Ogro verde que vive en un pantano y tiene un burro parlanchín por amigo.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "784",
@@ -1914,7 +2041,12 @@
     "word": "Spiderman",
     "definition": "Superhéroe con traje rojo y azul que lanza telarañas y trepa por los edificios.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "785",
@@ -1923,7 +2055,12 @@
     "word": "Stitch",
     "definition": "Extraterrestre azul travieso de Disney que se hace amigo de la niña Lilo.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "786",
@@ -1932,7 +2069,12 @@
     "word": "Toy Story",
     "definition": "Película en la que Woody y Buzz Lightyear son juguetes que cobran vida.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "787",
@@ -1941,7 +2083,12 @@
     "word": "Tortugas Ninja",
     "definition": "Cuatro hermanos mutantes con antifaz de colores, llamados como artistas del Renacimiento, que comen pizza y viven en las alcantarillas.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "788",
@@ -1959,7 +2106,10 @@
     "word": "Vaiana",
     "definition": "Princesa polinesia valiente que cruza el océano con el semidiós Maui.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "790",
@@ -1968,7 +2118,11 @@
     "word": "Pixar",
     "definition": "Estudio de animación creador de Toy Story, Buscando a Nemo y Cars.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "791",
@@ -1977,7 +2131,11 @@
     "word": "Yoshi",
     "definition": "Dinosaurio verde amigo de Mario que atrapa enemigos con su larga lengua.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "792",
@@ -1995,7 +2153,10 @@
     "word": "Zootrópolis",
     "definition": "Película de Disney con la coneja policía Judy Hopps y el zorro Nick Wilde.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "794",
@@ -2022,7 +2183,11 @@
     "word": "Batman",
     "definition": "Superhéroe de Gotham que viste de negro con capa de murciélago y conduce el Batmóvil.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "797",
@@ -2067,7 +2232,11 @@
     "word": "Charizard",
     "definition": "Famoso Pokémon con alas de dragón y cola de fuego que es la evolución de Charmeleon.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "802",
@@ -2112,7 +2281,11 @@
     "word": "Eevee",
     "definition": "Pokémon cuadrúpedo con pelaje marrón capaz de evolucionar en múltiples tipos diferentes.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "807",
@@ -2265,7 +2438,12 @@
     "word": "Mario Kart",
     "definition": "Divertido videojuego de carreras de Nintendo con caparazones, plátanos y karts.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "824",
@@ -2454,7 +2632,10 @@
     "word": "Aldeano",
     "definition": "Personaje pacífico de Minecraft con nariz grande que vive en poblados y hace intercambios comerciales.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "864",
@@ -2463,7 +2644,11 @@
     "word": "Ash Ketchum",
     "definition": "Entrenador de Pueblo Paleta protagonista del anime Pokémon cuyo sueño era ser maestro Pokémon.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "865",
@@ -2472,7 +2657,10 @@
     "word": "Alex",
     "definition": "Personaje femenino jugable por defecto en Minecraft que viste camisa verde y pelo naranja.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "866",
@@ -2481,7 +2669,11 @@
     "word": "Alakazam",
     "definition": "Pokémon de tipo psíquico que sostiene dos cucharas plateadas y posee una gran inteligencia.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "867",
@@ -2490,7 +2682,11 @@
     "word": "Animal Crossing",
     "definition": "Videojuego relajante de Nintendo donde te mudas a una isla desierta habitada por animales simpáticos.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "868",
@@ -2499,7 +2695,12 @@
     "word": "Ariel",
     "definition": "Sirena pelirroja de Disney que sueña con caminar sobre dos piernas y vivir fuera del mar.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "869",
@@ -2508,7 +2709,11 @@
     "word": "Arbok",
     "definition": "Pokémon venenoso con aspecto de gran cobra que intimida con los dibujos de su pecho.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "870",
@@ -2517,7 +2722,10 @@
     "word": "Allay",
     "definition": "Criatura azul y voladora de Minecraft que vuela alegremente buscando objetos para el jugador.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "872",
@@ -2526,7 +2734,10 @@
     "word": "Axolotl",
     "definition": "Criatura anfibia tierna de Minecraft que nada en cuevas frondosas y ayuda a combatir guardianes.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "873",
@@ -2625,7 +2836,12 @@
     "word": "Bowser",
     "definition": "El archienemigo reptil con caparazón de pinchos de Mario que rapta a la princesa Peach.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "884",
@@ -2634,7 +2850,11 @@
     "word": "Bulbasaur",
     "definition": "Pokémon inicial de tipo planta con cuatro patas y una semilla bulbosa en el lomo.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "885",
@@ -2652,7 +2872,11 @@
     "word": "Buzz Lightyear",
     "definition": "Juguete de guardián espacial en Toy Story que vuela gritando «¡Hasta el infinito y más allá!».",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "887",
@@ -2661,7 +2885,10 @@
     "word": "Blaze",
     "definition": "Monstruo flotante de Minecraft que vive en fortalezas del Nether y dispara bolas de fuego ardientes.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "888",
@@ -2670,7 +2897,10 @@
     "word": "Baymax",
     "definition": "Robot blanco inflable y achuchable programado para cuidar de la salud en Big Hero 6.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "889",
@@ -2679,7 +2909,10 @@
     "word": "Bakugan",
     "definition": "Bolas de juguete de plástico que se abren mágicamente revelando guerreros monstruosos.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "young"
+    ]
   },
   {
     "id": "890",
@@ -2688,7 +2921,11 @@
     "word": "Blastoise",
     "definition": "Gran tortuga de combate Pokémon con dos cañones de agua metálicos que sobresalen de su caparazón.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "891",
@@ -2697,7 +2934,11 @@
     "word": "Beyblade",
     "definition": "Peonzas modernas que se lanzan con tirador a un estadio para chocar entre sí hasta que una pare.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "892",
@@ -2796,7 +3037,11 @@
     "word": "Cuphead",
     "definition": "Videojuego retro de plataformas y jefes protagonizado por dos hermanos con tazas por cabeza.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "903",
@@ -2805,7 +3050,11 @@
     "word": "Crash Bandicoot",
     "definition": "Marsupial naranja de videojuegos de plataformas que gira sobre sí mismo y rompe cajas de madera.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "904",
@@ -2814,7 +3063,12 @@
     "word": "Cenicienta",
     "definition": "Princesa de cuento que acude al baile real y pierde un zapato de cristal a medianoche.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "905",
@@ -2823,7 +3077,12 @@
     "word": "Capitán América",
     "definition": "Superhéroe de Marvel que viste con barras y estrellas y pelea empuñando un escudo indestructible.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "906",
@@ -2832,7 +3091,10 @@
     "word": "Cinderace",
     "definition": "Pokémon conejo de tipo fuego que chuta piedras ardientes como si fueran balones de fútbol.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "907",
@@ -2841,7 +3103,10 @@
     "word": "Clash Royale",
     "definition": "Juego multijugador online de cartas coleccionables donde derribas las torres del rival en tres minutos.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "908",
@@ -2850,7 +3115,10 @@
     "word": "Coco",
     "definition": "Película de animación de Pixar ambientada en México y el tradicional Día de Muertos.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "909",
@@ -2958,7 +3226,12 @@
     "word": "Donald",
     "definition": "El pato cascarrabias y patoso de Disney que viste chaqueta azul de marinero y pajarita roja.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "921",
@@ -2967,7 +3240,12 @@
     "word": "Donkey Kong",
     "definition": "Gran gorila con corbata roja protagonista de videojuegos de Nintendo que adora comer plátanos.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "922",
@@ -2976,7 +3254,12 @@
     "word": "Dumbo",
     "definition": "Elefantito de circo de orejas descomunales que aprende a volar batiéndolas por los aires.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "923",
@@ -2985,7 +3268,10 @@
     "word": "Digimon",
     "definition": "Monstruos digitales que habitan en la red virtual y evolucionan para combatir villanos.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "924",
@@ -2994,7 +3280,10 @@
     "word": "Dedenne",
     "definition": "Pequeño Pokémon roedor de tipo eléctrico y hada con antenas en forma de bigotes redondos.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "925",
@@ -3003,7 +3292,12 @@
     "word": "Dory",
     "definition": "Pez cirujano azul muy despistado y alegre con pérdida de memoria a corto plazo en Buscando a Nemo.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "926",
@@ -3012,7 +3306,12 @@
     "word": "Dragon Ball",
     "definition": "Legendario anime de aventuras y artes marciales donde buscan siete esferas doradas con estrellas.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "927",
@@ -3021,7 +3320,10 @@
     "word": "Diamante",
     "definition": "El mineral más valioso de Minecraft con el que se forjan armaduras celestes muy resistentes.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "928",
@@ -3030,7 +3332,12 @@
     "word": "Daisy",
     "definition": "Pata elegante amiga de Minnie Mouse que lleva lazo rosa en la cabeza y zapatos de tacón.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "929",
@@ -3111,7 +3418,10 @@
     "word": "Ender Dragon",
     "definition": "Temible jefe final negro de ojos morados que vuela sobre torres de obsidiana en el último mundo de Minecraft.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "938",
@@ -3120,7 +3430,10 @@
     "word": "Encanto",
     "definition": "Película musical animada de Disney sobre la mágica familia Madrigal en las montañas de Colombia.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "939",
@@ -3138,7 +3451,10 @@
     "word": "Élite 4",
     "definition": "Grupo de los cuatro entrenadores Pokémon más poderosos que debes derrotar antes del Campeón.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "941",
@@ -3147,7 +3463,11 @@
     "word": "Eggman",
     "definition": "Científico orondo villano principal de Sonic the Hedgehog que construye robots para atrapar animales.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "942",
@@ -3246,7 +3566,10 @@
     "word": "Freddy",
     "definition": "Oso animatrónico de pizzería, mascota inquietante de una saga de videojuegos de terror que transcurre durante cinco noches.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "953",
@@ -3255,7 +3578,10 @@
     "word": "Froakie",
     "definition": "Pokémon inicial de tipo agua con aspecto de pequeña rana de espuma azul de la región de Kalos.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "954",
@@ -3264,7 +3590,10 @@
     "word": "Flygon",
     "definition": "Dragón del desierto Pokémon con grandes ojos protectores verdes como gafas de aviador.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "955",
@@ -3273,7 +3602,10 @@
     "word": "Furia Nocturna",
     "definition": "La temida y veloz especie de dragón negro a la que pertenece Desdentao en Cómo entrenar a tu dragón.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "956",
@@ -3282,7 +3614,11 @@
     "word": "Furby",
     "definition": "Juguete robotizado peludo con grandes ojos que aprende a hablar y reacciona al tacto.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "957",
@@ -3291,7 +3627,10 @@
     "word": "Fall Guys",
     "definition": "Caótico videojuego multijugador de carreras de obstáculos con personajes en forma de alubias torpes.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "958",
@@ -3300,7 +3639,11 @@
     "word": "Fiona",
     "definition": "Valiente princesa ogra del pantano que se casa con Shrek rompiendo su hechizo original.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "959",
@@ -3309,7 +3652,11 @@
     "word": "Flounder",
     "definition": "Pequeño pez amarillo con rayas azules y muy miedoso que es el mejor amigo de la Sirenita.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "960",
@@ -3318,7 +3665,11 @@
     "word": "Flareon",
     "definition": "Evolución cuadrúpeda de tipo fuego de Eevee cubierta por un collarín de pelo muy suave y caliente.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "961",
@@ -3417,7 +3768,11 @@
     "word": "Gengar",
     "definition": "Travieso y rechoncho Pokémon de tipo fantasma que acecha ocultándose en las sombras nocturnas.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "972",
@@ -3426,7 +3781,10 @@
     "word": "Golem de Hierro",
     "definition": "Gigante protector de Minecraft hecho con bloques metálicos y una calabaza tallada en la cabeza.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "973",
@@ -3435,7 +3793,12 @@
     "word": "Garfield",
     "definition": "Perezoso y glotón gato atigrado de cómic que odia los lunes y adora devorar lasaña.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "974",
@@ -3444,7 +3807,10 @@
     "word": "Grogu",
     "definition": "Pequeño y adorable personaje verdoso sensible a la Fuerza conocido popularmente como Baby Yoda.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "975",
@@ -3453,7 +3819,10 @@
     "word": "Gumball",
     "definition": "Gato azul de dibujos animados que vive con su familia y su hermano adoptivo, el pez Darwin.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "976",
@@ -3462,7 +3831,10 @@
     "word": "Greninja",
     "definition": "Ninja anfibio Pokémon que lanza estrellas de agua afiladas y viste su lengua como una bufanda.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "977",
@@ -3480,7 +3852,11 @@
     "word": "Gyarados",
     "definition": "Gigantesco y furioso dragón marino Pokémon que evoluciona del débil pez Magikarp.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "979",
@@ -3489,7 +3865,11 @@
     "word": "Geodude",
     "definition": "Pokémon roca con aspecto de canto rodado que se sostiene y golpea con dos brazos musculosos.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "980",
@@ -3498,7 +3878,11 @@
     "word": "Groot",
     "definition": "Criatura con aspecto de árbol viviente de Guardianes de la Galaxia que solo dice siempre la misma frase de tres palabras.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "981",
@@ -3597,7 +3981,11 @@
     "word": "Haunter",
     "definition": "Pokémon espectral gaseoso de color púrpura que flota y tiene manos separadas de su cuerpo.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "992",
@@ -3606,7 +3994,11 @@
     "word": "Hawkeye",
     "definition": "Vengador experto de Marvel apodado Ojo de Halcón por su precisión infalible con el arco y la flecha.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "993",
@@ -3615,7 +4007,10 @@
     "word": "Hércules",
     "definition": "Semidiós griego forzudo protagonista de una película animada de Disney con su caballo Pegaso.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "994",
@@ -3624,7 +4019,11 @@
     "word": "Hot Wheels",
     "definition": "Famosa marca de coches de juguete en miniatura metálicos que corren por pistas naranjas con loopings.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "995",
@@ -3633,7 +4032,10 @@
     "word": "He-Man",
     "definition": "Clásico héroe de dibujos musculoso que alzaba su espada al grito de «¡Por el poder de Grayskull!».",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "996",
@@ -3642,7 +4044,11 @@
     "word": "Hitmonlee",
     "definition": "Pokémon luchador bípedo especialista en asestar veloces y potentes patadas con sus piernas extensibles.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "997",
@@ -3651,7 +4057,12 @@
     "word": "Hogwarts",
     "definition": "Colegio mágico de magia y hechicería dividido en cuatro casas: Gryffindor, Slytherin, Ravenclaw y Hufflepuff.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "998",
@@ -3660,7 +4071,10 @@
     "word": "Herobrine",
     "definition": "Famoso personaje de leyenda urbana y mito espeluznante creado por los jugadores de Minecraft.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "999",
@@ -3750,7 +4164,10 @@
     "word": "Incredibles",
     "definition": "Familia animada de superhéroes de Pixar donde cada miembro posee un superpoder único.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1009",
@@ -3759,7 +4176,11 @@
     "word": "Ivysaur",
     "definition": "Segunda fase evolutiva de Bulbasaur en cuyo lomo brota un gran capullo rosado a punto de abrirse.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1010",
@@ -3768,7 +4189,10 @@
     "word": "Infernape",
     "definition": "Ágil Pokémon de tipo fuego y lucha basado en un mono con una corona de llamas en la cabeza.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1011",
@@ -3777,7 +4201,10 @@
     "word": "Inventario",
     "definition": "Menú en pantalla de los videojuegos donde se revisan y seleccionan los objetos y armas que llevas.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1012",
@@ -3786,7 +4213,10 @@
     "word": "Ice Climber",
     "definition": "Clásico juego arcade de Nintendo sobre dos esquimales con martillo que suben montañas heladas.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1013",
@@ -3795,7 +4225,10 @@
     "word": "Inkay",
     "definition": "Pequeño Pokémon calamar que flota en el aire y emite destellos con sus manchas luminosas.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1014",
@@ -3804,7 +4237,10 @@
     "word": "Illager",
     "definition": "Nombre que reciben los aldeanos malvados y hostiles que habitan en mansiones oscuras de Minecraft.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1015",
@@ -3813,7 +4249,11 @@
     "word": "Inuyasha",
     "definition": "Anime de aventuras sobre un joven mitad humano y mitad demonio canino con una espada colosal.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1016",
@@ -3822,7 +4262,10 @@
     "word": "Iridio",
     "definition": "Metal raro y futurista que aparece como material de crafteo valioso en simuladores espaciales.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1017",
@@ -3894,7 +4337,11 @@
     "word": "Jigglypuff",
     "definition": "Pokémon redondo, esponjoso y rosado que canta una dulce melodía que hace dormir a quien lo escucha.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1025",
@@ -3903,7 +4350,11 @@
     "word": "Jessie",
     "definition": "Miembro del cómico dúo de villanos del Team Rocket que siempre viaja con James y Meowth.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1026",
@@ -3912,7 +4363,10 @@
     "word": "Jack Sparrow",
     "definition": "Excéntrico pirata protagonista de Piratas del Caribe que comanda el barco la Perla Negra.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1027",
@@ -3921,7 +4375,11 @@
     "word": "Jolteon",
     "definition": "Evolución eléctrica cuadrúpeda de Eevee de pelaje amarillo erizado cargado de miles de voltios.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1028",
@@ -3930,7 +4388,10 @@
     "word": "Judy Hopps",
     "definition": "Valiente y decidida conejita policía protagonista de la película de animación Zootrópolis.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1029",
@@ -3939,7 +4400,12 @@
     "word": "Jafar",
     "definition": "Malvado visir real y hechicero de Agrabah que desea la lámpara mágica en la película Aladdin.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1030",
@@ -3948,7 +4414,11 @@
     "word": "Joystick",
     "definition": "Palanca de mando basculante utilizada en recreativas y consolas para mover a los personajes.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1031",
@@ -3957,7 +4427,10 @@
     "word": "Jynx",
     "definition": "Pokémon humanoide con vestido rojo que se balancea de lado a lado bailando rítmicamente.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1032",
@@ -3966,7 +4439,12 @@
     "word": "Jiminy Cricket",
     "definition": "El sabio Pepito Grillo que actúa como voz de la conciencia moral de Pinocho en el clásico de Disney.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1033",
@@ -4029,7 +4507,11 @@
     "word": "Link",
     "definition": "Valiente guerrero con túnica y espada maestra protagonista de la saga The Legend of Zelda.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1040",
@@ -4038,7 +4520,10 @@
     "word": "Lucario",
     "definition": "Pokémon bípedo de tipo lucha y acero con antifaz negro capaz de percibir el aura de sus rivales.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1041",
@@ -4047,7 +4532,11 @@
     "word": "Lightning McQueen",
     "definition": "Bólido rojo de carreras número noventa y cinco que compite por la Copa Pistón en la saga Cars.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1042",
@@ -4056,7 +4545,10 @@
     "word": "Litten",
     "definition": "Pequeño Pokémon felino de pelaje negro y rojo que ataca escupiendo bolas de fuego.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1043",
@@ -4065,7 +4557,11 @@
     "word": "Lapras",
     "definition": "Majestuoso Pokémon marino de cuello largo con caparazón sobre el que los entrenadores navegan.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1044",
@@ -4074,7 +4570,10 @@
     "word": "Luma",
     "definition": "Pequeña y brillante criatura con forma de estrella que acompaña a la princesa Rosalina en Mario Galaxy.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1045",
@@ -4083,7 +4582,11 @@
     "word": "Lilo",
     "definition": "Niña hawaiana huérfana y de buen corazón que adopta a un revoltoso extraterrestre azul llamado Stitch.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1046",
@@ -4092,7 +4595,10 @@
     "word": "Latios",
     "definition": "Legendario Pokémon volador de aspecto aerodinámico semejante a un reactor de color azul.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1047",
@@ -4101,7 +4607,11 @@
     "word": "Luigi's Mansion",
     "definition": "Videojuego de Nintendo en el que el hermano de Mario caza fantasmas con una aspiradora en una casa embrujada.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1048",
@@ -4200,7 +4710,11 @@
     "word": "Mewtwo",
     "definition": "Pokémon legendario artificial creado por científicos en un laboratorio con descomunal poder psíquico.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1059",
@@ -4209,7 +4723,12 @@
     "word": "Mickey Mouse",
     "definition": "El ratón de pantalones rojos y guantes blancos que es el icono histórico de la compañía Disney.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1060",
@@ -4218,7 +4737,12 @@
     "word": "Minions",
     "definition": "Pequeños seres amarillos con gafas redondas y peto vaquero que sirven a Gru en Mi villano favorito.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1061",
@@ -4227,7 +4751,11 @@
     "word": "Moana",
     "definition": "Joven navegante polinesia elegida por el océano para devolver el corazón de Te Fiti en Vaiana.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1062",
@@ -4236,7 +4764,11 @@
     "word": "Meowth",
     "definition": "Pokémon felino que camina sobre dos patas con una moneda dorada en la frente y habla en el anime.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1063",
@@ -4245,7 +4777,10 @@
     "word": "Metagross",
     "definition": "Pokémon robótico de cuatro patas metálicas pesadas y gran masa de tipo acero y psíquico.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1064",
@@ -4254,7 +4789,12 @@
     "word": "Mulan",
     "definition": "Joven heroína china de Disney que se disfraza de soldado para reemplazar a su padre anciano en la guerra.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1065",
@@ -4263,7 +4803,11 @@
     "word": "Master Ball",
     "definition": "La bola definitiva de color morado que captura a cualquier criatura salvaje sin fallar jamás.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1066",
@@ -4362,7 +4906,11 @@
     "word": "Nether",
     "definition": "Dimensión subterránea e infernal de Minecraft repleta de ríos de lava roja y cuarzo.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1077",
@@ -4371,7 +4919,11 @@
     "word": "Nemo",
     "definition": "Pequeño pez payaso con una aleta más corta que se pierde y es rescatado en el arrecife.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "1078",
@@ -4380,7 +4932,10 @@
     "word": "Nidoran",
     "definition": "Pequeño Pokémon cuadrúpedo con grandes orejas y púas venenosas de tono azul o rosa.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1079",
@@ -4389,7 +4944,10 @@
     "word": "Ninjago",
     "definition": "Línea de juguetes Lego y serie de acción sobre un grupo de ninjas que dominan los elementos.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1080",
@@ -4398,7 +4956,10 @@
     "word": "Netherita",
     "definition": "El material de artesanía más resistente y raro de Minecraft que no se quema en la lava.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1081",
@@ -4407,7 +4968,10 @@
     "word": "Noivern",
     "definition": "Pokémon alado de tipo dragón y volador con aspecto de murciélago que emite ondas sónicas destructivas.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1082",
@@ -4416,7 +4980,12 @@
     "word": "Nala",
     "definition": "Leona amiga de la infancia y futura compañera del rey Simba en El Rey León de Disney.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1083",
@@ -4425,7 +4994,11 @@
     "word": "Nobita",
     "definition": "Niño despistado que recibe la ayuda de Doraemon y sus inventos para aprobar los exámenes de clase.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1084",
@@ -4434,7 +5007,10 @@
     "word": "Nerf",
     "definition": "Marca de pistolas y lanzadores de juguete que disparan dardos seguros de espuma suave.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1085",
@@ -4524,7 +5100,10 @@
     "word": "Champaña",
     "definition": "En mundos de fantasía, poción burbujeante festiva que celebra la victoria en un torneo.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1095",
@@ -4533,7 +5112,10 @@
     "word": "Señor del Fuego",
     "definition": "Título del gobernante tirano de la nación enemiga en la serie animada Avatar: la leyenda de Aang.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1096",
@@ -4542,7 +5124,10 @@
     "word": "Ñoqui",
     "definition": "Tipo de pasta pequeña de patata que sirve el chef italiano en películas de cocina animada.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1097",
@@ -4560,7 +5145,10 @@
     "word": "Cañón",
     "definition": "Bloque funcional o arma fantástica en juegos de asedio que dispara proyectiles de dinamita.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1099",
@@ -4569,7 +5157,10 @@
     "word": "Muñeca",
     "definition": "Juguete articulado con forma humana al que se le cambia de vestido y peinado.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1100",
@@ -4578,7 +5169,10 @@
     "word": "Señuelo",
     "definition": "Objeto que sirve de engaño para despistar a los monstruos guardianes en los juegos de supervivencia.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1101",
@@ -4659,7 +5253,11 @@
     "word": "Onix",
     "definition": "Gigantesca serpiente de roca Pokémon compuesta por grandes piedras unidas que excava túneles.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1110",
@@ -4668,7 +5266,12 @@
     "word": "Optimus Prime",
     "definition": "Noble líder de los Autobots que se transforma en camión en la saga de Transformers.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1111",
@@ -4677,7 +5280,10 @@
     "word": "Oshawott",
     "definition": "Pokémon nutria marina de tipo agua que lleva una concha dura en el vientre para defenderse.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1112",
@@ -4686,7 +5292,10 @@
     "word": "Obsidiana",
     "definition": "Bloque morado oscuro muy resistente de Minecraft que se forma al juntar agua con lava quieta.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1113",
@@ -4695,7 +5304,10 @@
     "word": "Overworld",
     "definition": "Nombre que recibe el mundo de la superficie normal en los mapas de Minecraft.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1114",
@@ -4704,7 +5316,11 @@
     "word": "Oddish",
     "definition": "Pequeño Pokémon planta con cuerpo azul redondo y hojas verdes en la cabeza que camina de noche.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1115",
@@ -4713,7 +5329,10 @@
     "word": "Ocelote",
     "definition": "Felino escurridizo de la jungla de Minecraft que los jugadores pueden domesticar dándole pescado.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1116",
@@ -4722,7 +5341,10 @@
     "word": "Oogway",
     "definition": "Sabia y anciana tortuga maestra de kung fu que elige al Guerrero del Dragón en Kung Fu Panda.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1117",
@@ -4731,7 +5353,10 @@
     "word": "Ojo de Ender",
     "definition": "Objeto místico arrojadizo de Minecraft que flota hacia el portal que conduce al dragón final.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1118",
@@ -4785,7 +5410,12 @@
     "word": "Peach",
     "definition": "Princesa del Reino Champiñón que viste vestido rosa y suele ser rescatada por Mario.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1124",
@@ -4794,7 +5424,11 @@
     "word": "Pokedex",
     "definition": "Dispositivo electrónico de bolsillo que registra los datos y hábitat de todas las especies Pokémon.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1125",
@@ -4803,7 +5437,10 @@
     "word": "Piglin",
     "definition": "Criatura con aspecto de cerdo guerrero que habita en el Nether y adora el oro en Minecraft.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1126",
@@ -4812,7 +5449,12 @@
     "word": "Pato Donald",
     "definition": "Ave de Disney vestida de marinero, famosa por enfadarse a todas horas y hablar con voz graznante.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1127",
@@ -4821,7 +5463,12 @@
     "word": "Pocahontas",
     "definition": "Joven nativa americana de Disney que ama la naturaleza y canta «Colores en el viento».",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1128",
@@ -4830,7 +5477,12 @@
     "word": "Pinocho",
     "definition": "Títere de madera al que le crece la nariz cada vez que dice una mentira.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1129",
@@ -4839,7 +5491,11 @@
     "word": "Psyduck",
     "definition": "Pokémon pato amarillo que padece continuos dolores de cabeza que desatan poderes psíquicos.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1130",
@@ -4848,7 +5504,12 @@
     "word": "Peter Pan",
     "definition": "Niño que no quería crecer y volaba en el País de Nunca Jamás junto a Campanilla.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1131",
@@ -4857,7 +5518,11 @@
     "word": "Pidgey",
     "definition": "Común Pokémon pajarillo de plumaje marrón que bate sus alas para levantar remolinos de arena.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1132",
@@ -4938,7 +5603,11 @@
     "word": "Quilava",
     "definition": "Evolución de Cyndaquil de tipo fuego que lanza llamaradas desde su cabeza y lomo en combate.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1141",
@@ -4947,7 +5616,10 @@
     "word": "Quaxly",
     "definition": "Pokémon inicial patito de tipo agua de la región de Paldea con un elegante flequillo azul.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1142",
@@ -4965,7 +5637,10 @@
     "word": "Qwilfish",
     "definition": "Pokémon pez globo cubierto de espinas afiladas que se infla tragando litros de agua.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1144",
@@ -4974,7 +5649,10 @@
     "word": "Quick Time Event",
     "definition": "Mecánica interactiva de videojuegos donde hay que pulsar rápidamente el botón indicado.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1145",
@@ -4983,7 +5661,10 @@
     "word": "Quagsire",
     "definition": "Pokémon de agua y tierra de aspecto bonachón y sonrisa despreocupada que nada en fondos lodosos.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1146",
@@ -4992,7 +5673,10 @@
     "word": "Quests",
     "definition": "Misiones secundarias y recados que te asignan los personajes no jugadores en videojuegos.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1147",
@@ -5001,7 +5685,11 @@
     "word": "Quicksilver",
     "definition": "Superhéroe mutante de Marvel capaz de correr a velocidades superiores a la del sonido.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1148",
@@ -5010,7 +5698,11 @@
     "word": "Quirrel",
     "definition": "Tímido profesor de Hogwarts que ocultaba el rostro de Voldemort bajo su turbante morado.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1149",
@@ -5091,7 +5783,10 @@
     "word": "Rayquaza",
     "definition": "Legendario dragón celestial verde que vuela en la capa de ozono y calma a Groudon y Kyogre.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1158",
@@ -5100,7 +5795,11 @@
     "word": "Raichu",
     "definition": "Evolución de Pikachu con orejas alargadas y cola en forma de relámpago con punta grande.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1159",
@@ -5109,7 +5808,11 @@
     "word": "Redstone",
     "definition": "Polvo mineral rojo de Minecraft utilizado para fabricar circuitos eléctricos y mecanismos.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1160",
@@ -5118,7 +5821,12 @@
     "word": "R2-D2",
     "definition": "Pequeño y valiente droide astromecánico cilíndrico de Star Wars que se comunica con pitidos.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1161",
@@ -5127,7 +5835,11 @@
     "word": "Raph",
     "definition": "La tortuga ninja de antifaz rojo que pelea armado con dos afilados puñales sai.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1162",
@@ -5136,7 +5848,12 @@
     "word": "Rapunzel",
     "definition": "Princesa de larguísima cabellera dorada mágica encerrada en lo alto de una torre en Enredados.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1163",
@@ -5145,7 +5862,11 @@
     "word": "Ron Weasley",
     "definition": "El leal amigo pelirrojo de Harry Potter y miembro de la numerosa familia de La Madriguera.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1164",
@@ -5154,7 +5875,10 @@
     "word": "Riolu",
     "definition": "Pequeño Pokémon cánido bípedo que siente las emociones de los demás y evoluciona a Lucario.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1165",
@@ -5244,7 +5968,11 @@
     "word": "Snorlax",
     "definition": "Gigantesco Pokémon dormilón y glotón que bloquea los caminos durmiendo pacíficamente.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1175",
@@ -5253,7 +5981,11 @@
     "word": "Steve",
     "definition": "El personaje masculino clásico con camisa celeste que manejas por defecto en Minecraft.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1176",
@@ -5262,7 +5994,11 @@
     "word": "Squirtle",
     "definition": "Pequeña tortuga azul Pokémon de tipo agua que dispara chorros a presión por la boca.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1177",
@@ -5271,7 +6007,12 @@
     "word": "Simba",
     "definition": "Cachorro de león que debe superar el exilio y reclamar la Roca del Rey tras la marcha de Mufasa.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1178",
@@ -5280,7 +6021,10 @@
     "word": "Scorbunny",
     "definition": "Enérgico conejo Pokémon de tipo fuego que da botes constantes calentando las plantas de sus patas.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1179",
@@ -5289,7 +6033,12 @@
     "word": "Super Mario",
     "definition": "Franquicia estrella de Nintendo donde el fontanero recorre mundos saltando sobre tuberías verdes.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1180",
@@ -5379,7 +6128,11 @@
     "word": "Tails",
     "definition": "Zorro naranja de dos colas con las que vuela como un helicóptero y mejor amigo de Sonic.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1190",
@@ -5388,7 +6141,11 @@
     "word": "Totodile",
     "definition": "Alegre Pokémon cocodrilo de mandíbulas fuertes al que le gusta morder todo lo que se mueve.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1191",
@@ -5397,7 +6154,12 @@
     "word": "Thor",
     "definition": "Dios del trueno de Marvel que invoca los rayos empuñando su martillo mágico Mjolnir.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1192",
@@ -5406,7 +6168,11 @@
     "word": "Torchic",
     "definition": "Pequeño polluelo de fuego Pokémon con plumas anaranjadas que guarda una llama en su interior.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1193",
@@ -5415,7 +6181,11 @@
     "word": "Toads",
     "definition": "Habitantes con cabeza de champiñón del reino de la princesa Peach en los juegos de Mario.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1194",
@@ -5424,7 +6194,10 @@
     "word": "Torterra",
     "definition": "Enorme Pokémon tortuga de tierra y planta que carga con un árbol frondoso sobre su caparazón.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1195",
@@ -5433,7 +6206,12 @@
     "word": "Tom",
     "definition": "Gato doméstico que persigue sin éxito en alocadas carreras al ingenioso ratón Jerry.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1196",
@@ -5442,7 +6220,11 @@
     "word": "TNT",
     "definition": "Bloque explosivo rojo de dinamita en Minecraft que se activa con fuego o polvo de redstone.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1197",
@@ -5451,7 +6233,10 @@
     "word": "Tyranitar",
     "definition": "Colosal y acorazado Pokémon de roca y siniestro capaz de derribar montañas con sus pisadas.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1198",
@@ -5550,7 +6335,10 @@
     "word": "Umbreon",
     "definition": "Evolución nocturna de Eevee de pelaje negro con anillos amarillos que brillan en la oscuridad.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1209",
@@ -5559,7 +6347,12 @@
     "word": "Ursula",
     "definition": "Malvada bruja del mar con tentáculos de pulpo que roba la voz a la sirenita Ariel.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1210",
@@ -5568,7 +6361,10 @@
     "word": "Ultra Ball",
     "definition": "Bola de diseño negro y amarillo, con un ratio de captura muy superior, para atrapar criaturas difíciles.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1211",
@@ -5577,7 +6373,10 @@
     "word": "Unown",
     "definition": "Misteriosos Pokémon con forma de letras del alfabeto que flotan pegados a las paredes de ruinas.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1212",
@@ -5586,7 +6385,10 @@
     "word": "Ultratumba",
     "definition": "Dimensión o reino tenebroso en series de fantasía donde habitan fantasmas y esqueletos errantes.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1213",
@@ -5595,7 +6397,10 @@
     "word": "Uxie",
     "definition": "Legendario Pokémon psíquico del trío del lago que simboliza el conocimiento en la región de Sinnoh.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1214",
@@ -5604,7 +6409,10 @@
     "word": "Uub",
     "definition": "Reencarnación de buen corazón del monstruo Buu que entrena con Goku en Dragon Ball Z.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1215",
@@ -5613,7 +6421,10 @@
     "word": "Undyne",
     "definition": "Heroica capitana de la guardia real con armadura en el videojuego de rol Undertale.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1216",
@@ -5622,7 +6433,10 @@
     "word": "Uncharted",
     "definition": "Famosa saga de aventuras en consola con cazatesoros que saltan entre ruinas y templos antiguos.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1217",
@@ -5631,7 +6445,10 @@
     "word": "Urshifu",
     "definition": "Legendario oso maestro del kung fu en Pokémon que domina el estilo fluido o el estilo brusco.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1218",
@@ -5694,7 +6511,11 @@
     "word": "Vaporeon",
     "definition": "Evolución marina de Eevee de color azul con aletas branquiales que nada fundiéndose en el agua.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1225",
@@ -5703,7 +6524,12 @@
     "word": "Voldemort",
     "definition": "El temible mago tenebroso al que llaman 'El que no debe ser nombrado' en Harry Potter.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1226",
@@ -5721,7 +6547,11 @@
     "word": "Venusaur",
     "definition": "Majestuosa evolución final de Bulbasaur con una enorme flor abierta de pétalos rosas en el lomo.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1228",
@@ -5748,7 +6578,10 @@
     "word": "Victini",
     "definition": "Pokémon mítico con grandes orejas en forma de V que trae la victoria asegurada a su entrenador.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1231",
@@ -5757,7 +6590,10 @@
     "word": "Vulpix",
     "definition": "Encantador zorro Pokémon de seis colas rizadas de color castaño que lanza pequeñas ascuas.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1232",
@@ -5766,7 +6602,10 @@
     "word": "Vindicator",
     "definition": "Hostil enemigo de Minecraft armado con un hacha de hierro que patrulla las aldeas asaltadas.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1233",
@@ -5775,7 +6614,12 @@
     "word": "Venom",
     "definition": "Antihéroe simbionte alienígena negro de dientes afilados y lengua kilométrica rival de Spiderman.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1234",
@@ -5883,7 +6727,10 @@
     "word": "Xerneas",
     "definition": "Legendario ciervo Pokémon con grandes cuernos iluminados por los siete colores del arcoíris.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1246",
@@ -5892,7 +6739,10 @@
     "word": "Pixelmon",
     "definition": "Popular mod de Minecraft que introduce criaturas Pokémon y gimnasios en el mapa de cubos.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1247",
@@ -5901,7 +6751,10 @@
     "word": "X-Men",
     "definition": "Grupo de superhéroes mutantes liderados por el Profesor X que luchan por la convivencia pacífica.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults"
+    ]
   },
   {
     "id": "1248",
@@ -5919,7 +6772,10 @@
     "word": "Xylourgos",
     "definition": "Mundo helado mítico en aventuras espaciales de ficción donde se exploran secretos antiguos.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1250",
@@ -5928,7 +6784,10 @@
     "word": "Roxas",
     "definition": "Personaje portador de la llave espada en la saga de videojuegos Kingdom Hearts.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1251",
@@ -5937,7 +6796,11 @@
     "word": "Fox McCloud",
     "definition": "Zorro piloto espacial líder del equipo Star Fox en los videojuegos de naves de Nintendo.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1252",
@@ -5946,7 +6809,11 @@
     "word": "Rex",
     "definition": "Entrañable tiranosaurio verde de plástico algo nervioso y miedica de la saga Toy Story.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1253",
@@ -5955,7 +6822,12 @@
     "word": "Asterix",
     "definition": "Pequeño y astuto guerrero galo de bigote rubio que bebe poción mágica para vencer a los romanos.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1254",
@@ -5982,7 +6854,11 @@
     "word": "Yoda",
     "definition": "Pequeño y sabio maestro jedi de piel verde de Star Wars que empuña una espada láser verde.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "adults",
+      "teens"
+    ]
   },
   {
     "id": "1257",
@@ -5991,7 +6867,10 @@
     "word": "Yveltal",
     "definition": "Legendario Pokémon con forma de gran ave destructora con alas y cola que forman una letra Y.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1258",
@@ -6000,7 +6879,10 @@
     "word": "Yu-Gi-Oh!",
     "definition": "Anime y juego de cartas coleccionables sobre duelos de monstruos y magos oscuros.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1259",
@@ -6009,7 +6891,10 @@
     "word": "Yo-kai Watch",
     "definition": "Reloj especial que permite a su portador ver e interactuar con seres espirituales traviesos.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1260",
@@ -6018,7 +6903,10 @@
     "word": "Yamper",
     "definition": "Adorable Pokémon perrito de tipo eléctrico con forma de corgi que corretea persiguiendo pelotas.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1261",
@@ -6027,7 +6915,10 @@
     "word": "Yanmega",
     "definition": "Gran libélula prehistórica Pokémon que vuela a velocidades supersónicas creando ondas de choque.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1262",
@@ -6036,7 +6927,10 @@
     "word": "YouTube Kids",
     "definition": "Aplicación de vídeos filtrados con dibujos, canciones y programas infantiles seguros.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1263",
@@ -6045,7 +6939,10 @@
     "word": "Yzma",
     "definition": "Cómica y malvada hechicera de El emperador y sus locuras que convierte a Kuzco en llama.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1264",
@@ -6054,7 +6951,10 @@
     "word": "Yancy",
     "definition": "Personaje entrañable de videojuegos al que ayudas en aventuras secundarias.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1265",
@@ -6108,7 +7008,10 @@
     "word": "Zamazenta",
     "definition": "Pokémon legendario con forma de león acorazado con un escudo dorado en el pecho.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1271",
@@ -6117,7 +7020,10 @@
     "word": "Zangoose",
     "definition": "Ágil Pokémon de pelaje blanco con garras afiladas y una cicatriz roja enemigo de Seviper.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1272",
@@ -6126,7 +7032,10 @@
     "word": "Zekrom",
     "definition": "Majestuoso dragón negro legendario de tipo eléctrico que genera tormentas con su cola de turbina.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1273",
@@ -6135,7 +7044,10 @@
     "word": "Zafiro",
     "definition": "Gema azul brillante muy codiciada en aventuras de rol y videojuegos de exploración fantástica.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1274",
@@ -6144,7 +7056,10 @@
     "word": "Zombie Pigman",
     "definition": "Criatura clásica neutral de Minecraft armada con espada de oro que patrullaba en grupo el Nether.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1275",
@@ -6153,7 +7068,10 @@
     "word": "Zoroark",
     "definition": "Pokémon zorro siniestro que viste melena carmesí capaz de crear ilusiones para engañar a sus rivales.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1276",
@@ -6162,7 +7080,11 @@
     "word": "Zurg",
     "definition": "Malvado emperador galáctico con cuernos y túnica morada enemigo jurado de Buzz Lightyear.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1277",
@@ -6171,7 +7093,11 @@
     "word": "Zubat",
     "definition": "Frecuente Pokémon murciélago azul que habita en las cuevas oscuras y se orienta por ultrasonidos.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens",
+      "young"
+    ]
   },
   {
     "id": "1278",
@@ -6180,7 +7106,10 @@
     "word": "Zygarde",
     "definition": "Legendario Pokémon guardián del ecosistema que reúne células verdes hasta formar un dragón colosal.",
     "profile": "kids",
-    "isPop": true
+    "isPop": true,
+    "also": [
+      "teens"
+    ]
   },
   {
     "id": "1279",
